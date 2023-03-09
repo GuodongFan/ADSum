@@ -1,0 +1,505 @@
+<s> <user> <unka<_> > hi there , can someone help me restoring <unka> ? </s>
+<s> <user> <unk#a<> > i had trouble with the new version <unk#.> it would not sync properly , it was syncing but was so slow it would never have cought up with it 's self . i have now gone back to 0.8.6 <unka.> my problems have been due to the hard fork as that was the reason i updated to <unk#.> ? seeing as the <unka> site said the update was for those that use mist and did not effect those that are just using the wallet as it does not access the internet . </s>
+<s> <user> <unk#a<> > i have read that others also had trouble syncing the new version <unk#.> and that is the reason i stop trying with <unk#.> and went back to 0.8.6 . i think it may follow the wrong chain at block <unk#,> <unk,?> not shore about that but the chain data started to bloat and get very big <unka> to the size of the chain data that i currently have with 0.8.6 that was up to date as of about 36 hrs ago </s>
+<s> <user> <unk#a<> > i also had trouble with 0.8.6 the first time . it would not sync . i then use <unka> and <unka> db and then reloaded it the chain data with this command <unka> <unka-> <unka-> <unk#a-=> <unka-> 99 <unka-> and this worked </s>
+<s> <user> <unk#a<> > do n't know what you have done but i am getting f-ing pissed off with the wallet not syncing and what the hell has the wallet downloaded new binary 's ?????? </s>
+<s> <user> <unk#a<> > <unka> folder now has to folders with binary 's what the hell is the new <unka> for , i now have 3 versions of <unka> 2 in the folder <unka> in there own folders and 1 version in the <unka> folder . so witch version is the correct one we should be using <unk?> <unka-> you just ca n't help yourself but <unka-> every month or 2 can you ! </s>
+<s> <user> <unka<> > i am having the same issue but , be patient , i just got the latest <unka> version , try to install it and then start it .. it will start syncing </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > once <unka> go to progra <unka/> and start it </s>
+<s> <user> <unka<> > make sure you have the latest mist version [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > just read the news so the chain split , well i can report i just ran the new <unka> and it 's even worse the the <unka> version that is loaded with 0.8.6 . in other words i do n't think the patch is working . i am not using mist just the wallet </s>
+<s> <user> <unk#a<> > i ask again is it ok to delete empty accounts by deleting the key in the keystore folder and if i do that will it cause a problem ???? </s>
+<s> <user> <unk#a<> > what 's the bet the stuff up has been caused by <unka> being linked with ether it is the same group that' 's released <unka> that is doing ether . </s>
+<s> <user> <unk#a<> > <unka> is not worth doing for those that see the big price and think they can earn some quick cash mining it </s>
+<s> <user> <unk#a<> > gtx 970 using <unka> cuda 8 gives only 19 <unka> , i have just run <unka> for 24 hrs with everything going gtx 970 using cuda and 680 using open cl as it wont work with the cuda and 4 of 8 cores running got me <unk#.> <unka> good luck with that one as it seems only big <unka> with heaps of cash to buy the latest cpu 's and you will need at least 20 will be able to mine it </s>
+<s> <user> <unk#a<> > ops the latest gpu 's and you will need at least 20 will be able to mine it </s>
+<s> <user> <unk#a<> > if you wish to do <unka> <unka> then use dash coin and do n't worry about <unka> </s>
+<s> <user> <unk#a<> > you can mine dash a lot easyer than <unka> and is more profitable too </s>
+<s> <user> <unk#a<> > good night i will leave the wallet to sync as it does seem to be syncing but very slowly and the chain data has grown by 1.3 gig for only aprox <unk#,> blocks witch does not seem right , there is still <unk#,> to go so i will check it in a few hours but i suspect that the patch does not work with 0.8.6 or does not do what you thought it would do </s>
+<s> <user> <unk#a<> > so i 'll let it finish see how big the chain gets note it down and then redo the whole thing and see how big the <unka> folder is and let you know , if it is smaller then your patch is not working but i will let you know tomorrow so good night </s>
+<s> <user> <unka<_> > hello , can somebody help me ? i 'm having trouble making <unka> mine ( cpu only for testing purposes ) on a linux ( ubuntu ) machine </s>
+<s> <user> <unka<_> > the miner simply does n't start mining </s>
+<s> <user> <unka<_> > any help would be appreciated </s>
+<s> <user> <unka<> > is anyone else having trouble with <unka> test network ? nothing is going through .. </s>
+<s> <user> <unka<_> > <unka> : i 'm working on same <unka> if you have any problems regarding <unka-> </s>
+<s> <user> <unka<_> > interested in advertising your company on facebook ? </s>
+<s> <user> <unk#a<> > <unka_> : no . </s>
+<s> <user> <unka<_> > hello </s>
+<s> <user> <unka<_> > i want mining eth </s>
+<s> <user> <unka<_> > where i can download the program for windows 10 ? </s>
+<s> <user> <unka<_> > <unka_> : you want <unka-> eth ? </s>
+<s> <user> <unka<_> > i need help to build an identity card for a group of people using <unka> platform . has anyone done that already ? can someone help ? </s>
+<s> <user> <unk#a<> > <unka_> : do you need the hardware or just the smart contract ? </s>
+<s> <user> <unk#a<> > <unka_> : read this [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > i do n't even know where to start ! can we talk about that ? thanks </s>
+<s> <user> <unk#a<> > <unka_> : for working with <unka> you need to start understanding <unka> , smart contracts and <unka> programming language </s>
+<s> <user> <unk#a<> > you say you need and " identity card " , a " card " , i imagine a chip card , right ? this chip card should be programmer to sign an <unka> transaction , then you should study java card programming [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > there is tools in java for <unka> , so you might just grab some code . </s>
+<s> <user> <unk#a<> > ask for help with <unka> + java im <unka> room [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > if you are able to develop an java card that signs an <unka> transaction to your identity register smart contract , you will be able to have what you want . </s>
+<s> <user> <unk#a<> > btw , with this card you could even release <unka$> , needing some password , if you program so . </s>
+<s> <user> <unk#a<> > why you need a smart contract in first place ? i think to recover in case of theft of loss of <unka> , and for storing some information . check [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > was away </s>
+<s> <user> <unk#a<> > there are many <unka> for what you want to do , we would need to have an extensive study case to know what 's better for you , but that should be your work ;) </s>
+<s> <user> <unk#a<> > feel free to ask me questions about smart contract , <unka> , <unka> , wallet clients , and so on . </s>
+<s> <user> <unka<_> > thank you all for the help . i will study your recommendations and see if i can make on my own and get back </s>
+<s> <user> <unk#a<> > i found this discussion [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > thanks . i will study this . </s>
+<s> <user> <unka<_> > it says to dep max one ether ... is this just for initial setup ? </s>
+<s> <user> <unka<_> > do i need to dep something now ? </s>
+<s> <user> <unk#a<> > do n't understand , dep ? </s>
+<s> <user> <unk#a<> > deposit ? </s>
+<s> <user> <unka<_> > yea </s>
+<s> <user> <unk#a<> > you do n't need to deposit anything to run a node </s>
+<s> <user> <unk#a<> > i run <unka> wallet with more than 1 eth </s>
+<s> <user> <unka<_> > i guess is saying that you need to ... </s>
+<s> <user> <unka<_> > as it needs something to run things in the network ... </s>
+<s> <user> <unka<_> > ? </s>
+<s> <user> <unk#a<> > to build up a <unka> <unka-> wallet </s>
+<s> <user> <unka<_> > right ... </s>
+<s> <user> <unk#a<> > is a wallet that you need more keys to <unka> past some daily limit </s>
+<s> <user> <unk#a<> > you do n't need 1 eth , indeed , but they <unka'> in the ui as it is nonsense to build a <unka> to protect 10 dollars </s>
+<s> <user> <unk#a<> > <unka_> : [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > i bit lost there ... you folks are at 100 miles per hour and folks like me just have much clue </s>
+<s> <user> <unka<_> > i go stuck ... </s>
+<s> <user> <unk#a<> > <unka> is a lot of new information for you to understand . </s>
+<s> <user> <unka<_> > sure ... but you folks are growing ... and i appreciate your time in helping ... </s>
+<s> <user> <unka<_> > so i got stuck in the deposit ... </s>
+<s> <user> <unk#a<> > what are you trying to do ? </s>
+<s> <user> <unka<_> > it shows a deposit address of zillion characters ... is this the address that i need to forward btc towards the 1 ether ? </s>
+<s> <user> <unka<_> > i still in the basic setup ... </s>
+<s> <user> <unk#a<> > there is a service called <unka> , it is like a <unka> market exchange , but do n't need accounts , just a deposit in a unique address . </s>
+<s> <user> <unk#a<> > the zillion characters is your <unka> </s>
+<s> <user> <unka<_> > exactly what i though ... </s>
+<s> <user> <unk#a<> > it starts with 0x ? </s>
+<s> <user> <unka<_> > but you ca n't copy it ?! .... </s>
+<s> <user> <unk#a<> > if so , it is your <unka> address </s>
+<s> <user> <unka<_> > exactly ... it is showing the address for my setup deposit , but it does n't allow to copy it ... security reasons ? </s>
+<s> <user> <unk#a<> > if you want you can ignore this step , you will be able to deposit anytime in future </s>
+<s> <user> <unka<_> > ok ... that is what i done ... </s>
+<s> <user> <unk#a<> > hi everyone </s>
+<s> <user> <unk#a<> > good evening </s>
+<s> <user> <unk#a<> > can anyone tell me about what is connection between <unka> and <unka.> . </s>
+<s> <user> <unk#a<> > rob can u tell me ?????? </s>
+<s> <user> <unk#a<> > <unka.> is using the logo of others without authorization , they used the name of <unka> <unka> ( <unka> foundation ) without <unka> too . they seems like to be a scam called <unka> scheme [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unk#a> : all indicators is that they are a scam . </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > o my god it is very dangerous . </s>
+<s> <user> <unk#a<> > here is some discussion on reddit about it [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> a lot of people believe in <unka> since they are paying ( for now ) but we 've seen lot 's of schemes that in the start worked and ended by stealing all users funds </s>
+<s> <user> <unk#a<> > there is no way to trust on <unka> since they used to lie in the past ( about <unka> ) and still lie putting that logos on the bottom ( like if they were <unka> ) </s>
+<s> <user> <unk#a<> > stay away from anything promising high earning upon <unka> in their " closed " " centralized " " obscure " account . </s>
+<s> <user> <unka<> > hi , i just downloaded the mist clinet and <unka> wallet </s>
+<s> <user> <unka<> > but i observe frequent disconnects every now and then </s>
+<s> <user> <unka<> > my clock is <unk#.> seconds behind </s>
+<s> <user> <unka<> > any ideas what can be the reason of disconnects and how do i sync my clock </s>
+<s> <user> <unka<> > <unka> : what os are you running ? </s>
+<s> <user> <unka<> > thanks , windows10 </s>
+<s> <user> <unka<> > <unka> : is your ntp service set correctly ? the following page gives some answers on setting ntp server : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i will check </s>
+<s> <user> <unka<> > hello all </s>
+<s> <user> <unk#a<> > i am new to <unka> and want to become part of the community , unfortunately i am not a programmer . i am business minded , stem skilled , and love thinking about the future . where would a <unka-> as me get best started in the <unka> network ? </s>
+<s> <user> <unka<> > <unk#a> : reddit will be the place to get better exposure to the ecosystem and getting up to date . </s>
+<s> <user> <unk#a<> > <unk#a> : what kind of <unka> you want to have ? maybe you want to buy eth and participate to project <unka> ? </s>
+<s> <user> <unk#a<> > hi , thanks for the feedback ! yes , i 've been looking on reddit and plan on buying eth as well am eager to participate in project <unka> </s>
+<s> <user> <unk#a<> > <unk#a> : i wish you good look in your <unka> ! please , research , and do n't buy any ico out there . check this example of scam ( that is made to show how anyone can make scams ) [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hi </s>
+<s> <user> <unk#a<> > please can some one tell me more about <unka> and how to register </s>
+<s> <user> <unk#a<> > ?? </s>
+<s> <user> <unka<> > hi , i 've been trying to sync mist wallet but the last <unk#,> blocks take forever . for the past 2 days it only syncs <unk#,> <unka/> . i run <unka> client on background with this command <unka> <unka-> c:\program <unka\> init <unka._> ; <unka> <unka-> c:\program <unka\> <unka-> 3 console . is there a problem with the mist update or am i doing something wrong ? </s>
+<s> <user> <unk#a<> > <unka> : open a command promp and and type </s>
+<s> <user> <unk#a<> > cd <unka:\> <unk#a-.\> </s>
+<s> <user> <unk#a<> > this should put you in the right folder where <unka> is then type </s>
+<s> <user> <unk#a<> > <unka> <unka> this will delete the block chain </s>
+<s> <user> <unk#a<> > then type </s>
+<s> <user> <unk#a<> > <unka> <unka-> <unk#a-=> <unka-> 75 <unka-> this should start downloading the bock chain again from scratch and will take approx <unk#a-> depending on your connection speed </s>
+<s> <user> <unk#a<> > do n't open mist or the ether wallet ( depending on witch one your using ) until it completly finishes . sometimes it may get stuck and if you stop it syncing and then restart it ,it will not download quick ( fast ) and slows right down . the fast command does not work if it sees that you have some of the block chain , you have to delete the block chain and start again </s>
+<s> <user> <unk#a<> > the first <unk#,> blocks should download in approx 30 mins on a t2 fibre connection and then it does slow down but that is more the fact that there is bigger blocks . also at about <unk#,> you may notice it 's downloading the file structure witch is 19 million + ( not shore if it 's actually blocks or just data ) and will take about 2 hrs , the block chain as of today is 15 gig so it does take some time and the slower your connection is the longer it will take </s>
+<s> <user> <unka<> > <unk#a@> thank you so much for your input . i do as you say , i deleted the db and run the command but after 5 mins it stops . this is the last thing that shows : <unka> <unk#> [ <unk#a()-./:]> ) <unk#a-./:> <unk#a+> by <unk#a()-./> <unk#a-./:> <unk#a+> idea why and what should i do now ? in addition is there a fast way i can deploy contracts ( to <unka-> ) without downloading the whole chain ? i want to use for my master thesis project . thanks in advance </s>
+<s> <user> <unk#a<> > <unka> : what version of mist or wallet are you using ? if you have <unka> version <unk#.> you will need to use this command line after you delete the block chain and start again : <unka> <unka-> <unka-> <unk#a-=> <unka-> 75 <unka-> i have had trouble when i have not used the <unka-> command so try again . i think you ca n't get around not downloading the whole chain before you deploy a contract . you could try uninstalling everything and restarting the system and then reinstall just mist but install <unk#.> and that way i know you will have all the right programs in the right places . however i would remove what is in the mist folder in <unka:\> and copy the new version 0.8.8 to the mist folder you have just deleted do n't remove the folder mist just what is inside it . you can download the new version and just unzip it to any folder you wish , it 's the contents of the folder you copy and paste to your mist folder in <unka:\> . do n't run mist until you have replaced the mist contents with the new <unka> you do it this way do n't run <unka> just run mist and let it download . if you still having trouble i would check your connection to see if it 's dropping out and contact your isp <unka.> if you stop it from downloading you will have to start from scratch as the second time you start it it will not download fast if you have not deleted the chain </s>
+<s> <user> <unk#a<> > hi , can <unka?> can i start mining using <unka> wallet ... should i key in a code ? </s>
+<s> <user> <unka<_> > in which language <unka> wallet is written ? </s>
+<s> <user> <unka<_> > how can i do mining in <unka> ? </s>
+<s> <user> <unka<_> > trying to install the program ... get error </s>
+<s> <user> <unk#a<_> > hi <unka,> wanted to ask a few questions regarding to <unka:> <unka:> <unka> only accepts digital <unka> ? or do they also accept transaction of normal <unka> like usd and so on . will it involve any banks in the process to join the <unka?> <unka:> that mean <unka> is eliminating any third party or <unka> company like amazon , <unka> and more that takes a share in the <unka?> to hear from you all soon thanks ! = ) </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] . </s>
+<s> <user> <unk#a<> > all : i always observe this channel is full of questions and not a single one answering . if you are currently waiting for an answer , please feel free to <unka-> your question on [ <unka-<> -> ] . </s>
+<s> <user> <unka<> > hello guys ! </s>
+<s> <user> <unka<> > need some tips to start working with <unka> </s>
+<s> <user> <unka<> > does anyone have any script or material to start learning ? </s>
+<s> <user> <unka<> > how do we exchange <unka> into dollars ? </s>
+<s> <user> <unka<> > <unka> : most people use an exchange like <unka> or <unka> </s>
+<s> <user> <unka<_> > anyone in here creating a democracy ? </s>
+<s> <user> <unka<> > democracy is dead ! </s>
+<s> <user> <unk#a<> > <unka_> : liquid democracy and <unka> democracy are being studied </s>
+<s> <user> <unka<> > i cannot open the wallet file it always come sup with <unka> </s>
+<s> <user> <unka<> > i fixed it </s>
+<s> <user> <unka<> > hello , how to accept eth for shop ? </s>
+<s> <user> <unk#a<> > hi , i just started exploring <unka> can anyone suggest me blog or websites where i can get more information </s>
+<s> <user> <unk#a<> > hi , </s>
+<s> <user> <unk#a<> > i am new to <unka> .. and i am trying to use <unka> for file storage and retrieval .. can you point me where and how should i proceed .. </s>
+<s> <user> <unk#a<> > <unk#a> : swarm . [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hello , my <unka> wallet will not open or generate an account on a mac , any idea why ? </s>
+<s> <user> <unka<> > new to <unka> . i do not see my either in my account . any ideas where my either is ? </s>
+<s> <user> <unka<> > sorry meant ether </s>
+<s> <user> <unk#a<> > <unka> : it is associated with your account in the <unka> . put your public address at <unka.> and check if is there . </s>
+<s> <user> <unka<> > new here . just installed wallet and want to perform some transactions for learning . how do i get ether on <unka-> ? </s>
+<s> <user> <unka<> > or is there a good getting started guide ? </s>
+<s> <user> <unk#a<> > <unka> : yeas , check this . [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hi basic question , if i install mist and also the <unka> wallet , will i have 2 full nodes running on mi machine ? or will only do the synching and full <unka> download once ? </s>
+<s> <user> <unka<_> > how could a beginner <unka> technicaly how <unka> work ? </s>
+<s> <user> <unka<_> > what 's the minimum tools someone need to start mining <unka> ? </s>
+<s> <user> <unka<> > <unka_> : you need a barebones pc , so mobo with support for 5-7 gpu , min 4gb ram , low cpu and usually 2 gold cert psus linked together . small hdd or usb stick to run os . office or box fan . </s>
+<s> <user> <unka<> > <unka_> : idea is highest <unka> with lowest wattage balanced with quick <unka> on price for parts . google <unka> . </s>
+<s> <user> <unka<> > hello , i 'm a software developer , can you help me with information for <unka> smart <unka> ? </s>
+<s> <user> <unka<> > hi , yes </s>
+<s> <user> <unka<> > im here .. </s>
+<s> <user> <unka<> > in newbie in this , but i would like information to </s>
+<s> <user> <unka<> > create smart contracts </s>
+<s> <user> <unka<> > macos </s>
+<s> <user> <unka<> > is there a list of swarm websites ? i only know of <unka-./:> and <unka./:> </s>
+<s> <user> <unka<> > do you know any more ? </s>
+<s> <user> <unka<> > my contract creation transaction is pending after 20 minutes , is there a problem ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > is the gas price not high enough ? </s>
+<s> <user> <unka<> > can i increase the gas price and do the contract creation again ? </s>
+<s> <user> <unka<> > i tried a normal transaction , and it does not get <unka> either , always pending </s>
+<s> <user> <unk#a<> > gas price is too low </s>
+<s> <user> <unk#a<> > but now the new transactions need to wait for the others , as <unka> increased </s>
+<s> <user> <unka<> > <unk#a> : it is set at : <unk#.> ether how much should i put ? </s>
+<s> <user> <unk#a<> > that should be fine </s>
+<s> <user> <unk#a<> > but will take more time </s>
+<s> <user> <unka<> > it 's been pending one hour already </s>
+<s> <user> <unka<> > ok i understand . is it possible to speed it up ? replace it ? </s>
+<s> <user> <unk#a<> > the minimum is <unk#.> eth </s>
+<s> <user> <unk#a<> > i do n't know how to do it , trying to figure out </s>
+<s> <user> <unk#a<> > the problem is that <unka> increased </s>
+<s> <user> <unk#a<> > what wallet software are you using ? </s>
+<s> <user> <unka<> > <unk#a> : parity + <unka> attach </s>
+<s> <user> <unka<> > ( is that secure ?) </s>
+<s> <user> <unk#a<> > what version of parity ? </s>
+<s> <user> <unka<> > the github source one </s>
+<s> <user> <unk#a<> > when you compiled ? </s>
+<s> <user> <unk#a<> > yes , it is secure , but why do n't using parity ui ? </s>
+<s> <user> <unka<> > i like the <unka> command-line ! </s>
+<s> <user> <unk#a<> > ok . </s>
+<s> <user> <unka<> > ( i am new to <unka> , experimenting ) </s>
+<s> <user> <unk#a<> > not guaranteed to work , but you can send out another one that is identical ( including the same <unka> ), but with higher gas price . </s>
+<s> <user> <unk#a<> > i do n't understand why your <unka> are not being <unka> </s>
+<s> <user> <unka<_> > hi . are there any <unka/> mods in here ? i did a post about an hour ago with info on <unka> , our new decentralized exchange that we just launched today , and the post is not showing up in new . seems it was flagged as spam </s>
+<s> <user> <unka<_> > if any one in here has the ability to get that out of the spam filter that would be great . thanks ! </s>
+<s> <user> <unka<> > i just bought some <unka> from <unka> , but <unka> shows the balance as 0 for the <unka> wallet address <unka> has for me . any ideas ? </s>
+<s> <user> <unk#a<> > <unka> : takes a minute to update the balance . check again in a few minutes . </s>
+<s> <user> <unka<> > its been about 30 minutes now </s>
+<s> <user> <unka<> > perhaps <unka> does n't actually put the <unka> on the network and keeps it internally ? </s>
+<s> <user> <unka<> > maybe i need to transfer it out of <unka> into my own account ? </s>
+<s> <user> <unk#a<> > <unka> : they keep it internally , you need to call for <unka> in the account , i do n't know how to do it but you can ask support for <unka> . </s>
+<s> <user> <unka<> > i see how to transfer , just surprised they do n't actually put it on the network . </s>
+<s> <user> <unka<> > how to build a transaction without sending it ? </s>
+<s> <user> <unka<> > and it seems <unka> is quite different than bitcoin for building transactions : in <unka> , if i send you 1 eth twice , the only thing that changes is the <unka> right ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > while in bitcoin , there are change addresses , transaction outputs , and so on </s>
+<s> <user> <unk#a<> > in <unka> is way easier </s>
+<s> <user> <unka<> > ok thanks for the advice , i will check this </s>
+<s> <user> <unk#a<> > there are many ways to do this raw transactions , this link cover some of them </s>
+<s> <user> <unka<_> > <unka.> someone tell me where to get a <unka> based <unka,> and chat apis </s>
+<s> <user> <unk#a<> > <unka_> : <unka> parity have email and sms verification to <unka> accounts , it 's used for name registration . </s>
+<s> <user> <unka<> > <unk#a> : hello mate </s>
+<s> <user> <unka<> > i am trying to use <unka> for <unka> development . </s>
+<s> <user> <unka<> > i understand that when choosing a client in my case <unka> , i need to install certain apps on my windows machine . </s>
+<s> <user> <unka<> > i am trying to install <unka-> using git bash an it is taking forever . </s>
+<s> <user> <unka<> > is this normal behavior ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > the second part that <unka> for <unka> been doing that for the past 12 hours . </s>
+<s> <user> <unka<> > can anyone help ? </s>
+<s> <user> <unk#a<> > ADDRESS_hi <unka@_> </s>
+<s> <user> <unk#a<> > i 'm sure folks at [ <unka-<> -> ] can help you . </s>
+<s> <user> <unka<> > hi man </s>
+<s> <user> <unk#a<> > but you can use <unka> client </s>
+<s> <user> <unka<> > i know , but i have n't even downloaded <unka> yet . </s>
+<s> <user> <unk#a<> > what are you trying to build ? </s>
+<s> <user> <unka<> > a <unka> . </s>
+<s> <user> <unka<> > i just need something for testing right now . </s>
+<s> <user> <unk#a<> > " npm install -g <unka-> <unka-> " </s>
+<s> <user> <unk#a<> > what you expect with this command ? </s>
+<s> <user> <unka<> > i expect to install some windows dependencies required to run <unka> </s>
+<s> <user> <unka<> > according to this document . [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hmm .. i usually install tools from microsoft site , seems like you got a script to do that </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > did you follow this instructions ? </s>
+<s> <user> <unka<> > not accordingly . </s>
+<s> <user> <unka<> > to be honest . </s>
+<s> <user> <unk#a<> > well , you should have installed visual studio , windows sdk , python 2.7 and openssl . </s>
+<s> <user> <unk#a<> > i did n't have to do this as this things were already installed in my machine </s>
+<s> <user> <unka<> > okay , <unka$> npm install -g <unka-> <unka-> the installations </s>
+<s> <user> <unk#a<> > seems like it is not working for you . i never used this btw . </s>
+<s> <user> <unka<> > because now there is a folder on my machine that has some of those things . </s>
+<s> <user> <unka<> > okay . </s>
+<s> <user> <unka<> > hey can someone give me a straight answer on mining from a normal ( but pretty good ) computer ? when i look it up all the results look kinda sketchy like <unka> . </s>
+<s> <user> <unka<> > as in is it possible and if so how would you go about doing it ? </s>
+<s> <user> <unka<> > hello guys </s>
+<s> <user> <unka<> > can i ask questions here if i 'm having troubles interacting with a smart contract ? :) </s>
+<s> <user> <unka<> > <unka> : yes </s>
+<s> <user> <unka<> > hi . where can i ask noob questions ? </s>
+<s> <user> <unk#a<> > <unka> : hi , i guess here is the best place for that . </s>
+<s> <user> <unka<> > i am familiar with <unka> </s>
+<s> <user> <unka<> > just i need to know some information about this new notion </s>
+<s> <user> <unka<> > looks like <unka> is involved , maybe try asking on those <unka> ? </s>
+<s> <user> <unka<> > it is interesting even more <unka> it self </s>
+<s> <user> <unka<> > have they a channel ? </s>
+<s> <user> <unka<> > there is the <unka> channel </s>
+<s> <user> <unka<> > <unka> is made by <unka> , do n't know if <unka> have others </s>
+<s> <user> <unka<> > yes i posted on it </s>
+<s> <user> <unka<> > but i have no answer </s>
+<s> <user> <unka-<> > <unka> : <unka@> n't know what enterprise <unka> is by definition . perhaps <unka> comes close from what i 've read in that link [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > thanks for the link on ee </s>
+<s> <user> <unka<> > yes , probably similar , but i did n't see them listed in any ee press yet . </s>
+<s> <user> <unka<> > i think that <unka> is thinking about some thing concurrent to <unka> for financial companies </s>
+<s> <user> <unka<> > ;) </s>
+<s> <user> <unka<> > hi . i installed the wallet ( version <unk#.> ) on windows 8.1 and tried to create an account , but after i had entered twice the password nothing happens . thanks . </s>
+<s> <user> <unk#a<_> > hello team </s>
+<s> <user> <unk#a<_> > i want to know about ether smart contracts </s>
+<s> <user> <unk#a<_> > how to integrate existing coin with ether <unka> ? </s>
+<s> <user> <unka<> > <unk#a_> : this [ <unka-<> -> ] ? </s>
+<s> <user> <unka<> > ADDRESS_hi <unk#a@_> are <unka> tutorials here [ <unka-<> -> ] </s>
+<s> <user> <unka<> > did you have a look ? </s>
+<s> <user> <unk#a<_> > thanks <unka> and <unka> , wait let me check </s>
+<s> <user> <unk#a<_> > hi , i 'm new to <unka> </s>
+<s> <user> <unka<> > hi welcome </s>
+<s> <user> <unka<> > hi </s>
+<s> <user> <unk#a<_> > i would like to know if there is any java api that will allow me to sign documents ? </s>
+<s> <user> <unk#a<_> > of course using <unka> </s>
+<s> <user> <unka<> > there is one java library called <unka> . i do n't know if it has signing support </s>
+<s> <user> <unka<> > but there is a <unka> for it </s>
+<s> <user> <unka<> > hii </s>
+<s> <user> <unka<> > team , by using the <unka> <unka> i want to send secure messages </s>
+<s> <user> <unka<> > is it possible way to do so ? </s>
+<s> <user> <unka<> > yes , although currently you have to encrypt the messages yourself </s>
+<s> <user> <unka<> > yes i can do <unka,> suggestion for the apps or source code to which are doing the same to send the <unka> on <unka> </s>
+<s> <user> <unk#a<> > hello </s>
+<s> <user> <unk#a<> > i am new to <unka> game and want to know about <unka> . </s>
+<s> <user> <unk#a<> > <unk#a> : sup </s>
+<s> <user> <unk#a<> > best place to start is to download this mist client : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > go through the tutorial on how to set-up a contract </s>
+<s> <user> <unk#a<> > that 'll help get you started </s>
+<s> <user> <unka<_> > can somebody help me ? i my synchronization get stuck on 99% . what am i doing wrong ? </s>
+<s> <user> <unka<> > is <unka> always this slow ? first time i 've used eth wallet . used <unka> in the browser on <unka> and that 's fine . </s>
+<s> <user> <unka<> > only have a few peers , expected many . are there only 6 peers running <unka> ? </s>
+<s> <user> <unka<_> > why does synchronizing stop at 99% ? anybody ? </s>
+<s> <user> <unka<_> > so i <unka> the <unka> wallet for mac , is the wallet ready for use instantly , or what is there to do ? </s>
+<s> <user> <unka<> > i am looking at your main page [ <unka-<> -> ] i am 99.99% positive that the past tense spelling should be " <unka> " with 2 p 's . ( last paragraph ) </s>
+<s> <user> <unka<> > <unka,.> knows how to run <unka-> on android platforms ? </s>
+<s> <user> <unka-<> > does anyone know of some good research papers on <unka> i am doing analysis on it for a masters course i am doing ? </s>
+<s> <user> <unka<> > lots of good info on <unka> out there </s>
+<s> <user> <unka<> > use google </s>
+<s> <user> <unka-<> > <unka> : thanks " </s>
+<s> <user> <unka-<> > chris , any trusted website you recommend to buy <unka> from ? </s>
+<s> <user> <unka<> > i dont know of any sites that sell <unka> , i built my own </s>
+<s> <user> <unka<_> > <unka> how can i create an <unka> wallet ? </s>
+<s> <user> <unk#a<> > <unka_> : you can use <unka.> , or download one of the following clients : [ <unka-<> -> ] [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> seraching for some speed benchmarks for reading data from the <unka> , say vs mysql for e.g . googleing i <unka> find anything . does anybody know if where i could find this kind of thing ? </s>
+<s> <user> <unka<> > i have n't heard of such a performance test </s>
+<s> <user> <unka<> > it 's definitely not fast and if you need speed i would suggest to export the data to mysql or smth </s>
+<s> <user> <unka<> > ^^ a common pattern is to use <unka> as the " ground truth " and populate a database with data that you need to index or access rapidly </s>
+<s> <user> <unka<> > helpful , thanks :) </s>
+<s> <user> <unka<> > sure thing . btw - based on my testing , the read speed is just fine for supporting basic web apps </s>
+<s> <user> <unka<> > e.g . - a web app getting data directly from <unka> node over rpc to display in web page </s>
+<s> <user> <unka<> > its fast enough </s>
+<s> <user> <unka<_> > how to check eth transaction confirmation </s>
+<s> <user> <unk#a<> > <unka._> <unka@_> </s>
+<s> <user> <unka<> > hi all , i was worked on permission less <unka> using eth , <unk#a> and <unka> , i want to know how to implement the <unka> <unka> using <unka> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > ok thanks chris <unka> </s>
+<s> <user> <unka<> > hey guys .. it was nice to see it hit <unk#.> this morn unfortunately its back down hanging around 19 </s>
+<s> <user> <unka<> > does anyone know where we can watch the recorded version of the <unka> meeting ??? </s>
+<s> <user> <unka<> > what <unka> platform oficial to download ? </s>
+<s> <user> <unka<> > <unk#a_> : people find <unka.> easy to use for buying ether </s>
+<s> <user> <unka<> > is there any way to change the default data directory in windows 10 ? i'd like to put it on a volume other than my " c :" drive . space is limited on " c :" for me as i have a non-standard partition set up , and i believe it would perform better ( as well as have some more data <unka> ) on a raid5 volume i have available . </s>
+<s> <user> <unka<> > also , the " start mining " option which is only available on the <unka> , is there any schedule for when that option will be fully functional . currently i use <unka> 's <unka> , but it would be interesting to have this fully integrated with the main core app . </s>
+<s> <user> <unk#a<_> > what is the best way to start learning ? </s>
+<s> <user> <unka<> > what do you want to learn - how to program <unka> ? </s>
+<s> <user> <unka<> > or how to use it ? or what ? </s>
+<s> <user> <unk#a<_> > <unka> : , how to program </s>
+<s> <user> <unka<> > learn <unka> , the main language used to build smart contracts . there is good documentation out there - use google to find it </s>
+<s> <user> <unk#a<_> > <unka> : , thanks ... started a few things and ran into some errors , but will check the <unka_> <unka@_> sent </s>
+<s> <user> <unk#a<_> > thanks , guys </s>
+<s> <user> <unka<> > are you seeing all of the three error messages at once ? </s>
+<s> <user> <unka<_> > this may be an entirely dumb question , but <unka> wondering why i <unka> find a transaction <unka> displayed as <unka> in mist , connected to <unka-> , when i look for it on [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hey chris <unka> you around ? </s>
+<s> <user> <unka<> > i got the <unka> nano s which i use for the ether only . is there a way to buy and sell directly from the <unka> , or do i have to send the ether to like <unka> then buy and sell , then send it back to the <unka> ? also i was wondering is there a way to view your ether stored without having it plugged in ? </s>
+<s> <user> <unka<> > you need an exchange like <unka> to <unka/> <unka> to other <unka> like usd </s>
+<s> <user> <unka<> > <unka> : new to this glorious world and trying to sync the <unka> . is it normal that it has taken 24 hours + to sync <unk#,> or so blocks ? running quad core mac with residential internet connection ( comcast ). </s>
+<s> <user> <unka<> > do n't worry . checked in <unka> with <unka.> command and am about half way ;) </s>
+<s> <user> <unka<> > hello </s>
+<s> <user> <unka<> > <unka> : i do n't know how long it takes </s>
+<s> <user> <unka<> > no worries . depends on a multitude of factors i imagine . i 'm half way it seems so will just stay patient . </s>
+<s> <user> <unka<> > yes , just be patient </s>
+<s> <user> <unk#a<_> > how could i setup my own server ? </s>
+<s> <user> <unk#a<> > <unk#a_> : you mean node ? </s>
+<s> <user> <unk#a<_> > yes </s>
+<s> <user> <unk#a<> > download an <unka> client , such as <unka-> ( <unka> ) that comes with mist wallet , or parity . also , a less popular choice is <unka> that is used by <unka-> wallet . </s>
+<s> <user> <unk#a<> > <unka-> and mist are developed by <unka> foundation , parity is by <unka> and <unka> by <unka.> . </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] [ <unka-<> -> ] [ <unka-<> -> ] </s>
+<s> <user> <unka<> > does anyone know of a website for <unka> that people think might be a good idea , but do n't have the resources to implement ? ( kind of an " ideas " site ?) </s>
+<s> <user> <unka<_> > <unka> : i 've seen that question in a few forums and still have n't found a good answer . maybe something that needs to be created ? searching <unka> now for <unka#> </s>
+<s> <user> <unk#a<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > <unka> : do not click that link . phishing scam </s>
+<s> <user> <unk#a<_> > hi </s>
+<s> <user> <unk#a<_> > hi </s>
+<s> <user> <unk#a<_> > ive been sending some ether on <unka-.> but it seems like my balance is still 0 can anyone help me ty </s>
+<s> <user> <unk#a<_> > ive been sending some ether on <unka-.> but it seems like my balance is still 0 can anyone help me ty </s>
+<s> <user> <unka<_> > hello </s>
+<s> <user> <unka<_> > how can i download the wallet </s>
+<s> <user> <unka<_> > actually i downloaded but its a zip file </s>
+<s> <user> <unka<_> > everytime i close the wallet i need to go back to the exe file to open the wallet is it right ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > i did it that way </s>
+<s> <user> <unka<> > i open the folder and run the exe every time i want to open my wallet </s>
+<s> <user> <unka<_> > thank you </s>
+<s> <user> <unka<_> > can i buy ether via this wallet and pay by my <unka> card and or paypal ? </s>
+<s> <user> <unka<> > i think you can do that </s>
+<s> <user> <unka<> > just select your account </s>
+<s> <user> <unk#a<> > i have same question <unka_> <unka.@_> i am trying to create account with <unka> ? </s>
+<s> <user> <unka<> > <unk#a> : which wallet ? </s>
+<s> <user> <unka<> > you can try with <unka> [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > as in account to be able to purchase <unka> </s>
+<s> <user> <unka<> > <unk#a> : you can use <unka> to purchase ether . </s>
+<s> <user> <unka<> > i accidentally missed my <unka> wallet app . how can i get it back please > </s>
+<s> <user> <unka<> > <unka> : which wallet ? </s>
+<s> <user> <unka<> > on which os </s>
+<s> <user> <unka<> > <unka> i am a new user for <unka> and down loaded the app to my window 10 laptop . after a few trial to make purchase i think my downloaded app is <unka> . </s>
+<s> <user> <unka<> > try to install <unka> maybe it will locate your wallet . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > thanks ! i will try it . </s>
+<s> <user> <unka<> > i find the wallet . thank you so much ! </s>
+<s> <user> <unka<> > that would make sense i suppose . know of any way to speed up the process ? i installed <unka> through homebrew but i had to uninstall it because the daemon was eating up all of my ram </s>
+<s> <user> <unka<> > between <unka> and google chrome , my computer was barely working lol </s>
+<s> <user> <unka<> > <unka> : lol i sent you a link , go check it out . i 'm about to try it as well </s>
+<s> <user> <unka<_> > guys im new to <unka> </s>
+<s> <user> <unka<_> > i wanna know how to become part of the <unka> </s>
+<s> <user> <unka<_> > <unka> club </s>
+<s> <user> <unka<_> > hi john , does <unka> support ether ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > can anybody tell me why the wallet does not <unka/> </s>
+<s> <user> <unka<_> > price will go down if someone hacked exchange again </s>
+<s> <user> <unka<> > hello , i am back .. i still want to figure out how to get my <unka> wallet loaded </s>
+<s> <user> <unka<> > oh alright , i ca n't help you much then probably , sorry . but if you want to try again , i found a way to quickly ( as in a couple hours ) sync the <unka> wallet . mine would n't work for days and yesterday i finally got it synced and running in less than a day . </s>
+<s> <user> <unka<> > i have had it loading before , i am only 2 months behind ... after the said update i can no longer load blocks ? </s>
+<s> <user> <unka<> > <unka> , maybe you can help me load mine ? </s>
+<s> <user> <unka<> > <unka> : yea of course . it wo n't sync ? </s>
+<s> <user> <unka<> > wtf my account is just showing zero since <unk#a> ago </s>
+<s> <user> <unka<> > try reload maybe ? </s>
+<s> <user> <unka<> > try reload maybe ? </s>
+<s> <user> <unka<> > <unka> similar thing happened , loose some btc ... but relog solved it </s>
+<s> <user> <unka<> > <unka> similar thing happened , loose some btc ... but relog solved it </s>
+<s> <user> <unka<> > its showing a transaction out <unk#a> ago that wasnt me </s>
+<s> <user> <unka<> > and <unka> </s>
+<s> <user> <unka<> > and <unka> </s>
+<s> <user> <unka<> > oh thats not good ? </s>
+<s> <user> <unka<> > oh thats not good ? </s>
+<s> <user> <unka<> > yes my wallet is not syncing .. </s>
+<s> <user> <unka<> > yes my wallet is not syncing .. </s>
+<s> <user> <unka<> > ive just lost all my eth </s>
+<s> <user> <unka<> > and i dont know how to get it to start syncing </s>
+<s> <user> <unka<> > and how is that possible , luke ?? </s>
+<s> <user> <unka<> > i have no idea </s>
+<s> <user> <unka<> > this is right after i just posted the error message i was getting in <unka> </s>
+<s> <user> <unka<> > okay <unka@> this : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > okay <unka@> this : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > its not empty because of sync , i can see a transaction out <unk#a> ago on <unka> </s>
+<s> <user> <unka<> > i think someone has stolen it </s>
+<s> <user> <unka<> > <unka> : if you try again with <unka> , follow this video and <unka-> , you 'll see your balance and transactions </s>
+<s> <user> <unka<> > how can someone steal ether ! ?!?!?! </s>
+<s> <user> <unka<> > can it happen it bitcoin ??? </s>
+<s> <user> <unka<> > i jave no idea </s>
+<s> <user> <unka<> > it must be someone on this blog </s>
+<s> <user> <unka<> > i run mac .... does that matter for ether ? </s>
+<s> <user> <unka<> > someone can steal your ether if they can get your private key </s>
+<s> <user> <unka<> > it is 100% up to you to protect your private key as you have no recourse </s>
+<s> <user> <unka<> > oh <unk#a> </s>
+<s> <user> <unka<> > hi . i got eth on my address as seen in <unka.> in mist , it 's still showing 0 eth . how can i update my mist ? i do n't have a wallet contract atm . </s>
+<s> <user> <unk#a<> > <unka> : hello </s>
+<s> <user> <unk#a<> > on which windows your using ? </s>
+<s> <user> <unka<> > win7 </s>
+<s> <user> <unka<> > <unk#a-.> </s>
+<s> <user> <unk#a<> > try with <unka> wallet : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > import your wallet there . </s>
+<s> <user> <unka<> > hmm , is this free software ? </s>
+<s> <user> <unk#a<> > yes . </s>
+<s> <user> <unka<> > thanks but that wo n't do for me </s>
+<s> <user> <unk#a<> > <unka> : mist will take ages for sync . </s>
+<s> <user> <unka<> > btw . i used <unka> . easy to install </s>
+<s> <user> <unka<> > how come it 's so expensive to do a eth transaction ? </s>
+<s> <user> <unka<> > <unka> : thanks for the info . i read a little about it but the article looked like it was written by a 5 year old so did n't know if i should believe it or not . this one is well better written with clear information . even though patrick dai screwed everyone , maybe he got his stuff together and are going to build <unka> to be something big ... but its a risk .... a risk im not going to take ... </s>
+<s> <user> <unka<> > <unka> : i downloaded <unka> wallet and sent 1 ether to it and never received it .. still trying to get that back but finding it hopeless cuz <unka> does n't get back to you ... ever ... <unka> is non existent ... i got the <unka> nano s and its awesome ... </s>
+<s> <user> <unka<> > hi </s>
+<s> <user> <unka<> > hi </s>
+<s> <user> <unka<> > got a fast question : <unka> <unka> is stored locally as a json file , right ? </s>
+<s> <user> <unka<> > got a fast question : <unka> <unka> is stored locally as a json file , right ? </s>
+<s> <user> <unka<> > is there somewhere i can get it from without running <unka> ? </s>
+<s> <user> <unka<> > is there somewhere i can get it from without running <unka> ? </s>
+<s> <user> <unka<_> > <unka> : <unka> is a big directory inside <unka/> ; you can download a very recent zipped version from our site [ <unka-<> -> ] if you want </s>
+<s> <user> <unka<_> > <unka> : <unka> is a big directory inside <unka/> ; you can download a very recent zipped version from our site [ <unka-<> -> ] if you want </s>
+<s> <user> <unka<> > <unka_> : thank you very much ! </s>
+<s> <user> <unka<> > <unka_> : thank you very much !" </s>
+<s> <user> <unka<_> > hello </s>
+<s> <user> <unk#a<> > <unka_> : hello </s>
+<s> <user> <unka<_> > is <unka-> a good site to mine ether </s>
+<s> <user> <unka<> > guys </s>
+<s> <user> <unka<> > could you just tell me at this moment we have to sell eth or just keep it ? </s>
+<s> <user> <unka<> > <unka> </s>
+<s> <user> <unka<> > is there any rise again like last week <unka?_> <unka@_> </s>
+<s> <user> <unka<> > hoping it drops more so i can buy more . </s>
+<s> <user> <unka<> > <unka> : you tell me to hold it and then you wish it to drop !! what the hell ? </s>
+<s> <user> <unka<> > you should always <unka> </s>
+<s> <user> <unka<> > if you're trying to short it , good luck . </s>
+<s> <user> <unka<> > can i create a private <unka> network for a group of people for example a network of <unka> for 10 people </s>
+<s> <user> <unka-<> > <unka> : yes , you can </s>
+<s> <user> <unka<> > can someone explain why the activity bar is filled with bans ? ( serious question ) </s>
+<s> <user> <unka<> > hello <unka> , i am new to ether before starting with ether i want to know is it possible to develop a <unka> for record keeping using <unka> platform where i can decide where to store the records </s>
+<s> <user> <unka<> > <unka_> <unka-.@_> i want to make <unka> centralized <unka> </s>
+<s> <user> <unka<> > to reduce the storage and increase <unka> </s>
+<s> <user> <unka<> > i dont need any <unka> for <unka> for now .. just want to test the core concept of my idea </s>
+<s> <user> <unka<> > is it possible using <unka> ? </s>
+<s> <user> <unka-<> > yepp that 's possible , some of the clients are quite modular and can be used for systems with alternative levels of ( <unka)> consensus algorithms </s>
+<s> <user> <unka<> > thanx a <unka_> <unka-@_> </s>
+<s> <user> <unka<> > hi there . i have just installed the windows <unka> wallet from <unka.> . the synchronisation starts but after about two minutes the processing goes into error each time i start it . i see error " <unka> - send request failed : unable to connect to socket : timeout " . is there somebody here who can explain what the problem is ? </s>
+<s> <user> <unka<_> > to <unka> .... can you help me plx . i am <unka> for someone who can make own network on <unka> with own token . i have a idea for a project . can i write you a email ? my email <unka._> <unka.@_> plx <unka> <unka> contact me and show me first steps </s>
+<s> <user> <unka-<> > <unka_> : there 's quite a few tutorials out there if you google 'setup <unka> private network' - many have exact steps for e.g . the <unka-> client </s>
+<s> <user> <unka<_> > okay . you have your own project ? how do you know all this things .... </s>
+<s> <user> <unka<_> > thank you ! </s>
+<s> <user> <unka<_> > hello </s>
+<s> <user> <unka<_> > great website , im new to <unka> , just wondering , im more interested in the <unka> as a <unka-> platform than creating tokens for funding , is there a place where i can get more information in how to build such a product ? more context : i do something similar to sap and i wish to use <unka> chain :) </s>
+<s> <user> <unka<_> > hi there </s>
+<s> <user> <unka<_> > by mistake i have sent etc to my eth <unka/> can i retrieve them to my eth address </s>
+<s> <user> <unka<_> > actually i wanted to buy eth </s>
+<s> <user> <unka<_> > but bought etc and sent them to eth address </s>
+<s> <user> <unka<> > <unka_> : first , never remove your private keys . </s>
+<s> <user> <unka<> > <unka_> : second , i guess you sent it to an etc account . </s>
+<s> <user> <unka<> > <unka_> : third , with your private keys and an etc client , you might be able to access it . </s>
+<s> <user> <unka<> > <unka_> : fourth , on some <unka> you can sell etc for eth . </s>
+<s> <user> <unka<> > ( if you want to , of course ) </s>
+<s> <user> <unka<_> > hey guys , bought some ether via <unka> and downloaded mist before .. but no ether in there </s>
+<s> <user> <unka<_> > what can i do now ? </s>
+<s> <user> <unka<_> > anyone have an <unka/> for me ? </s>
+<s> <user> <unk#a<> > <unka_> : i can help </s>
+<s> <user> <unka<_> > hello help please </s>
+<s> <user> <unka<_> > is [ <unka-<> -> ] scam ?? </s>
+<s> <user> <unk#a<> > not scam just <unka> </s>
+<s> <user> <unk#a<_> > hi all . im new to crypto but i love <unka> . </s>
+<s> <user> <unk#a<_> > i love the idea that new networks can be built on the e <unka> and i want to bring this to my job in medicine . can anyone recommend courses i can take to master building a private <unka> </s>
+<s> <user> <unka<> > <unk#a_> : hey just need the <unka-> installed ... there is a clear explanation in the github page from the genesis . </s>
+<s> <user> <unka<> > <unk#a_> : but there is a minor bug in that for creating a private network ( <unka> ) ... hope the bug is resolved in the future updates </s>
+<s> <user> <unk#a<_> > hi everyone , i 'm new to <unka> , i want to send transaction with below code , but get error "" <unk#a",-.:{> account "" , can anyone help me about this ? <unk#a"',.:_{> <unka"'+[{> " : " <unk#a"'+,> " : " <unk#a"'+,> " : " <unk#a"'+,> " : " <unk#a"'+,> " : " <unk#a> " , <unka"'+> " : "" <unk'+]}> <unk#a"'+,:}> </s>
+<s> <user> <unk#a<~> > hi guys </s>
+<s> <user> <unk#a<~> > i would like to deploy a price history bot on a server to keep track of eth price and plot it . does anyone have experience with good hosts , what about digital ocean or <unka> ( <- seems nice ) ? </s>
+<s> <user> <unka<> > hi i need to know some thing . like i have a eth wallet and id how i mine and <unka> on there </s>
+<s> <user> <unka<> > and which is the best site for mining </s>
+<s> <user> <unka<> > can i mine with my bitcoin miner </s>
+<s> <user> <unka<> > has anyone heard any news about <unka> ? </s>
+<s> <user> <unka<> > its not noobish , its <unka> </s>
+<s> <user> <unka<> > i am mining with <unk#a> but my wallet still says 0 ether for 20 minutes . what is the problem ? </s>
+<s> <user> <unka<> > hey all i 'm getting some conflicting answers on what minimum stake will be . it 's either really high or really low . </s>
+<s> <user> <unka<> > anyone have an idea ? </s>
+<s> <user> <unka<_> > i 'm running <unka> wallet and it appears to be downloading the <unka> but for some reason it seems to restart every so often . it tells me <unk#%> , but then after a few hours it says <unk#%> . what is going on ? </s>

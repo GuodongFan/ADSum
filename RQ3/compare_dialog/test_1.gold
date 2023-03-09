@@ -1,0 +1,1032 @@
+tensor(0)	how to run appium parallel in ios native app testng in saucelabs
+tensor(1)	how to upgrade appium from 1.5.3 to 1.6.3 on ios 10.2.1
+tensor(2)	error while loading shared libraries: libstdc++.so.6: cannot open shared object file: No such file or directory
+tensor(3)	can't start WDA on android appium webdriver
+tensor(4)	how to handle multiple WebDriverWait instances in a single session
+tensor(5)	is there any robust way to identify elements of left menu using appium inspector?
+tensor(6)	how to set apk path in Ubuntu for android testing
+tensor(7)	failed to install my app using Xcode 9.4.1 and Appium Desktop 1.8.1 with ios
+tensor(8)	how to enable devleoper option in iphone?
+tensor(9)	how to parse json responses using rest assured JsonPath
+tensor(10)	can you please tell me the code for swipe down?
+tensor(11)	how to use swipe in java client 6.0 beta android driver?
+tensor(12)	how to solve this issue about hiding keyboard is fail in IOS
+tensor(13)	how to set appium configuration through code line
+tensor(14)	how to initiate inspector on mac os in appium
+tensor(15)	connection timeout issue while running test scripts
+tensor(16)	chrome driver error when try to run a web test
+tensor(17)	how to switch the keyboards for example numeric keyboard instead of alphanumberic keyboard
+tensor(18)	issue regarding auto select text in the text box
+tensor(19)	way to pass name value dynamically to a locator
+tensor(20)	how to use IOSElement and iOSFindsBy using java
+tensor(21)	the app can not opening where the record code is find_element_by_xpath 
+tensor(22)	the PopupWindow is not visible in native android app
+tensor(23)	how to run native app for selenium webdriver java in ios
+tensor(24)	touching action and pinching out/pinch in are not working in my app using java-client-4.1.2.jar and Appium v1.6.5
+tensor(25)	WebAgentRunner issues when trying to automate iOS application using appium
+tensor(26)	reset content on the simulator but fails to work
+tensor(27)	error run appium server in background from mac terminal
+tensor(28)	why context name is showing error? 
+tensor(29)	is it possible to run multiple tests on multiple real IOS devices? 
+tensor(30)	how to switch switch to message inbox from my app, read an OTP from there and switch back again to my application
+tensor(31)	how to inspect elements without clearing app data on appium desktop?
+tensor(32)	use gradle in UIAutomator to report of the Testng through email
+tensor(33)	appium script not working on letv ( android version 5.0.1 )
+tensor(34)	is it possible to write a javascript appium test from the command line?
+tensor(35)	how to load an image to the imageView in an android application?
+tensor(36)	error when use driver.input_text(locator, text)
+tensor(37)	how can i get appium console after installing node js
+tensor(38)	is there something wrong about avdLaunchTimeout and avdReadyTimeout?
+tensor(39)	how to find driver.setNetworkConnection() in java
+tensor(40)	how can i get appium to launch SafariLauncher on my iphone?
+tensor(41)	ios script run fail in appium 1.7.1, xcode 9.1
+tensor(42)	learn about android automation for android
+tensor(43)	error while running TestNg from terminal using linux
+tensor(44)	possibility tests are dependent on nodejs in appium?
+tensor(45)	discrepancy in xpath for same element in ios 8.4 and 9.1
+tensor(46)	does electron.js work with macos 1.6?
+tensor(47)	where to join a java group for appium developers?
+tensor(48)	scroll up not working using verticalScroll
+tensor(49)	weird issue from Xcode with appium version 1.6.5
+tensor(50)	how to run my tests on iPhones and why the application settings are greyed out at the appium gui?
+tensor(51)	reset the app every time a new scenario in android mobile automation
+tensor(52)	is there a way to get the webview context when using set_webview in code?
+tensor(53)	code signing is required for product type 'UI Testing Bundle' in SDK 'ios 10.2'
+tensor(54)	ios app runs from within xcode but fails to run with appium
+tensor(55)	what's the best way to run parellel execution in selenium grid
+tensor(56)	emulate camera previews for blackbox testing
+tensor(57)	the difference between webview and native with the new appium for desktop inspector
+tensor(58)	uiautomation failed to launch multiple sims when running in parallel threads
+tensor(59)	unable to download and install appium in ubuntu 16.04
+tensor(60)	which appium server version will be best for the future
+tensor(61)	launching the app is failing with 404 error
+tensor(62)	noReset flat is not working for appium version 1.2.0-beta.1(1.2.0-beta.1) in ios 10
+tensor(63)	scroll to the particualr element in appioum
+tensor(64)	can not find appium repository root on mac
+tensor(65)	unable to execute browser.execute('mobile: scroll', {direction:'down'})
+tensor(66)	where does Appium Desktop save the WebDriverAgent project
+tensor(67)	ios_webkit_debug_proxy is not so easy like android
+tensor(68)	documentation to setup appium on mac
+tensor(69)	what are the dependencies you added in pom.xml
+tensor(70)	how to get Resource id and xpath for UIAutomatorvIE
+tensor(71)	error while installing setting-apk_debug.apk file in appium
+tensor(72)	are selenium 3.2, testng 6.8 and java client 4.1.2 compatible?
+tensor(73)	appium java client version is 2.2.0 and appium java client version is 1.4.1
+tensor(74)	how to setup appium grid with selenium gird
+tensor(75)	are you able to click through other active buttons on the pop-up?
+tensor(76)	can't start appium via node in CI server with Circle CI
+tensor(77)	how to attach to an existing ruby session using appium_lib?
+tensor(78)	how to check if an element is visible on ios?
+tensor(79)	how to write automatic tests for mobile browsers with webdriverIO and selenium
+tensor(80)	how to setup capabilities in appium for iOS app's native popup
+tensor(81)	when is select element that contain image and text but unable to select text in appium inspector
+tensor(82)	does Appium support Xcode12 latest for Catalina os version 10.15？
+tensor(83)	how to execute adb command from terminal in eclipse?
+tensor(84)	what is the difference between a hybrid app and a webview?
+tensor(85)	how to use 'browser.execute('mobile:scroll',{'direction':'down'})' to work
+tensor(86)	how to set mobilecapabilitytype.appium_version in ruby?
+tensor(87)	upgrading to the latest xcode Version will work with your Device
+tensor(88)	take screenshots on a failed test using node?
+tensor(89)	test websites through different browsers using appium and webdriverio
+tensor(90)	could not install app on iOS 10.3+ devices (works perfect on iOS 10.0 )
+tensor(91)	start appium with window machine
+tensor(92)	cannot open shared object file: No such file or directory while loading shared
+tensor(93)	how to capture ios device model during runtime?
+tensor(94)	an unknown server-side error occurred while processing the command  driver.execute
+tensor(95)	is it possible to do regex like pattern matching with alert api for iOS?
+tensor(96)	run mobile automation scripts in remote machine using appium-server
+tensor(97)	swipe appium 1.6.3 deprecated need to use TouchActions
+tensor(98)	appium not locating the same element as given as search parameter
+tensor(99)	Appium changed the swipes because all moveTo operations in touch actions now take coordinates as absolute
+tensor(100)	write a test that works on both android and ios
+tensor(101)	what npm packages or frameworks that track network traffic from native mobile apps?
+tensor(102)	handle browser notifications using capability
+tensor(103)	an unknown server-side error occurred while processing the command  
+tensor(104)	is there a windows version of the appium app capable of inspecting elements?
+tensor(105)	why context name is showing error? 
+tensor(106)	perform a click action on the content-desc after quitting appium
+tensor(107)	can't reinstallellar node 8.1.3 with brew link
+tensor(108)	is there any dialogue pop up on android device?
+tensor(109)	session was recognized only for the LAST test case 
+tensor(110)	is it possible to install ur app using ideviceinstaller on real device
+tensor(111)	how to connect appium server to an android device with .apk
+tensor(112)	ios issues with element state (.isvisible .isenabled .isdisplayed) ect
+tensor(113)	problem ios app runs from within xcode but fails to run with appium
+tensor(114)	UiAutomator is the locator strategy would be best for appium?
+tensor(115)	how to add  "android:exported="true""using facebook messenger app in android
+tensor(116)	java.lang.IncompatibleClassChangeError while using driver.sw in eclipse
+tensor(117)	why the submodule appium-instruments is old version?
+tensor(118)	unable to find webview on ios 10 with appium 1.6 embedded in native
+tensor(119)	way to reset app state after each test run on physical mobile devices
+tensor(120)	getting an error when trying to start a new session using appium desktop
+tensor(121)	still stuck after WebDriverAgent app test completed, Error Code : 65 
+tensor(122)	get adb logs when running tests in appium?
+tensor(123)	can selenium grid be used with appium?
+tensor(124)	java-version exited with code 20 but this command output without appium
+tensor(125)	update android sdk n build tools using mac
+tensor(126)	can i use Maven for ios  mobile application?
+tensor(127)	appium doesn't support the latest OS version
+tensor(128)	appium freezes right after starting chrome on ios and android real simulator device automation
+tensor(129)	how to start appium on simulator with xcode 6.1 for ios 8
+tensor(130)	how to get the element on uiautomatorviewer on android appium 1.5.4
+tensor(131)	is it possible to run selenium webdriver test cases using appium in ios ?
+tensor(132)	resetapp works on android but not on ios
+tensor(133)	is there a way testing native app on ios with wdio?
+tensor(134)	how to write automatic tests for mobile browsers with webdriverIO and selenium
+tensor(135)	can i launch adb command via appium?
+tensor(136)	appium not catching clicks when running through terminal (Ubuntu)
+tensor(137)	how to turn off wifi via adb in appium for android?
+tensor(138)	device not configured error after appium install on mac os
+tensor(139)	does appium support webview? and does appium support android?
+tensor(140)	appium.app and appium.exe are outdated and not maintained by core appium team
+tensor(141)	UIAutomator Viewer not working on ubuntu 18
+tensor(142)	how to create a breakpoint for a field that is hidden when the keyboard is present
+tensor(143)	how to create multiple stepdefs.java for different architecture
+tensor(144)	appium server is not responding
+tensor(145)	how to scroll to particular element using selenum webdriver with apium
+tensor(146)	what is the best method for showing notifications pull down for iOS?
+tensor(147)	:point_up: is not working with Xcode 10 and old appium version
+tensor(148)	how to verify the options available on the screen when a video is playing in appium
+tensor(149)	problem about not launching due to appium server being down
+tensor(150)	couldn't run any of appium examples and kept getting error
+tensor(151)	how to get placeholder text in textbox in appium 1.6.3?
+tensor(152)	is it possible to run selenium webdriver test cases using appium in ios?
+tensor(153)	how to use appium for ios profiling?
+tensor(154)	why is appium slow on real android device but working fine on emulator?
+tensor(155)	error occured only with one application : chromedriver 2.30 - 2.35
+tensor(156)	getting not emplemented exception 
+tensor(157)	appium-android-simulator on android do not stop on reset
+tensor(158)	how to automate tooltips/toast messages in android by using appium
+tensor(159)	annotation not working for scripts on ios
+tensor(160)	failed to start an appium session, error was: Instruments crashed on startup
+tensor(161)	how to perform a screenshot in Extent Report-Avenstack 3.1.5
+tensor(162)	swipe function is not wrapper function from touchActions
+tensor(163)	is there a way to test push notifications with ios appium?
+tensor(164)	play wave file in 'after the duration' and 'after the duration '
+tensor(165)	appium: mobile:touchAndHold not available for ipa files
+tensor(166)	is there a good way to scroll on iOS/Android?
+tensor(167)	unable to run safari test on apple phone ( appium 1.6.3 )
+tensor(168)	is there a idea about the desired capabilities for Android in Saucelab?
+tensor(169)	lot of npm installations do need to be admin
+tensor(170)	is swipe still broken in UIAutomation?
+tensor(171)	is there a code sample or link which would help me do to image comparision or clicking in IOS for real device?
+tensor(172)	it's possible to send shift and left or right arrow keys with ios simulators?
+tensor(173)	why the hard condition on set use a different data structure?
+tensor(174)	how to setup appium on linux machine?
+tensor(175)	unable to scroll in android app with appium in v1.8.1
+tensor(176)	can not start 'com.company.firetv.activity.MainActivity'
+tensor(177)	how to install ipa on the real device?
+tensor(178)	appium crashes on startup when switching from *.app to *.ipa file same application Appium
+tensor(179)	how to tell Appium on AWS device farm that there is a waitActivity
+tensor(180)	appium gui settings are greyed out, how to set it up?
+tensor(181)	how to handle dates in datepicker using selenium web driver?
+tensor(182)	send keys is calling the method tempting to clear using UiObject.clearText()
+tensor(183)	can we automate mobile device via appium? ( 1.10 ) scrolling command
+tensor(184)	java.util.zip.ZipException: Failed to start an Appium session when running from  jenkins
+tensor(185)	ios error 65 when using appium gui
+tensor(186)	scroll not implemented with selenium3 on python and android
+tensor(187)	how to use backspace from sendkeys?
+tensor(188)	how to install appium studio in ubuntu?
+tensor(189)	is it possible to automate non owner application in appium?
+tensor(190)	an unknown server-side error occurred while processing the command with ios setup
+tensor(191)	i am facing configuration error when i am running my testNG script from terminal in eclipse
+tensor(192)	how to generate HTML test report for python script
+tensor(193)	how to hide keyboard using hidekeyboard() method on ios automation?
+tensor(194)	default keyboard doesn't work in webview
+tensor(195)	how to emulate camera previews on blackbox testing?
+tensor(196)	why appium is so slow on my real android device but on emulators its just working fine
+tensor(197)	npm ERR! npm v3.10.8
+tensor(198)	Unable to Launch Appium Inspector
+tensor(199)	how to slide android seeker?
+tensor(200)	how to verify that google maps/apple map has been loaded on physical device?
+tensor(201)	how to run multiple test cases sequentially in 2 devices using gradle?
+tensor(202)	have a "not compatible with your device" message when install the play services
+tensor(203)	how do you normally access the deeplinks?
+tensor(204)	could not pre-launch appium: Error : Permission to start activity denied
+tensor(205)	got response with status 200 
+tensor(206)	sceanrio touch action not working with mvn clean test command
+tensor(207)	is it possible to create an.app file for simulators?
+tensor(208)	unable to access iframe with.frame() and getting error
+tensor(209)	how to start appium on simulator using xcode 6.1 for ios 8
+tensor(210)	error with ios webkit debug proxy - 'console.enable' and have no handle,doing nothing
+tensor(211)	appium doesn't auto-install carthage for ios 10
+tensor(212)	how to skip an element which is not present on app screen?
+tensor(213)	errorhandler class was updated in selenium 4 months back
+tensor(214)	nullpointerException when trying to invoke virtual method 'java.lang.String android.content.Context.getPackageName()'
+tensor(215)	how to get list of elements from tableview on ios or android?
+tensor(216)	appium.log locator might have some issue to use proper locator
+tensor(217)	sendKeys on android doesn't select the whole word
+tensor(218)	getting error message "If you look at the response code it says 404" when use driver.scrollToExact(text)
+tensor(219)	is there a way to look for an element that contains something?
+tensor(220)	how to upload excel file in selenium?
+tensor(221)	a new session could not be created
+tensor(222)	unable to compile appium maven project
+tensor(223)	is there a way to open the app integrated with Office365 login web page automatically in appium?
+tensor(224)	Is appium/python-client missing driver.getPageSource() ?
+tensor(225)	is there a way to run an inspector to run as a 1.6.0 service?
+tensor(226)	appium script is running in LANDSCAPE mode but Video is capturing in PORTRAIT mode
+tensor(227)	is it possible to automate non owner application with appium?
+tensor(228)	which appium server version will be best for the future?
+tensor(229)	does electron.js work with macos 1.6?
+tensor(230)	get issue on gui when executing the code
+tensor(231)	add signature to idevice_id but device is not added to provisioning profile
+tensor(232)	latests selenium\java and appium 5.0.4 unlocking works very bad
+tensor(233)	appium is giving up after few tries with appActivity and appWaitActivity
+tensor(234)	can't upgrade webdriverio appium to latest version
+tensor(235)	problem about using appium 1.6.3 on macOS v10.12 (sierra ) with simulator
+tensor(236)	unable to run webdriver from appium
+tensor(237)	unable to select UI elements through app overview on the right side of the inspector
+tensor(238)	webdriver io is a combination of selenium and appium
+tensor(239)	how to inspect the Photo gallery UI elements on iOS 11
+tensor(240)	how to check if certain string/text appears on screen/page or not in appium
+tensor(241)	how to uninstall and re-install app after a test
+tensor(242)	how to run web tests on android on default browser using appium?
+tensor(243)	how to use findElOrEls in webview by appium-android-drive
+tensor(244)	running appium tests as parallel on different physical devices ( android and ios )
+tensor(245)	is there a more complex example project for Appium on Ruby with RSpec or Cucumber?
+tensor(246)	how to test apk in uiautomator without source code?
+tensor(247)	appium shouldn't close the session unless an exception occurred or test finished
+tensor(248)	how can i get the same driver for ios automation using Selenium
+tensor(249)	is there any other way to inspect elements on ios devices?
+tensor(250)	how to skip dvertisements on appium with android avd
+tensor(251)	 how to  switch to the UIWebview
+tensor(252)	get unknown server-side error occurred while processing the command in ios
+tensor(253)	unable to use send keys() to select the value in UIAickerwheel
+tensor(254)	how to apply wildcard search in appium
+tensor(255)	is there a way to resign a downloaded app downloaded from app store?
+tensor(256)	how to handle scroll actions using appium and webdriver on android/ios
+tensor(257)	device not configured '' error after installing appium on mac os
+tensor(258)	how to scroll to the particualr element in appioum
+tensor(259)	error while moving pom.xml under Jenkin workspace on ios
+tensor(260)	has anyone ever stumbled on appium showing IDs as squares?
+tensor(261)	unable to set location in any app like google map or uber cab etc.
+tensor(262)	unable to access accessibilityLabel element in jest test runner
+tensor(263)	how to scroll/swipe on iOS with Python
+tensor(264)	error on android ( no such file or directory) when running appium
+tensor(265)	what is the difference between full reset and no reset in appium?
+tensor(266)	how to interact with iframe in webview on android using selendroid automation
+tensor(267)	appium java client getting error
+tensor(268)	is there a way to mock the camera to test barcodes?
+tensor(269)	is there any scroll option for appium 1.5 available other than scrollto and scrolltoExact
+tensor(270)	how to get current context on context switch?
+tensor(271)	the adb shell commands (from within appium code) time out while using appium 5.0.0-BETA8 and npm-appium 1.6.4
+tensor(272)	uiautomator2 scroll function is not working using java_client in android
+tensor(273)	how to identify element in ios appium?
+tensor(274)	issues using "Tap by Coordinates" in Image Gallery on ios 11
+tensor(275)	is there a list of all 'good' frameworks out there?
+tensor(276)	error while running tests on jenkins server with app-automation-ios with Appium 1.10.0 and WebDriver.io
+tensor(277)	how to click and find on element that only has class = android.widget.ImageView index = 1
+tensor(278)	get error code signing is required for product type 'UI Testing Bundle'in SD while running the command
+tensor(279)	how to see iOS 9.3.1 in platform version?
+tensor(280)	unable to select image from gallery using appium 1.6.3
+tensor(281)	webdriver.io failing some tests when trying to run all the scripts together
+tensor(282)	what is the location of the iOS Simulator app?
+tensor(283)	how to use alphnumeric keyboard in text field?
+tensor(284)	how to scroll a dropdown list in android mobile applications
+tensor(285)	what is the framework setup for CI and testing?
+tensor(286)	how to best find elements in ios
+tensor(287)	appium inspector is not working on ios simulator
+tensor(288)	how "url" parameter in json node config should work
+tensor(289)	how to do appium script for SIM card provisioning in android or ios device
+tensor(290)	can not swipe on ios simulator using appium driver 
+tensor(291)	is it possible to switch context (Native to web or vice versa) on same device
+tensor(292)	how to execute appium scripts to cloud level device execution on mac?
+tensor(293)	is there a way to get parent elements in appium?
+tensor(294)	can not start appium when using selendroid mode
+tensor(295)	change automation name to UIAutomator2 for android 7.0 devices
+tensor(296)	appium could not start http interface listener. the requested port may already be in use
+tensor(297)	error for appium - invalid argument : cannot parse capability
+tensor(298)	is it possible to start two sessions in desktop?
+tensor(299)	appium 1.5 does not support name locator - need to remove all name locator from repository
+tensor(300)	appium inspector crash on windows and osx while trying to inspect
+tensor(301)	org.openqa.selenium.WebDriverException: an unknown server-side error occurred while processing the command
+tensor(302)	webdriver doesn't have a way to drag a slider
+tensor(303)	unable to install ios-deploy using appium
+tensor(304)	how to locate angular elements under hybrid appium using uiautoamtor
+tensor(305)	how to delete a specific file from 'Download' folder in android device?
+tensor(306)	appium uiatomation should work only for selendroid mode
+tensor(307)	how to configure ios app for appium testing
+tensor(308)	is anyone use appium on circleci?
+tensor(309)	how to interact with iframe in webview on android using selendroid automation on 4.4
+tensor(310)	where did you find 1.6.0 Appium GUI app?
+tensor(311)	how to get iOSPredicate for UIAApplication
+tensor(312)	how to install version 1.9.0 or 1.9.1 for macos appium
+tensor(313)	is it possible li.last funcition is work without scrooling?
+tensor(314)	how to find if element is focused on ios
+tensor(315)	how to verify the options available on screen when a video is playing in appium?
+tensor(316)	what's the current canonical way to automate a Spinner?
+tensor(317)	Error: Main method not found in class tests.AppiumTest,please define the main method as: public static void main(String)
+tensor(318)	when using send keys it is calling the method tempting to clear using UiObject.clearText
+tensor(319)	how to assign webkitDebugProxyPort from localhost:9221 to app
+tensor(320)	is it possible to launch a website in Safari browser using Appium 1.6.3?
+tensor(321)	how to verify that a cell was clicked in the search bar when using a trending
+tensor(322)	what is the best way to get network calls for ios app?
+tensor(323)	is it possible to automate tests using APPIUM in a hybrid app?
+tensor(324)	is it possible to run parallel execution using appium for android devices using selenium grid
+tensor(325)	appium 1.7.1 shows *parser error* when inspecting android mobile elements
+tensor(326)	is there a list of all "good" frameworks? 
+tensor(327)	error: could not find or load main class com.android.UiAutomatorViewer
+tensor(328)	can i use value parameter to type in full name in edit field?
+tensor(329)	is there any robust way to identify elements of left menu using appium inspector on ios?
+tensor(330)	is there a way to connect to the appium server with a webdriver client?
+tensor(331)	issues with appium-Desktop xcode build failure
+tensor(332)	issue with appium comvereted *.apk file to tmp and installation got failed when using appium java client and appium
+tensor(333)	is there a way to run appium tests headless on NATIVE iOS apps
+tensor(334)	how to generate ipa, iphone simulator support?
+tensor(335)	is there any robust way to identify elements of left menu using appium inspector in ios app?
+tensor(336)	launching safari launcher app always opens google.com instead of test case URL when clicking on "Launch Safari"
+tensor(337)	how to use the appium inspector in ios and android?
+tensor(338)	name strategy doesn't work on ios ( 1.6.3 )
+tensor(339)	appium 1.6.3 don't have inspector
+tensor(340)	how to run appium test on ios13 real device?
+tensor(341)	how to handle toast message in android
+tensor(342)	how to scroll using appium on real android device 
+tensor(343)	should upgrade from appium 1.4.13 to 1.5 or 1.6 beta?
+tensor(344)	is it possible to use appium for mac desktop application testing?
+tensor(345)	is there any way to automate iOS app on windows platform without MAC machine?
+tensor(346)	error in the middle of my test run on Android - "Error: A session is either terminated or not started"
+tensor(347)	how to use appium with python in ios testing?
+tensor(348)	is there a working example of double tapping or double clicking an element?
+tensor(349)	is there any way by which the Appium server and the mobile devices can be connected to each
+tensor(350)	how to click on back button using appium in Android
+tensor(351)	how to find elements in hybrid web page view in android?
+tensor(352)	is it possible to inspect webview pages using appium-java-client 4.0.0?
+tensor(353)	could not read Username when installing carthage
+tensor(354)	how to down keypad in android device
+tensor(355)	how can i install both the apps while running automation using appium release?
+tensor(356)	how to automate sign-in web view in native app?
+tensor(357)	can we run ios testing without instruments?
+tensor(358)	how to set accessibilitylabels on 1.5.2?
+tensor(359)	appium inspector is not launched on iOS
+tensor(360)	how to lunch an app from recent apps list in android with python?
+tensor(361)	how to run test through command line for appium android?
+tensor(362)	need to open the iOS instrumentation and xcode before executing the scripts
+tensor(363)	is there a good way to use pages with steps in cucumber appium?
+tensor(364)	is it a bug when i check the contexts of the driver on Python client, it always give me native on ios
+tensor(365)	how to attach to an existing appium session using Python
+tensor(366)	how to test appium on android 7 And ios 10 devices?
+tensor(367)	a click event failing (actually not doing anything and finishing with timeout)
+tensor(368)	is there a way to screenshot websites on iPhone/iPad inside Safari Mobile?
+tensor(369)	how to inspect webview elements with ios10 + appium 1.6?
+tensor(370)	how to click on element that only has class = android.widget.ImageView index = 1 for android
+tensor(371)	ios webview - unknown server-side error occurred while processing the command
+tensor(372)	how to execute this scenario using Appium 
+tensor(373)	why appium does not update to latest version when i click on check for update?
+tensor(374)	how to scroll using appium on real android device
+tensor(375)	issue: a new session could not be created. (Original error)
+tensor(376)	how to remove or dismiss the keyboard from the screen using web driver?
+tensor(377)	web response is not comming when doing manual testing on ios real device using appium
+tensor(378)	why the submodule appium-instruments is older version?
+tensor(379)	how to use lazy search and control flow with appium 5.0.4 and selenium 3.7.1
+tensor(380)	iOS alert: Already tried basic things like, switchTo().alert().accept()
+tensor(381)	can we automate iOS applications without debugging/signing iPad file using Appium
+tensor(382)	get error "org.openqa.selenium.sessionNotCreatedException" while starting multiple test
+tensor(383)	how to get text contents from a screen in android appium 1.4.13.1
+tensor(384)	how to get absolute coordinates based on user touch in appium 1.4.0?
+tensor(385)	how to select multilist box in ios app select class 
+tensor(386)	how to setup webdriveragent on cloud like sauce labs
+tensor(387)	get "java.lang.NullPointerException" in mac - 10.13.2,appium - 1.7.1,Xcode - 9.1
+tensor(388)	what is the difference between peer 2 peer testing and visual testing?
+tensor(389)	can you get the current context and print it? 
+tensor(390)	get configuration error when i am running my testNG script in eclipse
+tensor(391)	when to use return driver and when not to use return driver in appium ios
+tensor(392)	connection refused error when trying to run appium programatically
+tensor(393)	is it possible to verify data from a json file on android?
+tensor(394)	how to run find_element_by_xpath on android simulator
+tensor(395)	tap on coordinates not working on appium 1.2.3 desktop with xcode 9
+tensor(396)	issue with this element does not have the 'bounds'
+tensor(397)	Failed to start an appium session, err was: Instruments crashed on startup
+tensor(398)	how to write a test that works on both android and ios?
+tensor(399)	when will Appium support Xcode 8.2? 
+tensor(400)	how to use UI inspector for iOS in appium 1.6
+tensor(401)	how to setup appium-android-driver/appium-ios-driver (nodejs) to work with sauce labs?
+tensor(402)	404 error throwing with inspector
+tensor(403)	appium desktop popup a message error when start session use appium
+tensor(404)	is any editing android plate form here to begin with?
+tensor(405)	junit runner class is supported in aws device farm appium
+tensor(406)	how to concise promiseChainRemote with mocha?
+tensor(407)	is it possible to run automation scripts with signed apk?
+tensor(408)	appium maven dependency - error on driver creation after upgrading to 1.11.0
+tensor(409)	how to populate textbox with software keyboard after upgrading to appium 1.4.8 on mac
+tensor(410)	appium inspector throws error: An unknown server-side error occurred while processing the command
+tensor(411)	what is the difference between appium and appium-desktop?
+tensor(412)	how to download selenium grid hub with iosRemoteProxy for ios
+tensor(413)	how are you interacting with alerts via javascript with your framework？ 
+tensor(414)	It is better to run appium on Typecript than Javacript.
+tensor(415)	explicit wait in java
+tensor(416)	how the new feature "support for searching elements by id without passing package name" work exactly use java cilent btw?
+tensor(417)	could not proxy remote command error when running appium 1.9.1
+tensor(418)	how to selectively choose not to reset an app? 
+tensor(419)	error  please enter value in the text field as if the value not inserted but visually the value present in the field
+tensor(420)	an unknown server-side error occurred while processing the command  driver.execute
+tensor(421)	how to set up appium for windows (Android)?
+tensor(422)	how to choose time in appium ios?
+tensor(423)	there's no accessibility label  but content-desc and resource-id in Android
+tensor(424)	appium 1.5.3 not able to start inspector 
+tensor(425)	how to run appium programmatically and call the json file?
+tensor(426)	see under `iOS Only`, `udid`  is only ios capability.
+tensor(427)	does python bindings for appium has functionality of scrollTo element?
+tensor(428)	how to swipe scroll using appium?
+tensor(429)	is there a list of all 'good'frameworks available?
+tensor(430)	how to use pageobjects in dicusss for testing on ios in Appium: 1.3.5 and Java-Client 2.1.0?
+tensor(431)	does appium 1.3.6 support on mac osx 10.7.5?
+tensor(432)	How to add a  NavBarBackButton to the app?
+tensor(433)	how to generate.app file out of code base?
+tensor(434)	how to use inspect element for ios application like appium desktop?
+tensor(435)	how can i handle picker wheel in iso calendar?
+tensor(436)	how to run multiple tests using appium without start new session in appium server?
+tensor(437)	what are the elements on the page? 
+tensor(438)	how to make this .ipa file ready for iOS Automation via Appium? 
+tensor(439)	why findElementsByAndroidUIAutomator can only get the first RelativeLayout?
+tensor(440)	Is WDA installed on device? it is a connection timeout issue.
+tensor(441)	how to use  XCUIElementTypeStaticText
+tensor(442)	can anyone please share any Appium blogs? 
+tensor(443)	how to swipe from bottom to top?
+tensor(444)	 Does anyone know about Android card view？
+tensor(445)	unable to get context and set context for windows app when automat windows hybrid app 
+tensor(446)	appium --session-override for uninstalling.
+tensor(447)	how to find coordinates using appium inspector if it's a native app
+tensor(448)	When pass in locale information for a simulator run with driver1.5 get a issue.
+tensor(449)	unable to find ID for any of the objects available in the screen.
+tensor(450)	when i run my scripts through testng xml a group  of 3-4 xmls it just works fine.
+tensor(451)	does appium support mac app automation as well?
+tensor(452)	how to verify google voice is activated using appium?
+tensor(453)	how to get alert text using browser.alertText()?
+tensor(454)	 we can use explicit wait for the element that you are getting StaleElementRefException.
+tensor(455)	is there an element identifier common to Android & iOS?
+tensor(456)	how to find if element is focused/not focused for ios?
+tensor(457)	does anybody use a docker-based emulator to run appium in android tests?
+tensor(458)	set up a brake point and inspect element `page`  when you are writing your tests.
+tensor(459)	how to get back first/last element from DOM using XPath on iOS
+tensor(460)	when will appium support ( fabric ) crosswalk?
+tensor(461)	how to execute android application test scripts on Eclipse?
+tensor(462)	how to recognize password textbox which contains NAF=true in android app?
+tensor(463)	what commands you use to start/stop/restart appium .
+tensor(464)	is there any tool to do iOS app accessibility checking?
+tensor(465)	node.js is enough to install appium on any platform.
+tensor(466)	when working on apk failed to start an appium session, Error Command failed.
+tensor(467)	how to keep session in retrofit library?
+tensor(468)	webdriverException when using self.driver.swipe method
+tensor(469)	iOS device requires udid and bundleID.
+tensor(470)	when try to request Android capabilites get an error saying `You must include a platformName capability`.
+tensor(471)	riginal error: unknown error: Failed to get sockets matching with mobile web views and Appium.
+tensor(472)	Getting connected devices( AutomatingASimpleActionTest).It is faster than device.
+tensor(473)	is it possible de display the appium website in english when using a french OS?
+tensor(474)	add screenshot of inspector if it has already split by new line separat
+tensor(475)	is there a way to see view inspector without desktop app on ios?
+tensor(476)	how to launch inspector from command line?
+tensor(477)	how to start appium with ruby on ios?
+tensor(478)	update to Appium 1.6.3 gets some failed.
+tensor(479)	can you share logs of DesiredCapabilities? 
+tensor(480)	when run appium server get the error:Simulator architecture appears to be unsupported by the'Users/sreekanth/Desktop/iOS App/StreetReader.app'.
+tensor(481)	how do i get alert messages on mobile devices?
+tensor(482)	when testing a hybrid app the same element raises an NoSuchElement error. 
+tensor(483)	not sure about xcuit framework implementation on 1.5 appium version.
+tensor(484)	after running python script for iOS app testing get a error:"NameError: name 'driver' is not defined".
+tensor(485)	an unknown server-side error occurred while processing the command.
+tensor(486)	is it possible to access the 'path'attribute in driver.page_source?
+tensor(487)	 when upadted my appium from 1.7.0 to 1.7.1 the script is not working in Android.
+tensor(488)	how to get device location in android appium using python?
+tensor(489)	how to find webelement for webview contents desgined by ionic framework
+tensor(490)	how to setup Appium for android on windows?
+tensor(491)	How to write tests targeting both iOS and Android.
+tensor(492)	how can i specify on the appium desk to certain way for simulators and real device.
+tensor(493)	PageFactory.initElements(new AppiumFieldDecorator(getDriver(), 20, TimeUnit.SECONDS), this); doesn't work .
+tensor(494)	'RoutingHTTPServer/RoutingConnect.h  file not found.
+tensor(495)	how to remove a SIGABART error in windows?
+tensor(496)	how to scroll untill elment prasent in appium?
+tensor(497)	how to use webdriver with appium 1.9.0.
+tensor(498)	how to use browserstack devices if appium plugin requires a local IP to work.
+tensor(499)	unable to access iframe using.frame().
+tensor(500)	how to select image from gallery in ionic framework?
+tensor(501)	appium.sessionNotCreatedException when running without killing node process.
+tensor(502)	Error: A new session could not be created.
+tensor(503)	selenium.nosuchelementException: An element could not be located on the page.
+tensor(504)	how do you open the inspector in appium 1.5.3 desktop?
+tensor(505)	Can we add arguments while launching an .apk file from Selenium?
+tensor(506)	how to collect api logs during UI test run?
+tensor(507)	what and where to replace in the newest appium version.
+tensor(508)	how to uninstall appium ( android + selenium + appium ) from source.
+tensor(509)	how can i upgrade my appium 1.6.3 to 1.6.4?
+tensor(510)	 while configuring get error: Failed to start an Appium session and Installing com.abc.xyz.pqr.ab failed 
+tensor(511)	 how can i print something in python console?
+tensor(512)	how to automate cross-domain iframes with the iphoneX?
+tensor(513)	ould the element be find with the code  bellow: @AndroidFindBy(uiAutomator = "new UiSelector(resourceId(\'com.android.systemui:id/scrim_behind\')") private MobileElement someBtn?
+tensor(514)	how to scroll to the top/bottom of the view?
+tensor(515)	can anyone share the location for appium desktop Setup 1.5.3 version.
+tensor(516)	how to use fastlane with appium?
+tensor(517)	what is the app path for automation testing in appium server for ios?
+tensor(518)	how to change focus from main screen to popup screen?
+tensor(519)	how to scroll upwards in a page using appium?
+tensor(520)	is ur app native or webview or hybird?
+tensor(521)	how to install appium version and run test on real device and run tests on real device?
+tensor(522)	use id instead of xpath and remove casting mobile element
+tensor(523)	is there a way to screenshot websites on iPhone/iPad in Safari Mobile using SauceLabs and Webdriver.io?
+tensor(524)	chrome 65 issue in Saucelabs while run appium tests on real device.
+tensor(525)	is it possible to obtein element id with appium inspector?
+tensor(526)	appium 1.3.2-beta2 can not start,it spawning instruments failed.
+tensor(527)	how to find x axis and y axis location in ios simulator
+tensor(528)	appium inspector doesn't start when autoWebview is set to true
+tensor(529)	removed setAccissibilityLabel shows UIAText but not all fields
+tensor(530)	appium grepping chromedrivers‘ instances in android tests on Ubuntu 16.04
+tensor(531)	can appium communicate between a browser and a native application in the same test?
+tensor(532)	how to scroll a dropdown list in android mobile applications. why could not creat a new session in Appium1.3.4.1.
+tensor(533)	unable to  connect Appium to webdriver agent
+tensor(534)	does callback method can't change activities with intent?
+tensor(535)	how to use  NATIVE_APP in webview context
+tensor(536)	getting permision error while pushing the changes to create PR
+tensor(537)	how to build WebDriverAgentRunner from console or Xcode use Developer Team provisioning profile?
+tensor(538)	how can i learn android automation?
+tensor(539)	is ancestor work with appium?
+tensor(540)	when run the project in my android sdk showing error in android path
+tensor(541)	is there any dialogue pop up on your android device?
+tensor(542)	how to click an element using touch action or swipe
+tensor(543)	Can we add arguments while launching an .apk file from Selenium?
+tensor(544)	why unable to find elements inside a  iframe  on iOS？
+tensor(545)	how to attach to an existing Appium session using Python.
+tensor(546)	how to connect real ios device with appium server using xcode?
+tensor(547)	is there a way to integrate appium with xamarin?
+tensor(548)	what is the next action after splash on android manifest in webdriverIO?
+tensor(549)	is there a way to try the xpaths like firebug in browser?
+tensor(550)	appium swipe on ios 8 - is it working now?
+tensor(551)	How to start testing app using appium via ruby.
+tensor(552)	Can i execute scripts parallely on iPhone safari browsers  With AppiumTestDistribution 
+tensor(553)	error:"Instance of 'WebDriver' has no 'find_element_by_accessibility_id' member"
+tensor(554)	who has the appium 3.3~5.0 update content URL?
+tensor(555)	how to retrieve OTP Message Notification from Message App to Native App?
+tensor(556)	how to fix the problem the Scripts are running very slow with appium 1.5.2.
+tensor(557)	can't create a new session because 'createSession'   takes HttpClient, InputStream and long was not found or it is not accessible
+tensor(558)	is there any other tools to inspect elements on ios?
+tensor(559)	is there any similar tools for ios like adb for android ?
+tensor(560)	problem about debug with simulator (appium 1.6.0 xcode 8)
+tensor(561)	how to setup appium for iOS hybrid app
+tensor(562)	how to scroll down the page in hybrid app to bottom in apium?
+tensor(563)	is there a way to map the automated tests with the zephyr tests?
+tensor(564)	how can i get the image through appium driver and compare it with static image?
+tensor(565)	what is the command for accesibility id?
+tensor(566)	While running tests I see that the while doing sendkeys
+tensor(567)	sendkeys is not working on ios device
+tensor(568)	UI Testing from XCode 7 in appium
+tensor(569)	Only call 'launch' once in my appium client when using appium 1.6 on real iOS 9 device.
+tensor(570)	how to launch whatapp and message to one contact?
+tensor(571)	Cannot findelements error when i close the terminal
+tensor(572)	who can tell about tools for code review of mobile application testing Android and IOS 
+tensor(573)	err_connection_refused localhost:8100 when connecting app
+tensor(574)	how to run appium tests over WiFi on ios real devices without using the cable
+tensor(575)	When running android case on android device it is failed. 
+tensor(576)	Session not created Exception when using appium-java-client and selenium
+tensor(577)	unable to get TestNG in Eclipse in macos
+tensor(578)	how to test push notification in windows appium?
+tensor(579)	appium test not stopping the session after the test have finished
+tensor(580)	unable to see resource id and text in npm install -g app
+tensor(581)	how to parse complex json responses using rest assured JsonPath
+tensor(582)	error:-The method tap(int, int) is undefined for the type TouchAction,The constructorTouchAction(WebDriver) is undefined
+tensor(583)	problem about Team and Signing Certificate already have values in Xcode
+tensor(584)	appium version 1.5.1 taking forever on line "driver.context(contextName)
+tensor(585)	 appium 1.5 does not support name locator
+tensor(586)	Is there a way to provide the iOS bundle ID and reset the app state after each test run
+tensor(587)	how to hide keyboard on ios?
+tensor(588)	how to find an element by text using autoAcceptAlerts 
+tensor(589)	cant automate without debugging and singed certificate
+tensor(590)	how to install webagentrunner in real device using appium?
+tensor(591)	what does the Error: Sdk '9.3.5' was not in list of simctl sdks at getDevices$... mean？
+tensor(592)	how can i attach to created early session in code from python
+tensor(593)	what swipe values are displayed now?
+tensor(594)	is appium work with latest Xcode and iOS and  the inspector?
+tensor(595)	how to start chromedriver via webdrivermanager using java?
+tensor(596)	how can i get the element value upto last in listview?
+tensor(597)	add all appium dependencies in pom.xml and start with appium directly
+tensor(598)	XCUITEST does not create a new driver session in appium 1.6
+tensor(599)	WDA error:locating an element and sending keys when successfully setup appium / webdriverio.
+tensor(600)	why appium hides/closes my app on android?
+tensor(601)	how to generate.app file out of code base?
+tensor(602)	error on simulator:Exception in thread "main" org.openqa.selenium.
+tensor(603)	how to run appium tests over WiFi on ios real devices without using the cable
+tensor(604)	how to scroll/swipe to specific text?
+tensor(605)	what is 'jsonwp proxy' in appium 1.4.16.1?
+tensor(606)	how to attach screenshots imgs to test report?
+tensor(607)	appium script not working well on letv ( android version 5.0.1 )
+tensor(608)	can not see the option "Accessibility Inspector when using the real device.
+tensor(609)	how to disable download pop in chrome browser?
+tensor(610)	how to configure ios app for appium testing?
+tensor(611)	how to reset the app every time a new scenario is run in android mobile automation with app
+tensor(612)	how to install appium 1.5.2 through terminal in MAC?
+tensor(613)	how to findElement like driver.findElement(By.xpath("
+tensor(614)	appium server is running and  can access from my code but get error
+tensor(615)	how to wait till element is located?
+tensor(616)	getting error while using Appium inspector on physical device (iphone)
+tensor(617)	how to use month picker on ios?
+tensor(618)	When start node server getting below error(Checking if an update is available) with appium 1.4.16.1 in windows 7.
+tensor(619)	when do browser.touchAction get an error saying "An unknown server-side error occurred while processing the command". 
+tensor(620)	how to click on specific part of image using coordinates?
+tensor(621)	appium could not start http interface listener. The requested port may already be in use
+tensor(622)	how or why appium would kill itself over sqlite?
+tensor(623)	the process "node.exe" not found on ios device safari browser
+tensor(624)	is there a way to stop appium from opening up appium.io url
+tensor(625)	how can i use the robot framework in a maven project without installing anything additional
+tensor(626)	how to click on an element in ios app using appium tool?
+tensor(627)	how to switch off/on wifi in iOS mobile device using appium script?
+tensor(628)	how to get getAttribute("index") value in android?
+tensor(629)	how to add marshmallow in platform version use type right?
+tensor(630)	how to use ScrollStart.getHeight() to scroll to the page
+tensor(631)	getting NATIVE CONTEXT when building with Schema=debug and distrubute with Enterprise Cert
+tensor(632)	how to install appium in windows 7?
+tensor(633)	how to inspect textbox in ios appium inspector?
+tensor(634)	we can't find webelements for Tooltips/Toast messages
+tensor(635)	java.lang.RuntimeException: Unable to start activity when multiple test script files
+tensor(636)	how to find elements in a hybrid app with WebView?
+tensor(637)	imports are failing after updating from 2.8.7 to 2.9.1 in RF 2.8.7
+tensor(638)	when start an appium session get error: Could not initialize ideviceinstaller.
+tensor(639)	how to launch a mobile app from the main screen?
+tensor(640)	is it possible to automate mac desktop application testing?
+tensor(641)	when and who develop appium?
+tensor(642)	when start the server but getting error: Could not find ideviceinstaller or initialize it
+tensor(643)	whnen start a local Appium session on an iOS emulator get the error:Using Appium 1.15.1
+tensor(644)	is there a way to do regex like pattern matching with xpath?
+tensor(645)	error on appium desktop error : "The URL '/' did not map to a valid resource"
+tensor(646)	error in Appium doctor Bin directory for $JAVA_HOME is not set
+tensor(647)	should upgrade from 1.4.13 to 1.5 or 1.6 beta?
+tensor(648)	can't run webDriverIO with appium service
+tensor(649)	When run code in appium get java.lang.NoSuchMethodError.
+tensor(650)	will element.clear() work in appium 1.6.3 useing the Java client4.1.2?
+tensor(651)	when run a script with protractor geenrated by appium get the error:No element found using locator : by.xpath
+tensor(652)	can 'swipe' work for appium 1.6.0(beta3)?
+tensor(653)	how to control bluetooth ( ON/OFF ) using appium in real android device?
+tensor(654)	is it possible to manage reset app ( or remove reset ) client-side with java-client?
+tensor(655)	when run the simulator it keeps on spinning but will never show the app with appium in eclipse
+tensor(656)	Appium supports to work with an APP file and real device testing
+tensor(657)	how to insert pass/Fail result on excel sheet with cuucmber framework
+tensor(658)	how to take screenshot for test failed in cucumber?
+tensor(659)	$JAVA_HOME is not set in Appium doctor Bin directory
+tensor(660)	how to identify object using name=Today's Appointments
+tensor(661)	how to share my ios software with an enterprise account?
+tensor(662)	ideviceinstaller doesn't work on ios 10.x
+tensor(663)	error when running appium version 1.5.3 GUI version for testing iOS application
+tensor(664)	autoAcceptAlerts does not work very consistently on the iOS Simulator
+tensor(665)	what is the command to make a scroll down in android?
+tensor(666)	unable to find webelement for webview contents desgined by ionic
+tensor(667)	 Mocha is a plugin for javascript?
+tensor(668)	how to use appium and browserstack
+tensor(669)	how to connect to webview from apk without webview management?
+tensor(670)	when have a table view with three cells he last cell becomes disabled as soon as I try to interact with it
+tensor(671)	when run Appium with iOS 13.3 get the error:Domain=XCTDaemonErrorDomain Code=11 "No AXElement found at {160 284}:
+tensor(672)	how to perform a swipe action in appium ios
+tensor(673)	when start a local Appium session on an iOS emulator and get the WebDriverAgentRunner: Using Appium 1.15.1
+tensor(674)	what is a good android emulator solution? 
+tensor(675)	when run appium server get error：Simulator architecture appears to be unsupported by the '/Users/sreekanth/Desktop/iOS App/StreetReader.app' application.
+tensor(676)	how to install both the apps while running automation with appium release?
+tensor(677)	how to verify google voice has been activated using appium?
+tensor(678)	mobile testing talk: What's New With Appium yesturday webinar?
+tensor(679)	how can i schedule my job to work with real mobile devices on Jenkins CI?
+tensor(680)	can we automate Firefox browser on android using Appium?
+tensor(681)	when start appium app the client doesn't display any log
+tensor(682)	can we turn on/off wifi in iOS through appium/java?
+tensor(683)	how to swipe from bottom to top using mobilecapabilitytype class?
+tensor(684)	unable to start inspector in Appium 1.5.3
+tensor(685)	Install and debug iPhone apps
+tensor(686)	can you run only one ios simulator at a time?
+tensor(687)	java.util.zip.ZipException: error in opening java.util
+tensor(688)	is it possible to accept this alert using autoAcceptAlerts capability
+tensor(689)	how to click android element with its id from xml in android appium
+tensor(690)	appium can not run ipa file and can not create app file using visual studio
+tensor(691)	how to get capability for appuium from python lang?
+tensor(692)	which version of appium is stable for session override?
+tensor(693)	how to use getContextHandles() method in kipljyo
+tensor(694)	how to Launch an app in Virtual Device using Andriod Studio and Appium Server.
+tensor(695)	is there a way to avoid having to Trust Developer every time?
+tensor(696)	how to update appium xcuitestdriver project?
+tensor(697)	how to integrate appium android automation with jenkins for emulator?
+tensor(698)	how to inspect other elements in ios appium inspector?
+tensor(699)	unknown server-side error occurred while processing the command in version 9.2/10
+tensor(700)	connection to WDA timeout message is displayed while executing appium IOS script
+tensor(701)	is parallel execution possible in ios using appium?
+tensor(702)	how to chatter page for selenium with appium and uiautomator
+tensor(703)	is there any scroll option for appium 1.5 available other than scrollto and scrolltoExact
+tensor(704)	when running testcases under multi-thread, always get error: org.
+tensor(705)	how to handle dates in datepicker using selenium web driver?
+tensor(706)	how to capture capache text in webapps?
+tensor(707)	can i run my appium tests on android device without connected it to PC?
+tensor(708)	ios sim UDID is not the same as MAC UDID
+tensor(709)	 error for swipe() and scrollTo() line after adding the java-client2.1.0 jar 
+tensor(710)	dere and .app file  are no options like xcodebuild -arch
+tensor(711)	unable to use robotframework-appiumlibrary with maven pom
+tensor(712)	failed to find safarilauncher.zip while trying to open webapp
+tensor(713)	what is the difference between tap and click in Appium v1.6.4?
+tensor(714)	java.lang.NoSuchMethodException while running appium with pom framework
+tensor(715)	can't upload/update profile image using parse for backend
+tensor(716)	how did your test suite pass on 1.5.4 without noReset capability set to true?
+tensor(717)	how can i click and hold then pull down the element in appium ios
+tensor(718)	is there something blocked in firewall settings?
+tensor(719)	nspredicate does not work with indexes and parent/child relations
+tensor(720)	how to check the value of a boolean in pytorch
+tensor(721)	how to use cucumber with aws-devicefarm?
+tensor(722)	is there a way to run appium tests headless for NATIVE iOS apps?
+tensor(723)	unable to click on google account with accessibility IDs on android device
+tensor(724)	when install appium 1.3.6 version on Mac OSX 10.7.5 get the error
+tensor(725)	is there any sample if using getPerformanceDataTest() from java client.
+tensor(726)	how to add content-desc to individual images in a gallery view
+tensor(727)	how to switch between windows in appium?
+tensor(728)	use maven in order to use Amazon device farm
+tensor(729)	how to change switching from fruitstrap to ideviceinstaller for app installation?
+tensor(730)	appium service can create n number session
+tensor(731)	is it possible to run automation scripts with signed apk?
+tensor(732)	is it possible to run tests in parallel for Android and IOS device?
+tensor(733)	can we using wdio with appium to test native app on iOS?
+tensor(734)	how to execute a javascript script from JavascriptExecutor?
+tensor(735)	how to get appium inspector in appium 1.6.4 for ios?
+tensor(736)	is there a way to test a hybrid app on ios?
+tensor(737)	is there any other emulator which is fast and good?
+tensor(738)	what swipe values are displayed now?
+tensor(739)	where is SafariLauncher app in Appium 1.6 folder hierarchy?
+tensor(740)	how to get xpath for XCUIElementTypeTextField element
+tensor(741)	question about running appium java client on jenkins via maven (version 1.3.1 )
+tensor(742)	how to switch from native view to embedded web view using node js?
+tensor(743)	how to execute same appium script on more than 2 devices parallelly using Selenium Grid
+tensor(744)	why does waitForElementByName break when updating form from 1.4.13 to 1.5.2
+tensor(745)	ideviceinstaller doesn't work on ios 10
+tensor(746)	error: Failed to start an Appium session, err was: Error: com.mobile.android/.StartActivity never started. Current: com.mobile.android/.DispatchActivity 
+tensor(747)	is mocha for java compatible with android and ios?
+tensor(748)	How to find app crashed in logcat.
+tensor(749)	Is it possible to crop captured image?
+tensor(750)	uiautomation failed to launch multiple sims when triggering in parallel threads
+tensor(751)	how to cast screen on ios other than video recording option?
+tensor(752)	could not pre-launch appium: Error: Permission to start activity denied
+tensor(753)	button text is blank in the UI - appium 1.8.0-beta4
+tensor(754)	error: Could not initialize ideviceinstaller; make sure it is installed and works on your system  info: 
+tensor(755)	how to use implicit wait in appium?
+tensor(756)	why you want to launch the app from recent app list?
+tensor(757)	is there a working example of double tapping or double clicking an element?
+tensor(758)	ideviceinstaller doesn't work on ios devices error was "Command failed"
+tensor(759)	nspredicate does not work with indexes and parent/child relations
+tensor(760)	sendkeys doesn't work in safari on ios
+tensor(761)	how to upload apk file in Sauce Labs using trial version of Sauce Labs
+tensor(762)	is there any way to downgrade to do iOS app accessibility checking?
+tensor(763)	autoAcceptAlerts not working very consistently on the iOS Simulator
+tensor(764)	it can do coding in xcode to automate android application
+tensor(765)	how to resign the application with the different developer certificate?
+tensor(766)	can't open my app in simulators using  Xcode 10, appium desktop 1.10.1 on ios
+tensor(767)	why.Net framework is required for appium installation on mobile device?
+tensor(768)	how can i start learning appium?
+tensor(769)	is there a instrument to run appium on an ios device?
+tensor(770)	how to run find_element_by_xpath on android simulator
+tensor(771)	appium-doctor shows  Running iOS Checks error message 
+tensor(772)	how can i share my ios software with an enterprise account?
+tensor(773)	how can i get the image through appium driver from my app and compare with static image
+tensor(774)	how to run appium test on real iphone?
+tensor(775)	how to start appium with ruby on ios
+tensor(776)	how do you take screenshots on a failed test using node to write the tests?
+tensor(777)	how to close app immediately after launch using webdriver-io?
+tensor(778)	how to scroll to an element in wdioviewscell in appium using iOS and Android Native App
+tensor(779)	how to use explicit wait for element that is getting StaleElementRefException?
+tensor(780)	is there any performance stats logger for appium both iOS/Appium?
+tensor(781)	how to install appium on macos
+tensor(782)	how to wait elements in node.js
+tensor(783)	java.lang.RuntimeException: Unable to start activity for multiple script files in appium (v1.7.2)
+tensor(784)	issues with xcode 10.2 and ios 12.2 with ios simulator
+tensor(785)	how to use content-descriptors for identifying locators on appium
+tensor(786)	element changes based on the steps youve taken 
+tensor(787)	can appium do image recognition compare read and unread messages state from change in colour?
+tensor(788)	unable to inspect some page elements in android mobile app
+tensor(789)	get error when install appium on macOS
+tensor(790)	how to apply wildcard search in appium
+tensor(791)	unable to find ID for any of the objects available in recyclerview
+tensor(792)	unable to connect to appium studio in office metwork
+tensor(793)	how to scroll the screen in android application?
+tensor(794)	how to design framework for native mobile App for both android and ios
+tensor(795)	is possible to do stability test by performing playpause and resume in appium 1.6?
+tensor(796)	how to fetch the screen title in mobile?
+tensor(797)	how to handle dates in datepicker using selenium web driver with ios?
+tensor(798)	how to use touch actions with appium 1.7.2 for iOS native apps?
+tensor(799)	ios webkit debug proxy error for 'Console.enable' and have no handler, doing nothing
+tensor(800)	doing wrong while installing appium on android
+tensor(801)	is this a room where talking about making iPhone apps?
+tensor(802)	found that Team and Signing Certificate already have values when I check my Xcode 8.0
+tensor(803)	get stuck while running java testcase appium using xode 6.1 mac 10.10
+tensor(804)	webdriver_exception_FailedCommand: Element not found 
+tensor(805)	how can i get data from sqlite database using cursor?
+tensor(806)	is there a recommendation for non-technical folks to use cucumber appium?
+tensor(807)	safari launcher doesn't need to be compiled or downloaded
+tensor(808)	is there any performance stats logger for appium both iOS/Appium?
+tensor(809)	could not find ideviceinstaller or initialize it
+tensor(810)	does appium support webview?
+tensor(811)	webdriver exception while running scripts on latest appium 1.6.2 on ios
+tensor(812)	how to define different test in appium test?
+tensor(813)	is it possible to crop captured image?
+tensor(814)	how to run tests in javascript with appium on android?
+tensor(815)	error: xcodebuild failed with code 1 and can not launch WebdriverAgent
+tensor(816)	launching appium server manually doesn't work..
+tensor(817)	how to start appium inspecter on macos version 1.3.2-beta2 in mac
+tensor(818)	inspector not opening when "setWebContentsDebuggingEnabled=flase"
+tensor(819)	is it possible to test with appium in ionic framework (v2)?
+tensor(820)	does appium support cross platform testing for android and ios scripts?
+tensor(821)	ios webkit debug proxy error with 'Console.enable' and doing nothing
+tensor(822)	unable to find the WebDriverAgentRunner.app while in the runtime on ios
+tensor(823)	how to get a numeric keyboard instead of alphanumberic keyboard?
+tensor(824)	how to create multiple stepdefs.java for different architecture
+tensor(825)	how to setup appium for app automation on ios?
+tensor(826)	how to setup webdriveragent in appium like sauce labs?
+tensor(827)	appium (java) not working with eclipse 
+tensor(828)	is there a way to skip certain parts of an image when using mobile motions?
+tensor(829)	unable to open Android UIAutomator from tools folder on mac
+tensor(830)	ios-webkit-debug-proxy-launcher connection error
+tensor(831)	how to update appium version on ubuntu?
+tensor(832)	Is it possible to unlock screen which needs password ?
+tensor(833)	is there a good book or documentation on Appium-node.js for moblile testing?
+tensor(834)	can not read property 'performTouchAction(actionHome)' of undefined
+tensor(835)	An unknown server-side error occurred while processing the command
+tensor(836)	is it possible to extract all the values present in pickerView?
+tensor(837)	how to add assertions to a test that does not click on the element it found
+tensor(838)	no AXElement found at {160 284:} when running Appium with iOS 13.3
+tensor(839)	what is the required Selenium Version for appium v1.10.0
+tensor(840)	running testng xml as a group takes one hour or more to start the tests
+tensor(841)	appium simulator device not starting on ios 13,xcode 11.1
+tensor(842)	connection is refused when trying to start appium server programatically
+tensor(843)	how to use scroll method in mobile native app?
+tensor(844)	how to use the Sheel commands through Appium?
+tensor(845)	how to measure page load time in native app
+tensor(846)	appium inspector not working on ios simulator
+tensor(847)	is it possible to activate flight mode on native android app?
+tensor(848)	how to use ios locators on appium webdriverio
+tensor(849)	why does waitForElementByName break form 1.4.13 to 1.5.2
+tensor(850)	scrolling to element that is not in tableview
+tensor(851)	how to apply wildcard search in appium
+tensor(852)	how to config appium in mac for testing ios application
+tensor(853)	appium doesn't auto-install carthage on ios 10
+tensor(854)	how to use appium-adb workable (tests on java)
+tensor(855)	how to get battery / disk / cpu / memory usage on android device
+tensor(856)	is it possible to run tests over multiple android devices in parallel with appium?
+tensor(857)	how to hide ios keyboard on appium
+tensor(858)	how to run appium test with circleCI on android and iphone
+tensor(859)	error while running tests on jenkins server with app-automation-ios
+tensor(860)	is there a way to shorten the xpaths?
+tensor(861)	how to use appium to select a date from a native datepicker on iOS
+tensor(862)	how to use scrollTo with java bindings for ios and android?
+tensor(863)	Is there anyway to increase command timeout time in appium?
+tensor(864)	appium native clock - activity name doesn't exist or cannot be launched
+tensor(865)	how to setup MacBook for iOS automation? 
+tensor(866)	get error when run through desktop version appium 
+tensor(867)	how to switch off wifi on ios devices
+tensor(868)	how to set android_home path for mobile site?
+tensor(869)	is it possible de display the appium website in english when using a french OS?
+tensor(870)	An unknown server-side error occurred while processing the command
+tensor(871)	can't see the recorder in appium desktop when using tap and sendkey
+tensor(872)	can i do mobile and desktop browser testing without selenium?
+tensor(873)	how to run protractor tests on a hybrid application using appium?
+tensor(874)	what is the best way to find a generic scrollable element in android?
+tensor(875)	appium doctor adb connection error and zero emulators connected
+tensor(876)	getting error while automation one web application on safari
+tensor(877)	unable to set location in lacation based app like google map or uber cab
+tensor(878)	xctest mobile touchandhold not working on ios xctest
+tensor(879)	how to add new androidUiautomator2Driver session to master session list?
+tensor(880)	how to create the xpath?
+tensor(881)	are there any senior Appium Automation engineers based in south Asia available?
+tensor(882)	which cucumber appium would you recommend for non-technical folks?
+tensor(883)	is it possible to extend the API methods of webdriverio with appium?
+tensor(884)	how to perform swipe on one contact from contact list on android device?
+tensor(885)	how to select item from linearlayout?
+tensor(886)	are there any workaround can takes more time to get app source?
+tensor(887)	unable to find elements inside a  iframe on iOS
+tensor(888)	how to setup appium for ios on NATIVE_APP?
+tensor(889)	how to hanlde this type of objects while spying with uiautomator
+tensor(890)	swipe left-towards does not work on iOS simulator after upgrading from 1.5 to 1.6
+tensor(891)	how to handle permission popups/ popups in android?
+tensor(892)	how to start with hybrid app automation
+tensor(893)	how to recycle webdriver for UI automation testing?
+tensor(894)	how to start appium using command line in appium desktop?
+tensor(895)	is it possible to run appium performance tests using webdriver ios?
+tensor(896)	running appium tests as parallel on different physical devices ( android and ios )
+tensor(897)	appium 1.5.3 can't have pre-launch that was removed in 1.5.3
+tensor(898)	how to use appium with webdriverio grunt mocha?
+tensor(899)	can appium communicate between a browser and a native application in the same test?
+tensor(900)	issue about running appium with eclipse
+tensor(901)	is it possible to use Appium to automate emails within mobile email clients?
+tensor(902)	is there any other forum where i can ask questions related with appium?
+tensor(903)	how to run two different wdio.config.js files 
+tensor(904)	unable to connect to webdriver agent using uiautomator
+tensor(905)	how to get absolute coordinates based on user touch in appium 1.4.0?
+tensor(906)	can i automatized a native app on android with appium?
+tensor(907)	can not find any webviews on cordova wkwebview plugiin
+tensor(908)	get issue "missing write access to /usr/local" about installing via npm
+tensor(909)	how to use driver.toggle_airplane_mode() in java
+tensor(910)	how to use appium as a node in selenium grid
+tensor(911)	how to use 'Leaks' to test memory leaks in app for ios profiling?
+tensor(912)	unable to connect to appium studio in office metwork
+tensor(913)	why we use capabilities in appium?
+tensor(914)	how to run tests on multiple ios simulators in parallel
+tensor(915)	is there any way to write a relative xpath using node details of elements?
+tensor(916)	error chromedriver: DevTools request: http://localhost:12900/json/version
+tensor(917)	how to delete a file from 'Download' folder in android device?
+tensor(918)	Appium takes a lot of time to getPageSource in IOS 11 with Appium 1.7.0
+tensor(919)	how to automate web application using appium
+tensor(920)	is it possible to automate Ios app which is built with distribution certificate?
+tensor(921)	how "url" parameter should work in json node config?
+tensor(922)	is it possible to install 'WebDriverAgentRunner' once and reuse it
+tensor(923)	how to generate the ipa, iphone simulator support?
+tensor(924)	install doesn't work if appium session isn't restarted
+tensor(925)	appium.log closes by itself when it clicks on sign-in button with ios
+tensor(926)	parity wallet doesn't recognise a token purchased in an ICO
+tensor(927)	can i do desktop browser testing without selenium?
+tensor(928)	how to get element of android.webkit.WebView
+tensor(929)	how to set new command-timeout parameter of newCommandTimeout? 
+tensor(930)	get error "no AXElement found at 160 284" when running Appium with iOS 13.3
+tensor(931)	hydrid app on android unexpected slwodown issue
+tensor(932)	what is the code for performing the appium-sikulli integration?
+tensor(933)	what is the difference between appium node and appium desktop?
+tensor(934)	how to use webdriver js with xcode and appium
+tensor(935)	scrolling is not working with webdriver.io and webdriver.remot
+tensor(936)	where can i find a guide on getting started with Appium using node.js?
+tensor(937)	how to use 'xpath' to locate native elements?
+tensor(938)	how to install ios-deploy using brew command line
+tensor(939)	is it possible to simulate the network data connection in appium?
+tensor(940)	is it possible to test backend calls or events while making calls from front end ?
+tensor(941)	is there any way to change admob account country for android?
+tensor(942)	appium 1.6 app launch twice on real iOS 9 device
+tensor(943)	get error "name 'driver'is not defined" after running python script for ios app testing
+tensor(944)	fruitstrap quit unexpectedly pop-up when trying to test on ios real device
+tensor(945)	unable to execute appium 
+tensor(946)	how to use ios predicate and class chain locators in appium in webdriverIO
+tensor(947)	can't run webDriverIO with appium service
+tensor(948)	getting error "org.openqa.selenium.WebDriverException:Connect to 0.0.0.0:4723 "
+tensor(949)	how to reset the app every time a new scenario is run in android mobile automation?
+tensor(950)	is WDA installed on device? 
+tensor(951)	iOS script opens and closes 4 times than 5th script is running on the simulator
+tensor(952)	error:org.apache.http.conn.HttpHostConnectException: Connect to 0.0.0.0:4723 
+tensor(953)	unable to run safari test on apple phone ( appium 1.6.3 )
+tensor(954)	error:org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session
+tensor(955)	application crashing continuously when work with appium 1.6.3 on mac
+tensor(956)	how to use spinner in appium with xamarian
+tensor(957)	error:sdk 9.3.5 not in list of simctl sdks at getDevices$...
+tensor(958)	error in thread "main" java.lang.NoSuchMethodError: org.openqa.selenium.remote.ErrorHandler.
+tensor(959)	how to use appium driver with c#?
+tensor(960)	error while installing appium on node version 7.7.4 and npm version 4.1.2
+tensor(961)	appium does not work if installed with sudo
+tensor(962)	error:No chromedriver found that can automate Chrome \'69.0.34497\'
+tensor(963)	error: listen EADDRINUSE 0.0.0.0:4723
+tensor(964)	can we automate android app in flight release signed with development certificate?
+tensor(965)	is it possible to use selectors by looking at attributes or html codes?
+tensor(966)	is there a way to test for a locale on android?
+tensor(967)	how to use appium + applitools scripting with python
+tensor(968)	can not launch apk from a real tablet for automated testing
+tensor(969)	appium automatically launches but appium server does not recognize 
+tensor(970)	how to install appium from source?
+tensor(971)	how to read json array data from file to string using appium
+tensor(972)	what is the best way to run android simulator in appium?
+tensor(973)	can we automate mobile app development in appium?
+tensor(974)	how does appium install to real device on ios?
+tensor(975)	is there any workaround to get window handle to switch to new window?
+tensor(976)	xcuitest is isolating list items in ios simulators
+tensor(977)	get error "chromedriver cannot create session" when running web tests
+tensor(978)	get error while executing my script
+tensor(979)	how to send home key to ios device using python?
+tensor(980)	how url parameter in json node configuration should work
+tensor(981)	is there any way to automate chats and graphs?
+tensor(982)	is there a reason why my tests are slower compared to my web tests?
+tensor(983)	how to explicitly shutdown UIAutomator Server when running a suite with tests
+tensor(984)	AX error -25205: accessibility id and other attributes are displayed with text 
+tensor(985)	can we using wdio and appium to test native app on iOS?
+tensor(986)	how to use custom proxies/servlets in appium nodeconfig?
+tensor(987)	how to start media playback on an ios device without a gesture
+tensor(988)	can we using wdio and appium to test native app on iOS?
+tensor(989)	can not create new session, can not override existing session.
+tensor(990)	how to name screenshots using the saveScreenshot function with mocha and node
+tensor(991)	how do i scroll to in ios using js.executeScript
+tensor(992)	how to test my web application on Mobile Safari & Chrome for Android?
+tensor(993)	is there a way to map the automated tests with the zephyr tests?
+tensor(994)	how to access the same download button in uiautomatorviewer?
+tensor(995)	an unknown server-side error occurred while processing the command on ios
+tensor(996)	how can i get appium console after installing node js
+tensor(997)	how to get all the text on the application which is already open?
+tensor(998)	how to learn python and write code automation code using appium?
+tensor(999)	does python bindings for appium have scrollTo functionality?
+tensor(1000)	Appium does support for Xcode7 and simulator does not start
+tensor(1001)	how to test voice calls from robot script with appium in android/ios
+tensor(1002)	the best way to identify the element with ascii characters
+tensor(1003)	app re-installs everytime in iOS 13 with Appium 1.15 and xcode 11
+tensor(1004)	how to set 2 different activities in capabilities in android app?
+tensor(1005)	why for every execution appium closing simulator and starting again?
+tensor(1006)	how to build WebDriverAgentRunner from console or xcode?
+tensor(1007)	how to run protractor tests on a hybrid application using appium?
+tensor(1008)	is it possible to tap system buttons on iPhone?
+tensor(1009)	can't start an session in android appium webdriver
+tensor(1010)	example to check if its connected to wifi or not
+tensor(1011)	desired capabilities for FirefoxOS platform run on Android Emulator device
+tensor(1012)	appium desktop apk is unconvertable in circleci
+tensor(1013)	how to run specific scenarios from cucumber feature file Using java-appium?
+tensor(1014)	should there be a UITextField in an element?
+tensor(1015)	how to check for available log levels in applium 5.1
+tensor(1016)	how to use web context on android (nexus 7 android 6.0.1) appium
+tensor(1017)	is there a mac version of the app that is able to detect ui elements
+tensor(1018)	getting an error while opening my Appium studio
+tensor(1019)	error: no such file or directory for sdk/build-tools on android
+tensor(1020)	any documentation available for uploading external files in wswebcreation?
+tensor(1021)	handle permission popups/ popups in android appium
+tensor(1022)	upgrade appium to 1.4.13 using xcode 7
+tensor(1023)	how to import specreporter to android device?
+tensor(1024)	how to implement scrollTo and hide keyboard in appium for ios
+tensor(1025)	how to fix the error about appium config file not found
+tensor(1026)	how to get elements by resource-id with appium and android?
+tensor(1027)	way to integrate appium with xamarin  
+tensor(1028)	launching the app but not detecting the elements in appium server
+tensor(1029)	selectPickerWheelValue is giving me server side error in codeceptJS 
+tensor(1030)	could not start a new session
+tensor(1031)	error open my app and turn to cn.mailt ech.app/.activity.setup.AccountSetupBasics,after seconds,appium stop

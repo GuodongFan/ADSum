@@ -1,0 +1,455 @@
+<s> <user> <unka<> > how would i run the program c++ ? ( the simplest way ) there are so many programs for one language . if someone can pm me to help me step by step itd be greatly appreciated </s>
+<s> <user> <unk#a<> > it appears that <unka-> in the all conversations list are n't maintaining their sort if you " refresh " the webpage or close and reopen </s>
+<s> <user> <unka<> > <unk#a> : <unka-> do n't maintain a manual drag and drop sort . <unka> them kinda but not supported </s>
+<s> <user> <unk#a<> > ahhh , ok </s>
+<s> <user> <unk#a<> > guess i 'll have to make my favorites list huge then :) </s>
+<s> <user> <unka<> > anyone , please : how <unka> <unka> ? i have the <unka> to toggle but when next is enabled i ca n't see [ <unka-<> -> ] . </s>
+<s> <user> <unka<> > more generally , when i toggle off ( away from next ), i do n't see any change in the gui but the <unka> different from what i recall of things a few weeks ago . </s>
+<s> <user> <unka<> > <unka> : toggles on again <unk> there 's the green next indicator but apart from that indicator , i ca n't see the difference between off and on . </s>
+<s> <user> <unka<> > at the moment there 's no difference between the two . if an issue is closed , its generally in full production . </s>
+<s> <user> <unka<> > <unka_> <unka@_> [ <unka-<> -> ] as an example , i see no scroll bar for search results . do you ? </s>
+<s> <user> <unka<> > dunno , on mobile and my laptop battery is dead and left my charger at the office </s>
+<s> <user> <unka<> > if you do n't see it , comment on the issue with details on your platform , could be <unka/> specific . </s>
+<s> <user> <unka<> > firefox <unk#.> ( loaded with extensions ) on <unka> desktop , which tracks <unka-> . i 'll start the browser in safe mode and review . back in five . </s>
+<s> <user> <unka<> > yeah ... that 's not an environment we test on , so would n't be surprised if it was platform specific bug . </s>
+<s> <user> <unka<> > ok , now there 's a ( terribly faint ) scroll bar . maybe an extension conflict :( </s>
+<s> <user> <unka<> > still in safe mode , the bar appears only if the left menu is toggled to 'make the space for results <unka'> search is performed . </s>
+<s> <user> <unka<> > and if search results are not cleared before that toggle , then ( still ) there 's no scroll bar . </s>
+<s> <user> <unka<> > <unka> : clears search results </s>
+<s> <user> <unka<> > still no scroll bar for search results . weird . </s>
+<s> <user> <unka<> > now with chromium , and just one extension ( lastpass ). still no scroll bar . </s>
+<s> <user> <unka<> > now back to normal mode for firefox , loaded with <unka.> problem persists and ( fingers crossed ) i have a workaround that 's good in both chromium and <unka:> in [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hi </s>
+<s> <user> <unka<> > the one missing feature of <unka> i would like to see is the ability to search through room history </s>
+<s> <user> <unka<> > i see this : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i wonder how long it might be before we see this feature implemented ? </s>
+<s> <user> <unka<> > other than that i prefer <unka> over slack </s>
+<s> <user> <unka<> > <unka> : you can search the current room , not across rooms . use the search icon to the left . </s>
+<s> <user> <unka<> > <unka> : nice , thanks ! re : searching chat room history </s>
+<s> <user> <unk#a<~> > <unka> has slack chat plugin ... is there nay plans for <unka> plugin for same ? </s>
+<s> <user> <unka<> > <unka> : wishes the reactions came to github mobile web and api too so it did n't need remembering what to on desktop and it could be clicked in <unka> which is also missing subscribing thanks to api not having it </s>
+<s> <user> <unka<> > <unka> : it 's available in preview via the api </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > look below the payload </s>
+<s> <user> <unka<> > i mean subscribe to email notifications </s>
+<s> <user> <unka<> > wishes the reactions came to github mobile web and api <unka> said exactly that </s>
+<s> <user> <unka<> > and then went on to say more about subscriptions in the api </s>
+<s> <user> <unka<> > and i 'm saying that reactions is coming to the api and you can preview it </s>
+<s> <user> <unka<> > sorry , i confused , that could probably be thrown to <unka> tracker </s>
+<s> <user> <unka<> > hey there everyone ... is there any group on <unka> that discus about c or c++ ? </s>
+<s> <user> <unka<> > <unka> : <unka> <unka> new communities and randomly add people you do n't know into them . you are welcome to share a link <unka/> your new community , but what you just did is not cool . </s>
+<s> <user> <unk#a<> > hello . how do you scroll up or down in a room ? </s>
+<s> <user> <unk#a<> > <unk#a> : mouse wheel or the scroll bar on the right of the chat </s>
+<s> <user> <unk#a<> > <unk#a> : using a touchpad :p </s>
+<s> <user> <unk#a<> > no keyboard <unka> ? </s>
+<s> <user> <unk#a<> > like using the up or down arrows or something ? </s>
+<s> <user> <unk#a<> > pg up and pg down work </s>
+<s> <user> <unk#a<> > yes ... that 's what i was looking for . thank you </s>
+<s> <user> <unk#a<> > <unk#a> : thanks </s>
+<s> <user> <unk#a<> > anyway , why not use this its possible on a touchpad </s>
+<s> <user> <unka<> > i see a box in windows 7 starter 32b sp1 </s>
+<s> <user> <unka<> > that 's the glorious xbox </s>
+<s> <user> <unka<> > ah ! :d </s>
+<s> <user> <unka<> > please talk to micro$oft about <unka_> <unka@_> </s>
+<s> <user> <unk#a<> > <unka> : that is likely a <unka/> character that your current <unka/> selection does n't understand </s>
+<s> <user> <unk#a<> > iirc windows starter did n't have all the language packs available that <unka/> did </s>
+<s> <user> <unka<> > hmm ... ok .. <unka_> <unk#a@_> :d </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <unka@> like it does n't like the emoji [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unk#a> : ^^ [ <unka-<> -> ] </s>
+<s> <user> <unka<> > if i delete my message on <unka> does it stay on other people 's threads ? </s>
+<s> <user> <unka<> > no </s>
+<s> <user> <unka<> > thanks </s>
+<s> <user> <unk#a<> > <unka> : i think the only place the message will exist is if somebody was subscribed to instant notifications via email on a channel </s>
+<s> <user> <unka<> > <unka.:@> from operator ? </s>
+<s> <user> <unka<> > what for ? </s>
+<s> <user> <unk#a<~> > its matrix bot ? </s>
+<s> <user> <unka<> > <unka.:@> to see how to route <unka> channel to matrix </s>
+<s> <user> <unka<> > <unka.:@> <unka> ( <unka> ): </s>
+<s> <user> <unka<> > <unka> required to make the markdown <unka> work ? </s>
+<s> <user> <unka<> > simply a link to one or more repos ? </s>
+<s> <user> <unka<> > in my <unka> , <unka> have <unka/> ( <unk#a> ) and a bunch of md <unka> in my repos that lead to it </s>
+<s> <user> <unka<> > but it seems the repo is associated to community , and not to room ? </s>
+<s> <user> <unka<> > because you are trying to create a community for a repo on your personal user , your only option is to create a community based on <unk#a-/> and keep <unka> . </s>
+<s> <user> <unka<> > <unka> easily move the repo to the org </s>
+<s> <user> <unka<> > you can have a badge for any room . it 's just that the share modal only shows the template for public rooms associated with a repo [ <unka-<> -> ] </s>
+<s> <user> <unka<> > so , i should create rooms within <unka/> and then <unka> the <unka> into the markdown </s>
+<s> <user> <unka<> > and when the day comes , i delete those two other communities to <unka> my ocd </s>
+<s> <user> <unka<> > that would work </s>
+<s> <user> <unka<> > alright , sorry to be so daft . i did look for documentation a <unka> ! ;) </s>
+<s> <user> <unka<> > i can delete the others now , [ <unka-<> -> ] and [ <unka-<> -> ] </s>
+<s> <user> <unka<> > oh man . thank you </s>
+<s> <user> <unka<> > done </s>
+<s> <user> <unka<> > thanks a ton man </s>
+<s> <user> <unka<> > ( i was wondering if matrix bridge </s>
+<s> <user> <unka<> > i [ <unka-<> -> ] was having some issue here as one line was n't visible and also sorry for spam as my phone seems to be misbehaving at the moment , pasting is difficult ) </s>
+<s> <user> <unka<> > where can i go to buy an encoder ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : <unka-> </s>
+<s> <user> <unk#a<_> > hi i 'm new to the community . it 's nice to be here , i am just starting to work with linux any advice would be greatly appreciated </s>
+<s> <user> <unka<> > hello </s>
+<s> <user> <unka<> > i 'm using <unka> 's irc gateway and from the irc client i do n't see an user that 's actually on channel and is talking with me </s>
+<s> <user> <unka<> > he is not in the nickname list , i tried disconnecting from <unka.> and connecting again to no avail </s>
+<s> <user> <unka<> > the user is signed in using a twitter account , i have n't had any issue ( that i noticed ) with <unka-> users </s>
+<s> <user> <unka<> > can anyone check this and confirm it 's an issue of the irc service ? </s>
+<s> <user> <unka<> > i think from irc you only see people connected from irc in the nick list . </s>
+<s> <user> <unka<> > hello does anyone know how to install the <unka> app with <unka/> ? </s>
+<s> <user> <unka<> > <unka> : afaik only top 32 people are shown in irc </s>
+<s> <user> <unka<> > <unka> : why ? </s>
+<s> <user> <unka<> > idk ... <unka> devs would know the reason </s>
+<s> <user> <unka<> > oh , ok </s>
+<s> <user> <unka<> > <unka> <unka> ( <unka> ): the link does n't work on <unka> mobile client . and iirc i tested a few days ago if the bridge was working here or not as one message got missed and got to conclusion that it worked and <unka> for testing explaining what i was doing and where one could possibly get more information if they were interested . </s>
+<s> <user> <unka<> > hello everyone . i am new to <unka> . i created a new private chat room today . when i try to add someone it results in a " forbidden " message . the user i am trying to add has already made the membership of the organization public and has already allowed private access for the organization . can someone help me </s>
+<s> <user> <unka<> > <unka@> hmm , it sounds like you have taken the correct steps so far . the room is based on a private <unka?> mentioned " has already allowed private access for the <unka"(> be interpreted as the third party access org setting ) but has the user granted private repo scope ? URL/http:/ URL/i.imgur.com/ <unk#a./> </s>
+<s> <user> <unka<> > <unka> : thank you for the prompt reply . i will ask him to check this </s>
+<s> <user> <unka<> > <unka> : hey ... regarding the chat and transferring of messages . maybe thats good enough . because i guess i can <unka/> all the <unka> to the new channel easily . if in addition , the old channel is being deleted or forwards to the new one , thats fine . but i guess i still need to write <unka_> <unka.?@_> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > almost invisible ... </s>
+<s> <user> <unka<> > are there something like dmca 's or name claims for communities ? </s>
+<s> <user> <unka<> > <unka@> has no relevance for community names . dmca is specifically for content violations where <unka> of rights management is being distributed such as piratebay , kat ( closed as a result of a dmca case & <unka> ), popcorn time etc ... it <unka> production and <unka> of technology , devices , or services intended to circumvent measures ( commonly known as digital rights management or drm ) that control access to copyrighted <unka.> there 's a name violation that 's <unka> on a trademark infringement a legal <unka> would need to be established if the use is happening beyond <unka> . if the use is unique to <unka> , evidence of a registered trademark and infringement would need to be established . </s>
+<s> <user> <unka<> > ah thanks ok i was afraid i ca n't claim my company 's name </s>
+<s> <user> <unka<> > you'd have to have an <unka> recognised eu trademark </s>
+<s> <user> <unka<> > okay , the error message seems pretty neat btw .. </s>
+<s> <user> <unka<> > like we do n't even <unka-./> tough luck for us </s>
+<s> <user> <unka<> > the red mark does n't tell me much :( </s>
+<s> <user> <unka<> > you should normally see a tooltip </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <--- that 's basically preventing you from using that url </s>
+<s> <user> <unka<> > oh it checks for taken github <unka/> names ? </s>
+<s> <user> <unka<> > can maybe try something like <unka> as your url </s>
+<s> <user> <unka<> > is there a special reason why there is no alpha channel allowed in upload avatars ? </s>
+<s> <user> <unka<> > that makes all avatars look ugly with the dark design </s>
+<s> <user> <unka<> > <unka> : alpha channel is just fine but we put a white box behind avatars so that avatars coming from github still look nice and readable </s>
+<s> <user> <unka<> > is that some css magic ? </s>
+<s> <user> <unka<> > <unka-> : <unka#> ; </s>
+<s> <user> <unka<> > yeah but i ask myself in which css file </s>
+<s> <user> <unka<> > clipboard is not enabled in hosted mode . please inspect using <unka/:> xd </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > there we go </s>
+<s> <user> <unka<> > <unka> : there must be more </s>
+<s> <user> <unka<> > <unka:> : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] atleast enough to get most of the images transparent :) </s>
+<s> <user> <unka<> > this wo n't ever work xd </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > does anyone use <unka> in more than tab with firefox ? </s>
+<s> <user> <unka<> > <unka> : what is happening ? </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] mismatches between url and content . risks <unka> include : chat that 's intended to be private , inadvertently posted to a public room ( it happened to me a day or so ago ). </s>
+<s> <user> <unka<> > <unka> : either [ <unka-<> -> ] or [ <unka-<> -> ] </s>
+<s> <user> <unka<> > more than [ <unka-<> -> ] ; the symptoms persist long after state is restored . refresh , refresh , refresh and so on and the mismatch persists . </s>
+<s> <user> <unka<> > <unka> : so [ <unka-<> -> ] extension issue ? </s>
+<s> <user> <unka<> > no , there 's safe mode above in [ <unka-<> -> ] and in the screen recording that 's mentioned there . </s>
+<s> <user> <unka<> > effects can include apparent search failures e.g . as shown at URL/https:/ <unka./> <unk#a-/> </s>
+<s> <user> <unka<> > <unka> : definitely want to to tackle [ <unka-<> -> ] to see how that changes things </s>
+<s> <user> <unka<> > </s>
+<s> <user> <unka<> > re : investigation [ <unka-<> -> ] if firefox behaviour is proper ( <unka> the shot of google chrome in [ <unka-<> -> ] , <unka> <unka> ), then maybe someone will have the rather <unka> task of <unka-> for areas where caching <unka/> be disallowed . </s>
+<s> <user> <unka<> > <unk> and on that potentially depressing note ( sorry ! ) i 'll say goodnight <unka/~> </s>
+<s> <user> <unka<> > ^ hint : that example of <unka> failure is in fact , on very close inspection , a mismatch between the <unka/> the <unka/> both the title bar and the tab are strong indications that the writer is in one room when in fact , the writing is elsewhere . </s>
+<s> <user> <unka<> > <unk> and when in the lobby at <unka=?> , both the title bar and the tab are <unka> to a generic <unka'> ; a more <unka> title e.g . <unka'> <unka'> would be appropriate . </s>
+<s> <user> <unk#a<> > basic question !! how can i setup <unka> so it only gives me notifications for where i am mentioned ?? i want to set this globally for all my <unka> </s>
+<s> <user> <unka<> > <unk#a> : go to notification settings , in any room , click <unka> <unka> it <unka> . </s>
+<s> <user> <unk#a<> > per <unka_> <unka@_> you can also apply that as the default to all rooms after setting it for one , or at least there is a link <unka_> <unk#a@_> </s>
+<s> <user> <unka<> > i am stuck . <p > i have to chang colour to p element tex can any 1 help please </s>
+<s> <user> <unk#a<> > <unka> : thanks . have done and that and see if its less chatty :) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <unka@> room is for <unka> support , not general technical support . please read the welcome message when joining a room and take note of the room <unka/> in the chat header at the top . after fixing up your question , [ <unka-<> -> ] , you should try [ <unka-<> -> ] </s>
+<s> <user> <unka<> > any one give me wordpress slider > ? </s>
+<s> <user> <unka<> > <unka> : this room is for <unka> support , not general technical support . please read and adhere to the welcome message you see when joining rooms and the room <unka/> at the top in the chat header . google will be your best bet to compare options </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > mixture of public and private content . ew . </s>
+<s> <user> <unka<> > <unka> : on [ <unka-<> -> ] do you <unka-> ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > yep mike i do . until today i never had a private conversation apparently mixed with public content . </s>
+<s> <user> <unka<> > yeah , i 've seen that happen before <unka-> is why it 's not ready for <unka-> </s>
+<s> <user> <unka<> > i'd turn it off </s>
+<s> <user> <unka<> > afair this incident occurred after firefox automatically restored tabs . </s>
+<s> <user> <unka<> > also , what time zone are you in ? trying to establish when <unka> you </s>
+<s> <user> <unka<> > as i 've warned him not to dm people </s>
+<s> <user> <unka<> > hey would it ever be possible that irc access could be allowed to not require signup ( for non private rooms , perhaps as opt in ?) </s>
+<s> <user> <unka<> > like freenode </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > exactly like freenode </s>
+<s> <user> <unka<> > of course , i do also use freenode , but everyone loves <unka> more </s>
+<s> <user> <unka<> > really ? i like <unka> a lot but i think i 'll always have a soft spot for freenode . i especially like the public logging of channels <unka> does , which is something that freenode does n't have or even encourage by default . </s>
+<s> <user> <unka<> > me too - but for smoething i am working on <unka> works better </s>
+<s> <user> <unka<> > i would n't mind having some sort of bridge from <unka> to my freenode channel , which i already have public logging for . i would consider my logs to be canonical . i would n't care if <unka> logs the channel as well . it 's more about having an easy way for people to jump into the channel and start talking . </s>
+<s> <user> <unka<> > we tried <unka.> which is close - but makes it come through one user , which is odd . </s>
+<s> <user> <unka<> > yeah , i have n't quite been satisfied with the user experience so far . for now , i just <unka> up an instance of shout so people have an easy way to connect to the freenode channel from a web browser . no freenode captcha , no having to think about which channel to join . you just pick a username and start talking . works pretty well . </s>
+<s> <user> <unka<> > the user experience of the various " sync freenode and <unka> " solutions , i mean . </s>
+<s> <user> <unka<> > i guess the " coming through as one user " problem is sort of mentioned as " neither irc nor <unka> provide an <unka> api for posting messages with a different author name " at [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hello <unka!> there any kind of sandbox room for me to test <unka> 's <unka?> i do n't really like <unka> 's unread indicator and at slash all mentions as it force me to read messages that are unrelated to me . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] found by clicking the globe icon at the head of the page </s>
+<s> <user> <unka<> > <unk#a> : are you using a web browser ? </s>
+<s> <user> <unk#a<> > <unka> : oh it is not really obvious to new users . showing list of rooms when going to <unka.> homepage is better [ <unk#a-> ] </s>
+<s> <user> <unka<> > <unka> : and team , observe this pale green indication long after the post was read by me : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > maybe caused by ( i ) browsing away from this room then simply ( ii ) back , without ( iii ) actively reloading the page . i 'll test whether it 's reproducible with firefox with a new profile . </s>
+<s> <user> <unk#a<> > <unka> : you are right . </s>
+<s> <user> <unka<> > <unk#a> : did you use firefox in safe mode ? or with a new ( clean ) profile ? </s>
+<s> <user> <unk#a<> > <unka> : i tried . it is <unka.> am the person who open issues but never pull request </s>
+<s> <user> <unka<> > lol . reproducible in with firefox in safe mode ? </s>
+<s> <user> <unka<> > <unka> : <unka@> i try </s>
+<s> <user> <unka<_> > hello ! is there a <unka> <unka> interface by any chance ? if not , is there functionality to <unka> <unka> of my <unka-> <unka> account and use github for authorization instead ? thanks ! </s>
+<s> <user> <unka<_> > ( within the os x app itself ) </s>
+<s> <user> <unka<> > <unka_> : on the os x app , the menubar bar icon ( next to your system clock , wifi settings <unka> ) has a <unka> option . you can then sign in with github , this will effectively create a new account . </s>
+<s> <user> <unka<_> > <unka> : oh dang , of course , i hid that ! thanks :) </s>
+<s> <user> <unka<> > how to make a room invite only afterwards ? </s>
+<s> <user> <unka<> > <unka> : you ca n't change the room type after you 've created it </s>
+<s> <user> <unka<> > so i have to delete and recreate the whole room ? :/ </s>
+<s> <user> <unka<> > that 's not very user-friendly </s>
+<s> <user> <unka<> > it 's just not something that 's implemented yet </s>
+<s> <user> <unka<> > i can count on one hand the number of times it 's been requested , and i do n't have an abnormally large number of fingers ;) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <unka@> a new issue [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > is <unka> blocking to show site information ? </s>
+<s> <user> <unka<> > <unka-> : can you ask that in another way ? i do n't quite understand what you are asking about </s>
+<s> <user> <unka-<> > normally in firefox there is the option at the left of the address bar to show page information </s>
+<s> <user> <unka<> > <unka-> : we are n't blocking it . it works for me in chrome and firefox </s>
+<s> <user> <unka-<> > ok then i guess it 's an issue with my browser </s>
+<s> <user> <unka<> > hi people , i love <unka> , coming from slack . but what 's really annoying is that " eyeballs " indicator . it was much clearer and more reliable in slack which used a connection indicator . this issue [ <unka-<> -> ] ( [ <unka-<> -> ] ) was opened like two years ago , any news on an improved indicator ? thanks :) </s>
+<s> <user> <unka<> > i also experience the same as [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hello world ! just joining now . looking forward to learning a bunch from y'all ! </s>
+<s> <user> <unka<> > <unk#a> : perhaps you meant to go to [ <unka-<> -> ] - just curious , how did you end up in this room ( retrace steps )? </s>
+<s> <user> <unk#a<> > <unka> : , i guess you're right . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] still curious on how you got into this room after signing in if you can remember </s>
+<s> <user> <unk#a<> > <unka> : , i was trying out suggestions provided to me by <unka> </s>
+<s> <user> <unka<> > <unk#a> : can you expand or link what you mean by suggestions ? </s>
+<s> <user> <unka<> > <unka@> <unk#a@> i guess these suggestions ? </s>
+<s> <user> <unka<> > any one know how to make popup ? </s>
+<s> <user> <unka<> > a </s>
+<s> <user> <unk#a<> > <unka> : perhaps you meant to go to [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > hi everyone </s>
+<s> <user> <unka-<> > what is the best way to share a list of rooms with my development team ? </s>
+<s> <user> <unka-<> > i was looking for a way to share my profile with them ... hoping it would show the list of rooms i joined or <unka> </s>
+<s> <user> <unka<> > <unka-> : it has been mentioned internally before but there is n't a way to share a list outside of linking a community home [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unka> : thanks eric , how would you use the community home for that purpose ? </s>
+<s> <user> <unka-<> > do you mean ... just share the url by some other mean outside <unka> ? </s>
+<s> <user> <unka-<> > for example in github or twitter ... you could see who i am following , which repo i <unka> </s>
+<s> <user> <unka-<> > i wished there was something similar ... so i can show other ppl which chat room i 'm in :) </s>
+<s> <user> <unka-<> > or which one i <unka> </s>
+<s> <user> <unka<> > hi - is there a way to change the logo image for a community ? </s>
+<s> <user> <unka<> > <unka> : click on the big version of it in the header when you are in a room in that community </s>
+<s> <user> <unka<> > <unka> : tried that ... nothing happens :'( </s>
+<s> <user> <unka<> > are you an admin of the community ? </s>
+<s> <user> <unka<> > yep - i set it up </s>
+<s> <user> <unka<> > <unka> : recently ? what 's the url of the community ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > and when you're in [ <unka-<> -> ] and you click on the logo at the top , nothing happens ? </s>
+<s> <user> <unka<> > ( not on the home page ) </s>
+<s> <user> <unka<> > that 's correct - i can see the link cursor but nothing happens </s>
+<s> <user> <unka<> > on chrome and ie </s>
+<s> <user> <unka<> > hi folks , <unka> having trouble creating a community for one of my github repos ( <unka/> ). it shows a red exclamation mark next to my repo name , but hovering over it <unka> reveal any additional information . hovering over <unka> shows a tooltip icon ; i can click on <unka> anyway but it takes me back to the initial create a new community screen with no further error messages . <unka> tried in safari and in the <unka> app for macos , and <unka> confirmed that my repo is not marked private and the name is not taken ( [ <unka-<> -> ] returns a 404 page ). any suggestions ? </s>
+<s> <user> <unka<> > it looks like maybe the name is too short </s>
+<s> <user> <unka<> > <unka> : it should show a tooltip with the error if you try to submit with next button or when focused in that input . it is probably a conflict with [ <unka-<> -> ] so you need to adjust the <unka/> </s>
+<s> <user> <unka<> > a-ha , <unka> a user named <unka> </s>
+<s> <user> <unka<> > yeah , <unka> not showing any tooltips or errors or anything </s>
+<s> <user> <unka<> > welp , that settles it . <unka_> <unka!@_> </s>
+<s> <user> <unk#a<> > is there an easy way to reference another channel without the full <unka.> url ? or is that the best way ? </s>
+<s> <user> <unka<> > that 's the only way </s>
+<s> <user> <unk#a<> > ok , makes sense since # gives you tightly integrated github <unka/> so it would n't work for a channel name </s>
+<s> <user> <unka<> > hey </s>
+<s> <user> <unka<> > how can i give admin permissions for a <unka> organization to one more user ? </s>
+<s> <user> <unka<> > i can see a " permissions " option in every room 's settings , but i want to give admin rights to this user <unka-> </s>
+<s> <user> <unka<> > amberj : what do you see at the bottom left of that modal ? </s>
+<s> <user> <unka<> > " edit community permission " .. yup this is what i was looking for . <unka_> <unka@_> </s>
+<s> <user> <unka<> > </s>
+<s> <user> <unka<> > just add them as extra admins if the community is linked to a github org </s>
+<s> <user> <unka<_> > good afternoon . is there a way to mark all messages ( in a room ) as read ? </s>
+<s> <user> <unka<> > type " " and look at the bottom :) </s>
+<s> <user> <unka<_> > <unka-> so easy . thanks :) </s>
+<s> <user> <unka<> > <unka> : and colleagues , has anyone else reported sporadic search failures ? for example , around one minute ago , <unka> this room found nothing and there appeared a notification about communication issues . </s>
+<s> <user> <unka<> > a second search for the same word found some matches , and there reappeared the notification . subsequent searches for the same word found nothing , and there reappeared the notification . for example : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka@> please refrain from pinging people directly . anyone here can help <unka.> is a problem i noticed a while back and is caused by some limits we are hitting with the version of elasticsearch we are on atm <unk#a#-./> </s>
+<s> <user> <unka<> > <unka@> please refrain from pinging people directly . anyone here can help <unka.> is a problem i noticed a while back and is caused by some limits we are hitting with the version of elasticsearch we are on atm <unk#a#-./> </s>
+<s> <user> <unka<> > apologies eric . i 'm already subscribed to [ <unka-<> -> ] but had not imagined the symptoms going beyond searches for usernames . </s>
+<s> <user> <unka<> > just any query that could hit the timeout </s>
+<s> <user> <unka<> > <unka:> is a more involved query that <unka> the problem often </s>
+<s> <user> <unka<> > [ <unka-<> -> ] page not found if attempt to open the issue in github ; and pointing at the link in this chat does not always reveal an outline of the issue in the pop-up . </s>
+<s> <user> <unka<> > <unka> : internal issue for my own reference </s>
+<s> <user> <unka<> > ah ok . so i guess that github can allow a limited view of internal issues , yes ? ( or did you make the issue private a few seconds ago ?) </s>
+<s> <user> <unka<> > <unka> : nope . it is just a private repo </s>
+<s> <user> <unka<> > hmm , i did see the content of that issue ( did have access ) a few times when pointing at the first of your two bullet pointed links at [ <unka-<> -> ] above . </s>
+<s> <user> <unka<> > <unka> : screenshots if you can reproduce again please . </s>
+<s> <user> <unka<> > hello i 'm new . but i have a question about git . can i ask these type of questions here ? </s>
+<s> <user> <unka<> > <unka> : this room is for <unka> support . you can try [ <unka-<> -> ] </s>
+<s> <user> <unka<> > almost daily running firefox if i leave <unka> running i get an error that a script is not running correctly . then i have to stop it and restart <unka> . the script <unk#a./:_> this a known bug ? </s>
+<s> <user> <unka<> > our repo was converted from a personal repo to an organizational <unka> how can we update our <unka> to point to the new repo ? </s>
+<s> <user> <unka<> > hello every one </s>
+<s> <user> <unka-<> > hello guys :d </s>
+<s> <user> <unka-<> > i need some help from any admin ! . i had created this account : [ <unka-<> -> ] , which was associated with the github account <unka> . but later i deleted the linked github account and opened the account " <unka-> " and this is the one i am currently using ( [ <unka-<> -> ] ) . i would like to delete my old <unka> account ( [ <unka-<> -> ] ) but i cannot login to it as i have completely deleted the linked github account . could someone help me ? </s>
+<s> <user> <unka<> > i want to know how can download a website text ? </s>
+<s> <user> <unka<> > <unka> : with respect , that 's not a <unka> support question . please seek answers in a more appropriate area ; you're likely to find the question asked , and answered , at [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that was from reproduction of a cold and empty heat map with an almost new firefox profile on <unka-> <unka> desktop ; nothing other than lastpass installed . since then i have reproduced the problem with firefox on android for both [ <unka-<> -> ] and [ <unka-<> -> ] </s>
+<s> <user> <unka<> > now with <unka> desktop i see what 's expected , maybe thanks to a <unk#a-> reload without cached content ). </s>
+<s> <user> <unka<> > android , <unka./:> looks ok , maybe thanks to a reload </s>
+<s> <user> <unka<> > <unka> : closes the test instance of firefox </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > attention to the notifications . i suspect that this problem will not occur if i use <unka-> <unka> <unk> </s>
+<s> <user> <unka<> > my suspicion was wrong . screen recording to follow . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > a recording of the problem in gnome web . one of two linked archive pages ( both opened before i began recording ) was cold and empty until , whilst recording , i reloaded the page : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka-> was unexpectedly enabled . i 'm certain that this preference was not set by me , because i was warned that the feature causes problems : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > maybe the problem affecting some views of archives falls under " any query that could hit the timeout " </s>
+<s> <user> <unka<> > <unka./:@> remains cold and empty after ten or more consecutive <unka.> i 'm having problem as <unk##> i.e . network issues , it seems specific to that room . i 'm on chrome ; not using <unka.> </s>
+<s> <user> <unka<> > hey , i 'm trying to add the github repository activity to the <unka> <unka> channel , but as a <unka> ( with write access to the official repo ), i only see my own repo and forks . why is that ? </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] and i assume you want activity from [ <unka-<> -> ] - you would need to have admin permissions to add a <unka> . because it is a repo on another user , they might need to add it themselves because there is n't any third party application access like on an <unka.> could setup a custom <unka> integration and give them the url to add in the github interface </s>
+<s> <user> <unka<> > <unka> : ok thank you </s>
+<s> <user> <unka<> > does anyone know anything about performance testing ? </s>
+<s> <user> <unka<> > performance of <unka> ? if it 's not a <unka> support question , please ask elsewhere . thanks . </s>
+<s> <user> <unka<> > just my monthly moan that rooms should be open by <unka:> to : [ <unka-<> -> ] thought , i have an issue , wanna discuss it , so i change url to : [ <unka-<> -> ] - 404 .... now what ? </s>
+<s> <user> <unka<> > <unka> : do n't understand the issue - public is the default permission when creating a room </s>
+<s> <user> <unka<> > the issue is 404 when renaming a github repository url to <unka> , because the owner has n't opted into creating a room : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i am having an issue where i either leave , or type DIR/leave/ in a channel , and as soon as a message is posted to the channel it pops back up in my conversations list </s>
+<s> <user> <unka<> > <unk#a> : the web interface , yes ? do you use <unka> if so , is <unka-> enabled ? </s>
+<s> <user> <unk#a<> > <unka> : i think i figured it out . i stumbled on some irc interface and had that hooked up . leaving the channels on my irc client seem to have stopped the auto <unka> </s>
+<s> <user> <unk#a<> > thanks for the follow up though </s>
+<s> <user> <unka<> > my github repo moved to a new owner but <unka> is still pointing to issues and whatnot at the old url . is there a way to update this without having to create a new <unka> from scratch ? </s>
+<s> <user> <unka<> > trying again : my github repo moved to a new owner but <unka> is still pointing to issues and whatnot at the old url . is there a way to update this without having to create a new <unka> from scratch ? </s>
+<s> <user> <unka<> > <unka> : <unka@> be able to help </s>
+<s> <user> <unka<> > <unka> : send a message <unka_> <unka.@_> the url of the old and new github repo along with the url of the <unka> room . make sure the new owner already has a community on <unka> we can move it to </s>
+<s> <user> <unka<> > <unka> : done </s>
+<s> <user> <unka<> > how do you trigger text correct SUB/s/ <unka/> <unka/> ? </s>
+<s> <user> <unka<> > i tried just typing that on the next comment but it did n't work </s>
+<s> <user> <unka<> > SUB/s/ <unka/> <unka/> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > note the trailing slash on the second word </s>
+<s> <user> <unk#a<> > <unka/> syntax is SUB/s/ <unka/> <unka/> <unka(/> <unka> does n't have ) </s>
+<s> <user> <unk#a<> > appears to be could be straight up busted </s>
+<s> <user> <unk#a<> > and you can only edit 1 message back , not within a whole block </s>
+<s> <user> <unk#a<> > not busted , because <unka'> to <unka'> was " also " before :) </s>
+<s> <user> <unka<> > this is a <unka> </s>
+<s> <user> <unka<> > nice it worked thank you </s>
+<s> <user> <unka<> > damn it does n't work in the irc portal just in the browser <unka> :/ </s>
+<s> <user> <unk#a<> > yeah , in irc you just receive the messages from <unka> so you see the pre edit and edited texts </s>
+<s> <user> <unk#a<> > and i think replies are pretty much immediate the same way </s>
+<s> <user> <unk#a<> > and i think replies are pretty much immediate the same way </s>
+<s> <user> <unk#a<> > <unka> : when using the SUB/s/ <unka/> <unka/> syntax </s>
+<s> <user> <unk#a<> > otherwise it 's a 5 minute window </s>
+<s> <user> <unk#a<> > what is the " calculated " css that is being applied to the text ? </s>
+<s> <user> <unk#a<> > is there a reason the gist preview box does n't get scrollbars when embedded vs how github 's own embed urls work eg on a blog ? </s>
+<s> <user> <unka<> > is it a bug or a feature that it looks to people that i read at <unka> messages immediately because i use <unka.> ? this came to my attention at [ <unka-<> -> ] </s>
+<s> <user> <unka<> > all* </s>
+<s> <user> <unk#a<> > " feature " i think , as you also get to read people 's messages instantly and when they make edits it sends a new message to your client rather than " fixing " the old one , so you can see everybody 's dirty minds :d </s>
+<s> <user> <unka<> > hey there <unka> ..... i think there is a bug blocking my progress . i am stuck on the 'create a set of radio <unka'> where i 've <unka> the following <unka:<> <unka"=> " <unka"=> photo url " required > <unka<> > <unka<> <unka"=> " <unka"-=> > <unka/<> > <unka<> > <unka<> <unka"=> " <unka"-=> > <unka/<> > <unka<> <unka"=> > <unka/<> > <unka/<> > please help . </s>
+<s> <user> <unka<> > <unka> : wrong room </s>
+<s> <user> <unka<> > [ <unka-<> -> ] suggests four , not three , ` characters for blocks of code . is that a typo ? </s>
+<s> <user> <unka<> > <unka> : yip - thanks . corrected . </s>
+<s> <user> <unka<> > thanks . i deleted my comment there . </s>
+<s> <user> <unka<> > for reference , but not worth making an issue of at this time ( <unka> here is not the most recent version ): </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > after the event i browsed back and realised that whilst double-clicking to select text within a title , i had inadvertently clicked a 'create <unka'> button : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that does n't look normal at all , does it look like that in other browsers ? </s>
+<s> <user> <unka<> > like firefox ? </s>
+<s> <user> <unka<> > not reproducible with firefox . with regard to <unka> , see the postscript to [ <unka-<> -> ] </s>
+<s> <user> <unka<> > appearances are very unpredictable , worse , in [ <unka-<> -> ] <unk#.> but ( again ) that 's probably an outdated version . </s>
+<s> <user> <unka<> > i do n't use konqueror ( i launched it out of curiosity ), i do sometimes use <unka> . </s>
+<s> <user> <unka<> > hi , guys ! please , help me to know how i could add <unka> in my project .. maybe someone can share with me different tutorials or links to educational materials with this topic ? </s>
+<s> <user> <unka<> > is the project <unka-> ? if it 's not a <unka> support question , please ask elsewhere . thanks . </s>
+<s> <user> <unka<> > there 's a " community " link at [ <unka-<> -> ] </s>
+<s> <user> <unka<> > for some users at some computers where drag and drop is attempted , this notification from <unka.> uploading file . could not find a bored instance . no responsive <unka> </s>
+<s> <user> <unka<> > compare ( a ) my URL/https:/ <unka./> <unk#a/=?> and my post a few hours later in the same room and the subsequent report from <unk#a@> with ( b ) my URL/https:/ <unka./> <unk#a/=?> good result at an adjacent notebook with a superior connection to the <unka._> <unk#a@_> what 's your <unka> ? and please share output from [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka_> <unk#a@_> noise or <unka> is a concern , you have the option of joining this <unka> <unka> all notifications ; the preferences icon , top right , alongside your avatar . </s>
+<s> <user> <unk#a<> > <unka> : thx bro . </s>
+<s> <user> <unka<> > np </s>
+<s> <user> <unka<> > speed test result at a notebook that dragged and dropped without difficulty : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka-> 's </s>
+<s> <user> <unk#a<> > can we have an option to upload images so that users can share screenshots </s>
+<s> <user> <unk#a<> > <unk#a> : you can already paste or drag images into the chat . </s>
+<s> <user> <unka<> > <unk#a> : thanks , paste does not have the required effect when the copy is from within e.g . eye of mate image viewer , i see now that it works when copied from e.g . gimp . </s>
+<s> <user> <unka<> > <unka> : depends on how the os and your browser interprets things . not very standard </s>
+<s> <user> <unk#a<> > <unka> : sure , no prob ... sounds like it can be finnicky ! </s>
+<s> <user> <unka<_> > function <unka(> , <unka> , <unka> , <unka> ) { var result = "" ; your code below this <unka/> your code above this line return <unka/;}> change the words here to test your <unka"(> " , " big " , " ran " , " quickly " ); </s>
+<s> <user> <unka<_> > help </s>
+<s> <user> <unka<> > <unka_> : if not related to support for <unka> , please seek help elsewhere . this room is dedicated to <unka> . thanks . </s>
+<s> <user> <unka<> > hi <unka> </s>
+<s> <user> <unka<> > hello </s>
+<s> <user> <unka<> > <unka@> can you notice any bug in the html <unka!<> html > <html > <unka<> > <unka!-<> attachments go here- -> <link <unka"/=> " <unka"./=> > <link <unka"/=> " <unka"-./=> > <unka/<> > <unka<> > <unka<> <unka"=> " <unka"=> <unka-> " > <unka<> <unka"-=> > <unka<> <unka"-=> > <a <unka"#=> " <unka"-=> > <unka/<> > <unka/<> > <unka<> > <unka<> <unka"=> <unka"-> > <unka<> <unka"=> > <a <unka"#=> > <unka/<> > <unka<> > <unka<> > <a <unka"#=> > <unka/<> > <unka/<> > <unka<> > <a <unka"#=> > <unka/<> > <unka/<> > <unka<> > <a <unka"#=> > <unka/<> > <unka/<> > <unka/<> > <unka/<> > <unka/<> > <unka/<> > <script <unka"./=> > <unka/<> > <script <unka"./=> > <unka/<> > <unka/<> > <unka/<> > </s>
+<s> <user> <unka<> > <unka> : if not related to support for <unka> , please seek help elsewhere . this room is dedicated to <unka> . thanks . </s>
+<s> <user> <unka<> > is there a code collapse feature ? </s>
+<s> <user> <unk#a<> > <unka> : i think if you click the ... there is an option to collapse gifs and possibly code blocks </s>
+<s> <user> <unka<> > hi , we renamed our github repository there is a chance to rename the <unka> channel ? </s>
+<s> <user> <unka<> > <unk#a> : no not code </s>
+<s> <user> <unk#a<> > shucks , <unka> code could be handy </s>
+<s> <user> <unka-<> > agreed </s>
+<s> <user> <unka-<> > hi there ! is <unka.> unstable ? or is it my laptop ? </s>
+<s> <user> <unka-<> > keeps crashing . </s>
+<s> <user> <unka-<> > it crashes often . </s>
+<s> <user> <unka-<> > now it does n't show my last line . anyone ? </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unka<> > we can hear you </s>
+<s> <user> <unk#a<_> > hi can you merge this with my github account please </s>
+<s> <user> <unk#a<_> > <unka> : hi can you merge accounts </s>
+<s> <user> <unk#a<_> > cool just read it </s>
+<s> <user> <unk#a<_> > quiet in here tonight </s>
+<s> <user> <unka<> > good morning all . what are the limitations of integration deployment within rooms ? seemingly anyone can add <unka> to any room but i have n't seen any events show up in any room where i 'm a member , or otherwise . </s>
+<s> <user> <unka<> > oh and while i 'm thinking about it , both the android and ios apps will blank out the content of a room ( right pane empty , right header still visible ). in such cases the only way to recover is to switch to another room and switch back , sometimes more than once to get the content to reappear . </s>
+<s> <user> <unka<> > <unk#a_> : hi </s>
+<s> <user> <unk#a<> > hi my profile picture will not update </s>
+<s> <user> <unka<> > hello world </s>
+<s> <user> <unka<_> > is <unka> open source ? </s>
+<s> <user> <unka-<> > hello </s>
+<s> <user> <unka-<> > how can i find settings in <unka> ? </s>
+<s> <user> <unka-<> > to delete account </s>
+<s> <user> <unka<> > hello evry one </s>
+<s> <user> <unka<> > first head <unka> </s>
+<s> <user> <unka<> > <unka> : hey ! </s>
+<s> <user> <unka<> > <unka> : aha ? </s>
+<s> <user> <unka<> > coding </s>
+<s> <user> <unka<> > <unka> : hello , hey i was wondering , i am a c# dev and was debating between also learning c and <unka+> </s>
+<s> <user> <unka<> > <unka*+> </s>
+<s> <user> <unka<> > i like oop and encapsulation , but since i might want to penetration test when i 'm older c might be better for that ? </s>
+<s> <user> <unka<> > do you think i should learn c or c++ ? </s>
+<s> <user> <unka<> > <unka> : i prefer to c++ </s>
+<s> <user> <unka<> > any reason why ? </s>
+<s> <user> <unka<> > and i dev app using c++ </s>
+<s> <user> <unka<> > and is that still easily usable on linux ? </s>
+<s> <user> <unka<> > ^ </s>
+<s> <user> <unka<> > of course </s>
+<s> <user> <unka<> > <unka> : <unka@> room is for <unka> support . please read the welcome message when joining a room and mind the room <unka/> in the chat header . please use [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i use qt </s>
+<s> <user> <unka<> > <unka> : sorry </s>
+<s> <user> <unka<> > <unka> : join the chat : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > lol so we do n't get yelled at </s>
+<s> <user> <unka<> > <unka> : just trying to find a thread can be tedious . and when a number if us are <unka> . the log file grows exponentially </s>
+<s> <user> <unka<> > <unka_> <unka@_> [ <unka-<> -> ] and the two that most affect me are [ <unka-<> -> ] and above all , [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> : there is a workaround , if you type some text and move your cursor into the middle of the text and press the enter key it will give you a new line and not send a text , at least on android </s>
+<s> <user> <unk#a<> > and only sometimes </s>
+<s> <user> <unka<> > <unk#a> : , thanks . it 's not very comfortable . :) </s>
+<s> <user> <unka<> > howdy ... just joined <unka> today in order to work with the plone community . i got connected to the irc bridge , and it works okay ... however , my client is being queried ( DIR/who/ ) once per minute , <unka> my logs with useless messages . is that <unka/> ? also , it would super nifty if that bridge could ( optionally ? <unka-> ?) convert <unka'<> > :' at the start of a line to ADDRESS_' <unka',<>@_> so as to improve interoperability between the two conventions of addressing individuals in a room . </s>
+<s> <user> <unk#a<> > hi everyone ! my " activity " bar is not <unka> " <unka> " are correctly configured ... any suggestions ? thank you ! </s>
+<s> <user> <unka<> > good morning </s>
+<s> <user> <unka<> > is their a way to merge 2 <unka> accounts this one <unka_> <unka@_> believe it was </s>
+<s> <user> <unka<> > hello everyone . why does <unka> client have such a high energy impact on mac os ? it constantly reports as high energy impact and that it requires the discrete graphics chip on macbook pro </s>
+<s> <user> <unka<> > this is while running in the <unka> client and while running in safari . </s>
+<s> <user> <unka<> > running in chrome does not appear to have that issue </s>
+<s> <user> <unka<> > i 've also noticed a lot of spinning when posting messages with markdown on a very slow or flaky network/internet connection </s>
+<s> <user> <unka<> > is this some issue with <unka> client itself or more likely a <unka/> issue ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> not educated on this topic , but could it be that the <unka> client is just an electron wrapper ? </s>
+<s> <user> <unka<> > because , if <unka> the case , <unka> running another instance of chrome . but again , this is just speculation . </s>
+<s> <user> <unka<> > hi ! curious if there are any communities in particular that show a good example of room organization </s>
+<s> <user> <unka<> > looking to set one up for my community and want to see a finished product </s>
+<s> <user> <unka<> > is [ <unka-<> -> ] going to be fixed at some <unka?> may be wrong , but it seems like an easy fix , and the issue has been open for over a month now . </s>
+<s> <user> <unk#a<> > <unka> : some organizations use a " lobby " room that is org specific , and then they have additional rooms for each repository , but you can also set up rooms around topics as well ( see <unka> for examples ) </s>
+<s> <user> <unka<> > it does n't work on my site : [ <unka-<> -> ] login issue </s>
+<s> <user> <unka<> > <unk#a> do i bridge riot to <unka> ? </s>
+<s> <user> <unka<_> > i am new here . i really like this approach of an app directed at <unka-> . however i feel that the homepage does not do a great job of communicating this . also , it took me a while to figure out how easy to go into a room and try it out . </s>
+<s> <user> <unka<> > somebody at ? </s>
+<s> <user> <unka<> > <unka_> : </s>
+<s> <user> <unka<> > to make a suggestion about chat functionality , should i post it [ <unka-<> -> ] or maybe some could point to a place where i could post a suggestion . github issues maybe ? </s>
+<s> <user> <unk#a<> > <unka> : yep , feature requests go on <unka> issues . you can indicate that it 's a feature request in the title , and the maintainers will tag it accordingly . </s>
+<s> <user> <unka<> > <unk#a> : aight , thanks </s>
+<s> <user> <unka<> > hi ! </s>
+<s> <user> <unka<> > ( sorry for the pic , that was n't meant to go here ) </s>
+<s> <user> <unka<> > i really like <unka> , and was thinking " what about a more compact theme ?" </s>
+<s> <user> <unka<> > the " chat " zone is ok , but a more compact " left " zone may be a good option </s>
+<s> <user> <unka<> > for touch device , the tall " contact " items in lists is great but on a computer , the more i have on screen , the better it is </s>
+<s> <user> <unka<> > what do you think about it ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that was a quick " console hack " but i think space is important . scrolling to find a <unka/> is really boring now :) </s>
+<s> <user> <unka<> > and with all this space , <unka> be interesting </s>
+<s> <user> <unka<> > <unka> : thanks <unk> maybe boring , but if scrolling will be desirable or required then a scroll bar and scroller should be visible . ( if there 's a bar in your shot , i ca n't see it .) </s>
+<s> <user> <unka<> > hi , trying to use the android app login via github , and it 's stuck at <unka-> authentication , waiting to receive an sms but nothing coming . is this only usable on a phone ( and not a tablet with no sim ) ? </s>
+<s> <user> <unka<> > never mind , sms arrived after a long wait ! </s>

@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "former": "where can i download the ethereum public blockchain data?",
+    "update": "where can I download blockchain data ?"
+  },
+  {
+    "id": 2,
+    "former": "what is the use case for ethereum and how does smart contract work?",
+    "update": "how does smart contract really work?"
+  },
+    {
+    "id": 3,
+    "former": "what is the best wallet for ethereum? and where to buy/sell them?",
+    "update": "what is the best wallet for ethereum? and where to buy/sell them?"
+  },
+  {
+    "id": 4,
+    "former": "how to properly process bids and reveal bids for ENS?",
+    "update": "what is the best way to process bids and reveal bids for ENS?"
+  },
+  {
+    "id": 5,
+    "former": "can i modify the type of Array.prototype.map?",
+    "update": "could just modify the type of Array.prototype.map by augmenting global"
+
+  },
+  {
+    "id": 6,
+    "former": "how to create account with ropsten testnet and web3js?",
+    "update": "how to create account using ropsten testnet?"
+  },
+   {
+    "id": 7,
+    "former": "how to star mining etherium",
+    "update": "how to star mining etherium?"
+  },
+   {
+    "id": 8,
+    "former": "how to install ethereum in redhat linux",
+    "update": "how to install ethereum in redhat linux?"
+  },
+   {
+    "id": 9,
+    "former": "how to transfer ETH from coinbase to my address in mist?",
+    "update": "transfer some ETH from coinbase to Mist but its not show up in the wallet"
+  },
+   {
+    "id": 10,
+    "former": "how would typescript know it could widen an array to any for includes",
+    "update": "how would typescript know it could widen that to `string` for `includes` but not any for other method? "
+  },
+   {
+    "id": 11,
+    "former": "how to log into my ethereum account?",
+    "update": "how to log into my ethereum account?"
+  },
+   {
+    "id": 12,
+    "former": "how to get good ether cloud mining?",
+    "update": "how to get good ether cloud mining?"
+  },
+   {
+    "id": 13,
+    "former": "difference between bootstraping and boostrap",
+    "update": "Bootstrapping something is not the same as boostrap which is a JS framework"
+  },
+   {
+    "id": 14,
+    "former": "how to use the 'geth--fast' token name registry in geth?",
+    "update": "ss there an official token name registry?  Does it cost anything?"
+  },
+   {
+    "id": 15,
+    "former": "what is ethereum and how can i use it for an efirium?",
+    "update": "what is ethereum?"
+  },
+   {
+    "id": 16,
+    "former": "Are there any mining m achine that can buy?",
+    "update": "do i have to use graphic card to mine this coin?"
+  },
+   {
+    "id": 17,
+    "former": "what GPU are recommended for best performance?",
+    "update": "What is the best GPU out there?"
+  },
+   {
+    "id": 18,
+    "former": "a way to declare a function that has the same signature as another function",
+    "update": "is there a convenient way to declare a function that has the same signature as another function? "
+  },
+   {
+    "id": 19,
+    "former": "how to withdraw my iconomi from Kraken.com into my ethereum",
+    "update": "Should i withdraw my Iconomi from Kraken.com into my Ethereum Wallet?"
+  },
+   {
+    "id": 20,
+    "former": "how can i start mining ethereum on win 64 with AMD graphics card?",
+    "update": "How can i start mining on win 64 with AMD graphic card?"
+  },
+   {
+    "id": 21,
+    "former": "how to use etherscan api in python?",
+    "update": "is there an example of etherscan api being used in python ?"
+  },
+   {
+    "id": 22,
+    "former": "how to create a mongodb block chain dev environment?",
+    "update": "how do I do the setup for Blockchain development?"
+  },
+   {
+    "id": 23,
+    "former": "ethereum transactions delayed and canceled ",
+    "update": "ethereum transactions canceled "
+  },
+   {
+    "id": 24,
+    "former": "is there something saying testnet near that block sync field?",
+    "update": "are there something saying testnet near that block sync field?"
+  },
+   {
+    "id": 25,
+    "former": "how to use java to develop smart contracts on ethereum?",
+    "update": "how to use api search wallet addr"
+  },
+   {
+    "id": 26,
+    "former": "is there any chance to download ETH WALLET on mobile phone or play store?",
+    "update": "is there any chance I can download ETH wallet on mobile phone or play store?"
+  },
+   {
+    "id": 27,
+    "former": "why is this soft fork happening in ethereum?",
+    "update": "what this soft fork does and also direct me to where someone from the foundation explains what is going on?"
+  },
+   {
+    "id": 28,
+    "former": "is there a forum dedicated to announcing Ethereum based crowdsales?",
+    "update": "is there a forum dedicated to announcing Ethereum based crowdsales?"
+  },
+   {
+    "id": 29,
+    "former": "how to open an ethereum account?and how can i start trading?",
+    "update": "how to open ethereum account"
+  },
+   {
+    "id": 30,
+    "former": "is ethereum associate with codebot.com/traderoom?",
+    "update": "is ethereum associate with this website?"
+  },
+   {
+    "id": 31,
+    "former": "how to buy ethereum using btc account",
+    "update": "how can I find that how Ethereum technically works?"
+  },
+   {
+    "id": 32,
+    "former": "is the ethereum wallet android a good option to maintain and receive eth with safe?",
+    "update": "is it possible to make pos with eth now"
+  },
+   {
+    "id": 33,
+    "former": "how is an ECR-20 transfer represented on the chain?",
+    "update": "is ECR-20 always the case that the contract is the receiver address in this case, and the user is the sender address?"
+  },
+   {
+    "id": 34,
+    "former": "how to get the oayout in anyog accounts?",
+    "update": "how to active testate ether faucets?"
+  },
+   {
+    "id": 35,
+    "former": "is there any extension for opencart? ",
+    "update": "are there any extension for opencart?"
+  },
+   {
+    "id": 36,
+    "former": "Is there an Ethereum wallet available for iPhone? One created by the organization?",
+    "update": "is there an Ethereum wallet available for iPhone?"
+  },
+   {
+    "id": 37,
+    "former": "how to recover coins sent to invalid address",
+    "update": "where do i start when building a platform?"
+  },
+  {
+    "id": 38,
+    "former": "how can i buy etherum?",
+    "update": "how to buy etherum?"
+  },
+  {
+    "id": 39,
+    "former": "how to create pay solution on my own created website with ether?",
+    "update": "how do I create a payment plan with Etherpad on a website I created?"
+  },
+  {
+    "id": 40,
+    "former": "how to install multiple versions of node type declarations into a single repo?",
+    "update": "how to get two versions of Node type declarations installed into a single repo at the same time?"
+  },
+  {
+    "id": 41,
+    "former": "synchronize mist/ethereum wallet with keystore",
+    "update": "how to fully sync my mist or ethereum wallet?"
+  },
+  {
+    "id": 42,
+    "former": "how far can ethereum reach by end of this month?",
+    "update": "how does ethereum app work?"
+  },
+  {
+    "id": 43,
+    "former": "unable to access OTn tokens on ethereum wallet or mist",
+    "update": "having trouble accessing OTn tokens on the ethereum wallet or mist"
+  },
+  {
+    "id": 44,
+    "former": "how to check my eth as I change it to dash using shapeshift",
+    "update": "how to check my eth as I change it to dash using shapeshift 2days ago yet still not transfer into my wallet"
+  },
+  {
+    "id": 45,
+    "former": "is it safe to download ether wallet to conputer and leave the wallet to your computer",
+    "update": "is it safe to download Eth wallet to computer and leave the wallet  to your computer?"
+  },
+  {
+    "id": 46,
+    "former": "is it possible to password-protect one's Ethereum wallet on windows?",
+    "update": "is it possible to password-protect one's Ethereum wallet?"
+  },
+  {
+    "id": 47,
+    "former": "why always fail my transaction admin and pending?",
+    "update": "why always fail my transaction adm?"
+  },
+  {
+    "id": 48,
+    "former": "where does the ethereum software install the blocks for mac os?",
+    "update": "How does one buy this ethereum wallet or digital currency?"
+  },
+  {
+    "id": 49,
+    "former": "is there an official android wallet of ethereum?",
+    "update": "is there an official, trusted, android wallet of Ethereum?"
+  },
+  {
+    "id": 50,
+    "former": "how can I prove that I bought Ether on a certain date?",
+    "update": "how can i prove that I bought ethereum at a certain date?"
+  }
+]
