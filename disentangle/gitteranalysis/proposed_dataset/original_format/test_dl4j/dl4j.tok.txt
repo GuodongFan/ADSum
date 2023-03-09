@@ -1,0 +1,1021 @@
+<s> <user> <unk#a<> > hi guys </s>
+<s> <user> <unk#a<> > i 've realized that my DIR/tmp/ folder gets filled with tons of <unka'> files , that i guess come from the use of the <unka(.> ) function . </s>
+<s> <user> <unk#a<> > is there a way to regulate that ? </s>
+<s> <user> <unka<> > <unk#a> : we can look in to that - could you file an ! issue ? </s>
+<s> <user> <unk#a<> > <unka> be . </s>
+<s> <user> <unk#a<> > i usually call <unka> </s>
+<s> <user> <unk#a<> > but <unka> look into that now </s>
+<s> <user> <unk#a<> > ah </s>
+<s> <user> <unk#a<> > <unka> not me </s>
+<s> <user> <unk#a<> > <unka> probably <unka> you use there ? </s>
+<s> <user> <unk#a<> > i used early stopping for the <unka> , yes </s>
+<s> <user> <unk#a<> > right </s>
+<s> <user> <unk#a<> > do as adam said </s>
+<s> <user> <unk#a<> > file an issue </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unk#a<> > just file an issue , and <unka> sort it out after release hits . <unka> not really a big deal anyway </s>
+<s> <user> <unk#a<> > ok . </s>
+<s> <user> <unka<> > hi . is there a place for <unka> <unka-> model ( not only model , but weights )? i am looking for a way to use <unka-> <unk#a> in <unk#a> . any pointer ? </s>
+<s> <user> <unka<> > <unka> : we do n't have weights yet . the plan is to add that to : [ <unka-<> -> ] when we do </s>
+<s> <user> <unka<> > i want to solve the conflict , can i load <unka> from jars by modify <unk#a> 's source code ? </s>
+<s> <user> <unka<> > if do n't care the system , how to use <unka> load library from specify path before load from DIR/usr/ DIR/lib64/ </s>
+<s> <user> <unka<> > would n't setting ld_preload work ? </s>
+<s> <user> <unk#a<> > try building <unk#a> from sources ? </s>
+<s> <user> <unk#a<> > in worst case you 'll just remove few <unka> </s>
+<s> <user> <unk#a<> > probably around declare <unka> </s>
+<s> <user> <unka<> > <unka> : <unka> does that by default , something else is loading system libraries </s>
+<s> <user> <unka<> > wether i can remove the <unka> from <unka.> in the <unk#a-._> </s>
+<s> <user> <unka<> > but yes , <unka_> <unka@_> using ld_library_path and/or ld_preload should force whatever to use what you want ;) </s>
+<s> <user> <unka<> > ok i go to have try , thank you </s>
+<s> <user> <unka<> > could you point to an example DIR/doc/ how to provide dataset with multiple labels ( e.g . <unka> ). the dataset has several labels , each can be yes or no ( 1 DIR/0/ ) , multiple " yes " could be set . </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : the <unka> does that out of the box </s>
+<s> <user> <unka<> > you just specify the number of labels and you're set </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i have question , i checkout the tag version " <unk#a-.> " from git hub yesterday , after import it into idea and resolve maven dependencies , i still see there are many code error , have i missed something ? </s>
+<s> <user> <unka<> > <unka> : wait what ? </s>
+<s> <user> <unka<> > are you trying to build from source ? </s>
+<s> <user> <unka<> > no where in our docs do we tell you to do that :d </s>
+<s> <user> <unka<> > use maven central please </s>
+<s> <user> <unka<> > <unk#a> has 4 projects including c code you need to build from source </s>
+<s> <user> <unka<> > i would n't suggest trying that </s>
+<s> <user> <unka<> > especially if you're new </s>
+<s> <user> <unka<> > i just want to dig into the code , see how it works , but i see many code error , like some function is missing ... </s>
+<s> <user> <unka<> > <unka> : yeah do n't do that </s>
+<s> <user> <unka<> > like at all </s>
+<s> <user> <unka<> > use intellij to download the source </s>
+<s> <user> <unka<> > and run it in the debugger if you want to do that </s>
+<s> <user> <unka<> > otherwise you have to build from source </s>
+<s> <user> <unka<> > like i said you have to build 4 projects to even get to <unk#a> </s>
+<s> <user> <unka<> > you sound completely new to a lot of this </s>
+<s> <user> <unka<> > i would n't suggest digging in unless you have to </s>
+<s> <user> <unka<> > of course you'r going to have errors </s>
+<s> <user> <unka<> > you need to build the other libraries first </s>
+<s> <user> <unka<> > do n't do it unless you have a compelling reason to </s>
+<s> <user> <unka<> > if you want to just explore do n't clone <unk#a> </s>
+<s> <user> <unka<> > <unka> : you can view the source from intellij using the maven release , just <unka+> on the various classes , and you can read through them <unka> the headaches associated with building from source :) </s>
+<s> <user> <unka<> > <unka> : so you mean let idea to decompile the code from the jar ? </s>
+<s> <user> <unka<> > no , not decompile . download sources </s>
+<s> <user> <unka<> > <unka> : i already said the source is in maven central </s>
+<s> <user> <unka<> > those are on maven central too </s>
+<s> <user> <unka<> > <unka> : ok , got </s>
+<s> <user> <unka<> > let me try </s>
+<s> <user> <unka<> > yes , it work for some of the class , like <unka.> , i can click on the link on the top bar of idea , it can download it , while for some class like <unka.> , seems like the class is inconsistent with the downloaded source code . </s>
+<s> <user> <unka<> > <unka> : intellij is usually weird about that i would n't pay too much attention to it </s>
+<s> <user> <unka<> > that 's usually because of source code comments and the like </s>
+<s> <user> <unka<> > it might also be <unka> annotation maybe , expanded in binaries but not source ? </s>
+<s> <user> <unka<> > anyway , not a concern really </s>
+<s> <user> <unka<> > there some minor error in the source code , like the logger declaration is missing , i <unka_> <unk#a,@_> this maybe the reason </s>
+<s> <user> <unka<> > <unka> : that 's <unka> like alex mentioned </s>
+<s> <user> <unka<> > got it , very thanks ! </s>
+<s> <user> <unka-<> > is there anything in <unka> thta would help me create separate <unka/> files , like the ones used in the <unka> <unka> example , or will i have to create them " manually " for my own time series ? </s>
+<s> <user> <unk#a<> > <unka> : how can i use <unka> in <unk#a> ? <unka(._> <unka(.[]{> ), <unka(.> ), <unka(.> <unk),}> vector ); the <unk#a$.:> cannot be cast to <unka.> </s>
+<s> <user> <unka<> > <unka-> : you'd have to do that manually but if you have a vision for how such a feature would work feel free to file an ! issue </s>
+<s> <user> <unka<> > something like that would n't be out of the scope of <unka> </s>
+<s> <user> <unka<> > <unk#a> : could you give a full stack trace ? i know you ca n't use gist in china so please use <unka.> if possible </s>
+<s> <user> <unka<> > screenshots are n't usually good either </s>
+<s> <user> <unka<> > tough to look at </s>
+<s> <user> <unka<> > is it possible to build a ( standard ) fully <unka> neural network with <unka> through time in <unk#a> ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > because the documentation justs says something about <unka> </s>
+<s> <user> <unka<> > oh , you mean <unka-> </s>
+<s> <user> <unka<> > hmm , not sure about that actually </s>
+<s> <user> <unka<> > <unka> : we only do <unka> </s>
+<s> <user> <unka<> > and their bidirectional cousin </s>
+<s> <user> <unka<> > ok thanks :) </s>
+<s> <user> <unka<> > <unka> : <unka'> <unka> would n't be hard to implement , but we have n't needed them yet so have n't built them </s>
+<s> <user> <unka<> > it shouldnt be too hard to implement that . it just needs the <unka> of <unka> into an <unka> and then do slightly modified bp </s>
+<s> <user> <unka<> > but maybe deep <unka> are n't suitable for practical use , just researching deep <unka> for time series prediction </s>
+<s> <user> <unka<> > <unka> : <unka> is very useful for time series prediction too </s>
+<s> <user> <unka<> > <unka> : is there a way to calculate how much time it would take for <unk#a> to fit on some data ? </s>
+<s> <user> <unka<> > or even monitor what 's going on ? </s>
+<s> <user> <unka<> > the reason why i am asking is because it has been more than 1 hour 20 minutes since the last log entry of " starting vocabulary building ... " and 1 hour since it finished <unka> over the data . ps : there were <unk#> sentences for training the model </s>
+<s> <user> <unka<> > <unka> : with a small data set like that , it should n't take <unka> can add a <unka> instance to track progress ... it should also log plenty of <unka> , what version of <unk#a> are you using ? and what backend ? </s>
+<s> <user> <unka<> > <unka> : <unk#a> 0.7.0 with <unk#a-> </s>
+<s> <user> <unka<> > there 's <unka> and <unka> </s>
+<s> <user> <unka<> > both of them are regularly updated </s>
+<s> <user> <unka<> > <unka> : i'd suggest <unka_> <unk#a@_> the <unk#a> performance issues ( he should be online in about 6 hours <unka)?> it should be significantly faster than 0.6.0 , and your data is n't <unka> free to open an issue though with details and configuration - that might make things easier for us </s>
+<s> <user> <unka<> > <unka_> <unka.@_> btw , each sentence is a pretty big ( almost a complete <unka/> ) so that could possibly be slowing things down . and it 's running on an <unk#a> cpu . </s>
+<s> <user> <unka<> > anyone know what would be a common cause of <unka(.> ) returning nan ? </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > if you head to the <unka> room i think there 's some peeps who can get more intimate with your problem </s>
+<s> <user> <unka<> > ! <unka> </s>
+<s> <user> <unk#a<> > accuracy is low or network is n't learning ? start by reading [ <unka-<> -> ] and [ <unka-<> -> ] </s>
+<s> <user> <unka<> > thanks guys </s>
+<s> <user> <unka<> > actually while we're on the topic , does remote ui reporting write to file or does the ui put the stats in memory ? </s>
+<s> <user> <unka<> > <unka> : defaults to in memory though , but you can use either </s>
+<s> <user> <unka<> > one sec </s>
+<s> <user> <unka<> > hmm , i wonder if that was the cause of my earlier problem </s>
+<s> <user> <unka<> > <unka> : i understand it that you can choose </s>
+<s> <user> <unka<> > either memory or file </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > public void <unka(> <unka> , boolean attach ) { what does attach do ? </s>
+<s> <user> <unka<> > to the ui </s>
+<s> <user> <unka<> > you do n't actually have to display the data when collecting it </s>
+<s> <user> <unka<> > nifty </s>
+<s> <user> <unka<> > i assume a single storage can handle multiple training instances ? </s>
+<s> <user> <unka<> > yep , that 's the idea </s>
+<s> <user> <unka<> > currently all remote ui info will be posted to a single storage instance </s>
+<s> <user> <unka<> > good to know , that 's going to save me a lot of headache :) </s>
+<s> <user> <unka<> > when producing feature maps for <unka> layer from previous <unka> layer , to my understanding , it 's a full connection between all feature maps in <unka> layer and one in <unka> layer . is this the <unka> ? </s>
+<s> <user> <unka<> > it is according to " [ <unka-<> -> ] " </s>
+<s> <user> <unk#a<> > hi guys how are you </s>
+<s> <user> <unk#a<> > <unk#a> : let me train a new model in 0.7.0 and test it out once ... if that fails too i will share the models and file an <unk#a-[> <unk#:> ] <unk#a<> > just post configurations you have , i 'll do it faster :) </s>
+<s> <user> <unk#a<> > i know where to look there :) </s>
+<s> <user> <unk#a<> > <unk#a> : [ <unka-<> -> </s>
+<s> <user> <unk#a<> > how big is <unka> ? is it sentences or documents ? </s>
+<s> <user> <unk#a<> > documents = set of sentences . i.e . text file . </s>
+<s> <user> <unk#a<> > documents </s>
+<s> <user> <unk#a<> > amazing , thanks </s>
+<s> <user> <unk#a<> > how big is it ? how many documents , and what 's average size of single document in bytes ? </s>
+<s> <user> <unk#a<> > we have 3 different models : 1 with 2 <unka> docs , 1 with 32k docs and last one with 476 docs ... all have average 10-12 <unka> </s>
+<s> <user> <unk#a<> > <unka> <- what 's that word means ? </s>
+<s> <user> <unk#a<> > 0.2 mil </s>
+<s> <user> <unk#a<> > aha , thanks . </s>
+<s> <user> <unk#a<> > good evening . </s>
+<s> <user> <unk#a<> > hi , </s>
+<s> <user> <unk#a<> > <unk#a> : <unk#a@> , just go straight to your questions . no need to wait till someone replies to your abstract " hi !" </s>
+<s> <user> <unk#a<> > you 'll get answers faster this way :) </s>
+<s> <user> <unk#a<> > how to get an image ( with rank 4 ) in a <unka> ? ( channels = 1 ) my first idea is to flat dimensions 3 and 4 to form <unka*_> columns , bad idea ? </s>
+<s> <user> <unk#a<> > <unka> kinda expects vector as input </s>
+<s> <user> <unk#a<> > so just flatten your images </s>
+<s> <user> <unk#a<> > there 's method available for that , <unk#a(.> ) </s>
+<s> <user> <unk#a<> > ok , thanks </s>
+<s> <user> <unka<> > <unka> : <unka@> just used the search engine and a link provided in a paper . what i was trying to figure out is the <unka> strategies you are using </s>
+<s> <user> <unka<> > <unka> : what is the paper you were looking at ? </s>
+<s> <user> <unka<> > <unka> : it 's from a double blind review so i cannot disclose it , sorry about that </s>
+<s> <user> <unka<> > no problem - more just trying to understand where these links still exist </s>
+<s> <user> <unka<> > sure </s>
+<s> <user> <unka<> > regarding the <unka> strategy , we apply the batch training approach where we divide the gradient updates by the batch size </s>
+<s> <user> <unka<> > thank ADDRESS_you <unka.@_> i am trying to figure out those strategies given that i am new to neural networks but not new to parallel programming </s>
+<s> <user> <unka<> > is the parameter " <unka> " the same as <unka().> ? </s>
+<s> <user> <unka<> > hi , there . i am new to <unk#a> and trying to run it on an spark on <unka> cluster . is there any configuration to do with the cluster ? i cannot find any document about it . </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > not sure how you missed this :d </s>
+<s> <user> <unka<> > we mention <unka> and the like right in there </s>
+<s> <user> <unka<> > including the memory configuration </s>
+<s> <user> <unka<> > our ! examples have spark in them as well </s>
+<s> <user> <unk#a<> > our latest examples available here : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : thanks . i did notice that page but only find the guidance about application programming . i mean what exactly i need to do to give the cluster the right environment for running <unk#a> on spark ? such as the dependencies issue . </s>
+<s> <user> <unka<> > it 's just a spark job really </s>
+<s> <user> <unka<> > it 's nothing different than what you already do </s>
+<s> <user> <unka<> > <unk#a-> is all you need </s>
+<s> <user> <unka<> > you can look at our examples for that stuff </s>
+<s> <user> <unk#a<> > hey guys , i have one last question around spark 's <unk#a> implementation ( newest version ). is there anyway to update existing weights , like the standalone <unk#a> version ? for example , if i start with a <unka> of 1 gb , then add 500 more mbs at a later time , can it do so without overwriting the existing <unka> and <unka> ? if not , is there a way to merge two lookup tables ? ( i know you can add <unka> cache , but i do n't see anything for the <unka> ). </s>
+<s> <user> <unka<> > <unka> : you are so kind . actually i am not very familiar with maven . i build an maven project with idea and add <unk#a-> to pom <unka<> > \n <unka<> > <unk#a./<> > \n <unka<> > <unk#a$-./<_{}> > \n <version > <unk#a$./<{}> > \n <unka/<> > and them i write an scala object which is a copy from <unk#a-> with spark . after idea complete the dependency resolving , all the class need jar seems not ready for <unka(> as <unka.> ). should i add some extra dependency such as <unk#a(-?> found it in pom of <unk#a-> ) </s>
+<s> <user> <unka<> > have you tried just following our quick start and importing the <unka> as is ? </s>
+<s> <user> <unk#a<> > <unk#a> : there are methods for that , but problem is n't really a merge of two tables , but merge of two <unka> trees . </s>
+<s> <user> <unka<> > oops i made mistakes .. hhh </s>
+<s> <user> <unka<> > oops i made mistakes .. hhh </s>
+<s> <user> <unk#a<> > ah , i did n't seen anything that did that in the <unk#a> implementation . is it apart of the <unka> package ? </s>
+<s> <user> <unka<> > <unk#a-> </s>
+<s> <user> <unk#a<> > thanks </s>
+<s> <user> <unka<> > <unka> : is it ok if i just copy the dependencies from the <unk#a-> to my own application pom ? </s>
+<s> <user> <unka<> > more or less should have everything </s>
+<s> <user> <unka<> > i would try to learn maven though </s>
+<s> <user> <unka<> > at least learn how to interpret what you're reading </s>
+<s> <user> <unka<> > so you do n't make a mistake </s>
+<s> <user> <unka<> > <unka> : thanks for your reply . discussion always help . </s>
+<s> <user> <unka<> > i have a question about how <unk#a> find the location of native .so files . all native .so files are packaged into a <unk#a-.> file . but when <unka> loads .so libraries , normally it needs <unka.> to find the .so libraries . but i did n't find this setting . so i wonder how <unka> find the location of native .so files . </s>
+<s> <user> <unka<> > <unka> : it 's based on the classpath </s>
+<s> <user> <unka<> > <unka> has a loader class </s>
+<s> <user> <unka<> > but when i was trying a simple example of <unka> , it said <unka> . i have to set ld_library_path to suppress it . i have the .so file on my classpath . </s>
+<s> <user> <unka<> > <unka> : i figured it out : i need to include platform name in the directory in the jar file that contains the .so files . </s>
+<s> <user> <unka<> > thanks for pointing me to the source code of <unka> </s>
+<s> <user> <unka<> > sorry , @ the wrong <unka._> <unka@_> </s>
+<s> <user> <unk#a<> > i thought someone at <unk#a> would like to know : the <unka> <unk#a> example frequently does not <unka/> ( <unk#a%/~> error through all <unka> ). it seems to work reliably when i reduce the <unka> = <unk#a./;> was <unk#.> so , you might update source code . </s>
+<s> <user> <unka<> > <unk#a> : pull request would be even better :d </s>
+<s> <user> <unk#a<> > fyi : when it <unka'\> converge , it repeatedly gets : " <unka.> - hit termination condition on iteration 0 " errors . </s>
+<s> <user> <unk#a<> > <unka> : sorry , i 'm not that sophisticated with git yet . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > does n't hurt to learn :d it 's only a few commands </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > it 's widely documented </s>
+<s> <user> <unk#a<> > <unka> : ok , wow , i did it as a pull request . that was n't as hard as i thought . you can quote me on that for future people . </s>
+<s> <user> <unka<> > haha awesome </s>
+<s> <user> <unka<> > congrats ! :d </s>
+<s> <user> <unka<> > merged :d welcome to the world of open source </s>
+<s> <user> <unk#a<> > this is awesome . </s>
+<s> <user> <unk#a<> > thanks for giving me a push , adam . </s>
+<s> <user> <unk#a<> > i mean a pull . </s>
+<s> <user> <unk#a<> > or whatever . </s>
+<s> <user> <unka<> > heh </s>
+<s> <user> <unka<> > is there an env variable that i can use to specify which <unka> to use ( <unka> vs <unka> )? </s>
+<s> <user> <unka<> > <unka> : if <unka> is in your library path , it will get used , but you can disable that by setting the <unka.> system property to an empty string </s>
+<s> <user> <unka<> > like this ? <unka-.=> "" </s>
+<s> <user> <unka<> > yes , that 's one way </s>
+<s> <user> <unka<> > hm , does n't quite work . </s>
+<s> <user> <unka<> > works like this though <unk$-> <unka=_> "" java main </s>
+<s> <user> <unka<> > there was this bug with <unka:> [ <unk#a+.> ] <unk#a+-_> have you guys had a chance to fix it in master ? </s>
+<s> <user> <unka<> > i 'm trying to compare <unka> vs <unka> performance in my case </s>
+<s> <user> <unka<> > sure , it 's only a build issue with <unka> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > so when i build from source - does the build also discover <unka> automatically and link against it <unka> ? </s>
+<s> <user> <unka<> > does this happen when building <unk#a> or <unk#a> ? </s>
+<s> <user> <unka<> > lib </s>
+<s> <user> <unka<> > in my use case <unka> is 3-4 times faster than <unka> </s>
+<s> <user> <unk#a<> > surprising . </s>
+<s> <user> <unka<> > yeah .. </s>
+<s> <user> <unka<> > on another note i 'm also playing with updating existing input <unka> instance instead of allocating it every time , and the version with in-place update is also 2-3 times faster , i.e . [ <unka-<> -> ] vs [ <unka-<> -> ] </s>
+<s> <user> <unka<> > would it be possible to have <unk#a> reuse the same instances of <unka> instead of allocating them every time - while running activation ? </s>
+<s> <user> <unk#a<> > that happens on cuda . </s>
+<s> <user> <unk#a<> > by default </s>
+<s> <user> <unk#a<> > not on cpu though </s>
+<s> <user> <unka<> > yeah , i 'm talking about cpu </s>
+<s> <user> <unka<> > that is while running the model in production </s>
+<s> <user> <unka<> > <unka> : are you going to open an issue for the <unka> problem when using <unka> model ? it would be great ! </s>
+<s> <user> <unka<> > <unka> : i 'm doing some tests to learn more . if the problem is obvious feel free to open the issue - i ca n't describe it just yet . </s>
+<s> <user> <unka<> > <unka> : the problem is not obvious for me ( i do n't know enough of the internal working of <unk#a> ) but it seems it was <unk#a@> . <unka> has different meaning in <unka> and <unk#a> </s>
+<s> <user> <unka<> > <unka> : right ok :d </s>
+<s> <user> <unka<> > that 's a simple fix </s>
+<s> <user> <unka<> > that 's why i was telling him to just do something without <unka> for now <unka_> <unka@_> this </s>
+<s> <user> <unka<> > ok . so no need to open an issue to track it down ? </s>
+<s> <user> <unka<> > how to get layer instance of a specific vertex in <unka> from custom <unka> ... </s>
+<s> <user> <unka<> > ? </s>
+<s> <user> <unka<> > i want to simply reach the weights of a layer ( vertex ) from another layer ( vertex ) during training ... </s>
+<s> <user> <unka<> > is it somehow possible to reverse engineer the filename from an instance in a <unka> ? </s>
+<s> <user> <unka<> > filename of <unka/> etc . </s>
+<s> <user> <unka<> > <unka> : yes , you have to enable meta data tracking and then you can get it from the <unka> </s>
+<s> <user> <unka<> > hi how to run <unk#a> on hadoop by using mapreduce ? is there any examples ? </s>
+<s> <user> <unk#a<> > <unka> none , mr <unka> supported anymore </s>
+<s> <user> <unk#a<> > spark is the way to go </s>
+<s> <user> <unka<> > <unka> : we had it at 1 point but no one was willing to pay for it </s>
+<s> <user> <unk#a<> > it was supported earlier , but ^^^ </s>
+<s> <user> <unka<> > we have <unka> engineers working on <unk#a> </s>
+<s> <user> <unka<> > if something is a maintenance burden we cut it </s>
+<s> <user> <unka<> > we did that with <unka.> too </s>
+<s> <user> <unka<> > same thing </s>
+<s> <user> <unka<> > maintaining 2 versions of spark was n't good for us </s>
+<s> <user> <unka<> > ok , i will switch to spark too :) </s>
+<s> <user> <unka<> > good morning ( again ! ) trying to run <unka> and trying to figure out how to create the <unka<> > from <unka> . trying <unka> <unka> = new <unka(> , new <unka(> , 64 )); but this is not splitting the dataset correctly . how to i create a <unka> from a <unka> ? </s>
+<s> <user> <unka<> > <unka> : you'd want to split the data yourself </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > if you pre save the <unka> you can use this </s>
+<s> <user> <unka<> > there 's also balance <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : can i use <unka> ? </s>
+<s> <user> <unka<> > not really </s>
+<s> <user> <unka<> > unless you have the whole dataset in memory </s>
+<s> <user> <unka<> > you could go through the <unka> and randomly do split test train and save the results </s>
+<s> <user> <unka<> > <unka> : when training my model , i use <unka> on a <unka> ( after applying <unka> ) to load the data . does this not work ? </s>
+<s> <user> <unka<> > well so again </s>
+<s> <user> <unka<> > you till have the problem of not having the whole dataset in memory </s>
+<s> <user> <unka<> > you could do split test and train on the batches and <unka> </s>
+<s> <user> <unka<> > my batch size is the entire data set so i should be fine </s>
+<s> <user> <unka<> > then yeah split test and train will work </s>
+<s> <user> <unka<> > we also see internal maven repos everywhere </s>
+<s> <user> <unka<> > granted upgrading a production hadoop or spark cluster is the stuff of nightmares . </s>
+<s> <user> <unka<> > so it 's only natural that it 'll be stuck on old java versions for a while . </s>
+<s> <user> <unka<> > yup </s>
+<s> <user> <unka<> > internal maven is just convenience </s>
+<s> <user> <unka-<> > did i just dream that there were aws amis available for <unk#a> ? ca n't find any </s>
+<s> <user> <unka-<> > perhaps it 's just not in my region </s>
+<s> <user> <unka<> > <unka-> : we do n't have anything up to date up there - we do have the docker containers though : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hi , i want to use <unk#a> to train my model , but my big concern is about training speed . i just read an article [ <unka-<> -> ] , seems <unk#a> is kinda slow . i am wondering whether this article is misleading somehow ? </s>
+<s> <user> <unka<> > <unk#a> : that stuff is always out of date </s>
+<s> <user> <unka<> > i would run your own benchmark </s>
+<s> <user> <unk#a<> > <unk#a> : all that stuff changes each and every release </s>
+<s> <user> <unka<> > when was the paper even written ? o_0 </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unk#a> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > october 2016 ? not sure </s>
+<s> <user> <unka<> > hmm .. may </s>
+<s> <user> <unk#a<> > last time <unka> checked <unk#a> vs <unka> , it was 0.6.0 -> 0.7.0 transition , and time was pretty close . </s>
+<s> <user> <unka<> > a lot can change in even 6 months </s>
+<s> <user> <unka<> > we are pretty on par now </s>
+<s> <user> <unka<> > i would run your own benchmark </s>
+<s> <user> <unka<> > a 1 off paper will usually be biased towards research for 1 </s>
+<s> <user> <unka<> > for 2 tensorflow is n't the fastest </s>
+<s> <user> <unka<> > but you see people using it anyways </s>
+<s> <user> <unk#a<> > for some things <unka> was faster , for other <unk#a> was faster </s>
+<s> <user> <unka<> > i would just give it a shot first </s>
+<s> <user> <unk#a<> > actually , any framework uses the same tools . </s>
+<s> <user> <unka<> > we have a standard <unka> benchmark [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> for cpu </s>
+<s> <user> <unka<> > right </s>
+<s> <user> <unka<> > we have <unka> too </s>
+<s> <user> <unk#a<> > <unka/> for <unka> </s>
+<s> <user> <unka<> > based on the " last visited " dates it was finished around april ? which means <unk#a-.> ( 6 releases ago , and before our major c++ backend rewrite ) </s>
+<s> <user> <unk#a<> > <unka/> for gpus </s>
+<s> <user> <unka<> > right </s>
+<s> <user> <unka<> > yeah that was when we had java </s>
+<s> <user> <unka<> > not c++ </s>
+<s> <user> <unk#a<> > so you <unka> really expect huge time differences now </s>
+<s> <user> <unk#a<> > <unka> +- the same time frames , so only ecosystem should matter </s>
+<s> <user> <unka<> > run your own benchmark </s>
+<s> <user> <unka<> > if you do make sure to pre save the data : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > ok , i will try to find out </s>
+<s> <user> <unka<> > my original idea in 2003 was to build a robot that uses swarm technique to collaborative robots </s>
+<s> <user> <unka<> > then have like a dozen of them working together to do fun stuff </s>
+<s> <user> <unka<> > it 's the reason i got a 3d printer </s>
+<s> <user> <unka<> > it'd be really awesome if you can get a dozen of them running <unk#a> </s>
+<s> <user> <unka<> > and just driving around . </s>
+<s> <user> <unka<> > automatically avoiding eachother . </s>
+<s> <user> <unka<> > one of the goals was to use cv to build racing robots that could drive around a track as fast as mindstorm <unka> can go </s>
+<s> <user> <unka<> > then people could have robot races </s>
+<s> <user> <unka<> > they could train the robots , post their models to github and share </s>
+<s> <user> <unka<> > instead of jumping right to that , i 'm doing robot tag first </s>
+<s> <user> <unka<> > it 's more like a robot time trial though , pi does n't have enough juice for robots to race each other </s>
+<s> <user> <unka<> > yeah . maybe if you had a bunch of robots connected to <unka> <unk#a> </s>
+<s> <user> <unka<> > " data loaded . vocabulary size : <unk#> total lines : <unk#> " wow , <unka\> 's not going to fit in ram ... </s>
+<s> <user> <unka<> > haha ... you refering to nvidia 's <unka> ... are n't those suckers still expensive </s>
+<s> <user> <unka<> > about <unk#a$> was it ? </s>
+<s> <user> <unka<> > i 'm thinking price range of under $30 </s>
+<s> <user> <unka<> > so that <unka/> school kids and build them </s>
+<s> <user> <unka<> > having them go to their parents and say " mom , can i have 600 to build a cool robot that races around a track ?" </s>
+<s> <user> <unka<> > might get the response " sure , go get a job !" </s>
+<s> <user> <unka<> > true . but plenty of kids play with gasoline rc cars and model <unka> that are in that range . </s>
+<s> <user> <unka<> > true , i had rich friends that did that for a hobby in the 80 's , but when they crashed them to pieces , their parents were pissed </s>
+<s> <user> <unka<> > only the ones with jobs could keep racing , the rest stopped once their cars were toast </s>
+<s> <user> <unka<> > there are few <unka> as expensive as racing . </s>
+<s> <user> <unka<> > like snow <unka> :) that 's a couple hundred each time </s>
+<s> <user> <unka<_> > how can i make read data format <unk#a.> ( <unk#a> ) into <unka> ? the data structure of my <unk#a.> file is like this " <unka/> <unka*/> <unk#a(-/> <unk#a-> <unk#a-> )". i can read it easily and assign it to <unka> but i dont how to assign it to <unka> . </s>
+<s> <user> <unka<> > <unka_> : you can use the new <unka> based presets </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > you would use that with <unka.> </s>
+<s> <user> <unka<> > if you can do a chain of saves in to a file this should work :d </s>
+<s> <user> <unka<> > what i would maybe consider doing if you can would be prepending an int and reading that in to represent the count of the number of <unka> </s>
+<s> <user> <unka<> > then you can just chain save and load calls </s>
+<s> <user> <unka<_> > okay let me clarify your answer . you suggest me to chuck my own data without using <unka> right ? i never use that <unka> before . it probably takes me some time to really get what you suggest . </s>
+<s> <user> <unka<> > <unka_> : it 's just java bindings for the c++ <unk#a> </s>
+<s> <user> <unka<> > same api </s>
+<s> <user> <unka<> > your goal is to basically get an input stream </s>
+<s> <user> <unka<> > and an <unka> </s>
+<s> <user> <unka<> > that you can write and read raw bytes from </s>
+<s> <user> <unka<> > i just told you the binary format to use from there :d </s>
+<s> <user> <unka<_> > within class <unka> in <unk#a> example package , when you train the model , how can you specify the input data label to fit the model ? i only see you using <unka(.> ) without specific the label with it . </s>
+<s> <user> <unk#a<> > dataset contains input and label fields </s>
+<s> <user> <unka<_> > but if have separate dataset how can i combine them </s>
+<s> <user> <unka<_> > for example by dataset input is 3 dimension and output is 1 <unka> output </s>
+<s> <user> <unka<_> > based on this link [ <unka-<> -> ] , can i just declare it like this dataset input = new <unka(,> ) while both input and label are <unka> with different dimension </s>
+<s> <user> <unka<> > input and label fields can be any <unka> ( that are appropriate for the network you are training , anyway ) </s>
+<s> <user> <unka<> > and yes , you create it using that constructor </s>
+<s> <user> <unka<_> > thank </s>
+<s> <user> <unka<> > <unka> : alex could you please explain the meaning of iteration number in the <unka> ? </s>
+<s> <user> <unka<> > suppose you have 3 examples : <unka,> in a <unk#a(.> ): <unka(> ) does training like <unk#a(.> ): <unka(> ) does training like <unka> </s>
+<s> <user> <unka<> > usually <unk#a(.> ) is what you want </s>
+<s> <user> <unka<> > that was an example contributed by the community fwiw </s>
+<s> <user> <unka<> > thank you . </s>
+<s> <user> <unka<> > so in that example , it is similar to the epoch parameter </s>
+<s> <user> <unka<> > if all data is in one dataset object : then <unka(.> ) and fitting for x <unka> are identical </s>
+<s> <user> <unka<> > in general , similar to <unka> , but different order </s>
+<s> <user> <unka<> > repeated order like that is n't usually a good idea </s>
+<s> <user> <unka<> > i see . </s>
+<s> <user> <unka<> > in what situation setting iterations > 1 makes sense ? </s>
+<s> <user> <unka<> > not many , to be honest . full <unka/> learning ( usually only possible on very small data sets ), <unka> data loading is very costly </s>
+<s> <user> <unka<> > i see </s>
+<s> <user> <unk#a<> > hi guys , with <unk#a> can i reproduce the results achieved articles about artistic style transfer ? i found several implementation on tensorflow ( e.g . [ <unka-<> -> ] ). is there any similar example or tutorial also for <unk#a> ? </s>
+<s> <user> <unka<> > hey , sorry for interrupting you , but i got a quick question , wondering if someone can answer it ... if i run the following line of code on a pretty large <unk#a> array ( no <unk#a> involved ) with tons of negative infinity values in it , a lot of messages saying " number : <unka-> " get logged . is this intentional , and if so , <unka(.?> , new <unka(.> ), <unka(.> )), <unk#a);> not happen with this piece of <unka(.:> , new <unka(.> ), <unka(.> )), new <unk#a().;> <unk#.> </s>
+<s> <user> <unk#a<> > <unka> : probably just a bug , leaked debug messsage </s>
+<s> <user> <unk#a<> > <unka> : <unka> check that right now </s>
+<s> <user> <unk#a<> > yes , because <unka> wrote that one </s>
+<s> <user> <unk#a<> > :) </s>
+<s> <user> <unka<> > <unk#a> : assumed so . thanks anyway , should i file a report or something ? </s>
+<s> <user> <unk#a<> > <unka> : thanks , no need , <unka> already opening <unk#a> </s>
+<s> <user> <unka<> > alright :d </s>
+<s> <user> <unk#a<> > i mean - <unka> already reported it :) </s>
+<s> <user> <unka<> > yeah but you might prefer it if i report it somewhere so you can organize your <unka-> or whatever </s>
+<s> <user> <unka<> > <unk#a> : found it , line 238 in <unka> </s>
+<s> <user> <unka<> > in case you have n't yet </s>
+<s> <user> <unka<> > :p </s>
+<s> <user> <unk#a<> > <unka> : <unka> also disable that spam :( </s>
+<s> <user> <unka<> > <unka> : but metadata i know for the <unka> during learning , is there also metadata to store within a model for the labels ? </s>
+<s> <user> <unka<> > <unka> : you'd have to track that yourself </s>
+<s> <user> <unka<> > i am <unka> to load a saved <unka> model , and the backend is tensorflow . my environment is eclipse , java 1.8 , cpu . this is my <unk#a./:> and this is my pom <unk#a./:> it failed . the error information is <unka:> in thread " main " java.lang.noclassdeffounderror : <unk#a/> also try to use the git source . there is the same error in the <unk#a-> <unka:> import <unk#a.> cannot be <unka> import <unk#a.> cannot be <unka> to solve this question ? </s>
+<s> <user> <unka<> > <unka> : i have correct my pom file and remove the <unk#a-> in my pom <unka> the error is <unka> in thread " main " java.lang.noclassdeffounderror : <unk#a/> also tried the git source of <unk#a> , the are the same error in the project <unk#a-:> import <unk#a.> cannot be resolved </s>
+<s> <user> <unka<> > hi , i am willing to contribute to <unk#a-> module , especially i am interested in allowing custom <unka.> , <unk#a> implements sliding windows of given context size . i want to provide a factory for windows , and therefore an interface for windows , so that one can provide its own implementation of a window . is there any suggestion to bootstrap me traps to avoid in the design of how <unk#a> handles windows please ? </s>
+<s> <user> <unka<> > <unka> : i worked on a previous implementation of this </s>
+<s> <user> <unka<> > you're talking <unka> right ? </s>
+<s> <user> <unka<> > <unka> : yes i am :) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > poke around in here </s>
+<s> <user> <unka<> > see also the files in the same directory </s>
+<s> <user> <unka<> > if you can improve on it please do </s>
+<s> <user> <unka<> > we have n't used this in a while so i would love seeing some updates to this </s>
+<s> <user> <unka<> > even a rewrite is fine </s>
+<s> <user> <unka<> > thanks , i 'll check the files and i 'm glad i asked :) </s>
+<s> <user> <unka<> > the unit tests might be helpful though </s>
+<s> <user> <unka<> > yeah i implemented this back in the days of <unka> </s>
+<s> <user> <unka<> > definitely needs some attention :d </s>
+<s> <user> <unka<> > yes , i think i could be best to fork master and try to <unka> the changes and modify at the same time for improvment if any </s>
+<s> <user> <unka<> > i originally used this for moving window <unka> stuff </s>
+<s> <user> <unka<> > i am convinced it does <unk#-;> ) </s>
+<s> <user> <unka<> > thanks for contributing happy to answer questions about the older <unka> </s>
+<s> <user> <unka<> > well , that 's me who is thankful :) i 'll will explore the links and see how things goes </s>
+<s> <user> <unka<> > <unka'/@> planning on building <unka> bindings for <unk#a> . is anyone in this thread interested in and available for contributing ( <unka-> , remote ) to that ? if so , pls dm me ... </s>
+<s> <user> <unka<> > hey , i 'm trying to import a model from <unka> , which seems to be working , but i do n't really understand how to include the json and <unka> file in the output jar . i put them in a resources folder that 's a resource root and they are present at the root of the jar file , but i get a no file found exception </s>
+<s> <user> <unka<> > the <unka> example is quite simple ... so i have still plenty of <unka> of all , there are many types of <unka> such as <unka> <unka> , sparse <unka> , <unka> <unka> , <unka> <unka> ... which does <unk#a> <unka?> i need to do something special to make an <unka> that is <unka> <unka> , sparse <unka> , <unka> <unka> or <unka> <unka> ? </s>
+<s> <user> <unka<> > the <unka> example is quite simple ... so i have still plenty of <unka> of all , there are many types of <unka> such as <unka> <unka> , sparse <unka> , <unka> <unka> , <unka> <unka> ... which does <unk#a> <unka?> i need to do something special to make an <unka> that is <unka> <unka> , sparse <unka> , <unka> <unka> or <unka> <unka> ? </s>
+<s> <user> <unk#a<> > <unka> <unka> now available at current master </s>
+<s> <user> <unk#a<> > alex merged it few days ago </s>
+<s> <user> <unka<> > nice ! </s>
+<s> <user> <unka<> > <unka> : there are small special things for each of the <unka> of <unka> . sparse has a penalty ( usually l1 ) which encourages sparse activation in the <unka-> hidden layer . <unka> adds noise on the input and attempts to reconstruct a noise free output . <unka> <unka> instead learn a mean and standard deviation instead of an explicit internal state , then randomly generate a hidden state from those values and reconstruct . </s>
+<s> <user> <unka<> > of the bunch , <unka> is perhaps the easiest to train , since you just had to do <unka(> + noise , <unka> ) </s>
+<s> <user> <unka<> > <unka> : i know the differences in the <unka> . just wondering how to implement them in <unk#a> ( for example the l1 stuff that you mentioned ) </s>
+<s> <user> <unka<> > ah . sry . i misunderstood . </s>
+<s> <user> <unka<> > in this respect , i ca n't really help . i 'm here for the <unk#a> stuff . ;) </s>
+<s> <user> <unka<> > i mean , i know , but i do n't know the exact math behind them </s>
+<s> <user> <unka<> > <unka'> ok :d </s>
+<s> <user> <unka<> > where is " <unka(> )" method defined in the code base ? in the class <unka> , the method " <unka(> )" calls a method " <unka(.> )" but i <unka'\> find where that method is define . intellij told me that it was not able to resolve that symbol . what did i do wrong ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : it 's a <unka> method </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > basically : <unka@> at the top of the class </s>
+<s> <user> <unka<> > you 'll need the <unka> plugin for intellij too , if you are messing with source </s>
+<s> <user> <unka<> > <unka> : thanks , alex . </s>
+<s> <user> <unka<> > a further question . i could not <unka/> the <unk#a> code base using intellij . for example , i tried to make the <unk#a-> module , and received the follow error message : </s>
+<s> <user> <unka<> > <unka> : did you follow the <unka> guide ? </s>
+<s> <user> <unka<> > that gives an end to end description of the setup </s>
+<s> <user> <unka<> > <unk#a(:> , 35 ) java : package <unk#a.> does not <unk#a(:> , 31 ) java : cannot find <unka> : class <unka> : class <unk#a.> </s>
+<s> <user> <unka<> > but i could build the <unk#a-> with no issues . </s>
+<s> <user> <unka<> > you cant just import <unk#a> </s>
+<s> <user> <unka<> > its a 4 repo project </s>
+<s> <user> <unka<> > well duh </s>
+<s> <user> <unka<> > thats maven central ;) </s>
+<s> <user> <unka<> > big difference </s>
+<s> <user> <unka<> > seems like you skipped reading half of the docs :/ </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > go through this first </s>
+<s> <user> <unka<> > sorry about that . i thought i could just download the codebase and build it . </s>
+<s> <user> <unka<> > thanks for the information . </s>
+<s> <user> <unka<> > we dont have snapshots yet so you <unka> yo setup c code :d </s>
+<s> <user> <unka<> > i appreciate the effort but <unk#a> isnt just 1 codebase </s>
+<s> <user> <unka<> > wee bit more complex than that :d </s>
+<s> <user> <unka<> > thanks . </s>
+<s> <user> <unka<> > <unka> : actually , can i use a different backend , that 's software based and not using native stuff ? </s>
+<s> <user> <unka<> > we do n't have a pure java backend , no . it'd be too slow </s>
+<s> <user> <unka<> > no ... i mean this just should n't be a problem </s>
+<s> <user> <unka<> > and ... that </s>
+<s> <user> <unka<> > i mean <unka> has n't been that big of a problem </s>
+<s> <user> <unka<> > i really do n't understand what 's going on </s>
+<s> <user> <unka<> > i looked inside <unka> </s>
+<s> <user> <unka<> > it seems to be using <unka.> </s>
+<s> <user> <unka<> > have you hit the debugger with loader ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > but i do n't get how it 's going to DIR/private/ when <unka> point to DIR/var/ </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > file an issue on <unka> with as much information as you can get </s>
+<s> <user> <unka<> > this just sounds like sam needing to update the docs </s>
+<s> <user> <unka<> > [ <unka-<> -> ] this is the whole output btw </s>
+<s> <user> <unka<> > it does n't really say where the error actually occurs </s>
+<s> <user> <unka<> > file an issue on <unk#a> there then </s>
+<s> <user> <unka<> > give as much detail as you can </s>
+<s> <user> <unka<> > alright </s>
+<s> <user> <unka<> > thanks for the help </s>
+<s> <user> <unk#a<> > <unka> : please add your <unka.> there </s>
+<s> <user> <unka<> > i guess what i 'm confused about here is what does it actually try to load ? should the computer already have a <unk#a> ? </s>
+<s> <user> <unka<> > or does it gather some native ops and puts them in a <unka.> and then tries to load from it ? </s>
+<s> <user> <unka<> > it usually loads it from an extracted internal jar </s>
+<s> <user> <unka<> > like i said just file an issue </s>
+<s> <user> <unka<> > <unka> : will get back to you </s>
+<s> <user> <unka<> > he wrote the code </s>
+<s> <user> <unka<> > <unka> is n't third party </s>
+<s> <user> <unka<> > we control and support this too </s>
+<s> <user> <unk#a<> > <unka> : , can you look at the <unka> example code that i uploaded few days back for your review ? please let me know if i need to add more useful information into it to make it compatible with <unk#a-> . </s>
+<s> <user> <unka<> > <unk#a> : i merged it already ? </s>
+<s> <user> <unka<> > did you do another commit ? </s>
+<s> <user> <unk#a<> > no , i did n't . is it available in <unk#a-> now ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > oh .. </s>
+<s> <user> <unk#a<> > great . i am happy to see it </s>
+<s> <user> <unka<> > <unka> : i did investigate that first but it seems that it does n't really perform a sliding window , and then i'd have to convert each window to an <unka> anyways which scares me </s>
+<s> <user> <unka<> > <unka> : well , it 's kind of limited in what it can do , but it 's fast </s>
+<s> <user> <unk#a<> > i made an app with <unk#a> and i want to deploy it on <unka> which is installed on a linux machine </s>
+<s> <user> <unka<> > <unk#a> : should be straightforward what are you running in to ? </s>
+<s> <user> <unk#a<> > it complains about <unka.> : no <unk#a> in <unka.> </s>
+<s> <user> <unka<> > just use <unk#a-> then ? </s>
+<s> <user> <unka<> > make sure your dependencies are up to date too </s>
+<s> <user> <unk#a<> > i use a previous version of <unk#a> 3.9 </s>
+<s> <user> <unka<> > o_o </s>
+<s> <user> <unka<> > yup we 've had 5-6 releases since then ? </s>
+<s> <user> <unka<> > maybe more </s>
+<s> <user> <unk#a<> > i would like to test it that version because everything was fine on my machine </s>
+<s> <user> <unk#a<> > i know .. sorry </s>
+<s> <user> <unka<> > we are n't liable for versions before this </s>
+<s> <user> <unk#a<> > <unka> : i ca n't get what 's your problem . could you please explain what 's your actual problem ? </s>
+<s> <user> <unka<> > i want to take compressed output from hidden layer of <unka.> one suggested to use <unka> method for that but i 'm not able to implement <unka.> help </s>
+<s> <user> <unka<> > <unka> : literally <unka'> nothing else to do other than use <unka> ... that gives you <unka> , which is exactly what you are asking for </s>
+<s> <user> <unka<> > <unka> : <unka> conf = new <unk#a()._> , new <unk#a().> , new <unk#a().> , new <unk#a().> , new <unk#a().> , new <unk#a().> , new <unk#a"().> ); </s>
+<s> <user> <unk#a<> > aha , another change applied is xavier weight init </s>
+<s> <user> <unk#a<> > originally it was wrong </s>
+<s> <user> <unk#a<> > now it 's fixed </s>
+<s> <user> <unk#a<> > original implementation is called <unka_> </s>
+<s> <user> <unk#a<> > <unka(.> ) <----- this thing </s>
+<s> <user> <unk#a<> > so ... i will changed to ? </s>
+<s> <user> <unk#a<> > legacy ? </s>
+<s> <user> <unk#a<> > the other think that i noticed is <unka> which is deprecated </s>
+<s> <user> <unk#a<> > could this change my results ? </s>
+<s> <user> <unk#a<> > not sure what was changed for <unka> ... </s>
+<s> <user> <unk#a<> > i mean it 's just new implementation available , but do n't know what was wrong with original </s>
+<s> <user> <unk#a<> > i do n't know what to follow </s>
+<s> <user> <unk#a<> > to spend time to check if the latest version of <unk#a> has the native libraries fixed for linux </s>
+<s> <user> <unk#a<> > or to keep my 3.9 version and investigate the part with <unka.> </s>
+<s> <user> <unk#a<> > <unk#a> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > thank you , <unk#a> , i am reading <unk#a./> , your advice is so kind . </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hello everyone ! im also new to <unk#a> , tried some stuff , read about it and really like it :) . but what im currently struggling with is how to enable multi label data input in <unk#a> ( an useful example would be tag prediction from an image ) . for inputs with a single label i used the <unka> , which was fine . since google and reading the docs did not help much ( apart from redirecting to <unka> :p ), i decided to ask here . </s>
+<s> <user> <unka<> > funny , someone else asked a very similar question a while ago about <unka> multiple classes </s>
+<s> <user> <unka<> > i think the only way is to take the n classes with the highest <unka> after the <unka> step </s>
+<s> <user> <unka<> > maybe have a threshold on minimum probability and take all the classes with at least that probability </s>
+<s> <user> <unka<> > but i take it you want to assign multiple labels to examples during training time . no idea how that would work honestly . </s>
+<s> <user> <unka<> > except maybe copying the examples that have multiple labels , one copy for every label you want to associate it with </s>
+<s> <user> <unka<> > do you mean using a <unka> and having a path for each of the labels ? </s>
+<s> <user> <unka<> > <unka> : i ca n't think a clean way to do that with the current built-in <unka> a github issue in <unka> with your use case ( i.e ., where the labels are coming from - flat csv ? <unka,<?> > , etc ) and we 'll see what we can do </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > ok thanks for the fast replies ! </s>
+<s> <user> <unk#a<> > <unk#a> : i have 2 words as vector representations . after i <unka> them , i have one vector representation . how do i lookup the table with the vector representation ? </s>
+<s> <user> <unk#a<> > the same way </s>
+<s> <user> <unk#a<> > <unka> </s>
+<s> <user> <unk#a<> > it accepts vectors as well as words </s>
+<s> <user> <unk#a<> > <unk#a> : where can i find a decent documentation containing all the functions relevant to <unk#a?> ! </s>
+<s> <user> <unk#a<> > in javadoc </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > is there an easy way to feed <unka> into a <unka> and act on the parent image based on the prediction without having to write to <unka?> the examples just show <unka> examples . do i have to manually write out the <unka> to create a <unka/> ? </s>
+<s> <user> <unka<> > <unka> : are you talkign about with using <unka> ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > you may want to look at <unka> </s>
+<s> <user> <unka<> > which wraps <unka> </s>
+<s> <user> <unka<> > have you seen that already ? </s>
+<s> <user> <unka<> > no , i 'll take a look . thanks </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unk#a> : is there any chinese edition of this book ? </s>
+<s> <user> <unka<> > <unk#a> is a bot :d </s>
+<s> <user> <unka<> > we are translating it to mandarin with oreilly </s>
+<s> <user> <unka<> > but it wo n't be out for a while </s>
+<s> <user> <unka<> > if you want more information add me on <unka> </s>
+<s> <user> <unka<> > <unka> </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unka<> > i can point you in the right direction </s>
+<s> <user> <unka<> > we have a <unka> presence </s>
+<s> <user> <unka<> > we also do a lot of business in china </s>
+<s> <user> <unk#a<> > thanks a lot </s>
+<s> <user> <unk#a<> > i begin to learn <unk#a> for a little days , and have lots of questions to ask . thanks for your <unka> </s>
+<s> <user> <unka<> > <unka?> chinese im tool from <unka?_> <unka@_> </s>
+<s> <user> <unka<> > yes i use <unka> </s>
+<s> <user> <unka<> > actively </s>
+<s> <user> <unka<> > i was just in china for all of november :d </s>
+<s> <user> <unka<> > i live in asia </s>
+<s> <user> <unka<> > i spoke here just recently : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > downloaded the most recent <unk#a/> . the following occurs when i run the examples if they are related to <unka> . not sure if this is a known issue or <unka.> - downloading <unka> ... exception in thread " main " <unka.> : unexpected end of zlib input stream at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a(.:> ) at <unk#a.<> > ( <unk#a.:> ) at <unk#a.<> > ( <unk#a.:> ) at <unk#a.<> > ( <unk#a.:> ) at <unk#a(.:> ) </s>
+<s> <user> <unka<> > <unka> : that 's just a network connection problem </s>
+<s> <user> <unka<> > try again , and if necessary , delete the <unka> directory in your home directory </s>
+<s> <user> <unka<> > <unka> : , thank you ! i removed the <unka> directory and now it is working . do not feel that it is a network connection problem . </s>
+<s> <user> <unka<> > it was most likely caused by a network connection issue while downloading </s>
+<s> <user> <unka<> > thanks , alex . <unka> worked and <unka> is working . </s>
+<s> <user> <unka<> > great </s>
+<s> <user> <unka<> > ADDRESS_hi <unka,@_> one question regarding the <unka> : when outputting the <unka(> rec . err ) digits ( or called <unka> ), are they correctly recognized ? in other words , they are recognized as <unka-> digits , but have large <unka> error . </s>
+<s> <user> <unka<> > anomaly detection and <unka> are different <unka> is no " correctly recognized " in anomaly detection </s>
+<s> <user> <unka<> > the output <unka(> rec . err ) digits are considered as <unka/> ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > if this is to demo a simple <unka> , it is fine . but if it is to demo the accuracy of the model , it is inadequate -- many <unka> do not look like <unka> . </s>
+<s> <user> <unka<> > <unka> : the <unka> <unka'\> know what " <unka> " means </s>
+<s> <user> <unka<> > it is an example of using the values from the <unka> to <unka> what we would consider <unka> </s>
+<s> <user> <unka<> > <unka> : , got it , thanks ! </s>
+<s> <user> <unka<> > also : anomaly detection using a <unka> <unka> should perform better ... <unka> <unka> will be available next release [ <unka-<> -> ] </s>
+<s> <user> <unka<> > ok , the crux of my question lies here : <unka> <unka> = new <unka(,> ); gives me compile error <unka> is abstract , ca n't be <unka> </s>
+<s> <user> <unka<> > so , i was willing to know what should i implement </s>
+<s> <user> <unka<> > <unka> : how can i help someone who ignores me ? :d </s>
+<s> <user> <unka<> > you ignore me and our docs </s>
+<s> <user> <unka<> > not sure what else i can do for you here </s>
+<s> <user> <unka<> > :) </s>
+<s> <user> <unka<> > <unka> is an interface </s>
+<s> <user> <unka<> > i 'm not sure what else you expect </s>
+<s> <user> <unka<> > i 'm telling you exactly how to make your life easy </s>
+<s> <user> <unka<> > you will end up rewriting half the stuff we already did for you in <unka> </s>
+<s> <user> <unka<> > we forced it to be 1 <unka> for a reason </s>
+<s> <user> <unka<> > we <unka> parsing logic from dataset handling and <unka> creation </s>
+<s> <user> <unka<> > there 's 1 billion reasons why that 's a good idea </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > 150 lines of code </s>
+<s> <user> <unka<> > this <unka> hard </s>
+<s> <user> <unka<> > i mean no offense here i 'm just not understanding what the resistance is </s>
+<s> <user> <unka<> > we already did the work for you </s>
+<s> <user> <unka<> > ok , i will get started with reading <unka> . the only " resistance " is that my input is not a csv and on first sight , it seemed to me that the only supported format was csv </s>
+<s> <user> <unka<> > <unka\> 'm trying to use the video <unka> example and have created a directory with mp4 videos ( videos created with <unka> <unk#a(._> ) when i try to run the <unka> , i receive here is the stacktrace : exception in thread " main " <unka.> : <unka.> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a(.> <unka)> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a().:> by : <unka.> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a().:> <unk#a(.:> ) ... 11 more </s>
+<s> <user> <unka<> > is there an mp4 codec that is recommended , or will any of the mp4 codec options suffice ? </s>
+<s> <user> <unk#a<> > <unka> <unka> = <unk#a'(,.> ); what does 'c' represent ? </s>
+<s> <user> <unk#a<> > and what is the difference between 'c' and 'f' ? </s>
+<s> <user> <unk#a<> > is there any material about this ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > see this </s>
+<s> <user> <unk#a<> > <unk#a> : it 's general concept , <unka-> and fortran ordering of elements within linear buffer </s>
+<s> <user> <unk#a<> > aka <unka-> and <unka-> </s>
+<s> <user> <unk#a<> > yes , i know . 'c' is c order ,and 'f' is f order </s>
+<s> <user> <unk#a<> > why asked then ? </s>
+<s> <user> <unk#a<> > :) </s>
+<s> <user> <unka<> > <unk#a> : see [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > thanks . </s>
+<s> <user> <unk#a<> > <unk#a> : i am read the examples of <unk#a> , and i saw this . just ask </s>
+<s> <user> <unka<> > hi , everyone ! i wanna to implement some missing functions in <unk#a> ( for example the <unka> operation in <unka> ). is there a recommended way to do ? thank you ! </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka\> 'm reading about the <unka> stuff and it says " it is not possible to change the number of examples between calls of <unka> " </s>
+<s> <user> <unka<> > i 'm trying to understand this : to make a prediction , i need the previous state , but if i call <unka(> ), this clears the previous ... which now allows me to use any number of examples i want ... but because previous state was cleared ... this means that i 'm back in the beginning ? </s>
+<s> <user> <unka<> > let 's say i have daily data , and i do at first 2 examples ( days ) at a time ... after some time i 've reached say thursday and could predict friday , but if i do <unka(> ), then i 'm back to monday ? </s>
+<s> <user> <unka<> > it 's pretty uncommon that you want to predict the next steps of some number of time <unka,> <unka> for a new time series at the same time </s>
+<s> <user> <unka<> > it gets hard to track , too </s>
+<s> <user> <unka<> > in principle : you can manually set the state </s>
+<s> <user> <unka<> > it 's just arrays , and adding more examples means a larger dimension 0 for the state </s>
+<s> <user> <unka<> > i mean is performance so critical that you really need to do that ? </s>
+<s> <user> <unka<> > if not , i'd suggest keeping them separate </s>
+<s> <user> <unka<> > <unka> : i 'm not yet even trying to optimize , i 'm not sure what it is doing or supposed to be doing ... for example , if i do single step , then i get next day , right ? if i do say 2 <unka/> , then i predict the day after tomorrow ? or still just tomorrow ? </s>
+<s> <user> <unka<> > have you read this ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > and the javadoc ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that 's exactly what i 'm reading ( not yet the javadoc though ) </s>
+<s> <user> <unka<> > so 3 examples would mean <unka> prediction in 3 locations ? </s>
+<s> <user> <unka<> > right , if you feed in an array with <unk#a(> ) == 3 , then that 's just a <unka> prediction for 3 separate examples </s>
+<s> <user> <unka<> > works exactly the same way as a training <unka> or standard forward pass in that respect </s>
+<s> <user> <unka<> > ok , got it now </s>
+<s> <user> <unka<> > <unka_> <unka@_> </s>
+<s> <user> <unka<> > sure , np </s>
+<s> <user> <unka<> > more questions about <unka> : using masks , the examples on the webpage talk about input and output masks but only show one layer ... is the input mask for only the <unka> output layer ? or is that for the <unka/> layer even if you have other <unka-> layers before it ? </s>
+<s> <user> <unka<> > still struggling to grasp the concepts to design a <unka> <unka\> 's say i wanted to detect <unka/> on " touch pad " that consists of n x n sensors that record the state at a given interval . the users obviously do not make the motions identically , including the speeds might be different . so , now i have two <unk#a:> ) should i use a single n x n conv layer as input ? or should i use some mega large input that contains all the n x n frames until the slowest motion is <unk#a?> ) if i used just single n x n as input , how should the training labeling be done ? logically it seems that the label should be when the motion is completed , that is in the end , but should the other frames from the first to the last frame also be labeled the same ? </s>
+<s> <user> <unka<> > <unka> : you could use a cnn to obtain a single vector representation and then feed that into an <unka> . another approach i think of is to capture touchpad " activation " in a single matrix and let them <unka> with each <unka> , so that most recent values will be 1 and old values will be close to zero and then apply a cnn to that single matrix . the problem with tihs approach is that you would need to detect start and end ( maybe with another net ?) </s>
+<s> <user> <unka<> > <unka> : " you could use a cnn to obtain a single vector representation " , could you elaborate on this ? do you mean by this that would build input layer that is m frames deep ? [ m x n x n ] if my frame is [ n x n ]? because this seems a bad idea , as it would require a lot of computing each step . some kind of hidden <unka> model would be preferred , when i would only need to know the previous state , not m previous states </s>
+<s> <user> <unka<> > <unka> : [ n x n ] -- cnn - -> [ m x 1 ] -- -> <unka> </s>
+<s> <user> <unka<> > <unka> : so <unka\> 's my " 1 )" with single [ n x n ] input ? </s>
+<s> <user> <unka<> > yes but with an <unka> afterwards </s>
+<s> <user> <unka<> > or did you mean that ? </s>
+<s> <user> <unka<> > of course , the beginning of my question implied that i 'm doing <unka> :d </s>
+<s> <user> <unka<> > but if i use the [ n x n ] input , <unka\> 'm then struggling with the " 2 <unk"):> how do i label my <unka?> the finger touches the middle of the touch pad , it could then move anywhere , up down left right ; so it would seem strange to label it as " up " even if it is part of " up " motion ... or should i ? or should those intermediate steps be all classified as " meh ?" :d or some intermediate <unka> like " doing up " and only the end would be " up " ? </s>
+<s> <user> <unka<> > in other words , in the sequence of " up " , should i classify the first frame also as " up " for training ? </s>
+<s> <user> <unka<> > what about this [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > titan is the best from consumer gpus </s>
+<s> <user> <unka<> > is it also a good one ? </s>
+<s> <user> <unk#a<> > yep , that 's fantastic titan gpu </s>
+<s> <user> <unk#a<> > yes , best of <unka-> gpus at this moment </s>
+<s> <user> <unka<> > ok if we buy this can we feel the improvements substantially in the gpu computing for machine learning ? </s>
+<s> <user> <unk#a<> > i guess you need to do some reading </s>
+<s> <user> <unk#a<> > gpus are not magic black boxes </s>
+<s> <user> <unk#a<> > on big tasks they shine </s>
+<s> <user> <unk#a<> > on small tasks they suck </s>
+<s> <user> <unka<> > i see </s>
+<s> <user> <unk#a<> > i.e . on my pc with gtx 1070 gpu in single gpu mode , cuda is faster then cpu somewhere around <unk#a-> </s>
+<s> <user> <unk#a<> > on that example you was running </s>
+<s> <user> <unk#a<> > with higher dimensions - difference gets higher </s>
+<s> <user> <unk#a<> > but it 's also possible to get difference smaller </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unk#a<> > if you 'll scroll up chat , you 'll see some guy today had issues with small <unka> model , which were not fast enough on gpu </s>
+<s> <user> <unk#a<> > like 5-7 hours ago </s>
+<s> <user> <unk#a<> > gpus are not magic boxes :) </s>
+<s> <user> <unk#a<> > they have own pro 's and con 's </s>
+<s> <user> <unk#a<> > so nobody will be able to say will you benefit or not , without detailed knowledge of the problems you're going to work with </s>
+<s> <user> <unka<> > hi i am having a little bit of trouble setting up all of the dependencies for spark . with this import line : import <unk#a.> ; </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : make sure all your <unk#a> versions are the same first of all </s>
+<s> <user> <unka<> > you saw our ! examples right ? </s>
+<s> <user> <unk#a<> > our latest examples available here : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > those has the <unka.> you need </s>
+<s> <user> <unka<> > usually <unk#a'-> </s>
+<s> <user> <unka<> > with the right scala version </s>
+<s> <user> <unka<> > <unk#a-._> or <unk#a-._> </s>
+<s> <user> <unka<> > yeah all of my spark import statements work except for that line . i am getting cannot resolve " <unka> " . i will look more into that . thanks adam . </s>
+<s> <user> <unka<> > <unka> : only dense layers ? not in case of cnn ? </s>
+<s> <user> <unka<> > <unka> : honestly ? we probably should have it for <unka> as well ... but i do n't think it 's in there currently </s>
+<s> <user> <unka<> > <unka> : i 'm just asking questions :d i know nothing :d trying to figure the <unka> part out , but probably wo n't have any meaningful training data before next week </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] fyi </s>
+<s> <user> <unka<> > <unka> : ca n't access that ( i 've requested access though ) </s>
+<s> <user> <unka<> > i 'm trying to achieve that same results , but on a pixel by pixel basis using local <unka.> had some success with a ff network and probably could 've gotten more by playing with the dataset , but i wanted to see if i could get <unka/> results with a different network architecture . </s>
+<s> <user> <unka<> > odd , link sharing is on . you should have access </s>
+<s> <user> <unka<> > i sent it to you . drive is acting all kinds of strange today . </s>
+<s> <user> <unka<> > <unka> , so looking at that : i'd probably use a <unka-> <unka> for that [ <unka-<> -> ] </s>
+<s> <user> <unka<> > anyone , implemented the <unk#a> and plot in a <unka> graph . </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] this is how you save <unka> coordinates given a vector </s>
+<s> <user> <unka<> > [ <unka-<> -> ] shows how our ui works </s>
+<s> <user> <unka<> > <unka> : actually looking at the new ui .. it looks we may need to implement the new <unka> yet </s>
+<s> <user> <unka<> > mind filing an ! issue ? </s>
+<s> <user> <unk#a<> > for <unk#a> issues , click 'new issue' at [ <unka-<> -> ] - for <unk#a> , use [ <unka-<> -> ] instead </s>
+<s> <user> <unka<> > <unka> : , i ran the former example before , but when i ran the later example , it consumes too much resource and my system stop responding . :( <unka.> you , i will try on different machine , i was in doubt before whether i was doing something silly . :)) </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > yep </s>
+<s> <user> <unka<> > i try to use <unka> but i ca n't understand how it works , anybody can explain me please ? </s>
+<s> <user> <unk#<> > hellow ! </s>
+<s> <user> <unk#a<> > <unk#> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hi adam </s>
+<s> <user> <unka<> > how is it going ? </s>
+<s> <user> <unka<> > <unka> : late in san francisco :d i 'm passing out in a few </s>
+<s> <user> <unka<> > i <unka.> day in <unka,> </s>
+<s> <user> <unka<> > yup i usually live in japan </s>
+<s> <user> <unka<> > i 'm used to time zones </s>
+<s> <user> <unka<> > 1 of those things :d </s>
+<s> <user> <unka<> > anyways - have a good " day " feel free to ask questions , my colleagues are awake </s>
+<s> <user> <unka<> > <unka.> do . </s>
+<s> <user> <unka<> > i have still problem with understanding the <unka> . let me explain , if i have 100 rows in train set and if i set batch <unk#a=> means what ? or setting <unk#a=> whta are the differences ? i really still dont understand . </s>
+<s> <user> <unka<> > k </s>
+<s> <user> <unka<> > so i 'm going to ask you read a book now :d </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > go through this chapter and come back </s>
+<s> <user> <unka<> > if you still have questions then we can talk </s>
+<s> <user> <unka<> > i 'm biased but i also wrote a ! book </s>
+<s> <user> <unka<> > thanks you very much </s>
+<s> <user> <unka<> > more basic questions are answered in depth in the textbook </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > hi , how can i avoid score value being nan during training ? i think reporting nan is undesired . am i correct ? </s>
+<s> <user> <unka<> > ! tuning </s>
+<s> <user> <unka<> > err <unka> broke again </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > ! tuning </s>
+<s> <user> <unk#a<> > accuracy is low or network is n't learning ? start by reading [ <unka-<> -> ] and [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hmmm </s>
+<s> <user> <unka<> > if you want help from us prove to me your read our tuning docs first :d </s>
+<s> <user> <unka<> > <unka> only acknowledges the real <unka> </s>
+<s> <user> <unka<> > hahahaha </s>
+<s> <user> <unka<> > ! tuning </s>
+<s> <user> <unk#a<> > accuracy is low or network is n't learning ? start by reading [ <unka-<> -> ] and [ <unka-<> -> ] </s>
+<s> <user> <unka<> > eff you </s>
+<s> <user> <unka<> > anyways :d </s>
+<s> <user> <unka<> > nah just flaky </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > <unka> : go through those steps </s>
+<s> <user> <unka<> > :) </s>
+<s> <user> <unka<> > from there do a dump on everything from the ui screenshots </s>
+<s> <user> <unk#a<> > just bot gets disconnected from <unka> sometime , and if something being sent during reconnect - message will be ignored :( </s>
+<s> <user> <unka<> > to your hyper parameters and what you 've tried </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > where can i find resources to understand how <unk#a> works <unka> ? </s>
+<s> <user> <unka<> > depends what you are looking for ... it 's a huge <unka> you trying to implement a new type of neural network or something ? </s>
+<s> <user> <unka-<> > hi </s>
+<s> <user> <unk#a<> > <unka-> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > i would like to use this code in java eclipse instead of intellij </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka-> : there 's nothing stopping you </s>
+<s> <user> <unka<> > learn <unk#a> </s>
+<s> <user> <unka<> > we wo n't support you if something hits a wall though </s>
+<s> <user> <unka<> > we just do n't use it </s>
+<s> <user> <unka<> > so we ca n't really help with troubleshooting weird edge cases </s>
+<s> <user> <unka<> > beyond that follow traditional tutorials on the internet </s>
+<s> <user> <unka<> > we are n't anything unique as long as you're using a build system </s>
+<s> <user> <unka-<> > thanks </s>
+<s> <user> <unk#a<> > i 'm having trouble trying to run an example project in eclipse using maven . how should i set the maven project 's launch configuration ? </s>
+<s> <user> <unk#a<> > <unk#a> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > there is nothing to set o_0 </s>
+<s> <user> <unka<> > if you are having problems it is likely related to being new to <unk#a> </s>
+<s> <user> <unka<> > if calling <unka(.> ) flags exceptions does that mean i ca n't train using the gpu as this indicates there is some issue with <unk#a> ? </s>
+<s> <user> <unka<> > ADDRESS_hi <unka,@_> just run the example and tried with chrome and ff ... both seem to work for me . </s>
+<s> <user> <unka<> > graphs are shown and the browser console is empty </s>
+<s> <user> <unka<> > ADDRESS_hi <unka@_> you ! are you using <unk#a.> or other ? </s>
+<s> <user> <unka<> > i just pulled the example repository of <unk#a> via github and imported it in eclipse as a maven project . worked fine for me . </s>
+<s> <user> <unka<> > <unk#a> : i just tried to change " <unka<> > <unk#a-/<> > " to " <unka<> > <unk#a-/<> > " , but it <unka'\> work . it\ 's also that error . <unka'\> find <unka.> </s>
+<s> <user> <unka<> > give us a ! gist of the full stack trace then </s>
+<s> <user> <unk#a<> > to use gist : paste your <unka/> output log into [ <unka-<> -> ] , click 'create secret <unka'> and paste url link here </s>
+<s> <user> <unk#a<> > and add output of java <unka> please </s>
+<s> <user> <unka<> > java version " <unk#a"(._> ) se runtime environment ( build <unk#a)-._> hotspot(tm ) 64-bit server vm ( build <unk#a-.> , mixed mode ) </s>
+<s> <user> <unka<> > yeah we 'll need your full error </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > ahh </s>
+<s> <user> <unka<> > add <unka> as a dependency </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i 'll try it . </s>
+<s> <user> <unka<> > aha .. the fact is that it also does n't work ... the same error . </s>
+<s> <user> <unka<> > your error is definitely opencv related </s>
+<s> <user> <unka<> > look at it </s>
+<s> <user> <unka<> > oh wait </s>
+<s> <user> <unka<> > i was looking at opencv :d </s>
+<s> <user> <unka<> > i read that as opencv not <unka> </s>
+<s> <user> <unka<> > that 's a bit weird </s>
+<s> <user> <unka<> > my bad </s>
+<s> <user> <unka<> > if <unka> is n't statically linked it might need to be installed ? hm </s>
+<s> <user> <unka<> > ... </s>
+<s> <user> <unka<> > i 'm not sure what the deal is on windows </s>
+<s> <user> <unka<> > yeah my bad :d let 's move on here </s>
+<s> <user> <unka<> > sorry we 've ran in to that before </s>
+<s> <user> <unka<> > pretty common cause </s>
+<s> <user> <unka<> > usually people need to install opencv in order to use it , it looks like something similar here </s>
+<s> <user> <unka<> > <unka> : what have you had to do ? </s>
+<s> <user> <unka<> > <unka> : installing <unka> here : [ <unka-<> -> ] and putting this folder on your path should work </s>
+<s> <user> <unka<> > ok . </s>
+<s> <user> <unka<> > also if you <unka'\> know what <unka\> 'm talking about with " linking " you should at least vaguely know what that is </s>
+<s> <user> <unka<> > look , i can tell you're kinda impatient with this , but native stuff is more or less always like this on windows :d </s>
+<s> <user> <unka<> > hi , one quick question :) </s>
+<s> <user> <unka<> > you run <unka> from intellij idea </s>
+<s> <user> <unka<> > as java application </s>
+<s> <user> <unka<> > or maven something ? </s>
+<s> <user> <unka<> > what do you mean ? </s>
+<s> <user> <unka<> > i open the <unka.> file </s>
+<s> <user> <unka<> > all good </s>
+<s> <user> <unka<> > i go run as java application </s>
+<s> <user> <unka<> > or i need to do do something like maven package ? </s>
+<s> <user> <unka<> > run as java application </s>
+<s> <user> <unka<> > ok , tnx ! </s>
+<s> <user> <unk#a<> > i have a quick question about [ <unka-<> -> ] : why is the <unka> set to 24 by default when the <unka> on <unka> says it should generally be the same as the number of workers ? 24 seems really high with only 4 workers </s>
+<s> <user> <unk#a<> > how to frame a network which reads paragraph and answer question from that ? </s>
+<s> <user> <unka<> > <unk#a> : have you set up the examples and read trhough the code ? start there . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i have done all these but this example does n't <unka> my usecase . </s>
+<s> <user> <unk#a<> > got <unka> how to proceed </s>
+<s> <user> <unka<> > <unk#a> : question answering systems are <unka> complicated than most of our examples ... you're going to have to research the deep learning literature and build it yourself </s>
+<s> <user> <unk#a<> > can you suggest some steps to achieve question answering system from paragraph . </s>
+<s> <user> <unk#a<> > <unka> : can you suggest some steps to achieve question answering system from paragraph . </s>
+<s> <user> <unk#a<> > <unk#a> : <unka> suggest to go to <unka.> as first step </s>
+<s> <user> <unk#a<> > your question <unka> have simple answer </s>
+<s> <user> <unka<> > i am looking at the <unka> and <unk#a> example . the code in <unka> runs but does not plot anything at the end . the documentation on [ <unka-<> -> ] shows different code , ending in <unka().> ); which does not match what 's in <unka> . how do i get a plot of the result ? </s>
+<s> <user> <unk#a<> > <unka> : <unka> 2 options : either render to <unka> , or save to file as csv </s>
+<s> <user> <unk#a<> > thanks alex . actually my data are stored in a database , and i planed to load and convert them to csv files so that i could use <unk#a> built-in <unka> , but it is not feasible to create a million files , so i am wondering there are other built-in methods for this :) </s>
+<s> <user> <unk#a<> > if you have data in database , why would you need csv ? </s>
+<s> <user> <unka<> > because we do n't have a jdbc record reader yet ? </s>
+<s> <user> <unka<> > :d </s>
+<s> <user> <unk#a<> > but he can read his data on his own , and just pass it via one of existing <unka> that take <unka-> data ? </s>
+<s> <user> <unk#a<> > we have bunch of those </s>
+<s> <user> <unk#a<> > i was just trying to follow the tutorial . you know , i am new to <unk#a> , so i am not familiar with how to create a custom <unka> , so i started from the tutorial </s>
+<s> <user> <unka<> > right but jdbc straight from the source would be more straightforward :d </s>
+<s> <user> <unk#a<> > is there any sample for loading data from database and put into <unka> <unk#a?@> </s>
+<s> <user> <unka<> > csv is also the best tested </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> : hi , my computer config is i3 cpu , and 8g ram . but when i <unka> example of <unk#a> , it keeps in this state for a long time . does that mean my computer config not enough ? </s>
+<s> <user> <unk#a<> > yes </s>
+<s> <user> <unk#a<> > ram <unka> enough </s>
+<s> <user> <unka<> > " i3 " ? </s>
+<s> <user> <unk#a<> > nvm cpu , ram is an issue here </s>
+<s> <user> <unk#a<> > yes </s>
+<s> <user> <unka<> > that will take forever to run anythin <unka:> </s>
+<s> <user> <unka<> > ram too though </s>
+<s> <user> <unk#a<> > i bet pc is swapping :) </s>
+<s> <user> <unk#a<> > i asked u before , and you said you have run this in your lap , and it 's 8g too <unka,> </s>
+<s> <user> <unka<> > well it\ 's " possible " </s>
+<s> <user> <unka<> > does n't mean it 's ideal :d </s>
+<s> <user> <unk#a<> > <unka> laptop is slightly more then 8g :) </s>
+<s> <user> <unka<> > my travel laptop is 24gb </s>
+<s> <user> <unk#a<> > ok , maybe i should get a better pc </s>
+<s> <user> <unk#a<> > but adam , i have 1 million records ( each has 10 time series ), so that means i have to create 1 million files with 10 record in each . i do n't think it is a good choice .... </s>
+<s> <user> <unka<> > that 's what i do too ( for other reasons ) and it gives me just a few hundred files ( batches of 150 examples ) </s>
+<s> <user> <unka<> > ( note that i need multiple files for a single example , multiple inputs and outputs , but that should n't matter otherwise ) </s>
+<s> <user> <unk#a<> > thanks ede , i will try that </s>
+<s> <user> <unka<> > guys help please . i do n't understand what each gate in <unka> architecture produce . is it a number or a vector ? if i 'm not wrong <unka> function always produces only one number in range from 0 to 1 . or it is possible that every gate produces target vector that was obtained by applying <unka> function to each element of input vector ? </s>
+<s> <user> <unka<> > each gate produces a single number in range 0 to 1 . you have 4 gates per <unka> unit , and multiple units per <unka> layer </s>
+<s> <user> <unka<> > is number of units == <unka(.> ) of layer actually ? </s>
+<s> <user> <unka<> > so every <unka> block produces number and not a vector ? </s>
+<s> <user> <unka<> > <unka> : yes </s>
+<s> <user> <unka<> > by <unka> block i mean <unka> unit </s>
+<s> <user> <unka<> > <unka> : yes , it 's the same as any other <unka> ( or , any other network in general ) - each unit gives a single <unka/> </s>
+<s> <user> <unka<> > it 's all <unka> for implementation though , across all units </s>
+<s> <user> <unka<> > really thank you ! everything became so clear </s>
+<s> <user> <unka<> > have you got a code example which simply has working code for <unka> plot on <unk#a> output ? </s>
+<s> <user> <unka<> > the document only has snippet </s>
+<s> <user> <unk#a<> > code for ? </s>
+<s> <user> <unk#a<> > for single method call ? </s>
+<s> <user> <unka<> > and the <unka.> does not plot </s>
+<s> <user> <unk#a<> > <unka> already pointed you to method you need </s>
+<s> <user> <unka<> > like <unka.> , except one that actually put up a plot </s>
+<s> <user> <unk#a<> > <unka> nothing more needed from you </s>
+<s> <user> <unka<> > so you do n't have such an example code </s>
+<s> <user> <unka<> > so i was having trouble finding out what that int array that used to be returned for that old <unka> even was , there was no info about it on their site , so it\ 's a little hard for me to figure out what i should do to get it into the correct format . so i tried just converting to an int array ( because <unka\> 's what it expects ) but it\ 's complaining about " mis matched lengths " </s>
+<s> <user> <unka<> > do i need to scale it somehow so it 's equal size ? </s>
+<s> <user> <unk#a<> > i <unka> read your mind , sorry . give full exception as ! gist please :) </s>
+<s> <user> <unk#a<> > to use gist : paste your <unka/> output log into [ <unka-<> -> ] , click 'create secret <unka'> and paste url link here </s>
+<s> <user> <unka<> > will do , one sec . appreciate the patience . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > oh shoot , my bad i used public . wo n't do that again . </s>
+<s> <user> <unk#a<> > that doesnt matters </s>
+<s> <user> <unk#a<> > so </s>
+<s> <user> <unka<> > exception is at the bottom </s>
+<s> <user> <unk#a<> > one thing looks like a hint </s>
+<s> <user> <unk#a<> > i guess your <unka[> ] length is <unk#> </s>
+<s> <user> <unk#a<> > and expected <unka[> ] length is is <unk#> </s>
+<s> <user> <unk#a<> > which is <unk#> 4 ( <unka> int ) = <unk#> </s>
+<s> <user> <unk#a<> > what their documentation says ? :) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > not crazy specific there </s>
+<s> <user> <unka<> > <unka.> needs <unka> argument . where do i find examples for that ? </s>
+<s> <user> <unka<> > just says it 's a byte array is all , and the previous api was just returning an <unka[> ] when you called <unka(> ) ( no longer there ), but i ca n't find any info on what that was either </s>
+<s> <user> <unka<> > <unk#a> : so that <unk#> number is = to the number of <unka> in an 800x600 image , which is the resolution i 'm running the game </s>
+<s> <user> <unk#a<> > aha </s>
+<s> <user> <unk#a<> > so <unka> probably <unk#a> expects lower resolution ? </s>
+<s> <user> <unka<> > possible ... i did n't touch the resolution though so that'd be strange </s>
+<s> <user> <unka<> > i suppose i could step through and figure out where that <unk#> number is coming from </s>
+<s> <user> <unk#a<> > from line 72 </s>
+<s> <user> <unk#a<> > <unka> = new <unka<> > ( new <unka(.[]{> ), <unka(.> ), 3 <unk);}> </s>
+<s> <user> <unk#a<> > i guess those options should be pr propagated to <unk#a> level </s>
+<s> <user> <unka<> > <unk#a> : okay , was having workspace issues ... back at it now . so the issue is that the ind array is totally different for what you said it 's expecting there , and the <unka_> </s>
+<s> <user> <unka<> > what it 's expecting is a shape of <unk#,> , 3 in an <unka> </s>
+<s> <user> <unka<> > what it 's getting is a <unk#,> </s>
+<s> <user> <unka<> > i am trying to look into <unk#a> core source so i figure out how to use <unka> . <unka> download sources does not seem to work . is <unk#a> core source available ? </s>
+<s> <user> <unka<> > it would be helpful if someone at least put up a example that displays a plot on <unka> from beginning to end </s>
+<s> <user> <unka<> > otherwise , its time to give up </s>
+<s> <user> <unk#a<> > <unka> : <unka> posted you a link few hours ago </s>
+<s> <user> <unk#a<> > link to repo </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > and download sources work as well </s>
+<s> <user> <unk#a<> > <unka> kinda requirement </s>
+<s> <user> <unka<> > ok , thank you </s>
+<s> <user> <unk#a<> > <unka> right there at maven </s>
+<s> <user> <unk#a<> > hello , in <unka> for experts example i can see <unka> called on builder </s>
+<s> <user> <unk#a<> > what kind of <unka> will be used if it is set to true </s>
+<s> <user> <unk#a<> > <unka> is special option for <unka/> </s>
+<s> <user> <unk#a<> > can i use it to <unka> conv net weights using <unka> automatically ? </s>
+<s> <user> <unk#a<> > i should be clearer : i want to do <unka> using <unka> and then transfer the weights to conv net before starting <unka> . will <unka(.> ) do that for me ? </s>
+<s> <user> <unka<> > [ error ] failed to execute goal <unk#a-.:> ( <unka-> ) on project <unk#a-> : some <unka> rules have failed . look above for specific messages explaining why the rule failed . -> [ help 1 ] </s>
+<s> <user> <unk#a<> > <unka> : welcome ! here 's a link to <unk#a> 's <unka> guidelines , our documentation and other <unka> resources online . please explore these and enjoy ! [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : what are you trying to do ? </s>
+<s> <user> <unka<> > you should n't get that by default . what did you <unka> ? </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i feel " building from source " attempt ... </s>
+<s> <user> <unka<> > probably :d </s>
+<s> <user> <unka<> > i see " <unk#a-> " though </s>
+<s> <user> <unk#a<> > my computer does not have a gpu . is it possible for me to build the whole project locally ? </s>
+<s> <user> <unka<> > see 2nd comment : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > that means " building the cuda backend " is not necessary ? </s>
+<s> <user> <unka<> > as long as you skip it you do n't have to </s>
+<s> <user> <unka<> > is there a reason you're building from source though ? </s>
+<s> <user> <unka<> > you know you do n't need to right ? </s>
+<s> <user> <unk#a<> > i want to change the loss function . </s>
+<s> <user> <unka<> > you can add a custom one without compiling <unk#a> though </s>
+<s> <user> <unk#a<> > for some special reasons . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > it does n't matter what they are :d there 's an example right there of how to do it without compiling <unk#a> </s>
+<s> <user> <unk#a<> > our model is very special </s>
+<s> <user> <unka<> > you can also do custom layers </s>
+<s> <user> <unk#a<> > is there some instructions i can follow ? </s>
+<s> <user> <unka<> > on what ? custom layers ? </s>
+<s> <user> <unk#a<> > yes </s>
+<s> <user> <unka<> > again - <unka> to <unka> i <unka> an <unka> what you're missing :d </s>
+<s> <user> <unka<> > we have examples </s>
+<s> <user> <unka<> > if you want step by step tutorials tell us what </s>
+<s> <user> <unka<> > we have a dedicated person who does that stuff </s>
+<s> <user> <unka<> > they read issues </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > custom layers and custom loss functions </s>
+<s> <user> <unka<> > we have basics </s>
+<s> <user> <unka<> > the <unka.> is right there for it </s>
+<s> <user> <unka<> > <unka*.> </s>
+<s> <user> <unka<> > if you want more then tell us </s>
+<s> <user> <unk#a<> > okay </s>
+<s> <user> <unk#a<> > i spotted a <unka> boolean parameter in configuration </s>
+<s> <user> <unk#a<> > does this turn on greedy <unka-> <unka> <unka> for <unka/> ? </s>
+<s> <user> <unka<> > has anyone used <unka_> as a loss function for outputs and if yes , for what use case ? </s>
+<s> <user> <unka<> > <unka> : re : <unka> proximity - i 've never used it ( but yes , it 's all <unka/> checked ) ... was built partly for our <unka> import <unka> i believe this is one application : [ <unka-<> -> ] [ <unka-<> -> ] ( compare eq 3 vs the comments of the mathematical form in the code comments ) </s>
+<s> <user> <unka<> > yes i thought i could use it to loss compare word <unka> , but somehow i cant manage to set other <unka> . i get always nan as score </s>
+<s> <user> <unka<> > gonna check the paper </s>
+<s> <user> <unka<> > and re : masking arrays <unka-_> <unka@_> explained it well ... just to reiterate : the net always outputs something at each time step , even with <unka> can use this to manually zero them if you want : [ <unka-<> -> ] during training we use the mask to set the errors ( loss function gradients ) to 0 - the network 's <unka> are thus ignored for those time steps </s>
+<s> <user> <unka<> > <unka_> <unka'@_> explanation was good , did n't realized the masking worked that way but its perfectly fine </s>
+<s> <user> <unka<> > i 'm training a <unka> + cnn model . the f1 score is around 50 . but there are some warning that some classes are never predicted . </s>
+<s> <user> <unka<> > i did a quite check . i guess that there are around 50% of training data is labeled as type a . there are 5 types . </s>
+<s> <user> <unka<> > shall i create the dataset which is perfect balanced for 5 types ? </s>
+<s> <user> <unka<> > what do you mean " <unka> + cnn " model ? </s>
+<s> <user> <unka<> > if you trained a conv net say that in plain english :d </s>
+<s> <user> <unka<> > beyond that yes , <unka> should always be balanced </s>
+<s> <user> <unka<> > the intuition for <unka> learning comes from statistics </s>
+<s> <user> <unka<> > if you have a <unka> it should ideally be as close to representative of your whole population as possible </s>
+<s> <user> <unka<> > i mean <unka> layer + cnn . i used wrong word , i guess .... </s>
+<s> <user> <unka<> > the reason i ask about your model , is because batch size largely depends on dimensions of the data and kind of problem as well as number of labels </s>
+<s> <user> <unka<> > then say " conv net " :d </s>
+<s> <user> <unka<> > so depending on how big your images are you could be like <unka> where 1k is a good idea ( small dimensions ) or 32/64 like <unka> </s>
+<s> <user> <unka<> > the label distribution will come down to batch size </s>
+<s> <user> <unka<> > ok . i merged a csv data and image data <unk#a> pixel </s>
+<s> <user> <unka<> > but as evenly distributed as you can get would be better </s>
+<s> <user> <unka<> > make sure to check our ! tuning guide </s>
+<s> <user> <unk#a<> > accuracy is low or network is n't learning ? start by reading [ <unka-<> -> ] and [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i read it , but want to learn more , for example about batch balancing </s>
+<s> <user> <unka<> > thanks for the answer </s>
+<s> <user> <unka<> > <unka~> 1 question </s>
+<s> <user> <unka<> > how can i contribute to document translation </s>
+<s> <user> <unka<> > ? </s>
+<s> <user> <unk#a<> > <unka> welcome :) </s>
+<s> <user> <unka<> > first of all - thank you for even offering . </s>
+<s> <user> <unka<> > what language ? </s>
+<s> <user> <unka<> > i hope to contribute korean translation </s>
+<s> <user> <unka<> > oh my god yes </s>
+<s> <user> <unka<> > so it 's just github pages </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > here 's our korean docs right here </s>
+<s> <user> <unka<> > 1 thing that would be immensely helpful would be if you could even just update our quickstart </s>
+<s> <user> <unka<> > before contributing on code , i thought i need to review <unk#a> project . translating will be good to study . </s>
+<s> <user> <unka<> > oh sure . </s>
+<s> <user> <unka<> > <unka> : is our engineer in korea </s>
+<s> <user> <unka<> > so he can review </s>
+<s> <user> <unka<> > we have 2 people there and little time :d so any help we can get is amazing </s>
+<s> <user> <unka<> > have you saw our korean channel ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > feel free to ask questions there as well on wording and the like </s>
+<s> <user> <unka<> > thanks for help ! </s>
+<s> <user> <unka<> > well , do you have dataset objects yet ? </s>
+<s> <user> <unka<> > that 's why i was saying use <unka> + <unka> </s>
+<s> <user> <unka<> > then it 's pretty straightforward </s>
+<s> <user> <unka<> > ok . i wil try that .. can i get back if i have any problem ? </s>
+<s> <user> <unka<> > sure . start with this : [ <unka-<> -> ] then adapt it based on my earlier comments ( delimiter , regression , etc ) </s>
+<s> <user> <unka<> > ok .. thank you .. i was following that example to read in the data . i wil explore further and wil try . thank you </s>
+<s> <user> <unka<> > <unka> : if height and width are not equal , is <unka> = height output x width output x depth ? </s>
+<s> <user> <unka<> > depends what you mean by <unka> ... if you mean <unka.> ( int ) in your configuration : that 's just your output depth </s>
+<s> <user> <unka<> > if you mean the number of <unka> : then yes </s>
+<s> <user> <unka<> > ah , i see , thank you </s>
+<s> <user> <unka<> > <unka_> <unka@_> will try to trace <unka.> i find any i will update :) </s>
+<s> <user> <unka<> > thanks . i mean it 's possible i just picked an example it performs poorly on ... we're only getting around 80% accuracy <unka> one thing to check would be say the first 10 positive and first 10 <unka> could n't see any indexing issues so far , but that 's the other possibility here </s>
+<s> <user> <unka<> > hi i use <unka> to do feature processing . i get the model . but i find the input <unk#a.[> , 0.3 , <unk#.> , <unk#.> , 0.0 , 0.0 , 0.0 , 1.0 , <unk#a.]> <unk#a.[> , <unk#.> , 0.11 , 0.18 , 0.00 , 0.00 , 0.00 , 1.00 , <unk#a.]> this <unka> features = <unk#a().;> i want to keep more decimal what should i do ? </s>
+<s> <user> <unka<> > it 's just formatting on <unka> </s>
+<s> <user> <unka<> > check with <unka> if you want </s>
+<s> <user> <unka<> > ok thanks , i will try </s>
+<s> <user> <unka<> > <unk#a> : <unka@> q . today evening in my talk i 'm planning to state that <unk#a> is the only fw capable of training nn in jeff dean style parameter averaging on <unka> ( + gpu support <unka+> for all sorts of nn <unka> ) is this correct ? imho <unka> does n't support parallel parameter averaging , correct ? </s>
+<s> <user> <unka<> > yup </s>
+<s> <user> <unka<> > so <unka> only allows <unka> </s>
+<s> <user> <unka<> > the main thing it had going for it was the catalyst compiler for tensorflow ops </s>
+<s> <user> <unka<> > <unka> n't seem a commit since august </s>
+<s> <user> <unka<> > we also support configuring everything from a spark job </s>
+<s> <user> <unka<> > <unka> for their jni support used <unka> ( which we maintain ) </s>
+<s> <user> <unka<> > so main differences : community and distributed </s>
+<s> <user> <unka<> > thanks a <unka_> <unka@_> </s>
+<s> <user> <unka<> > sure :d </s>
+<s> <user> <unka<> > also <unka> is based on <unka> , so no variable length data ( images , time series etc ) afaik </s>
+<s> <user> <unka<> > right </s>
+<s> <user> <unka<> > hi ! i wanted to know what exactly the score of <unka> specify ? is it the value cost function ? because what i understand is the lower the score the better . so is it the cost function value or something else ? </s>
+<s> <user> <unka<> > <unka> : yes cost </s>
+<s> <user> <unka<> > usually for a given batch </s>
+<s> <user> <unka<> > okay thank you ! :) </s>

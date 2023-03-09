@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "former": "how to change the type of a union based on an Array value?",
+    "update": "how to achieve that a Union is typed depending if an Array contains a specific value?"
+  },
+  {
+    "id": 2,
+    "former": "is it possible to create a base enum and extend it statically?",
+    "update": "how to create a base enum in a library, and statically extend it within another module"
+  },
+    {
+    "id": 3,
+    "former": "how to declare a global variable in Typescript?",
+    "update": "how to go about declaring a global variable in Typescript ? "
+  },
+  {
+    "id": 4,
+    "former": "is there any ready made collection library in typescript?",
+    "update": "is there any ready made collection library is available in typescript ?"
+  },
+  {
+    "id": 5,
+    "former": "can i modify the type of Array.prototype.map?",
+    "update": "could just modify the type of Array.prototype.map by augmenting global"
+
+  },
+  {
+    "id": 6,
+    "former": "how do you narrow a string to a specific literal?",
+    "update": "check it against runtime values if you need to narrow a `string` to a specific string literal"
+  },
+   {
+    "id": 7,
+    "former": "is there a way to dereference typeof?",
+    "update": "is there a way to dereference `typeof`?"
+  },
+   {
+    "id": 8,
+    "former": "what will happen if enum expands in newer version and consumer code is using",
+    "update": "what will happen if the enum is expand in newer version and consumer code is using the old definition"
+  },
+   {
+    "id": 9,
+    "former": "what is the type system of statically typed languages like TS?",
+    "update": "TS's type system is probably different in ways that you might not expect."
+  },
+   {
+    "id": 10,
+    "former": "how would typescript know it could widen an array to any for includes",
+    "update": "how would typescript know it could widen that to `string` for `includes` but not any for other method? "
+  },
+   {
+    "id": 11,
+    "former": "how to import a view using type-defs in angular/ionic?",
+    "update": "how to import package in Angular/Ionic project a view?"
+  },
+   {
+    "id": 12,
+    "former": "how would typescript know about the variables?",
+    "update": "is there a way to feel about the variables in TS? "
+  },
+   {
+    "id": 13,
+    "former": "difference between bootstraping and boostrap",
+    "update": "Bootstrapping something is not the same as boostrap which is a JS framework"
+  },
+   {
+    "id": 14,
+    "former": "difference between import type  and a regular import in a declaration",
+    "update": "Does `import type` actually mean something different than a regular import in a declaration?"
+  },
+   {
+    "id": 15,
+    "former": "the docs can't keep up with the speed of change",
+    "update": "TypeScript has been moving forward at breakneck speed so I'm not entirely surprised that the docs can't keep up."
+  },
+   {
+    "id": 16,
+    "former": "error about Property ChildProcess does not exist on type typeof child_process",
+    "update": "error: 'Property ChildProcess' does not exist on type 'typeof child_process'"
+  },
+   {
+    "id": 17,
+    "former": "how would typescript know it could widen an array to any for includes",
+    "update": "how would typescript know it could widen that to `string` for `includes` but not any for other method? "
+  },
+   {
+    "id": 18,
+    "former": "a way to declare a function that has the same signature as another function",
+    "update": "is there a convenient way to declare a function that has the same signature as another function? "
+  },
+   {
+    "id": 19,
+    "former": "how to proper emmit events in Angular2?",
+    "update": "It errored when building an Angular2 application in TypeScript"
+  },
+   {
+    "id": 20,
+    "former": "is there a dart community out there?",
+    "update": "is there a dart community somewhere out there? "
+  },
+   {
+    "id": 21,
+    "former": "is there a way to export multiple types into a single module?",
+    "update": "is the next typescript version 1.9 or 2.0?"
+  },
+   {
+    "id": 22,
+    "former": "issues about tsc to recognize path mappings at compile time?",
+    "update": "Are there some `tsc` commands to recognize path mappings at compile time?"
+  },
+   {
+    "id": 23,
+    "former": "how to import local package in typescript monorepo?",
+    "update": "how I can declare a `Map` with it's contents being a templated `BaseClass"
+  },
+   {
+    "id": 24,
+    "former": "how to make a type that makes only one field optional without redeclarting the type",
+    "update": "how to make a type that makes only one field from an existing type optional without redeclarting the type in .ts file?  "
+  },
+   {
+    "id": 25,
+    "former": "who can't deal with concepts beyond basic mathematics is a bad web developer?",
+    "update": "is sucking at math an indication that someone is a bad web developer?"
+  },
+   {
+    "id": 26,
+    "former": "when resusing across project, one add .d. in a file name",
+    "update": "when do one add .d. in a file name?"
+  },
+   {
+    "id": 27,
+    "former": "how long does it take for a PR to get reviewed?",
+    "update": "how long it usually takes for a PR to get reviewed?"
+  },
+   {
+    "id": 28,
+    "former": "why object.assign() returns typeError?",
+    "update": "why Object.assign() returns typeError here?"
+  },
+   {
+    "id": 29,
+    "former": "can i use typings with tsd's types?",
+    "update": "is there any tutorial about Mithril and TypeScript?"
+  },
+   {
+    "id": 30,
+    "former": "how to get webpack to ignore ts-loader errors?",
+    "update": "how to get webpack to ignore ts-loader's errors"
+  },
+   {
+    "id": 31,
+    "former": "how to get the names and return types of a class without using property decorator?",
+    "update": "is there a way to get the names and return types of a class properties without using property decorator?"
+  },
+   {
+    "id": 32,
+    "former": "how to use react-css-modules with tsconfig?",
+    "update": "use react-css-modules but got `Uncaught TypeError: Class constructor TopBar cannot be invoked without 'new'`"
+  },
+   {
+    "id": 33,
+    "former": "why is dtabuenc cloning from scratch?",
+    "update": "is travis cloning from scratch ?"
+  },
+   {
+    "id": 34,
+    "former": "did you compile it with the npm run compile command?",
+    "update": "compiling with the npm run compile command"
+  },
+   {
+    "id": 35,
+    "former": "the latest release listed as 2.2 but the version in npm is 2.1.5",
+    "update": "how come the latest release is listed as 2.2 here"
+  },
+   {
+    "id": 36,
+    "former": "automation script to communicate with different services",
+    "update": "Developing a simple process automation script that's composed of several modules to communicate with different services"
+  },
+   {
+    "id": 37,
+    "former": "is it possible to create a discriminated union type if discriminator is nullable",
+    "update": "is it possible to create a discriminated union type where discriminator is a nullable value?"
+  },
+  {
+    "id": 38,
+    "former": "how do i cast a filter in the middle of a chain?",
+    "update": "how do I cast in the middle of a chain.filter() as Value"
+  },
+  {
+    "id": 39,
+    "former": "how to convert webpack like resolve aliases",
+    "update": "should I use module or namespace when converting my webpack aliases to something usable by typescript?"
+  },
+  {
+    "id": 40,
+    "former": "how to install multiple versions of node type declarations into a single repo?",
+    "update": "how to get two versions of Node type declarations installed into a single repo at the same time?"
+  },
+  {
+    "id": 41,
+    "former": "any way to declare the module and access any property?",
+    "update": "a problem in node-config that the prototype is extends to be able to access config"
+  },
+  {
+    "id": 42,
+    "former": "is there a way to ban inferred any type?",
+    "update": "if there is a way to ban inferred `any` type either via tsconfig or eslint?"
+  },
+  {
+    "id": 43,
+    "former": "can we declare an Array of one but generic type?",
+    "update": "can we declare an Array of one but generic type? (js export function allEqual) "
+  },
+  {
+    "id": 44,
+    "former": "is there a way to extend typescript as a language by adding custom keywords?",
+    "update": "are there any plans for providing a way to extend typescript as a language by adding custom keywords?"
+  },
+  {
+    "id": 45,
+    "former": "vscode doesn't jump into the right source files",
+    "update": "vs code isn't jumping into the right source files in some cases"
+  },
+  {
+    "id": 46,
+    "former": "how do i get the same namespaces to work in a browser context?",
+    "update": "how to get the same definitions to work on a browser context?"
+  },
+  {
+    "id": 47,
+    "former": "how to properly export a library in typescript?",
+    "update": "how to make a typescript library and then export the types and use them in another module?"
+  },
+  {
+    "id": 48,
+    "former": "how to create a typedef from a js library?",
+    "update": "what's the best way to create a def from a js library?"
+  },
+  {
+    "id": 49,
+    "former": "is there a way to wait for a'Array.map'?",
+    "update": "is there a way to wait a Array.map to complete in order to do anything after that?"
+  },
+  {
+    "id": 50,
+    "former": "how to check if object is empty in tslint?",
+    "update": "what the best way in TS to check that object is empty?"
+  }
+]

@@ -1,0 +1,781 @@
+<s> <user> <unka<> > hi , i am working on <unka> android by using python , the same application is being developer in ios . can any one help me how to migrate the scripts to ios compatability and easy way to find the object properties </s>
+<s> <user> <unka<> > guys </s>
+<s> <user> <unka<> > i need on help </s>
+<s> <user> <unka<> > <unka> can u help me </s>
+<s> <user> <unk#a<> > tell me what you need ? </s>
+<s> <user> <unka<> > package <unka;> <unka.;> <unka.;> <unka.;> <unka.;> <unka.;> <unka.;> <unka.;> <unka.;> <unka.;> <unka.;_> <unka.;_> class <unka> { <unka> driver ; <unka> <unka> ; <unka/> <unka> ; [ <unka-<> -> ] </s>
+<s> <user> <unka<> > this the code i am using but i cant connect to <unka> server </s>
+<s> <user> <unka<> > but server is running </s>
+<s> <user> <unka<> > can u help m ein this </s>
+<s> <user> <unk#a<> > <unka> logs ? </s>
+<s> <user> <unka<> > nothing is coming in my <unka> server </s>
+<s> <user> <unk#a<> > screenshot ? </s>
+<s> <user> <unka<> > last login : tue nov 22 <unk#:> on <unk#a:~> <unka$> <unka[> ] welcome to <unka> <unk#a-.[> ] <unka> rest http interface listener started on <unk#.:> </s>
+<s> <user> <unka<> > its is just in this state only </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] <unka> = <unka().> ); </s>
+<s> <user> <unk#a<> > can you remove above code </s>
+<s> <user> <unk#a<> > </s>
+<s> <user> <unk#a<> > and run it </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unk#a<> > and </s>
+<s> <user> <unka<> > i willl try it </s>
+<s> <user> <unk#a<> > change </s>
+<s> <user> <unk#a<> > <unka> </s>
+<s> <user> <unk#a<> > to <unka<> > </s>
+<s> <user> <unka<> > as ok </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > i will try it and say u </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unka<> > i created an issue if anyone could help : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hi guys .. if i want to test new application do i need to configure <unka> agent again ... </s>
+<s> <user> <unka<> > what is the capability code for real device </s>
+<s> <user> <unka<> > guys can any one help with real device capability code .. </s>
+<s> <user> <unka<> > hi guys .. if i want to test new application do i need to configure <unka> agent again ... </s>
+<s> <user> <unka<> > what is the capability code for real device </s>
+<s> <user> <unka<> > i am new to android development , i 've been learning java for past 2 months and would really like to work on an android app idea of my own . can anyone help me in understanding what i need to study to get my concepts clear for developing my app </s>
+<s> <user> <unka<> > ? </s>
+<s> <user> <unka<> > here 's the link to what i want to develop for the sake of learning : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hi </s>
+<s> <user> <unk#a<> > could someone have a look at this question of my [ <unka-<> -> ] </s>
+<s> <user> <unka<> > guys can any one help with real device capability code .. </s>
+<s> <user> <unka<_> > hi all , can someone tell me how can i use ui inspector for ios in <unka> 1.6 ? </s>
+<s> <user> <unk#a<> > <unka_> : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > <unk#a> : thanks a lot . can you let me know one thing clarification ? how can i enable the phone to support development in xcode . due to this i cannot select iphone via accessibility inspector ? </s>
+<s> <user> <unk#a<> > once you connect the device you can launch the inspect though that also you can view the screen </s>
+<s> <user> <unka<_> > ok . manu thanks </s>
+<s> <user> <unka<> > i have a <unka._> is working great but do you know how to know if the keyboard is open or not </s>
+<s> <user> <unka<> > for <unka> app </s>
+<s> <user> <unka<> > <unka@> : i do n't think u have an option to check if keyboard is opened or not . but u can try catch the hide keyboard . if it throws exception means keyboard is already closed </s>
+<s> <user> <unka<> > <unka_> <unka.@_> working ... </s>
+<s> <user> <unk#a<> > what languages are everyone using for writing tests ? <unka> ? ruby ? python ? what do you think is best ? </s>
+<s> <user> <unk#a<> > what languages are everyone using for writing tests ? <unka> ? ruby ? python ? what do you think is best ? </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unka<> > hi ! i 'm using <unka> 1.6.0 with android sdk <unk#.> . during apk installation i get this error which i have never seen <unka> api level : 22 </s>
+<s> <user> <unk#a<> > <unka> : run <unka-> command post the log here </s>
+<s> <user> <unk#a<> > <unka> : run <unka-> command post the log here </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unka<> > info <unka> <unka> doctor <unk#a.> </s>
+<s> <user> <unk#a<> > <unka> : post your desired caps , device android version </s>
+<s> <user> <unk#a<> > <unka> : post your desired caps , device android version </s>
+<s> <user> <unka<> > <unk#a@> sure , <unka> <unka(> ): <unka_> = { } <unka'[_> ] = <unka'> <unka'[_> ] = <unk#'.> <unka'[_> ] = <unka'> <unka'[_> ] = <unk#a'-./> [ <unka-<> -> ] so device has 5.1 as well </s>
+<s> <user> <unka<> > <unk#a@> sure , <unka> <unka(> ): <unka_> = { } <unka'[_> ] = <unka'> <unka'[_> ] = <unk#'.> <unka'[_> ] = <unka'> <unka'[_> ] = <unk#a'-./> [ <unka-<> -> ] so device has 5.1 as well </s>
+<s> <user> <unk#a<> > <unka> : can you try with any other apk , its seems every looks fine or we need to check with android source code </s>
+<s> <user> <unk#a<> > <unka> : can you try with any other apk , its seems every looks fine or we need to check with android source code </s>
+<s> <user> <unk#a<> > hey all ... i 'm trying to get scroll working with python and android but it does n't seem to be implemented with <unk#a> ? i 've searched everywhere and my brain is hurting ... in <unka-> <unka-./:> see the following : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i 've tried [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > does n't seem to work </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] <unka^> one gave me an error saying str is not a func </s>
+<s> <user> <unk#a<> > i 'm testing websites not apps .. so no api ... any help is appreciated </s>
+<s> <user> <unk#a<> > this does n't work [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i get the following : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i 've had luck scrolling with a swipe event - you might try that ! </s>
+<s> <user> <unk#a<> > ( i 'm using <unka> though ) </s>
+<s> <user> <unk#a<> > could you send me an example ? </s>
+<s> <user> <unk#a<> > sure </s>
+<s> <user> <unk#a<> > thank you so much </s>
+<s> <user> <unk#a<> > i think i 'm going to go bald soon </s>
+<s> <user> <unk#a<> > lol </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > thank you .. <unka.> me try this ... </s>
+<s> <user> <unk#a<> > np ! beware though this is <unka> not python . </s>
+<s> <user> <unk#a<> > ( you could probably tell :) ) </s>
+<s> <user> <unk#a<> > haha no worries .. going to try and translate </s>
+<s> <user> <unk#a<> > thanks thanks </s>
+<s> <user> <unk#a<> > did it work ? </s>
+<s> <user> <unk#a<> > ugh nope </s>
+<s> <user> <unk#a<> > <unka.> : message : not yet implemented . please help us : URL/http:/ <unka./> <unka-./> </s>
+<s> <user> <unk#a<> > simply <unk#a(.> , 100 , 100 , 400 ) </s>
+<s> <user> <unk#a<> > python <unka> client says [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unk#a> : thanks for trying tho </s>
+<s> <user> <unk#a<> > i ca n't help too much with python unfortunately but i can tell you that in <unka> the swipe action is part of the wd library - so i have to [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i am seeing instruments fail after <unk#> ms not being able to locate device . i specify iphone simulator is it better to be explicit like provide iphone 6 ? </s>
+<s> <user> <unk#a<> > <unk#a> : ah ... hmm ... let me try with <unka> ... might take me a while </s>
+<s> <user> <unk#a<> > <unk#a> : np - good luck ! </s>
+<s> <user> <unk#a<> > <unk#a> : are you facing still scrolling issue ? </s>
+<s> <user> <unk#a<> > <unk#a> : yep </s>
+<s> <user> <unk#a<> > <unk#a> : android & ios ? </s>
+<s> <user> <unk#a<> > xcode 8 and above </s>
+<s> <user> <unk#a<> > <unk#a@> <unka> = ( <unka> ) <unka"().;> , 20 , 15 , <unk#a);> should work </s>
+<s> <user> <unka<> > i am writing multiple test , so while starting second test it gives me <unka.> : a new session could not be created . details : problem getting session data for driver type <unka> ; does it implement 'get <unka'> ? ( warning : the server did not provide any stacktrace <unka)> i need to <unka> again </s>
+<s> <user> <unk#a<> > can you try with override session in <unka> server ... </s>
+<s> <user> <unka<> > <unk#a> : does not work , still closes the app after first <unka> method </s>
+<s> <user> <unka<> > is ther anyone online ?? </s>
+<s> <user> <unka-<> > <unka.> : could not start a new session . possible causes are invalid address of the remote server or browser start-up <unka.> got this error while trying to automate an hybrid app . please help </s>
+<s> <user> <unk#a<> > how long the scripts are running ? </s>
+<s> <user> <unka-<> > rahul : : stop ur <unka> and stop app on device , start <unka> again </s>
+<s> <user> <unka-<> > we are running daily .but individually its ok .but batch run all r failing only few passing </s>
+<s> <user> <unk#a<> > <unka-> : post your caps here ? </s>
+<s> <user> <unka-<> > caps means ? </s>
+<s> <user> <unk#a<> > desired capabilities </s>
+<s> <user> <unka-<> > ok </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > new <unka(> ) ? </s>
+<s> <user> <unk#a<> > url ? </s>
+<s> <user> <unk#a<> > <unka-> : yes individually it will work fine </s>
+<s> <user> <unka-<> > its for web driver . i am working on a hybrid app . </s>
+<s> <user> <unk#a<> > driver = new <unka(> <unka(> ) ? </s>
+<s> <user> <unk#a<> > i am asking where is the url params ? </s>
+<s> <user> <unk#a<> > <unka> url </s>
+<s> <user> <unka-<> > public class <unka> { [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> logs ? </s>
+<s> <user> <unka-<> > actually i am new to <unka> . i dont know much . <unka> logs means ? </s>
+<s> <user> <unk#a<> > did you start the <unka> > ? </s>
+<s> <user> <unka-<> > <unka-> : : after that do i have to run my code again in eclipse ? </s>
+<s> <user> <unka-<> > <unk#a> : : yes , i started </s>
+<s> <user> <unk#a<> > <unka-> : can you try start <unka> server with override exist session .. </s>
+<s> <user> <unka-<> > <unk#a> : : so now how can i delete cache data and start run <unka?> any other alternative for the problem </s>
+<s> <user> <unka-<> > override exist session ? where is that option ? <unka> or shud i add in <unka> </s>
+<s> <user> <unk#a<> > in <unka> server settings u can find override exist session check box .. u can check it </s>
+<s> <user> <unk#a<> > <unka-> : are you using gui or command line tool </s>
+<s> <user> <unka-<> > ok let me check </s>
+<s> <user> <unk#a<> > ? </s>
+<s> <user> <unk#a<> > <unka-> : override exist session means will override exit session for next run it <unka> create new session </s>
+<s> <user> <unka-<> > then scripts will fail i guess , as new session will be created evry time when we run scripts <unka.> since its over riding that if some thing fails , then it will abort execution </s>
+<s> <user> <unk#a<> > <unka-> : can you post your <unka> full logs here ? </s>
+<s> <user> <unka-<> > logs will throw error as element not found and continues with next script </s>
+<s> <user> <unk#a<> > can you post whole <unka> logs </s>
+<s> <user> <unka-<> > ok will post <unka.> me give run and send u </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unk#a<> > in my case also i was able to run first test successfully . for second script it is failing . this solution solved for me .. </s>
+<s> <user> <unka-<> > ok <unka.> me try </s>
+<s> <user> <unka-<> > i am using eclipse ide </s>
+<s> <user> <unka-<> > <unk#a> : : do you have any properly running <unka> code ? </s>
+<s> <user> <unk#a<> > <unka-> : yes </s>
+<s> <user> <unka-<> > <unk#a@> : this is my <unka> <unka> <unka> server with <unka-:<[> -> ] </s>
+<s> <user> <unka-<> > can you share any code with me ? </s>
+<s> <user> <unk#a<> > sure , give sometime </s>
+<s> <user> <unka-<> > ok </s>
+<s> <user> <unka-<> > thank u guys .i got solution for batch run using override existing <unka.> u </s>
+<s> <user> <unka-<> > <unka_> <unka,-.@_> please help me to resolve my issue as well . </s>
+<s> <user> <unka-<> > ok </s>
+<s> <user> <unka-<> > tel me r u getting same issue can not create new session again ? </s>
+<s> <user> <unka-<> > yes </s>
+<s> <user> <unka-<> > when ever i run the code i am getting same error . </s>
+<s> <user> <unka-<> > i will send u few <unka> <unka,> adding it </s>
+<s> <user> <unka-<> > ok </s>
+<s> <user> <unka-<> > it shud <unka.> it worked for me </s>
+<s> <user> <unka-<> > do we have to do any configuration in <unka> ? apart from selecting the folder of apk and device name etc . ? </s>
+<s> <user> <unka-<> > no i am speaking wrt capability </s>
+<s> <user> <unka-<> > ok .. but i will add those capabilities from you as well and try . </s>
+<s> <user> <unka-<> > <unka=> " [ <unka-<> -> ] " <unka;> <unka=> <unka"();> <unka=> <unka"().;> " , " <unka"().;> " , " <unk#a"(),.;> " , <unk#a"(),.;> )); [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > try this it will work </s>
+<s> <user> <unk#a<> > <unka-> : ok </s>
+<s> <user> <unka-<> > thanks . let me <unka._> <unka-@_> </s>
+<s> <user> <unka-<> > cool </s>
+<s> <user> <unk#a<> > <unka-> : are you starting <unka> server through <unka> or manual ... </s>
+<s> <user> <unka-<> > manually </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unka-<> > <unka> was not working for me so i start manually </s>
+<s> <user> <unk#a<> > that 's what i am trying <unka> not working .. me also doing manually .. </s>
+<s> <user> <unka-<> > <unka> is having two ways to launch </s>
+<s> <user> <unka-<> > i tried but it dint worked </s>
+<s> <user> <unka-<> > <unka-> : what is the purpose of this line ? </s>
+<s> <user> <unka-<> > " <unka.> " ); </s>
+<s> <user> <unka-<> > when i am running my <unka> server finally i am getting this error : </s>
+<s> <user> <unka-<> > error : could not <unka-> <unka> : error : permission to start activity <unka.> server process ended </s>
+<s> <user> <unka<> > hi guys , we have problem when try to run our test with <unka> behind our corporate proxy ( in our own house runs ok ). do you have any idea how we can pass the proxy and <unka-> info to <unka> ? </s>
+<s> <user> <unka<_> > i 'm facing some problems while i 'm using <unka> with <unka-> </s>
+<s> <user> <unka<_> > i have this config file </s>
+<s> <user> <unka<_> > <unka.> = { <unka> : <unk#a',/:> : [ <unka'*,./]_> reference : URL/https:/ URL/github.com/ <unka-./> capabilities : { <unka> : <unka'> , <unka> : <unk#'.> , devicename : <unka'> <unk#a'> , <unka> : "" , <unka> : true , <unka/> this to your absolute path <unk#a'-./:> , <unka> : <unk#> }, <unka> : <unk#a',./:> configuring wd in <unka> <unka> helps to bridge wd driver with other selenium clients see URL/https:/ URL/github.com/ <unka-./> <unka> : function ( ) { var wd = <unka'(> ), <unka> = <unka'(> ), <unka> = <unka'()-> , wd ); <unka(.> ); <unk;}> </s>
+<s> <user> <unka<_> > when i try to run <unka> , it returns an errro </s>
+<s> <user> <unka<_> > <unka> : no such context found . </s>
+<s> <user> <unka<_> > from : task : <unka(.> ) </s>
+<s> <user> <unka<_> > what would be the problem here ? </s>
+<s> <user> <unka-<> > hi everyone , i am trying to find a way to browse the ui <unka/> using <unka> . on <unka> i can navigate to the " body " element , and then use <unka> " * " to list the immediate children of an element and in that way browse the tree . </s>
+<s> <user> <unka-<> > hi guys , can any one tel me how to check contacts are in sorted order using <unka/> </s>
+<s> <user> <unka-<> > hi guys , can any one tel me how to check contacts are in sorted order using <unka/> </s>
+<s> <user> <unka-<> > has anyone figured out scrolling in ios on <unka> <unk#.> </s>
+<s> <user> <unka-<> > i used to use <unka_> <unka_> method which is not yet implemented </s>
+<s> <user> <unka-<> > for now <unka(.:> : 100 , y : <unk#a()._> : 100 , y : <unk#a)-.> seems to be working to scroll up but if someone has a better way let me know </s>
+<s> <user> <unka<> > <unka-> : : first u have to collect all the contacts in an <unka> . and compare if that array list is sorted . </s>
+<s> <user> <unka<> > <unka-> : : first u have to collect all the contacts in an <unka> . and compare if that array list is sorted . </s>
+<s> <user> <unka<> > <unka-> : : example for checking <unka> <unka(<> string > <unka){> <unka(;=> <unk#a;=> < <unk#a()+-.;{> )) > <unk#a)={> <unka;}> <unka> ;} </s>
+<s> <user> <unka<> > <unka-> : : example for checking <unka> <unka(<> string > <unka){> <unka(;=> <unk#a;=> < <unk#a()+-.;{> )) > <unk#a)={> <unka;}> <unka> ;} </s>
+<s> <user> <unka-<> > <unka> : : ok will try </s>
+<s> <user> <unka-<> > <unka> : : ok will try </s>
+<s> <user> <unka-<> > to start the <unka> server , the command is " <unka> " but what is the command to run a file against the server , " something <unka.> " ? i 'm a newbie to <unka> </s>
+<s> <user> <unka<> > <unka> : hi <unka!> any one have problems with finding elements in ios application with ios <unka?> version <unk#a.> can see element on screen of <unka> when i 'm making <unka> - cant find them </s>
+<s> <user> <unka<> > <unka-> : you 'll want to make requests to the <unka> server . the easiest way to do this is with a <unka> client . </s>
+<s> <user> <unka-<> > <unka_> <unka@_> i was having trouble to actually run a javascript file to utilize apple 's <unka> framework , but i realize now i needed the <unka-> and then i can just use the <unka> commands </s>
+<s> <user> <unka<> > hi any one can tell what are the mandatory capabilities for ios to run on real device ? </s>
+<s> <user> <unka<> > you cannot test ios app using windows , just on mac </s>
+<s> <user> <unka<> > you cannot do anything on win for a ios app </s>
+<s> <user> <unka<> > exactly ! </s>
+<s> <user> <unka<> > you cannot develop on other then mac </s>
+<s> <user> <unka<> > hi i am gettting test failed while trying to launch the app </s>
+<s> <user> <unka<> > can any one help to fix </s>
+<s> <user> <unka<> > below are the <unka> logs </s>
+<s> <user> <unka<> > [ <unka> ] <unka> rest http interface listener started on <unk#.:> [ <unka-<> -> ] </s>
+<s> <user> <unka<> > sorry please find below full logs ignore the previous one </s>
+<s> <user> <unka<> > [ <unka> ] <unka> rest http interface listener started on <unk#a-.:<[> -> ] </s>
+<s> <user> <unk#a<> > does anyone know how i can run my automation test on more then one device at one time ? i am using <unka> 1.5.x and <unka> . </s>
+<s> <user> <unka<> > <unk#a> : you can try the <unka> framework <unka_> <unk#a@_> [ <unka-<> -> ] </s>
+<s> <user> <unka<> > it works fine with android devices and ios until 9.x version , but i have troubles making it work with ios 10 , <unka> <unk#a.> and xcode 8.2 </s>
+<s> <user> <unka-<> > is anyone else facing this issue : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hello . anyone know when <unka> will support xcode 8.2 ? </s>
+<s> <user> <unka<> > it supports </s>
+<s> <user> <unka<> > install <unka> <unk#.> </s>
+<s> <user> <unka<> > i would like to know if there is something else on the market . i 've asked previously in this chat about hive ci , but there was no response . </s>
+<s> <user> <unka<> > <unka> : yes </s>
+<s> <user> <unka<> > <unka> : thank you ! </s>
+<s> <user> <unka<> > i just downloaded the sample code for nodejs and ran the simple test , and got an <unka.> an issue 12 days ago here : <unk#a#/> 'm wondering if there 's anything i 'm <unka?> should i just wait for someone to attend the issue on gh ? </s>
+<s> <user> <unk#a<> > <unka> : i saw your log , could please post your code </s>
+<s> <user> <unka<> > <unka_> <unk#a@_> code is posted in the issue </s>
+<s> <user> <unka<> > u want me to copy paste all of it here ? </s>
+<s> <user> <unka<> > will b quite long ... </s>
+<s> <user> <unk#a<> > is this android ? </s>
+<s> <user> <unk#a<> > right ? </s>
+<s> <user> <unka<> > <unk#a> : yes , atm it 's only android </s>
+<s> <user> <unka-<> > <unka> : try adding <unka> and <unka> capabilities , <unka> is clearly giving up after few tries to find element . what is happening during actual test run ? is the app launched correctly ? </s>
+<s> <user> <unka<> > i 'm evaluating testing solutions and <unka> seems great but there are a few things i have n't been able to figure out if it can do : </s>
+<s> <user> <unka<> > can any app in an emulator be scripted , or does it have to be one that you're developing yourself ? </s>
+<s> <user> <unka<> > <unka> , i 'm trying to build a solution for testing how emails display in different email clients and would love to have an automated way to test against apple mail on ios devices . </s>
+<s> <user> <unka<> > </s>
+<s> <user> <unka<> > <unka> : you can interact only with your app , no other app can be used during the test . </s>
+<s> <user> <unka<> > <unka> : i 'm thinking that 's some app restriction limitation and not specific to <unka> ? </s>
+<s> <user> <unka<> > the limitations come from apple </s>
+<s> <user> <unka<> > yeah , that 's what i figured . </s>
+<s> <user> <unka<> > so , to do this i'd either need to do <unka/> from an osx mac or jailbreak ( which i was trying to avoid ). </s>
+<s> <user> <unka<> > i think there is no cure for this , it 's simple , apple would not allow you to interact with other apps </s>
+<s> <user> <unka<> > not <unka> with clicking on coordinates </s>
+<s> <user> <unka<> > or anything </s>
+<s> <user> <unka<> > i do n't know how <unka> will help here </s>
+<s> <user> <unka<> > <unka> : i found a couple listed solutions that were : </s>
+<s> <user> <unka<> > jailbreak the device </s>
+<s> <user> <unka<> > install a vnc client on the device </s>
+<s> <user> <unka<> > user our library to remotely run commands against the device </s>
+<s> <user> <unka<> > <unka> : also does not know how to do numbering in <unka> apparently </s>
+<s> <user> <unka-<> > hello all , </s>
+<s> <user> <unka-<> > is there any best tool to inspect native android ui ? </s>
+<s> <user> <unka-<> > other than ui <unka> viewer and <unka> inspector . </s>
+<s> <user> <unka<> > hi guys , wanted to know how to download <unka> 1.6 dmg file . please help </s>
+<s> <user> <unka<> > i 'm using <unka> and the ms <unka> to ui test my universal windows apps . how can i register my apps on my build server ( win10 ) so on the <unka> , things are getting registered in a way , so that <unka> can run it ? </s>
+<s> <user> <unka<> > good morning </s>
+<s> <user> <unka<> > i am getting this error running <unka> : [ <unka> ] error : <unka> failed with code 65 </s>
+<s> <user> <unka<> > [ xcode ] signing for " <unka> " requires a development team . select a development team in the project <unka.> signing is required for product type <unka'> testing <unka'> in sdk <unka'> <unk#'.> </s>
+<s> <user> <unka<> > already tried this solution : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hi @ <unka> </s>
+<s> <user> <unk#a<> > <unka> : : i believe [ <unka-<> -> ] this would help </s>
+<s> <user> <unk#a<> > for real devices </s>
+<s> <user> <unk#a<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > its kinda weird that we need team id and profile just to run browser tests </s>
+<s> <user> <unka<> > thanks for the link and vid , will give it a try </s>
+<s> <user> <unka<> > what if i do n't have a team do give to <unka> ? </s>
+<s> <user> <unka<> > all i want to do is automated browser testing on the iphone </s>
+<s> <user> <unka<> > well , you should ask apple for the logic . their idea is that you need to pay for a dev account , you cannot develop without dev account , since you develop , you need to test the app , so for testing you need dev account . </s>
+<s> <user> <unka<> > string <unka",;=[]{}> <unk#a",=[]{> " }; [ <unka-<> -> ] </s>
+<s> <user> <unka<> > above is my code when the app is logged in successfully on the when the loop runs on third time im getting an element could not be located on the page using the given search parameters . ( warning : the server did not provide any stacktrace information ) </s>
+<s> <user> <unka<> > instead of showing logged in successfully </s>
+<s> <user> <unka<> > can some one help where did i missed something ? </s>
+<s> <user> <unka<> > app is successfully logged in but im getting this error message .. " an element could not be located on the page using the given search parameters . ( warning : the server did not provide any stacktrace information )" </s>
+<s> <user> <unk#a<> > <unka> : <unka> log ? </s>
+<s> <user> <unka<> > do n't work <unka"(,./> " ) for <unka> <unk#.> ? [ ios real device ] </s>
+<s> <user> <unka<> > not working with <unka"(./> " )) </s>
+<s> <user> <unk#a<> > <unka> : <unka/> this is not full <unka> </s>
+<s> <user> <unk#a<> > its just applicaiton window </s>
+<s> <user> <unk#a<> > level </s>
+<s> <user> <unk#a<> > you need to give exact element </s>
+<s> <user> <unka-<> > <unk#a> : <unka@> ios in built to hit enter or back button .. similar to <unka> method in android </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unka-<> > inbuilt methods ? </s>
+<s> <user> <unka<> > <unk#a> : thank you . i have tried this " <unk#a"(./[]> " ))" and it is working . is it possible to use this format for find the element <unka> ( <unk#a"(./[]> <unk)?]> </s>
+<s> <user> <unk#a<> > <unka/> <unk#a/[]> <unka/> </s>
+<s> <user> <unk#a<> > i think this should work </s>
+<s> <user> <unka-<> > <unk#a> : </s>
+<s> <user> <unka-<> > any suggestion for me </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unk#a<> > <unka().> ); </s>
+<s> <user> <unk#a<> > this should work </s>
+<s> <user> <unka-<> > for hitting the enter from virtual keypad </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unka<> > <unka(.> ) ? </s>
+<s> <user> <unka<> > will work i guss </s>
+<s> <user> <unka-<> > hmm </s>
+<s> <user> <unka-<> > let me check but not sure about </s>
+<s> <user> <unka-<> > it </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka-<> > and <unka(> ) is removed from <unka-> <unk#.> </s>
+<s> <user> <unka-<> > jar </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unk#a<> > oh </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unka-<> > otherway to scroll any idea > </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unk#a<> > even </s>
+<s> <user> <unk#a<> > you can do this </s>
+<s> <user> <unk#a<> > <unka\> " </s>
+<s> <user> <unka-<> > fro scrolling </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unk#a<> > no </s>
+<s> <user> <unka<> > it is for enter ? </s>
+<s> <user> <unka<> > swipe down :) </s>
+<s> <user> <unk#a<> > yes </s>
+<s> <user> <unka<> > ok ... </s>
+<s> <user> <unka<> > instead of scroll i am usig swipe </s>
+<s> <user> <unka<> > <unka> is the only option available </s>
+<s> <user> <unka-<> > hmmm </s>
+<s> <user> <unka<> > if any of you know the beter scroll option in latest <unka> please suggest </s>
+<s> <user> <unka-<> > yeah </s>
+<s> <user> <unka<> > <unk#a> : thank you . it is working !!!! </s>
+<s> <user> <unk#a<> > cool </s>
+<s> <user> <unk#a<> > <unk#a/[]> <unka/> </s>
+<s> <user> <unk#a<> > even this should work </s>
+<s> <user> <unk#a<> > try it </s>
+<s> <user> <unka<> > <unka> <unka().=> "" )); [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : this works a little bit you can try </s>
+<s> <user> <unka<> > <unka> : sure let me try this one thanks </s>
+<s> <user> <unka<> > wc </s>
+<s> <user> <unka<> > do not use <unka.> . it was deprecated in java 5.0 </s>
+<s> <user> <unka<> > use <unka> class </s>
+<s> <user> <unka-<> > <unka> : for swipe </s>
+<s> <user> <unka-<> > ?\ </s>
+<s> <user> <unka<> > yes ... you can do <unka().> ) <unka.> . </s>
+<s> <user> <unka<> > i still did n't adapt my code to it , but i 'll have to change all the swipe , tap , zoom , pinch , etc . that i have </s>
+<s> <user> <unk#a<> > set <unka> timeout as <unk#a,> not give an exception ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > does anyone know how to turn wifi off on ios and android ? using <unka> 1.5.3 and <unka> ( javascript ) </s>
+<s> <user> <unka<> > hi , there , anyone who use python <unka> framework ? </s>
+<s> <user> <unka<> > any of you have taken <unka> mobile app test automation certification ? </s>
+<s> <user> <unk#a<> > anyone know why <unka> 1.5.3 will not work with my android emulator ? it worked prior to 1.5.3 </s>
+<s> <user> <unka<> > <unk#a> : app is nnot launching ? </s>
+<s> <user> <unk#a<> > yes its not i have been trying to <unka> out what is wrong </s>
+<s> <user> <unk#a<> > it works on android device </s>
+<s> <user> <unka<> > iam facing an issue to locate an <unka/> <unka> tried with different <unka> values in relative <unka> still not able to identify this <unka> i printed the <unka> am not able to see this element in the xml <unka> time when inspecting through <unka-> i am getting <unka> for the same ( which is not <unka)> of you faced any similer kind of issue ? </s>
+<s> <user> <unka<> > hey everyone , will <unka> <unk#.> work with xcode <unk#.> ? or do i need to upgrade to <unk#a> ? </s>
+<s> <user> <unka-<> > it should </s>
+<s> <user> <unka<> > awesome . thank you </s>
+<s> <user> <unka-<> > do n't use <unka> <unka> </s>
+<s> <user> <unka-<> > in your caps </s>
+<s> <user> <unka<> > is that only for xcode 8 ? </s>
+<s> <user> <unka-<> > yes </s>
+<s> <user> <unka<> > awesome . i will remember that . thank you </s>
+<s> <user> <unka<> > any of you know what are the check list we have to go through before start ios automation ( mainly for inspecting elements ) to find out nothing is missed or not followed proper development standards to name each and every element in app </s>
+<s> <user> <unka<> > from developers side </s>
+<s> <user> <unka<> > hi :) </s>
+<s> <user> <unka<> > i 'm using <unka> 1.6 on real ios 9 device </s>
+<s> <user> <unka<> > and the app launch twice for the <unka> session </s>
+<s> <user> <unka<> > is this the expected behaviour ? i only call <unka'> once in my <unka> client </s>
+<s> <user> <unk#a<> > hi guys </s>
+<s> <user> <unk#a<> > automation <unka):> images from gallery into facebook album </s>
+<s> <user> <unk#a<> > using mobile browser can you guys give me some idea </s>
+<s> <user> <unk#a<> > ? </s>
+<s> <user> <unk#a<> > android device , chrome browser </s>
+<s> <user> <unka<> > ok if <unka> knows then another question : can i somehow exit a text input field ? </s>
+<s> <user> <unka-<> > not <unka_> <unka@_> do you mean by exit a text input field </s>
+<s> <user> <unka-<> > click on a different element or some and you will exit </s>
+<s> <user> <unka<> > hii 'm using <unka> 1.6 on real ios 9 <unka> the app launch twice for the <unka> <unka> this the expected </s>
+<s> <user> <unka<> > <unka-> : yes but then i need to guess an element that has no action . </s>
+<s> <user> <unka<> > no need to guess , click on some logo or picture or something . not everything is clickable </s>
+<s> <user> <unka<> > ok - not exactly what i want but seems the only way </s>
+<s> <user> <unka-<> > yes , usually you enter some text and take some other action like submit a button or verify other elements etc . </s>
+<s> <user> <unka-<> > hope you are not trying to hide the keyboard or some </s>
+<s> <user> <unka<> > the problem with is that you need to click twice </s>
+<s> <user> <unka<> > at least when a text box has focus </s>
+<s> <user> <unka<> > is someone here using <unka> with react native ? does you experience difficulties getting elements by accessibility strategy ? it seems that <unka> etc . behaves differently between ios and android </s>
+<s> <user> <unka<> > is <unka> <unk#.> supposed to be able to run multiple android emulators concurrently assuming i use separate <unka> server instances ? </s>
+<s> <user> <unka<> > whenever i try to do it , <unka> just cannot seem to handle it . for example , one server instance is supposed to handle one emulator but then it <unka> into the other emulator or something . </s>
+<s> <user> <unka<> > maybe that 's not even it , but it tries to do something with both emulators . </s>
+<s> <user> <unka<> > despite using different server ports , bootstrap ports , <unka> ports , even <unka> ( whether it makes a difference or not ) </s>
+<s> <user> <unka<> > not just that . i actually cannot even reliably run tests on two different emulators sequentially . </s>
+<s> <user> <unka<> > sometimes works , sometimes not </s>
+<s> <user> <unka<> > all these problems lead me to think that <unka> is not meant to support it , even through i have read various places that one can do it anyway . </s>
+<s> <user> <unka-<> > i used to do it previously </s>
+<s> <user> <unka-<> > have n't tried on <unk#.> </s>
+<s> <user> <unka-<> > " despite using different server ports , bootstrap ports , <unka> ports , even <unka> ( whether it makes a difference or not )" this is must </s>
+<s> <user> <unka-<> > $ <unka> -p <unk#> <unka-> <unk#> -u " <unk#.:> " <unka-> <unk#/> -p is <unka> port , <unka-> is bootstrap port , -u is <unka> for emulators , <unka-/> to get <unka> for genymotion emulators , launch desired emulator then type <unka$:> adb <unka/> finally launch tests by passing in additional <unka$> <unk#a=> <unk#a.:=> <unka=> <unka> -b <unka_> </s>
+<s> <user> <unka<> > thanks for replying </s>
+<s> <user> <unka-<> > this is what has worked before </s>
+<s> <user> <unka-<> > check the ports i am using </s>
+<s> <user> <unka-<> > they have to be <unk##> apart from one instance to another </s>
+<s> <user> <unka<> > hmm . is n't -u the same as <unka-> ? </s>
+<s> <user> <unka-<> > ofcourse i use <unka> and port in my caps </s>
+<s> <user> <unka<> > sorry </s>
+<s> <user> <unka-<> > yes but you start your server and tell it the <unka> and have to tell your test code the same </s>
+<s> <user> <unka<> > when i run my tests , i have emulators with <unka> " <unk#a-> " and " <unk#a-> " . how do i know what to tell <unka> ? </s>
+<s> <user> <unka<> > or does the parameter set the <unka> in the emulator as well ? </s>
+<s> <user> <unka-<> > in ruby </s>
+<s> <user> <unka<> > hmm . not sure what that <unka_> is so i will check that out . maybe i could just put the <unka> inside my " <unka-.> " file ? </s>
+<s> <user> <unka-<> > so basically you have to tell your driver to talk to which port </s>
+<s> <user> <unka-<> > figure ^^ out in whatever <unka> client lib you are using </s>
+<s> <user> <unka-<> > you using <unka/> ? </s>
+<s> <user> <unka<> > python </s>
+<s> <user> <unka<> > i tried to set the <unka> to something random so maybe that is the problem . </s>
+<s> <user> <unka-<> > k </s>
+<s> <user> <unka<> > i just do not know <unka/> decides what the <unka> of the emulator will be . </s>
+<s> <user> <unka<> > if it 's <unka> then maybe it will work . </s>
+<s> <user> <unka-<> > server has to know exact <unka> to talk to and your driver has to know what <unka> and <unka> port to talk to </s>
+<s> <user> <unka-<> > <unka> is unique per <unka/> </s>
+<s> <user> <unka-<> > has nothing to do with <unka> </s>
+<s> <user> <unka<> > so maybe it 's set when i create the <unka> then </s>
+<s> <user> <unka-<> > yes </s>
+<s> <user> <unka<> > okay i will try :d </s>
+<s> <user> <unka-<> > if your <unka/> is running </s>
+<s> <user> <unka-<> > typing adb devices should give you the <unka> </s>
+<s> <user> <unka<> > thank you , <unka> ! i will be right back . need to switch from windows to macos where i do the <unka/> . </s>
+<s> <user> <unka<> > hmm . i do not think it worked out the way i expected . </s>
+<s> <user> <unka<> > i launched one emulator ( android 5.1 ) <unka> <unka> me " <unk#a-> " . then i quit the emulator and launched another one ( android 7.1 ). this <unka,> <unka> gave me " <unk#a-> " . </s>
+<s> <user> <unka<> > if i then start up the first emulator again ( android 5.1 ), its <unka> appears to be " <unk#a-> " . </s>
+<s> <user> <unka<> > i do n't know but maybe this is a problem for <unka> ? </s>
+<s> <user> <unka<> > i have an idea . i can try to use the <unka> capability to pass the " <unka-> " parameter to the emulator . " set the console port number for this emulator instance to <port > . the console port number must be an even integer between <unk#> and <unk#> , inclusive . <port > +1 must also be free and will be reserved for adb ." </s>
+<s> <user> <unka<> > that may make the <unka> consistent at least . </s>
+<s> <user> <unka<> > in the end , i decided to create an issue on github : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : so <unka> has an <unka> effect for <unka> for you ? i set it for a couple of images in my react native android app and <unka> <unka> did n't change at all . how is this supposed to work ? </s>
+<s> <user> <unka<> > <unka> : i 'm adding these properties to the component props : </s>
+<s> <user> <unka<> > { <unka> : <unka> , <unka:> , <unka:> } </s>
+<s> <user> <unka<> > in android it works in most of the places you 'll put it . i 'm having difficulties to understand how it works is ios </s>
+<s> <user> <unka<> > a component that have these props is reachable by <unka> android , but not always in <unka> ios </s>
+<s> <user> <unka<> > i 'm probably doing something wrong </s>
+<s> <user> <unka<> > anyone ever executed test with two android devices connected to the same <unka> server ? i 'm getting this error message : </s>
+<s> <user> <unka<> > " a new session could not be created . details : problem getting session data for driver type <unka> ; does it implement 'get <unka'> ?" </s>
+<s> <user> <unka<> > the weird thing is that the same test with ios & android devices connected runs successfully </s>
+<s> <user> <unka<> > <unka> : how do you find that element after that in <unka> ? what is your selector ? </s>
+<s> <user> <unka<> > yes i am . i 'm using accessibility selector </s>
+<s> <user> <unka<> > no <unka> ? </s>
+<s> <user> <unka<> > i always thought <unka> would somehow map to a <unka-> </s>
+<s> <user> <unk#a<> > is anyone using <unka> with node ? i ca n't seem to <unka'(.:> , { <unka'):}> work ... </s>
+<s> <user> <unk#a<> > i tried using <unka> but it says it 's not yet implemented </s>
+<s> <user> <unk#a<> > i tried using <unka> but it says it 's not yet implemented </s>
+<s> <user> <unka-<> > none of touch action is implemented ? </s>
+<s> <user> <unka-<> > or a particular <unka> method is n't </s>
+<s> <user> <unka-<> > i do n't use node js with <unka> but use ruby instead </s>
+<s> <user> <unka-<> > and always use <unka> class for scrolling </s>
+<s> <user> <unk#a<> > i tried [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i get an error saying not yet implemented </s>
+<s> <user> <unk#a<> > and then when i tried using mobile : scroll i 'm <unka> error in <unka-[_> </s>
+<s> <user> <unka-<> > <unka(.:> : 100 , y : <unk#a()._> : 100 , y : <unk#a)-.> ruby code works for me </s>
+<s> <user> <unka-<> > on ios </s>
+<s> <user> <unka-<> > follow [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > for node js </s>
+<s> <user> <unka<> > hi all .. how to get the placeholder text in textbox ? </s>
+<s> <user> <unka<> > hi any of you know what is " p " & " d " represents in api request ? </s>
+<s> <user> <unka-<> > hi </s>
+<s> <user> <unka-<> > i am using <unka> 1.6 beta version to automate an native app .. in between the app redirects to web view .. can anybody please help how to automate this .. do we need to do context switch </s>
+<s> <user> <unka<> > hi all i am new to the group please help me in getting source </s>
+<s> <user> <unka<> > when you start <unka> in the terminal , is there a way to test if it can be accessed ( such as through jenkins running scripts ) </s>
+<s> <user> <unka<_> > hi all , can you help me on how to int <unka> xcode server and <unka> tests ? </s>
+<s> <user> <unka<_> > <unka*> </s>
+<s> <user> <unk#a<> > are you executing your code on the same machine <unka> is on ? </s>
+<s> <user> <unk#a<> > is anyone able to interact with a ios <unka> ? using <unk#.> </s>
+<s> <user> <unka<> > i 'm trying to run a safari test on a real ios device - works in the simulator and on android device but i ca n't get the apple phone running on <unka> <unk#.> </s>
+<s> <user> <unka<> > it was working previously on <unka> 1.6.0 with ios 9 </s>
+<s> <user> <unka<> > updated phone to <unk#.> and <unka> to <unk#.> </s>
+<s> <user> <unka<> > getting this : </s>
+<s> <user> <unka<> > [ <unka> ] encountered internal error running command : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > not sure where undefined command is creeping in from </s>
+<s> <user> <unka<> > seems to be failing on the first <unka(.> ) </s>
+<s> <user> <unka<> > ok , turns out part of the problem was <unka> was inaccessible </s>
+<s> <user> <unka<> > sudo chmod 777 DIR/var/ DIR/db/ <unka/> </s>
+<s> <user> <unka<> > anyone had any issues with latest <unka> ... <unka/> ? i keep on getting no tests where found in a clean project setup </s>
+<s> <user> <unka<> > create a new local repo .. <unka-> ... <unka> <unka> .. all works now .. </s>
+<s> <user> <unka<> > hi guys , i have <unka> 1.5.3 installed in my mac , i had created an ios simulator for iphone 5 with version 9.3 using xcode <unk#.> and i was able to launch the web app i had put in my script . when i updated to xcode <unk#.> the simulator would not launch nor run script </s>
+<s> <user> <unka<> > i also cannot execute any tests using real ios device , is there certain steps i have to take using the developer id for real ios device to work ? </s>
+<s> <user> <unka-<> > you cannot use xcode <unk#.> with <unka> 1.5.3 </s>
+<s> <user> <unka-<> > xcode 8.0 + replaced the <unka> with <unka> ...... </s>
+<s> <user> <unka-<> > upgrade to <unka> <unk#.> </s>
+<s> <user> <unka-<> > ^ +++ </s>
+<s> <user> <unka<> > would i be able to test on my real device using <unk#.> and xcode <unk#.> ? </s>
+<s> <user> <unka-<> > yeah , but it 's going to take a bit of updating to get there </s>
+<s> <user> <unka-<> > this video does a good job telling you what to do : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > is <unk#.> available on <unka.> for mac ? </s>
+<s> <user> <unka-<> > yes and no .. </s>
+<s> <user> <unka-<> > as of <unka> 1.6.0 , there is no .dmg you have to run everything via command line . </s>
+<s> <user> <unka<> > what if i used <unka> 7 </s>
+<s> <user> <unka-<> > then <unka> 1.5.3 will work </s>
+<s> <user> <unka-<> > but you wont be able to target a ios 10 device </s>
+<s> <user> <unka<> > would it support ios 10.2 ? </s>
+<s> <user> <unka-<> > nope . </s>
+<s> <user> <unka-<> > anything ios 10 + requires xcode 8.0 + </s>
+<s> <user> <unka<> > once the ios updates to latest version , is it possible to downgrade ? </s>
+<s> <user> <unka-<> > nope . </s>
+<s> <user> <unka-<> > well , i sorta lied . </s>
+<s> <user> <unka<> > do i have to setup the certificate and provisioning through apple developer site for all this to work ? </s>
+<s> <user> <unka-<> > you can downgrade , but you have a very short window to do it . basically , apple 's activation server removes the older ios version . i cannot remember if it is immediate or it 's a few days . </s>
+<s> <user> <unka-<> > i believe you do need a developer team account to get it all working . i 'm not sure . perhaps someone could answer that for you . </s>
+<s> <user> <unka<> > thats fine ill just leave it at 10.2 ... i enabled the ui automation </s>
+<s> <user> <unka<> > yea my company got the dev team id , i just have to figure out a way to make the script run on real device </s>
+<s> <user> <unka<> > i have the android real device setup , ios seems a little more tricky </s>
+<s> <user> <unka<> > cool , thnx , ill check it out </s>
+<s> <user> <unka<> > can anyone give me a link to download <unka> <unk#.> it 's not showing as an option in the <unka.> site </s>
+<s> <user> <unka-<> > there is none </s>
+<s> <user> <unka-<> > that is <unka_> <unka-@_> when he said there is no dmg </s>
+<s> <user> <unka<> > so is there way of downloading it ? </s>
+<s> <user> <unka-<> > npm </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > what kind of dependencies i need to install to run android web test cases on <unka> <unk#.> ? </s>
+<s> <user> <unka<> > any idea how can i locate an element on different android version which has only " <unka-> " attribute </s>
+<s> <user> <unka-<> > long time since i worked on <unka> , does <unka-> map to name or to text ? </s>
+<s> <user> <unka<> > i tried googling it says name .. </s>
+<s> <user> <unka<> > by which i was unable to locate using name </s>
+<s> <user> <unka-<> > worst case u can always try npm uninstall and then npm install </s>
+<s> <user> <unka-<> > it will just reinstall all the dependencies </s>
+<s> <user> <unka<> > <unka(.> ) not supporting in the latest <unka> . heve any alternative to this ? </s>
+<s> <user> <unk#a<> > use accessibility id instead of name </s>
+<s> <user> <unka<> > how can we write any sample ? </s>
+<s> <user> <unka<> > <unka"().> ); </s>
+<s> <user> <unk#a<> > <unka"().> ); </s>
+<s> <user> <unka-<> > name should ideally work </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > what i can make out from this code is in case of name , it searches by content description and text as well </s>
+<s> <user> <unka-<> > <unka> : do you see any error if you use name ? </s>
+<s> <user> <unka-<> > or its just that <unka> does n't find the required element ? </s>
+<s> <user> <unka-<> > got it </s>
+<s> <user> <unka-<> > <unka> now uses <unk#a> </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > this seems to be the current code , the one i posted above is the old one </s>
+<s> <user> <unka-<> > i dnt see any <unka.> here </s>
+<s> <user> <unka-<> > and the error matches what you have mentioned </s>
+<s> <user> <unka<> > is this work for ios ? </s>
+<s> <user> <unka<> > is this work for ios ? </s>
+<s> <user> <unka<> > name not working for ios , actually i got the issue for ios </s>
+<s> <user> <unka-<> > i see it for old ios driver [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > but i guess new version uses <unka-> ?? </s>
+<s> <user> <unka<> > am using <unka> 1.5.3 and <unka> 'name' </s>
+<s> <user> <unka<> > its not working </s>
+<s> <user> <unka-<> > i am not sure what <unka> 1.5.3 uses , i assume it is using <unka-> </s>
+<s> <user> <unka-<> > have n't worked on <unka> for long time </s>
+<s> <user> <unka<> > <unk#a-> : ok fine , thanks for the response </s>
+<s> <user> <unka-<> > <unk#a.> should be using <unka-> as per the changelog [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk#*.> </s>
+<s> <user> <unka-<> > so ideally name should work </s>
+<s> <user> <unka<> > <unk#a-> : fin </s>
+<s> <user> <unka<> > e </s>
+<s> <user> <unk#a<> > check <unka-> library </s>
+<s> <user> <unka-<> > <unka-> <unka> should have it else his code wo n't compile , right ? </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > ( y ) </s>
+<s> <user> <unk#a<> > </s>
+<s> <user> <unka-<> > <unka> : , u can try something like <unka"'(.> )") </s>
+<s> <user> <unka<> > <unk#a-> : let me try and update you </s>
+<s> <user> <unka-<> > also it would be good to see <unka> log when u get the error for name </s>
+<s> <user> <unka-<> > would be helpful to debug </s>
+<s> <user> <unka<> > does <unka> <unk#.> support <unka> test for ios apps . </s>
+<s> <user> <unka-<> > the problem i faced with <unka> is , as soon as it invokes app , it immediately tries to inject <unka> javascript into <unka> </s>
+<s> <user> <unka-<> > in cases of splash screen or 1st screen as native screen , injection of <unka> script fails due to absence of any <unka> </s>
+<s> <user> <unka-<> > if you can dump the <unka> log here , that would be helpful </s>
+<s> <user> <unka<> > same thing i was am facing .. i added <unka"(.> " , " your main activity name " ); </s>
+<s> <user> <unka<> > but this is for java + <unka> not sure if you can do it in <unka> .. </s>
+<s> <user> <unka-<> > what do u get in the server log ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] it was stopping server at launch .. and it was random ... </s>
+<s> <user> <unka<> > sometime it used to launch app successfully and sometimes it was showing me above issue .. </s>
+<s> <user> <unk#a<> > hi </s>
+<s> <user> <unk#a<> > <unka> ] welcome to <unka> <unk#a.> [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > plz help me solve this error . </s>
+<s> <user> <unka<> > is this all on the same machine ? <unka> suggests something <unka> reach something else on the network </s>
+<s> <user> <unk#a<> > <unka> : ys </s>
+<s> <user> <unk#a<> > try to run in single device only </s>
+<s> <user> <unk#a<> > <unka> : did the parallel framework work with ios 10 ? </s>
+<s> <user> <unka<> > i could not make it work with two ios 10 devices </s>
+<s> <user> <unka<> > probably because of problems with signing of the <unka> </s>
+<s> <user> <unka<> > <unka> <unka> = ( <unka> ) <unka"(.> <unka"().\> <unka\> " <unk");> </s>
+<s> <user> <unka<> > when i am trying to type in full name using this i m getting such exception </s>
+<s> <user> <unka<> > exception in thread " main " <unka.> : <unka> strategy <unka'-> <unka'> is not supported </s>
+<s> <user> <unk#a<> > <unka> : did the parallel framework work with ios 10 ? </s>
+<s> <user> <unka<> > i could not make it work with two ios 10 devices </s>
+<s> <user> <unka<> > probably because of problems with signing of the <unka> </s>
+<s> <user> <unk#a<_> > not able to run <unka> test in ios real device with os <unk#.> , <unka> version 1.6 , xcode 8 . anything to install . also i able to run <unka> in ios simulator by installing <unka'> install <unka'> </s>
+<s> <user> <unk#a<_> > not able to run <unka> test in ios real device with os <unk#.> , <unka> version 1.6 , xcode 8 . anything to install . also i able to run <unka> in ios simulator by installing <unka'> install <unka'> </s>
+<s> <user> <unka<> > hey all , i am working in a <unka-> app and i am trying to scroll a specified section of the page . i ca n't get the scroll to happen at all . anyone have any ideas as to what i can do to make the scroll happen ? </s>
+<s> <user> <unka-<> > hw r u scrolling </s>
+<s> <user> <unka-<> > what does <unka> log say when u scroll </s>
+<s> <user> <unka<> > i am working through a <unka> framework and using <unka> through that . the only thing i see in the <unka> log is - </s>
+<s> <user> <unka<> > [ <unka-<> -> ] 501 2 ms - 112 </s>
+<s> <user> <unka-<> > what is the response code 501 ? </s>
+<s> <user> <unka<> > apparently its an http protocal issue meaning " not implemented " </s>
+<s> <user> <unka<> > i will have to look further into this </s>
+<s> <user> <unka-<> > ya cos scroll is no more there </s>
+<s> <user> <unka-<> > u shud use swipe </s>
+<s> <user> <unka<> > ah . i will try that then </s>
+<s> <user> <unka-<> > hello , <unka!> 'm having some trouble trying to scale my <unka> tests and i 'm interested in hearing from people who are running multiple <unka> servers for running tests in <unka.> initial idea was to run <unka> on docker on cloud machines for android but that did n't work since i was only able to run arm on cloud and it 's too slow for my needs . for ios i did n't come up with anything other than handling multiple <unka/> myself or paying for a solution like <unka.> anyone solved this in another way and can share how you are doing it ? </s>
+<s> <user> <unka<> > try this [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > this looks good , but it seems to solve the issue of running the same tests across multiple different devices . my goal is to actually speed up the test execution by <unka> the execution of a same test suite across multiple <unka> servers . </s>
+<s> <user> <unka-<> > we have about 300 <unka> tests using <unka> and they are taking near 7 hours to complete and this is just too much . btw , does this look reasonable to you guys ? 300 <unka> tests in 7 hours ? </s>
+<s> <user> <unka-<> > i had file an <unka> support issue where on ios after upgrading to <unka> my test runtime has more than doubled </s>
+<s> <user> <unka-<> > i have around 100 tests which take almost 3 hours on ios so 300 tests in 7 <unka> along those lines </s>
+<s> <user> <unka-<> > android is much faster though </s>
+<s> <user> <unka-<> > earlier android used to be hella slow </s>
+<s> <user> <unka-<> > i do n't know of any solution for ios other than what you are doing with multiple machines , os limitation i guess </s>
+<s> <user> <unka-<> > <unka-> : <unka@> for your inputs ! </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > go add your <unka_> <unka-@_> </s>
+<s> <user> <unka-<> > hello , <unka!> 'm having some trouble trying to scale my <unka> tests and i 'm interested in hearing from people who are running multiple <unka> servers for running tests in <unka.> initial idea was to run <unka> on docker on cloud machines for android but that did n't work since i was only able to run arm on cloud and it 's too slow for my needs . for ios i did n't come up with anything other than handling multiple <unka/> myself or paying for a solution like <unka.> anyone solved this in another way and can share how you are doing it ? </s>
+<s> <user> <unka<> > try this [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > this looks good , but it seems to solve the issue of running the same tests across multiple different devices . my goal is to actually speed up the test execution by <unka> the execution of a same test suite across multiple <unka> servers . </s>
+<s> <user> <unka-<> > we have about 300 <unka> tests using <unka> and they are taking near 7 hours to complete and this is just too much . btw , does this look reasonable to you guys ? 300 <unka> tests in 7 hours ? </s>
+<s> <user> <unka-<> > i had file an <unka> support issue where on ios after upgrading to <unka> my test runtime has more than doubled </s>
+<s> <user> <unka-<> > i have around 100 tests which take almost 3 hours on ios so 300 tests in 7 <unka> along those lines </s>
+<s> <user> <unka-<> > android is much faster though </s>
+<s> <user> <unka-<> > earlier android used to be hella slow </s>
+<s> <user> <unka-<> > i do n't know of any solution for ios other than what you are doing with multiple machines , os limitation i guess </s>
+<s> <user> <unka-<> > <unka-> : <unka@> for your inputs ! </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > go add your <unka_> <unka-@_> </s>
+<s> <user> <unka<> > hello everyone , i am new to <unka> and i would like to know are there any limitations or issues for automating ios app made with swift 3 ? </s>
+<s> <user> <unka<> > i 'm trying to get the <unka> software and the <unka> doctor is giving me the following <unka.> <unka> ### diagnostic starting <unka#> <unka> xcode is installed at : DIR/applications/ <unka./> <unka/> <unka/[> : could not detect mac os x version from <unka_> output : <unk#'.> ] </s>
+<s> <user> <unka<> > <unka> version 1.5.3 ( ara ) </s>
+<s> <user> <unka-<> > which xcode version are you using ? </s>
+<s> <user> <unka<> > v <unk#.> </s>
+<s> <user> <unka-<> > need to use <unka> <unk#.> </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i do n't see <unk#.> on the <unka> bitbucket account </s>
+<s> <user> <unka<> > <unka> is <unk#.> if i install via the terminal but the desktop app is still 1.5.3 </s>
+<s> <user> <unka-<> > yeah , there 's no .dmg for <unka> <unk#.> , this is something the guys are working on </s>
+<s> <user> <unka-<> > so .. </s>
+<s> <user> <unka-<> > you have to install it via command line </s>
+<s> <user> <unka<> > kk </s>
+<s> <user> <unka-<> > <unka> : <unka> does not support sierra </s>
+<s> <user> <unka-<> > you are on sierra </s>
+<s> <user> <unka-<> > downgrade to mac os 10.11 </s>
+<s> <user> <unka-<> > <unka> <unk#.> works for me with sierra </s>
+<s> <user> <unka-<> > but i think what <unka> is saying that <unka> 1.5.3 doesnt work with sierra ? </s>
+<s> <user> <unka-<> > and it wont work with xcode <unk#.> because apple remove the old <unka> that drives it , so it should n't work . so if you want to use <unka> <unk#.> , you have to roll back mac os to 10.11 and roll back to an older version of xcode = xcode 8.0 pre . and you wont be able to test on ios 10 </s>
+<s> <user> <unka<> > got it </s>
+<s> <user> <unka-<> > <unka-> : i have seen folks complaining about <unk#.> not working on sierra </s>
+<s> <user> <unka-<> > hence hesitant to upgrade </s>
+<s> <user> <unka-<> > did you upgrade from el cap to sierra or was it a brand new machine ? </s>
+<s> <user> <unka<> > guys , is it possible to automate application written in swift 3 using <unka> ? i 've been told that <unka> can interact only with objective c apps </s>
+<s> <user> <unka-<> > i hv automated swift apps ,not sure about swift 3 in specific </s>
+<s> <user> <unka<> > <unk#a-> : thanks for your answer </s>
+<s> <user> <unka<> > i think it does n't matter which language is used to write the app , either way , <unka> does not require anythin to be implemented in the app so the automation will work , unlike some other frameworks </s>
+<s> <user> <unka<> > <unka> uses apple testing framework , now <unka> </s>
+<s> <user> <unka<> > <unka> : so it is possible to run tests on ios 10 and it is <unka> with xcode 8 now ? </s>
+<s> <user> <unka<> > <unka> : it is indeed , with the capability <unka> : <unka> </s>
+<s> <user> <unka<> > <unka> : great news , thank you </s>
+<s> <user> <unka<> > yes , just to confirm , but it 's a very complicated setup </s>
+<s> <user> <unka<> > very very complicated </s>
+<s> <user> <unka<> > very </s>
+<s> <user> <unka<> > anyone updated to the new itunes ? i have a suspicion its broke <unka> ability to talk to safari on real devices </s>
+<s> <user> <unka-<> > i have n't , its knocking on the door </s>
+<s> <user> <unka<> > hey guys , does anyone knows a solution for the too many instances of this service are already running error </s>
+<s> <user> <unka<> > it happens all the time , even after just a few tests , and i need to reboot the tested device </s>
+<s> <user> <unka<> > and it 's a pain in the ass to do this all the time </s>
+<s> <user> <unka<> > or nobody here is using <unka> <unk#+.> because it 's actually unusable with all the bugs and things not working </s>
+<s> <user> <unk#a<> > hi all , i 'm having trouble with <unka> <unk#.> , xcode <unk#.> , and ios 10.2 . i installed the new ios driver <unka> and now i am trying to get my tests to run in an ipad air 2 simulator - or really any ios 10+ simulator . the simulator pops up , the new <unka> appears to start , but my app will not launch . it tries to , but closes immediately . i 've tried almost everything and sort of at a loss . will post more details momentarily about how i built the app and <unka> logs . if anyone can help though i would appreciate it !! </s>
+<s> <user> <unk#a<> > <unka> the app in the simulator from within xcode , which is strange . so i am wondering if there is some conflict or incorrect setup of the new automation drivers ... </s>
+<s> <user> <unk#a<> > my os is el <unka> <unk#.> </s>
+<s> <user> <unk#a<> > my os is el <unka> <unk#.> </s>
+<s> <user> <unka-<> > <unk#a> : logs will help , i can try to assist you when you are ready . </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unk#a<> > thx </s>
+<s> <user> <unk#a<> > give me one min </s>
+<s> <user> <unk#a<> > <unka-> : </s>
+<s> <user> <unk#a<> > sent log in pm to avoid cluttering the channel - will share solution here if we get it working ! </s>
+<s> <user> <unka-<> > <unk#a> : [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > see if this helps </s>
+<s> <user> <unka-<> > <unka-_> <unk#a.@_> </s>
+<s> <user> <unka-<> > in my case sleep 5 also helped </s>
+<s> <user> <unka<> > does anyone know what steps do i have to take to launch a website from safari in ios devices ? do i have to download a safari extension ? </s>
+<s> <user> <unka<> > package <unka;> <unka.;> <unka.;> <unka.;> <unka.;> class <unk#a> { [ <unka-<> -> ] } </s>
+<s> <user> <unka-<> > are you testing a native ios app or web application on ios ? </s>
+<s> <user> <unka<> > this does n't seem to work </s>
+<s> <user> <unka<> > web app </s>
+<s> <user> <unka-<> > here you go : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > would this work for <unka> <unk#.> and ios version 10.2 ? </s>
+<s> <user> <unka<> > <unka> driver = new <unka().;> " [ <unka-<> -> ] " ); </s>
+<s> <user> <unka<> > would i still have to input this into my script ? </s>
+<s> <user> <unka-<> > here an example from the link i posted : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > would it be same for real device ? i just have to input <unka> # and change the ios version ? </s>
+<s> <user> <unka-<> > the code yes , but there 's a setup process that is different the instructions are listed in the link i provided . if you read through it , it should have everything you need to know . </s>
+<s> <user> <unka<> > anyone had any issues with latest <unka> ... <unka/> ? i keep on getting no tests where found in a clean project setup </s>
+<s> <user> <unka<> > create a new local repo .. <unka-> ... <unka> <unka> .. all works now .. </s>
+<s> <user> <unka-<> > what are you trying to <unka_> <unka@_> </s>
+<s> <user> <unka<> > tryin to run <unka> on each device .. </s>
+<s> <user> <unka<> > different <unka._> <unk#a-@_> </s>
+<s> <user> <unka<> > i think i must <unka> specific usb per container </s>
+<s> <user> <unka<> > so the 1 container doesnt grab all </s>
+<s> <user> <unka-<> > which docker image r u using </s>
+<s> <user> <unka-<> > i did n't find any by name <unka-> </s>
+<s> <user> <unka-<> > got it </s>
+<s> <user> <unka-<> > so y r u starting 2 instances </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hello every one ! can some one help me with this issue ? </s>
+<s> <user> <unk#a<> > android application crash at the moment i run my <unka> while using <unka> </s>
+<s> <user> <unk#a<> > hello , while i send login and password both are written in password field ! </s>
+<s> <user> <unk#a<> > hi </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > selenium conference 2017 early bird tickets are on sale now .!! [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > hi all , does anyone know what is the reason maven build failure if i am initializing </s>
+<s> <user> <unk#a<> > <unka/> as <unka<> <unka> > <unk#a> ; </s>
+<s> <user> <unk#a<_> > anyone familiar with selenium grid ? </s>
+<s> <user> <unka-<> > what 's your <unka_> <unk#a@_> </s>
+<s> <user> <unk#a<_> > so i have selenium grid plugin installed in jenkins which is on machine a ( unix ), i have nodes on machine b ( unix ) and machine c ( windows ) . if i start the node for the machine b ( unix ) it 's all ok . but if i start then and the node on machine c ( windows ), something is happening because i ca n't even acces the <unka/> </s>
+<s> <user> <unka-<> > what log do u see on grid server ( machine a ) when you start windows node ( machine c ) </s>
+<s> <user> <unk#a<_> > channel stopped </s>
+<s> <user> <unk#a<_> > here is the node log : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<_> > i do n't understand why the windows machine causing this ... all the machine are in the same vpn </s>
+<s> <user> <unka-<> > <unk#.:> info - starting auto registration thread . will try to register every 5000 <unk#a.:> info - registering the node to the hub : [ <unka-<> -> ] <unk#.:> info - the node is registered to the hub and ready to use </s>
+<s> <user> <unka-<> > this is for linux node or windows node </s>
+<s> <user> <unk#a<_> > for the windows node </s>
+<s> <user> <unk#a<_> > the linux node connects and is registered to the hub ... it 's everything good .. the windows node is giving me a headache </s>
+<s> <user> <unka-<> > <unk#.:> info - the node is registered to the hub and ready to <unk#a.:> info - stopping <unka> <unk#a,./=[> ] </s>
+<s> <user> <unka-<> > in these 2 statements , there is a gap of 1 min </s>
+<s> <user> <unka-<> > are n't you doing anything after node is connected ? </s>
+<s> <user> <unk#a<_> > nope .. :| </s>
+<s> <user> <unk#a<_> > only hit start from jenkins and that 's all </s>
+<s> <user> <unka-<> > what i meant is </s>
+<s> <user> <unka-<> > r u not running any tests on this node </s>
+<s> <user> <unk#a<_> > nope </s>
+<s> <user> <unk#a<_> > i only want to establish the connection </s>
+<s> <user> <unk#a<_> > <unka> unknown version this is from the <unka/> </s>
+<s> <user> <unka-<> > how is the log looking on node </s>
+<s> <user> <unka-<> > can u paste node log ? </s>
+<s> <user> <unka-<> > hello guys , has anybody worked with <unka> for automation ? i have written <unka> scripts in java in android studio and i want to trigger them from jira via <unka> plugin . any help ? </s>
+<s> <user> <unka<> > i 'm trying to scroll up the page of a android application , i 'm using below method , but its not working , is there any other way ? </s>
+<s> <user> <unka<> > public void <unka(> ) { <unka> js = ( <unka> ) <unka;<> , double > <unka> = new <unka<> , double > ( <unka"().;> " , <unk#a"().;> " , <unk#a"().;> " , <unk#a"().;> " , <unk#a"().;> " , <unk#a"().;> : swipe " , <unka> <unk);}> </s>
+<s> <user> <unka<> > error log : <unka.> : not yet implemented . please help us : [ <unka-<> -> ] ( warning : the server did not provide any stacktrace information ) </s>
+<s> <user> <unka-<> > mobile : swipe is not a valid implementation </s>
+<s> <user> <unka-<> > support for such actions was removed long back </s>
+<s> <user> <unka-<> > why r u using execute script for <unka> </s>
+<s> <user> <unka<> > <unk#a-> : so , could you please tell me which method i can use ? </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > thanks , let me <unka._> <unk#a-@_> </s>
+<s> <user> <unka<> > which method i have to call for page scroll up ? </s>
+<s> <user> <unka<> > <unka> this one ??? </s>
+<s> <user> <unka-<> > <unka> is class name </s>
+<s> <user> <unka<> > swipe ? from 202 line ? </s>
+<s> <user> <unka-<> > yes </s>
+<s> <user> <unka<> > and for left and right <unka> ? </s>
+<s> <user> <unka-<> > offset determines the direct </s>
+<s> <user> <unka-<> > direction </s>
+<s> <user> <unka<> > sorry , i did n't get you ? </s>
+<s> <user> <unka-<> > see the code </s>
+<s> <user> <unka-<> > int startx = <unka(> , location , size , <unk#a);> <unka> = <unka(> , location , size , <unk#a);> <unka> = <unka(> , location , size , <unk#a);> <unka> = <unka(> , location , size , <unk#a> ); </s>
+<s> <user> <unka-<> > although i am finding this code little weird </s>
+<s> <user> <unka<> > that means swipe method for all ( scroll up , left <unka> and right <unka> ) </s>
+<s> <user> <unka-<> > my bad </s>
+<s> <user> <unka-<> > do n't use that code </s>
+<s> <user> <unka-<> > use touch actions </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > because where ever there is swipe code , i see the comment that its deprecated and will be removed </s>
+<s> <user> <unka-<> > better to use <unka> than breaking your code at later point of time </s>
+<s> <user> <unka<> > thanks a <unka_> <unk#a-@_> you replay </s>

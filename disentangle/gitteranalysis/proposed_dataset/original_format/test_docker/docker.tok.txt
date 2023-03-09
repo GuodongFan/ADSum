@@ -1,0 +1,1063 @@
+<s> <user> <unka<> > hello . help solve the problem <unka.> : [ <unka-<> -> ] when i run a container returns an error : [ <unka-<> -> ] ( but DIR/root/ <unka./> file exists ) </s>
+<s> <user> <unka<> > in <unka> all right , i 'm wrong <unka\> i will try , thank you </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > you can try also with DIR/bin/ DIR/sh/ </s>
+<s> <user> <unka<> > <unka-> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > docker version <unk#.> , build <unk#a> </s>
+<s> <user> <unka-<> > try </s>
+<s> <user> <unka-<> > cmd [ " DIR/bin/ DIR/sh/ " , " DIR/root/ <unka./> " ] </s>
+<s> <user> <unka<> > cmd [ " DIR/bin/ DIR/sh/ " , " DIR/root/ <unka./> " ] it\ 's work . thanks </s>
+<s> <user> <unka-<> > ;- ) </s>
+<s> <user> <unka<> > how i can start nginx and php on starting container ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] not working (( </s>
+<s> <user> <unka<> > hi guys . </s>
+<s> <user> <unka<> > i have <unka> <unka;> have two physical server with docker engine on <unk#a.> - with mysql <unk#a> - with apps containers </s>
+<s> <user> <unka<> > i need to create a network between the two <unka-> </s>
+<s> <user> <unka<> > what should i do ? what tool to use ? </s>
+<s> <user> <unka<> > <unka> : , have you checked this [ <unka-<> -> ] ? </s>
+<s> <user> <unka<> > hm ... </s>
+<s> <user> <unka<> > i must do it on every host ? </s>
+<s> <user> <unka<> > <unka-> : <unka@> you <unka/> be your interpreter just supply cmd as a quoted array as you have ; see : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> : you 'll probably need to put those two commands in a single .sh file and execute it via cmd </s>
+<s> <user> <unk#a<> > <unka@> i think you simply need && after the first start so [ <unka-<> -> ] cmd executes a single command so by using && you get it to do both - at least thats my understanding </s>
+<s> <user> <unka<> > hi guys , i need a docker compose to use with php 7 , postgresql , mongo e nodejs . do you have some example ? </s>
+<s> <user> <unka<> > <unka> : : [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > hi folks , [ <unka-<> -> ] [ <unka-<> -> ] on that way the logs should be written : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hey everyone , are there any good patterns for copying production credential files to an image ? we were thinking of putting our credential files on s3 and downloading them </s>
+<s> <user> <unka<_> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka_> <unka,@_> does that support using files ? </s>
+<s> <user> <unka<> > hi all </s>
+<s> <user> <unka<> > hi all </s>
+<s> <user> <unka<> > is there a way to set folder ownership on mounted volume ? </s>
+<s> <user> <unka<> > is there a way to set folder ownership on mounted volume ? </s>
+<s> <user> <unka<> > somehow , when i change permissions once , <unka> kept on my local docker but not on aws . </s>
+<s> <user> <unka<> > somehow , when i change permissions once , <unka> kept on my local docker but not on aws . </s>
+<s> <user> <unka<> > <unka> : i have a really similar file permission issue . so <unka> for any helpful tipp on this :) </s>
+<s> <user> <unk#a<> > i'd suggest checking this out , since running as root is definitely an <unka-> that should be avoided , [ <unka-<> -> ] </s>
+<s> <user> <unka<> > can i use docker in a virtualbox ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > just be careful with docker and vagrant </s>
+<s> <user> <unka<> > docker inside a vm through vagrant gets effed </s>
+<s> <user> <unka<> > some link about this ? </s>
+<s> <user> <unka<> > about vagrant ? </s>
+<s> <user> <unka<> > or docker in a vm ? </s>
+<s> <user> <unka<> > about docker run in vbox </s>
+<s> <user> <unka<> > just install and use normally </s>
+<s> <user> <unka<> > docker can basically inside anything with a linux kernel </s>
+<s> <user> <unka<> > docker on windows used to be docker through a linux vm </s>
+<s> <user> <unka<> > docker on amazon ecs is docker running on a vm </s>
+<s> <user> <unka<> > yes , i install in my windows but the problem is activate hyper and break the virtualbox </s>
+<s> <user> <unka<> > haha </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > a host operating system can only have 1 hypervisor </s>
+<s> <user> <unka<> > i write a command that i can select in the booting if <unka/> hyper </s>
+<s> <user> <unka<> > but the docker not run if i need vbox </s>
+<s> <user> <unka<> > and vbox no run if i select hyper and no like this </s>
+<s> <user> <unka<> > i need can use the two without reboot </s>
+<s> <user> <unka<> > on windows , you cannot run both hyper and vbox </s>
+<s> <user> <unka<> > on any os </s>
+<s> <user> <unka<> > you cant run competing hypervisors </s>
+<s> <user> <unka<> > to me knowledge at least </s>
+<s> <user> <unka<> > if you have hyperv just use that it can do everything vbox does </s>
+<s> <user> <unka<> > hi all <unka\> 'm trying start nginx <unka:> run <unka-> " host " -e <unk#a=_> <unk#a> i get <unk#a/:> <unk#:> [ <unka> ] <unk##> : bind( ) to 0.0.0.0:80 failed ( 98 : address in <unka)\> : [ <unka> ] bind( ) to 0.0.0.0:80 failed ( 98 : address in use ) </s>
+<s> <user> <unka<> > how i can change the port in [ <unka-<> -> ] image ... ? :/ </s>
+<s> <user> <unka<> > you should use the <unka-> option for this </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > have a look at the commandline reference here [ <unka-<> -> ] or directly in the nginx image docs [ <unka-<> -> ] in the section exposing ports , there you have a direct example </s>
+<s> <user> <unka<> > [ <unka-<> -> ] this would map your local port 8080 to the port 80 in the container </s>
+<s> <user> <unka<> > <unka> : still have same problem </s>
+<s> <user> <unka<> > <unka> run <unka-> " host " -p <unk#:> -e <unk#a=_> <unk#a> </s>
+<s> <user> <unka<> > you set <unk#a=_> </s>
+<s> <user> <unka<> > so you should adjust </s>
+<s> <user> <unka<> > -p <unk#:> </s>
+<s> <user> <unka<> > to this </s>
+<s> <user> <unka<> > can you just paste in your error again in here ? </s>
+<s> <user> <unka<> > docker run <unka-> " host " -p <unk#:> -e <unk#a=_> <unk#a> </s>
+<s> <user> <unka<> > still same error </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > it 's ignore my 8080 settings :/ </s>
+<s> <user> <unka<> > <unka> you sure the image <unka'\> using supports <unka_> ? <unka'\> use <unka'-\> " <unka"'\> . just do " docker run -p <unk#:> nginx " </s>
+<s> <user> <unka<> > but i want <unka-> " host " </s>
+<s> <user> <unka<> > i 'm using this image : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hmm ... </s>
+<s> <user> <unka<> > " out-of-the-box , nginx <unka'\> support using environment variables inside most configuration blocks . but <unka> ... " </s>
+<s> <user> <unka<> > and what happens if you just run it <unka_> <unka?@_> </s>
+<s> <user> <unka<> > still the error ? </s>
+<s> <user> <unka<> > <unka> : no .. it\ 's ok . but i need <unka-> " host " option ... so i must build my own image from <unka:> ... </s>
+<s> <user> <unka<> > sorry if this is the wrong channel , but can anyone tell me where i might see the log output for an aws ecs container i 'm trying to start a docker container on ? i think it 's failing , but i have no idea where to see if it is . </s>
+<s> <user> <unka<> > is it possible to auto pull volumes from registry while doing docker service create ? do i have to manually ssh into all swarm nodes and do a pull of my <unka(> ) each time a new version is ready ? </s>
+<s> <user> <unka<> > hello , i have an issue with swarm . i have a simple java application which tries to call another application . i use swarm for my deployment through a network overlay . the problem is that when i scale an app , i can validate that the hosts behind the vip are updated but my client keeps calling the same <unka.> tried a lot of things like changing java dns cache <unka> ever had something like that ? </s>
+<s> <user> <unka<_> > hi , looking to scale my existing compose file across multiple hosts using swarm . any examples i could follow ? </s>
+<s> <user> <unka<> > hi ! does anyone happen to know about inspecting execution state in a container ? when <unka> command you can see the exec id in the container state , and the docker api allows you to query that state ( e.g . to see whether <unka> running ) but i <unka> see any docs for command line support </s>
+<s> <user> <unka<> > in other words , my question is can you do this in the cli tool : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : you mean this ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > so i can <unka> <unka> get the list of current exec ids for a container , but i <unka> seem to actually inspect the execution state for those exec ids </s>
+<s> <user> <unka<> > i tried <unka> <unka<> id > but <unka> : no such image , container or <unka:<> id > </s>
+<s> <user> <unka<> > unless <unka> missing something , it seems like this is not implemented for the cli tool ? </s>
+<s> <user> <unka<> > maybe if you request the data as json from the container ? </s>
+<s> <user> <unka<> > oh , how can i try that ? </s>
+<s> <user> <unka<> > oh , the default format is json it appears </s>
+<s> <user> <unka<> > if that does n't contain it then you may be stuck with the api </s>
+<s> <user> <unka<> > yeah it looks like it , thanks anyway . </s>
+<s> <user> <unka<> > i <unka> : no such image , container or task : <unk#a> </s>
+<s> <user> <unka<> > but an exec id is not an image , container or task </s>
+<s> <user> <unka<> > so docker inspect , as far as i can tell , does not support <unka> exec ids </s>
+<s> <user> <unk#a<> > <unka> : i think you are correct , inspect is mostly for containers and images </s>
+<s> <user> <unka<> > has anyone had problems with <unka-> ? </s>
+<s> <user> <unka<> > hello , i 'm new on docker , i would like to know if there is some ui and/or <unka> that allow me to manage multiple cluster in one place . i understand that there is many docker ui available but it seems that it allows to manage only one cluster ( or maybe i miss something ). indeed my cluster will be hosted on azure , in different <unka> and i would like a single interface to manage them all . do you have any idea ? </s>
+<s> <user> <unka<> > check <unka.> </s>
+<s> <user> <unka<> > interesting <unka_> <unka!@_> </s>
+<s> <user> <unka<> > im trying to replace my brew docker instance with a <unka> version - i can start the container - and see my data from within the container - but when i try and access it on the exposed port on os x - i get connection refused </s>
+<s> <user> <unka<> > docker run -d <unka-> <unka-> -p <unk#:> -e <unka'=_> -e <unka'=_> <unka-> <unka'=_> -v DIR/usr/ DIR/local/ DIR/var/ <unka/:> DIR/var/ DIR/lib/ DIR/postgresql/ DIR/data/ --name <unka-> <unk#a.:> </s>
+<s> <user> <unka<> > database psql -u <unka> -d <unka> : could not connect to server : connection <unka> the server running locally and <unka> on unix domain socket " DIR/tmp/ <unk#a./> " ? </s>
+<s> <user> <unka<> > docker ps -a show it active with the following ports - <unk#.:> -> <unk#a/> </s>
+<s> <user> <unka<> > heyo = ) does anyone use docker with caddy ( as webserver )? </s>
+<s> <user> <unka<> > hey guys , so i am wondering how you all manage your docker compose definitions , say i have an api , built in a <unka> architecture , it results in something like 50+ docker compose services and i am wondering , if there is a better way to setup all these services using tools instead of hardcoded <unka> files on disk </s>
+<s> <user> <unka<> > i guess a nicer way would be through some interface , where i can build the configurations and house them in a tool which i could run , store them in a backend database , then i could manage them easier , any tools which you guys run that would help ? or do you run everything using docker run ? i guess not , cause multi service architectures would be a bit tricky to manage </s>
+<s> <user> <unka<> > i use <unka> </s>
+<s> <user> <unka<> > ok , thats a good answer , thanks </s>
+<s> <user> <unka<> > i host all the websites </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i think this will just run very good </s>
+<s> <user> <unka<> > i can add a volume to my wordpress to load my wordpress files from my host volume where i save all my stuff .. how to do the volume to it ? </s>
+<s> <user> <unka<> > <unk#a> : you know what i mean ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] [ <unka-<> -> ] iirc </s>
+<s> <user> <unk#a<> > i created a <unka-.> <unka> is the code <unka`> : image : <unk#a.:> : build : . command : apt-get update command : apt-get install php7.0 command : apt-get install apache2 command : apt-get install subversion volumes : [ <unka-<> -> ] ports : [ <unka-<> -> ] links : [ <unka-<> -> ] [ <unka-<> -> ] is there something wrong in my <unka> file ? </s>
+<s> <user> <unka<> > please guide me how to start on learning basics of docker devops </s>
+<s> <user> <unka<> > ave </s>
+<s> <user> <unka<> > i am curious , when i want to deploy an image that i 've built locally is it possible ( or even plausible ) to upload only that top application layer that 's changed , and let my machines fetch the lower layers from cache ? </s>
+<s> <user> <unka<> > <unka-> : ok , that makes sense . so i think maybe i need a server on the same <unka/> centre as my app servers that will pull from github , build the image then deploy ( meaning only the shared layers get sent to the app servers ) </s>
+<s> <user> <unka<> > so probably time to go figure out how to do that , thank you :) </s>
+<s> <user> <unka<> > :) </s>
+<s> <user> <unka<> > ave </s>
+<s> <user> <unka<> > i am curious , when i want to deploy an image that i 've built locally is it possible ( or even plausible ) to upload only that top application layer that 's changed , and let my machines fetch the lower layers from cache ? </s>
+<s> <user> <unka<> > <unka> : i think trhe layers are introduced for reducing the payload during the uploads . so , the layers are automatically recognized and only those layers that are changed , will be sent as payload . </s>
+<s> <user> <unka<> > <unka-> : ok , that makes sense . so i think maybe i need a server on the same <unka/> centre as my app servers that will pull from github , build the image then deploy ( meaning only the shared layers get sent to the app servers ) </s>
+<s> <user> <unka<> > so probably time to go figure out how to do that , thank you :) </s>
+<s> <user> <unka<> > :) </s>
+<s> <user> <unk#a<> > <unka> : there is a docker container for the registry that is free to use </s>
+<s> <user> <unka<> > i have <unka-> file with about 7 services in it . how should i organize tests ? make a separate service for testing to test all my containers or do tests inside each container ? </s>
+<s> <user> <unka<> > hi all ... i starting my container via <unka-> with this <unka/:> -c " <unka> <unka$'\_> < DIR/etc/ DIR/nginx/ <unka./> > DIR/etc/ DIR/nginx/ <unka./> && nginx -g <unka'\> <unka';\> " </s>
+<s> <user> <unka<> > all is fine ... but docker kill -s hup <unka<> > does not work :( </s>
+<s> <user> <unka<> > docker exec <unka<> > nginx -s <unka> fine ... </s>
+<s> <user> <unka<> > <unka> : most probably because you're not using a signal forwarding process manager <unka./:> </s>
+<s> <user> <unka<> > <unk#a> : you <unka_> : <unka> : <unka> order for docker to correctly associate to the container name and hostname . </s>
+<s> <user> <unka<> > osx question : im using native docker and when i go to the console my <unka-> is not active , is that a normal thing ? i need to do eval <unka$(-> env default ) to make it available </s>
+<s> <user> <unka<> > <unka> : ok ... thanks .. i 'll try <unka> .. </s>
+<s> <user> <unka<> > <unka> : is this right ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > if i 've got a docker container running docker ( <unka> agent running builds ) what is the best way to mount a volume in the <unka'> container into the <unka'> container ? </s>
+<s> <user> <unka<> > the <unka'> container has the host docker socket bound ( -v DIR/var/ DIR/run/ <unka./> :) so when the agent ( parent container ) tries to run a new container and pass some -v flags ; the -v flags do n't get mounted correctly as far as i can tell </s>
+<s> <user> <unka<> > presumably because it 's not actually a child ; but a <unka> ; and the directory trying to be mounted does n't actually exist outside the <unka'> </s>
+<s> <user> <unka<> > <unka> : i 'm not sure . in order for <unka> to work as expected , it needs to be your <unka> , and be assigned pid 1 . </s>
+<s> <user> <unka<> > only then <unka> will forward signals to it 's child processes </s>
+<s> <user> <unka<> > <unka> : i had resolved the issue ... i created a bash scrip with all my commands + nginx exec at the end and <unka> as <unka> ... and all is fine now :) </s>
+<s> <user> <unka<_> > hello , is it possible to mount the mysql socket file directly into a docker container ? </s>
+<s> <user> <unka<_> > or basically any method that would allow me to connect to a vanilla mysql server running on the host . </s>
+<s> <user> <unka<> > heyo .. i get error 502 bad gateway using fpm and <unka> </s>
+<s> <user> <unka<> > but i dont get why </s>
+<s> <user> <unka<> > can anybody help me with this issue ? </s>
+<s> <user> <unka<_> > that message means that <unka> ca n't talk to your fpm server . </s>
+<s> <user> <unk#a<> > hi </s>
+<s> <user> <unk#a<> > i would like to <unka> a project that consist <unka:> frontend codebase ( <unka> 2 , after npm run build all the static files i need is in the dist <unka)\> backend codebase ( a nodejs app w/o any <unka> build <unka)> production <unka.> file looks like this : [ <unka-<> -> ] the backend api got a dependency for mongodb , so i will need a node , mongo , nginx <unka> </s>
+<s> <user> <unk#a<> > what i am not sure is , to which image 's filesystem should i put the frontend static files ? it should be in the nginx image . am i correct ? </s>
+<s> <user> <unk#a<> > if it 100% static its better to put them into <unka> , but you can mount physical directory into both images , its depends on how you will build your containers </s>
+<s> <user> <unka<> > if they're only needed in the frontend i'd put them there , yes . after you all you do n't ship a nginx but your frontend . </s>
+<s> <user> <unka-<> > god damn it is there a single ci platform that does docker properly </s>
+<s> <user> <unk#a<> > <unka-> : docker properly in what way ? </s>
+<s> <user> <unka-<> > <unk#a> : docker 1.10 at least and supports compose and does n't do weird shit like <unka> </s>
+<s> <user> <unk#a<> > tried aws or looked at linode and managing your own version of docker ? </s>
+<s> <user> <unk#a<> > hello all ! maybe you guys can help me out , been beating this up all day . </s>
+<s> <user> <unk#a<> > i 'm trying to create a base docker image that would allow me to use volumes and have them be created with the same permission as the host . this is the base image for our containers : </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > this is the <unka> for using it in an application : </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unk#a> : you can see if this gives you any more clarity [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hm , i 'm having an odd issue </s>
+<s> <user> <unka<> > hm , i 'm having an odd issue </s>
+<s> <user> <unka<> > i 'm trying to set up a php < -> nginx environment </s>
+<s> <user> <unka<> > i 'm trying to set up a php < -> nginx environment </s>
+<s> <user> <unka<> > i have them in separate containers , with a link from the nginx container to the php one called " php " </s>
+<s> <user> <unka<> > i have them in separate containers , with a link from the nginx container to the php one called " php " </s>
+<s> <user> <unka<> > in the nginx config i have a <unka_> to " <unk#a:> " , which fails with a bad gateway " connection refused " </s>
+<s> <user> <unka<> > in the nginx config i have a <unka_> to " <unk#a:> " , which fails with a bad gateway " connection refused " </s>
+<s> <user> <unka<> > if i ping " php " from inside the nginx container it tells me it\ 's pinging the ip <unk#.> </s>
+<s> <user> <unka<> > if i ping " php " from inside the nginx container it tells me it\ 's pinging the ip <unk#.> </s>
+<s> <user> <unka<> > but the ip of the php container is <unk#.> </s>
+<s> <user> <unka<> > but the ip of the php container is <unk#.> </s>
+<s> <user> <unka<> > if i replace " php " with <unk#.> in the nginx config for the <unka_> it works </s>
+<s> <user> <unka<> > if i replace " php " with <unk#.> in the nginx config for the <unka_> it works </s>
+<s> <user> <unka<> > why is the link pointing to the wrong ip ? d : </s>
+<s> <user> <unka<> > why is the link pointing to the wrong ip ? d : </s>
+<s> <user> <unka<> > it 's not the host ip </s>
+<s> <user> <unka<> > it 's not the host ip </s>
+<s> <user> <unka<> > <unka@> - are you doing the linking at runtime via docker run <unka-> ? might be worth posting your full command and any <unka-./> <unka.> just ran <unka-> up on this : [ <unka-<> -> ] and it links through ok ( assuming you set up the <unka/> confs ok ) - but the <unk#a:> part appears to be working . [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka@> - are you doing the linking at runtime via docker run <unka-> ? might be worth posting your full command and any <unka-./> <unka.> just ran <unka-> up on this : [ <unka-<> -> ] and it links through ok ( assuming you set up the <unka/> confs ok ) - but the <unk#a:> part appears to be working . [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka@> - also , i think <unka-> is <unka./:?_> </s>
+<s> <user> <unka<> > <unka@> - also , i think <unka-> is <unka./:?_> </s>
+<s> <user> <unka<> > hm </s>
+<s> <user> <unka<> > well , the link is created by <unka> </s>
+<s> <user> <unka<> > i believe it uses <unka-> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that 's the <unka-> it generates </s>
+<s> <user> <unka<> > is that the same as run <unka-> ? </s>
+<s> <user> <unka<> > <unka> : </s>
+<s> <user> <unka<> > <unka> uses version 1 of <unka-> though </s>
+<s> <user> <unka<> > it ca n't use version 2 </s>
+<s> <user> <unka<> > hm , maybe it can , there 's been a few new versions ... </s>
+<s> <user> <unka<> > but how to upgrade it without loosing my settings </s>
+<s> <user> <unka<> > i do n't know if they're kept inside the container or not </s>
+<s> <user> <unka<> > ah there 's a process for it in their docs , good </s>
+<s> <user> <unka<> > hm , well , i updated <unka> which now supports version 2 , which allows networks , and i specified a network in my setup instead of the link </s>
+<s> <user> <unka<> > but now when i try to go to the site it says it ca n't be reached ... </s>
+<s> <user> <unka<> > does the container need to be on some network to be accessible from the outside even when a port is open ? </s>
+<s> <user> <unka<> > i can get it working using a link and the container ip </s>
+<s> <user> <unka<> > other combinations will not work </s>
+<s> <user> <unka<> > : | </s>
+<s> <user> <unka<> > time for bed . continue tinkering tomorrow </s>
+<s> <user> <unka<> > i'd really like this to work properly </s>
+<s> <user> <unka<> > [ <unka-<> -> ] this works , but if i remove the link it stops working , or if i try to use the link name instead of the ip </s>
+<s> <user> <unk#a<> > hello , i 'm trying to install mysql-server in my <unka> but the script breaks when the mysql installer asks to set the root password . is there a way i can supply a password in the <unka> somewhere ? i 'll put my <unka> bellow ... [ <unka-<> -> ] </s>
+<s> <user> <unka<> > why are you making a mysql image instead of using the official one ? </s>
+<s> <user> <unk#a<> > i 'm not making a mysql images , plus i just want to learn docker </s>
+<s> <user> <unka<> > you're making an image with mysql in it </s>
+<s> <user> <unka<> > :p </s>
+<s> <user> <unka<> > <unk#a> : have you tried installing quietly using the -q -y switch </s>
+<s> <user> <unka<> > from <unk#a.:> apt-get update && apt-get install -q -y <unka\> <unka\> <unka-\> <unk#a-.\> php-mysql <unk#a-.\> </s>
+<s> <user> <unka<> > the official mysql image gets the root password from an environment variable you supply when you run it in a container </s>
+<s> <user> <unk#a<> > <unka> : i 'll try that now , thanks :) </s>
+<s> <user> <unka<> > i do n't know how they implement that though </s>
+<s> <user> <unka<> > fyi i agree <unka_> <unka.@_> you really should use the official image and its best practice to have a single container manage a single <unka/> , you can alway connect them by linking </s>
+<s> <user> <unk#a<> > <unka> : <unka&_> <unka@_> would you leave mysql-server out of the <unka> and include the image later on in the <unka-.> ? </s>
+<s> <user> <unk#a<> > i 'm trying to set up a <unka> environment if it helps </s>
+<s> <user> <unka<> > <unk#a> : i have nginx , php and mysql all in separate containers </s>
+<s> <user> <unka<> > i use pre-made images for each of them </s>
+<s> <user> <unka<> > <unk#a-:> </s>
+<s> <user> <unka<> > there is also a pre-made but unoffical <unka+> image , but that uses php5 </s>
+<s> <user> <unk#a<> > <unka_> <unka,@_> would you mind sharing your <unka-.> ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > there </s>
+<s> <user> <unk#a<> > thanks a <unka_> <unka,@_> i 'm missing a lot of that in mine </s>
+<s> <user> <unka<> > no problem </s>
+<s> <user> <unka<> > i managed to get the container running . but i ended up with this problem . any ideas ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > this is my <unka-> <unk#a> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > im using digitalocean $ 20 <unk#a$./> <unk#a/> gb 2 <unk#a> gb ssd <unk#a> tb transfer </s>
+<s> <user> <unka<> > hi,i am new to docker and i am building <unka> stack using docker every thing work as expected beside some permission issues , how to fix permissions so that php can create files/folders ( the right <unka).> that i am using <unka:> , <unka-:> and a custom container volume </s>
+<s> <user> <unk#a<> > <unka> : read back a little bit , i pasted a link regarding a good practice for changing permissions for an app </s>
+<s> <user> <unka<> > <unk#a> : thank you for the <unka.> did not understand your last question <unka:> you <unka> <unka> image that you are building from to see if it is <unka?> about that . </s>
+<s> <user> <unk#a<> > <unka> : sorry , was mixing up my conversations , that one was for another convo </s>
+<s> <user> <unk#a<> > kind of sad <unka> does n't have threading like <unka> , but that 's probably the only thing i really miss , as everything else is very github oriented with the <unka/> </s>
+<s> <user> <unka<> > <unk#a> : thank you again for your kindness and help </s>
+<s> <user> <unka<> > so i 'm trying to figure out a way to build images that <unka> for my rails app deployments . i 've basically read a bunch of stuff and come to the conclusion that i should create an image that has all my base dependencies like ruby version , nodejs , etc . then i should create a <unka> using that image as base , then copying over my <unka'> directory that contains build cache , my <unka'_> dir that contains previously downloaded javascript dependencies , and similarly so for my gems , and my javascript and <unka/> precompiled assets . after copying them into the image i can run my ruby <unka'> tasks , then save all the new tmp , <unka_> etc contents back to the host computer filesystem , and finish off the <unka> . </s>
+<s> <user> <unka<> > if i 'm not mistake this can give me very fast build times with minimal downloading etc and leads to a single image that i can spin up on any number of machines very quickly </s>
+<s> <user> <unka<> > does this approach make any sense ? </s>
+<s> <user> <unka<> > apologies for the lack of sensible terminology . </s>
+<s> <user> <unka<> > if you want to leverage caching of build tasks , yes , that 's the best solution . but to release a container for production , i usually remove build tools and ship the container with the minimum to run the service . </s>
+<s> <user> <unka<> > i dont understand shipping containers </s>
+<s> <user> <unka<> > i thought you ship images , and when you run them you end up with a container on the host system </s>
+<s> <user> <unka<> > are you saying i should build everything first , then copy what i need into a docker image ? </s>
+<s> <user> <unka<> > that could work too </s>
+<s> <user> <unka<> > and a docker image is n't 1 file is it , it 's a bunch of slices and some meta data describing which slice in which order , eh ? </s>
+<s> <user> <unka<> > also i do n't understand how distributing images works . <unka> happens is that you <unka'> an image to a repo , which is actually sending meta data + a bunch of <unka> the repo to see if it already has those layers or not . as in it only sends up what it needs to </s>
+<s> <user> <unka<> > is that correct ? </s>
+<s> <user> <unka<> > well the scary part was the hacks i saw to get specific layers not to cache </s>
+<s> <user> <unka<> > which i undrestand <unka> everything after </s>
+<s> <user> <unk#a<> > <unka> : you are correct , if you are building on top of the same base layer for a specific image " repository " then it will already have that base layer if you have previous pushed an image to it , then it only has to transfer the <unka/> layers </s>
+<s> <user> <unk#a<> > what tricks for cache busting are you referring to ? </s>
+<s> <user> <unka<> > i wonder if someone more knowledgeable than i might be able to speak to this issue : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unk#a> : i saw a few , i do n't remember exactly off the top of my head . </s>
+<s> <user> <unka<> > so i need to create an image to serve as my <unka'> image for my application images </s>
+<s> <user> <unka<> > so instead of from <unk#a.:> i'd rather do from <unka-> </s>
+<s> <user> <unka<> > and i suspect that i 'll have a bunch of other utility apps with their own docker images , possibly basing off other app enviroments , such as my <unka> etc </s>
+<s> <user> <unka<> > these <unka'> images that i want to use , should each have a director and a <unka> </s>
+<s> <user> <unka<> > or should i just create a dir like <unka'-> , and put <unka'-.> , <unka'-.> , etc </s>
+<s> <user> <unka<> > ? </s>
+<s> <user> <unk#a<> > i am writing a docker <unk#a> lab handbook [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > i am checking out the " <unka-> option .. was wondering how to set that as default in the docker <unka_> . did any one try it out ? </s>
+<s> <user> <unka<_> > i want to start all my docker images ro by default and want to set ro as default option . </s>
+<s> <user> <unka<_> > some thing like this <unka> run -t -i -d <unka-> <unka-> DIR/run/ <unka-> DIR/tmp/ <unk#a:> DIR/bin/ DIR/bash/ </s>
+<s> <user> <unka<_> > want to set it as default with <unka_> </s>
+<s> <user> <unka<> > are there any strategies to speed up docker copy commands . i have to copy several cache directories from host into my image so that my asset compilation and app build is fast . but these directories are full of files . </s>
+<s> <user> <unka<> > is it faster to tar them first , transfer the tar and untar it ( or use add ) </s>
+<s> <user> <unka<> > even env commands take several seconds to complete </s>
+<s> <user> <unka<> > perhaps i 'll load host volumes instead of copying </s>
+<s> <user> <unka<> > ah i see i'd have to mount it , run my commands then commit the container to a new image </s>
+<s> <user> <unka<> > hello </s>
+<s> <user> <unka<> > trying to run a container but i get that node modules are missing </s>
+<s> <user> <unk#a<> > <unka> : the container may assume you already <unka> installin the directory where the <unka> and <unka.> is <unka> ? </s>
+<s> <user> <unka<> > i run cmd ls <unka_> and modules are there ! </s>
+<s> <user> <unka<> > now it is working but i did nothing </s>
+<s> <user> <unka<> > strange ... </s>
+<s> <user> <unka<> > found what i add to make it work </s>
+<s> <user> <unka<> > cmd ls <unka_> npm start </s>
+<s> <user> <unka<> > the first cmd </s>
+<s> <user> <unka<> > i 'll remove to check it problem returns </s>
+<s> <user> <unka<> > ok error again </s>
+<s> <user> <unka<> > error : typeerror : cannot read property 'find' of <unka> <unka.> ( DIR/app/ <unka/_> <unka-/> DIR/lib/ <unk#a)./:> <unka.> ( DIR/app/ <unka/_> <unka/> DIR/lib/ <unka/> <unka/> <unk#a)./:> <unka_> ( DIR/app/ <unka/_> <unka/> DIR/lib/ <unka/> DIR/query/ <unka/> <unk#a)./:> run ( DIR/app/ <unka/_> <unka/> DIR/lib/ <unka/> DIR/query/ <unka/> <unk#a)./:> <unka.> ( DIR/app/ <unka/_> <unka/> DIR/lib/ <unka/> DIR/query/ <unka/> <unk#a)./:> <unka.> ( DIR/app/ <unka/_> <unka/> DIR/lib/ <unka/> DIR/query/ <unk#a)./:> <unka.> ( DIR/app/ <unka/_> <unka/> DIR/lib/ <unka/> DIR/query/ <unk#a./:> </s>
+<s> <user> <unk#a<> > that sounds like a failure of node inside the container , you might ask in the <unka/> channel about that </s>
+<s> <user> <unka<> > indeed </s>
+<s> <user> <unk#a<_> > gulp watch is not working on docker with volume sharing <unka,> anyone share some suggestion to make it working </s>
+<s> <user> <unk#a<_> > <unka@> for the suggestion i ll look on to that </s>
+<s> <user> <unka<_> > so when i run a docker instance , my <unka> runs some bootstrapping commands to sync dependancies ( specifically <unka'> install ). these dependencies are written to disk owned by root:root . is there a way to tell docker ( specifically <unka-> ) to write files as the user i 'm running docker as ? </s>
+<s> <user> <unka<_> > looks like <unka-> supports <unka> in the yaml file . i 'll try it out , but it would be nice if there was an agnostic way to let all developers run the same config . </s>
+<s> <user> <unk#a<> > <unka_> : typically this is construct you create inside your container that picks up the user running the container 's id and chown all the files inside the container to that user during the build </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > <unk#a> : so the " standard approach " is to bake in " <unka> " into all of your docker images by <unka> a binary off the net and then require your <unka> to run the command through that , which gives you the option of passing an environment variable with the id of your current user , all of which <unka'\> work with <unka-> . do i understand that right ? </s>
+<s> <user> <unk#a<> > i <unka> one way to do it , but really since it is n't recommended to run as root anyways , a lot of containers will chmod everything to a known user and run everything as that , the trick is whether that uid exists on your system or not </s>
+<s> <user> <unka<_> > so the easy way would to do <unka> -u { some arbitrary id i pick } <unka-> the host and then pass that user id to docker 's -u ? </s>
+<s> <user> <unka<_> > if i specify " <unka-> " to docker , will it resolve the id from the host , or does it do a useradd and create a new user ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > this appears to have a workaround on an open bug that is somewhat related , [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > this appears to have a workaround on an open bug that is somewhat related , [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka_> <unka@_> just make it up as i go along :d </s>
+<s> <user> <unka<> > hi , i am noticing that the container files <unka> update after the host files change in a mounted volume . i would appreciate any suggestions </s>
+<s> <user> <unka<> > hi , i have a volume mapped from host to container in <unka-.> but the container files <unka> seem to update when i change the host file . any suggestions ? </s>
+<s> <user> <unka<> > <unka> : the volume is mapped in <unka> ? </s>
+<s> <user> <unka<> > hello . i use <unka> and using <unka> as container and cant forward to my wordpress container , i tried to ping the wordpress container and i gives answer , but still cant proxy to my wordpress .. you could help me figure out my problem ? </s>
+<s> <user> <unka<> > hmm </s>
+<s> <user> <unka<> > no one can help me out ? </s>
+<s> <user> <unk#a<> > ADDRESS_hi <unka@_> might need to ping the <unka> channel as i 'm not that familiar with how that platform interacts with containers and forwarding </s>
+<s> <user> <unk#a<> > at first blush <unka'\> check and make sure the containers are on the same network " segment " and then that you exposed the appropriate ports from the wordpress container </s>
+<s> <user> <unka<> > <unka> dont have a <unka> channel </s>
+<s> <user> <unka<> > i linked both , wordpress and caddy server .. and i even can ping them .. thats the weird path </s>
+<s> <user> <unk#a<> > you can <unka> exec <unka<> id > ping <unka<>_> <unka?@_> </s>
+<s> <user> <unk#a<> > <unka_> <unka@_> just make it up as i go along :d </s>
+<s> <user> <unka<> > <unka_> <unk#a@_> </s>
+<s> <user> <unk#a<> > i do n't know if the container could have telnet , but you could try <unka> <unka<> > <unka> of ping , does that work ? </s>
+<s> <user> <unka<> > hmm </s>
+<s> <user> <unka<> > telnet does not exist </s>
+<s> <user> <unka<> > <unk#a> : it seems like <unka> does not get any request from outside </s>
+<s> <user> <unka<> > since <unka> didnt write anything to log </s>
+<s> <user> <unka<> > what can be the reason ? </s>
+<s> <user> <unk#a<> > if it does n't have a port exposed or if the service is n't running properly inside that could be an issue </s>
+<s> <user> <unka<> > depending on whether i 'm running on staging or on production </s>
+<s> <user> <unka<> > i need to use a different <unka.> file </s>
+<s> <user> <unka<> > but i have no idea how to do that . anyone know ? </s>
+<s> <user> <unka<> > <unka> : the volume is mapped in <unka-.> file [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : and in your <unka> has the declaration of <unka`> DIR/source/ </s>
+<s> <user> <unka<> > <unka> : i have this in the <unka> [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : you need <unka> <unka/> work </s>
+<s> <user> <unka<> > hello,i got <unka> running . the database is working correctly now and moved the domain to point to my new server . somehow i get just a clear website , even when i curl the <unka> i get zero <unka.> have made a look into the <unka> logs and wordpress logs and i get the request , but no response . i also installed nginx as a container and served the nginx to caddy to see if caddy is proxying correctly . i get the welcome screen from nginx . so this is working fine , but when i again bind the wordpress container to caddy its just <unka.> you have a clue what can be the reason to get no response on the client but requests on the <unka?> you ! </s>
+<s> <user> <unka<> > hey guys </s>
+<s> <user> <unka<> > after latest update docker do n't start anymore on windows </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > when my pc restart and if i open the preferences app and click on restart i got this : </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > any idea on what that means ? </s>
+<s> <user> <unk#a<> > are you running from an administrator prompt ? </s>
+<s> <user> <unka<> > nop </s>
+<s> <user> <unka<> > i just rebooted my pc </s>
+<s> <user> <unka<> > all : trying to find a simple way to tail or access stdout of a linked container running a simple service from another container ( running tests ) - i'd rather not modify the container running the service i.e . just use stdout - is there a good way to write stdout to a shared volume ?? </s>
+<s> <user> <unka<> > i 'm new to docker and have been working at getting <unka-> up and running for dev and prod using <unka-> . i keep running into issues no matter how i seem to go about it . using straight docker i get it running but i ca n't seem to browse to the server thats running in the container . </s>
+<s> <user> <unka<> > when i use <unka-> i get an error <unka> : <unka-> : not <unka> i think might be happening because for some reason the container is not in the right directory </s>
+<s> <user> <unka<> > anyone that might be able to lend a hand would be very appreciated </s>
+<s> <user> <unka<> > easier question .... for those looking to use docker for dev <unka> that use hot <unka/> reloading .... is there a best practise for <unka_> folder ? i mean the <unka_> folder needs to be compiled on the container but conversely i need to setup a volume for the src so hot reloading works . seems odd <unka> <unka> a tmp folder in the <unka> and then get <unka-> to copy that over into the host machine volume . not to mention that folder being leftover after compose is shut down . </s>
+<s> <user> <unka<> > <unka> : simply supplying the volume of the source root folder should do what you want </s>
+<s> <user> <unka-<> > is it possible to deploy code on docker swarm using a <unka> added into the code </s>
+<s> <user> <unka-<> > ? </s>
+<s> <user> <unk#a<> > <unka-> : can you clarify what <unka> trying to accomplish ? </s>
+<s> <user> <unk#a<> > ( btw <unka> a <unka/> chat too :) ) </s>
+<s> <user> <unka<> > can an application running inside a container detect which port was used as public <unka-> <unka:> ? i.e i want to detect what is the port outside the container so the app can listen to it even when using random ports generated by docker </s>
+<s> <user> <unka<> > docker inspect <unka<_> > </s>
+<s> <user> <unka<> > that 'll give you everything docker knows about the container </s>
+<s> <user> <unka<> > <unka> : i mean from inside the container </s>
+<s> <user> <unka<> > did you see this ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i mean , after docker spin up the container , my app needs to be aware of its ip and port exposed by docker so it can start listening on that port </s>
+<s> <user> <unk#a<> > i would pass those as environment variables if you can <unk> should be easier and safer to run on different machines </s>
+<s> <user> <unka<> > yeah was going to ask why not supply the port ? </s>
+<s> <user> <unka<> > because i dont wnat to be supplying ports each i spin a new container </s>
+<s> <user> <unka<> > i just want to run it and it resolve itself </s>
+<s> <user> <unka<> > it is pretty common and useful for those <unka> scenarios </s>
+<s> <user> <unka<> > let me see that issue </s>
+<s> <user> <unka<> > the issue still open , 3 years ... </s>
+<s> <user> <unka<> > anyway </s>
+<s> <user> <unka<> > <unka> : the way docker works today as you are stating works pretty well if you are using <unka/> webapps </s>
+<s> <user> <unka<> > if you have a complex distributed cluster you will end up with this problem </s>
+<s> <user> <unka<> > ok look at this [ <unka-<> -> ] </s>
+<s> <user> <unka<> > yeah do n't do that </s>
+<s> <user> <unka<> > use docker network properly and you wo n't have this issue </s>
+<s> <user> <unka<> > the two containers running that has the <unka,.> <unk#a> its docker file , and they write to a membership table store its port </s>
+<s> <user> <unka<> > no no </s>
+<s> <user> <unka<> > listen </s>
+<s> <user> <unka<> > ( read :p ) </s>
+<s> <user> <unka<> > <unka.> may be a container or not , read from the membership table storage and know that both <unka> are running on <unk#> so it try to connect to one of them and fail </s>
+<s> <user> <unka<> > because the port exposed is <unk#> and 4444 </s>
+<s> <user> <unka<> > imo , you should n't be spinning up docker containers manually ( unless purely testing that single container alone ) nor exposing ports manually ( again , unless testing ) ... docker network bridges take care of all that for you . </s>
+<s> <user> <unka<> > again , all 50 of my services run on the same port </s>
+<s> <user> <unka<> > no it does n't </s>
+<s> <user> <unka<> > that is the point </s>
+<s> <user> <unka<> > the client connects to the <unka> by reading the membership table </s>
+<s> <user> <unka<> > in that drawing , you have no context of any network </s>
+<s> <user> <unka<> > we do n't need the context </s>
+<s> <user> <unka<> > ignore that </s>
+<s> <user> <unka<> > no i 'm telling you that you do </s>
+<s> <user> <unka<> > in order for the containers to talk to each other without you having to worry about port mapping </s>
+<s> <user> <unka<> > unless you're not detailing enough information , this is the basis of docker and <unka> , and not out of the norm </s>
+<s> <user> <unka<> > assume that the containers are <unka> to each other </s>
+<s> <user> <unka<> > i have 50 services per cluster , and about 12 clusters across the globe , and do n't have any issues with having to track down ports </s>
+<s> <user> <unka<> > the problem is that the 1 . server app need to know the port and ip it will bind to so it can write it to membership table . 2 . the client read this data from that table so it will need ip and port each <unka> is running </s>
+<s> <user> <unka<> > trust me </s>
+<s> <user> <unka<> > so when you spin up your deployment , you're manually <unka> <unka> ? </s>
+<s> <user> <unka<> > the application need that </s>
+<s> <user> <unka<> > no dude , docker has all that built in natively </s>
+<s> <user> <unka<> > :( </s>
+<s> <user> <unka<> > you do n't need to know ips at all </s>
+<s> <user> <unka<> > you are not understanding :( </s>
+<s> <user> <unka<> > so maybe you can elaborate a bit ? because i 'm still not seeing the issue other than your understanding of <unka/> </s>
+<s> <user> <unka<> > ok ... let me try again </s>
+<s> <user> <unka<> > regardless of how docker manage dns resolution and port binding </s>
+<s> <user> <unka<> > the server application needs to know which ip:port it will listen to and write to the membership store tables </s>
+<s> <user> <unka<> > got it ? </s>
+<s> <user> <unka<> > now </s>
+<s> <user> <unka<> > i 'm pretty certain i understand what you're trying to do </s>
+<s> <user> <unka<> > the client which will read from the membership table will need to be able to reach ip:port </s>
+<s> <user> <unka<> > you're basically building a mesh </s>
+<s> <user> <unka<> > an explicit mesh </s>
+<s> <user> <unka<> > it is a distributed hash table </s>
+<s> <user> <unka<> > which i 'm telling you is redundant because docker has that native </s>
+<s> <user> <unka<> > that manages membership of the cluster </s>
+<s> <user> <unka<> > ok ... </s>
+<s> <user> <unka<> > so </s>
+<s> <user> <unka<> > answer this , are you ever <unka> <unka> of running unit tests ? </s>
+<s> <user> <unka<> > for the local tests i 'm using docker run </s>
+<s> <user> <unka<> > but i plan to learn and use compose to make it production soon </s>
+<s> <user> <unka<> > i'd get that going immediately , you 'll see it works all that out really quick </s>
+<s> <user> <unka<> > it wont </s>
+<s> <user> <unka<> > the cluster althought they are running the same image , when each machin join the cluster it join the dht which makes it handle specific part of the messages </s>
+<s> <user> <unka<> > it is not like a web server that you can reach a service or dns name that will be round robin balanced to any server </s>
+<s> <user> <unka<> > the client ( based on that membership table ) will need to connect specifically for a given <unka/> to do specific stuff </s>
+<s> <user> <unka<> > you supply services , which <unka-> will institute hostnames as the same name , then ports you can just keep constant , and access <unk#a(,:_> using default mongo images with default ports ) </s>
+<s> <user> <unka<> > docker compose is a dns </s>
+<s> <user> <unka<> > ... effectively </s>
+<s> <user> <unka<> > ok , but institute default port will make 2 <unka> to run in the same host </s>
+<s> <user> <unka<> > mm no </s>
+<s> <user> <unka<> > that 's already bad construction of containers </s>
+<s> <user> <unka<> > they should be separate containers </s>
+<s> <user> <unka<> > <unka_> , <unka_> , <unka_> </s>
+<s> <user> <unka<> > not just " mongo " and all your dbs are in that container </s>
+<s> <user> <unka<> > :( </s>
+<s> <user> <unka<> > you still do n't undertand my problem </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > you deal as it was a regular web app </s>
+<s> <user> <unka<> > but it is not </s>
+<s> <user> <unka<> > it is really a distributed cluster </s>
+<s> <user> <unka<> > and i may have multiples clusters running on the same machine </s>
+<s> <user> <unka<> > and if i specify a given port they will not be able to run </s>
+<s> <user> <unka<> > your clusters should be <unka> </s>
+<s> <user> <unka<> > and on different hostnames </s>
+<s> <user> <unka<> > why ? </s>
+<s> <user> <unka<> > because best practices </s>
+<s> <user> <unka<> > for this reason exactly </s>
+<s> <user> <unka<> > you avoid port <unka> </s>
+<s> <user> <unka<> > i want have multiple a pool of container host machines </s>
+<s> <user> <unka<> > and just spin containers in them </s>
+<s> <user> <unka<> > and ask them to just run </s>
+<s> <user> <unka<> > that is what i do today with vms </s>
+<s> <user> <unka<> > thus , began docker compose </s>
+<s> <user> <unka<> > it does all the subnet and iptable routing for you </s>
+<s> <user> <unka<> > i already have a notion of what compose does and it do n't solve my problem </s>
+<s> <user> <unka<> > because ( again ) load balancing is not what i 'm looking for ... </s>
+<s> <user> <unka<> > i think you're trying to over complicate it , honestly .... not sure what <unka> is for exactly , but it 's redundant imo . </s>
+<s> <user> <unka<> > i 'm not talking about load balancing </s>
+<s> <user> <unka<> > i 'm talking about host and port resolution </s>
+<s> <user> <unka<> > ok , so tell me one thing ... </s>
+<s> <user> <unka<> > does docker has service discovery ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > ok , how ? </s>
+<s> <user> <unka<> > through hostnames via <unka-> </s>
+<s> <user> <unka<> > service discovery ! = dns resolution </s>
+<s> <user> <unka<> > it effectively is though ; [ <unka-<> -> ] </s>
+<s> <user> <unka<> > docker cloud uses docker compose to create the mesh </s>
+<s> <user> <unka<> > <unka> via hostname , which is the same as the service name </s>
+<s> <user> <unka<> > service discovery is not just hostnames or <unka> ... it is service name ( maybe it can be the hostname in case of single node service ) plus port </s>
+<s> <user> <unka<> > links only add hostname to the machines </s>
+<s> <user> <unka<> > not service discovery </s>
+<s> <user> <unka<> > ok , let me ask something else </s>
+<s> <user> <unka<> > in traditional service discovery you'd absolutely need the port like you're doing , but i 'm saying with <unka/> you do not . the swarm clusters figure all the routing between subnets for you , and you simply access <unka:_> </s>
+<s> <user> <unka<> > is there a way for my client containers to query " hey docker , what are the <unka> running the image xxxx and what are their published port " ? </s>
+<s> <user> <unka<> > i do n't believe that 's a valid use-case with docker </s>
+<s> <user> <unka<> > i do n't believe that 's a valid use-case with docker </s>
+<s> <user> <unka<> > except for health monitoring maybe </s>
+<s> <user> <unka<> > except for health monitoring maybe </s>
+<s> <user> <unka<> > ok , then it does n't have service discovery :d </s>
+<s> <user> <unka<> > but even still , <unka> would work better </s>
+<s> <user> <unka<> > but even still , <unka> would work better </s>
+<s> <user> <unka<> > i would say in my app " nc <unka:`> and connect and be done ... i <unka'\> care which of the 20 cloned containers it is , the swarm handles that for me routing to an existing container </s>
+<s> <user> <unka<> > i would say in my app " nc <unka:`> and connect and be done ... i <unka'\> care which of the 20 cloned containers it is , the swarm handles that for me routing to an existing container </s>
+<s> <user> <unka<> > it 's service discovery in the sense that you can access services simply , without having to look them up first . </s>
+<s> <user> <unka<> > it 's service discovery in the sense that you can access services simply , without having to look them up first . </s>
+<s> <user> <unka<> > the point is , when my server start , it need to say <unka"> <unka\> 'm listening on port xxxx and my resolvable hostname is <unka> " , then the client will query this same " something " for all the available services </s>
+<s> <user> <unka<> > i dont' care which of the 20 cloned containers it <unka> is the problem ... we do care about which container we are connecting to </s>
+<s> <user> <unka<> > ok , but why ? </s>
+<s> <user> <unka<> > ok , but why ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i can accept that , just need to understand why </s>
+<s> <user> <unka<> > i can accept that , just need to understand why </s>
+<s> <user> <unka<> > ignoring <unka> atm , what is the actual business case for this </s>
+<s> <user> <unka<> > because of the membership protocol and the dht which distribute what and where some actions will happen in <unka> </s>
+<s> <user> <unka<> > ignoring <unka> atm , what is the actual business case for this </s>
+<s> <user> <unka<> > simply because you want to use <unka> ? </s>
+<s> <user> <unka<> > simply because you want to use <unka> ? </s>
+<s> <user> <unka<> > no , because i use <unka> and that is proven piece of tech created by multiple <unka> in distributed computing and host huge distributed services like halo game , skype , and multiple others </s>
+<s> <user> <unka<> > i 'm just trying to understand why out of 20 cloned containers you need any one specific one </s>
+<s> <user> <unka<> > i 'm just trying to understand why out of 20 cloned containers you need any one specific one </s>
+<s> <user> <unka<> > so trust me , they know what they are doing </s>
+<s> <user> <unk#a<> > <unka> : i hope you plan on getting your phd , because most microsoft tools require that in order to use them </s>
+<s> <user> <unk#a<> > <unka> : i hope you plan on getting your phd , because most microsoft tools require that in order to use them </s>
+<s> <user> <unka<> > not saying they do n't , but there 's other ways to accomplish the same thing that i think are easier </s>
+<s> <user> <unka<> > because 1 of the <unka> ( the processing unit in <unka> ) that i 'm interested in is inside that give specific container </s>
+<s> <user> <unka<> > but i 'm not fully understanding your need </s>
+<s> <user> <unk#a<> > the problem is microsoft always ignores existing implementations like <unka/> and <unka> their own way of doing things , typically ignoring the existing work done and the pitfalls that have been encountered and worked around </s>
+<s> <user> <unk#a<> > the problem is microsoft always ignores existing implementations like <unka/> and <unka> their own way of doing things , typically ignoring the existing work done and the pitfalls that have been encountered and worked around </s>
+<s> <user> <unka<> > <unk#a> : <unka> works perfectly with <unka> , <unka> and other membership providers </s>
+<s> <user> <unka<> > so they are n't 20 cloned containers in your example then , right ? they'd actually be unique containers ? </s>
+<s> <user> <unka<> > <unka> 1 does something completely different than container 2 ? </s>
+<s> <user> <unka<> > <unk#a> : if you read the link i pasted it mention that ... so ms do n't ignore anything </s>
+<s> <user> <unka<> > <unka> : the os , frameworks , app , they are the same , cloned </s>
+<s> <user> <unka<> > they just process part of the workload individually </s>
+<s> <user> <unka<> > so why would one act differently than the other ? </s>
+<s> <user> <unka<> > the <unka> are balanced between the cluster </s>
+<s> <user> <unka<> > they do n't act diff then another </s>
+<s> <user> <unka<> > so each container can potentially do <unka-> ? </s>
+<s> <user> <unka<> > all as <unka-> citizens ? </s>
+<s> <user> <unka<> > its hard to explain ... </s>
+<s> <user> <unka<> > lol sounds like it :p </s>
+<s> <user> <unka<> > do you know the <unka> model ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > in <unka> a cluster is a pool of machines </s>
+<s> <user> <unka<> > that have same code running </s>
+<s> <user> <unka<> > the 1 <unka> instance can be activated anywhere in the cluster </s>
+<s> <user> <unka<> > in this case on any of container being part of the cluster </s>
+<s> <user> <unka<> > so </s>
+<s> <user> <unka<> > assuming that i have 2 containers in the cluster </s>
+<s> <user> <unka<> > so key phrase <unka\> 'm reading is " any of container " </s>
+<s> <user> <unka<> > one request comes and activate <unka> on <unka> and another comes and activate <unka> in <unka> </s>
+<s> <user> <unka<> > which means you do not need to know which one , just a container that can do what you need </s>
+<s> <user> <unka<> > ok , that is load balancing </s>
+<s> <user> <unka<> > so while the <unka> are in memory , when the client needs to talk to the <unka> it must connect directly to <unka> </s>
+<s> <user> <unka<> > sure </s>
+<s> <user> <unka<> > the <unka> balancing and placement is an internal behavior of <unka> </s>
+<s> <user> <unka<> > not a regular <unka/> <unka> thing </s>
+<s> <user> <unka<> > i ca n't help you with <unka> , at all ... but again , it sounds heavily redundant based on docker technology </s>
+<s> <user> <unka<> > and the client figure out where that specific activation is based on that membership table and an activation catalog </s>
+<s> <user> <unka<> > <unka> is <unka> </s>
+<s> <user> <unka<> > to any of this </s>
+<s> <user> <unka<> > like i said </s>
+<s> <user> <unka<> > that 's the point though </s>
+<s> <user> <unka<> > i can create a membership provider that uses docker infrastructure </s>
+<s> <user> <unka<> > just like we did for sql , <unka> , <unka> , <unka> , <unka> and many other service discovery mechanisms </s>
+<s> <user> <unka<> > except you ca n't , because you do n't know your ip/port ? </s>
+<s> <user> <unka<> > so , in order to create that membership provider in <unka> , i need to know where i can query for my containers </s>
+<s> <user> <unka<> > i dunno , i have tons of jobs that distribute across multiple clusters and sync across th <unka> ... i 've never had to concern myself with discovery when using docker </s>
+<s> <user> <unka<> > because you use regular balancing stuff ... like dns :) </s>
+<s> <user> <unka<> > i hit a load balancer , it directs to a container i need , done .... but i always access via hostname . if a container needs to be spun up , it spins up , shuts down when done . </s>
+<s> <user> <unka<> > which is perfect for web and basic <unka/> <unka> services </s>
+<s> <user> <unka<> > yeah , because they are <unka> </s>
+<s> <user> <unka<> > i do n't care which of the 1000 physical bare metal boxes it starts on </s>
+<s> <user> <unka<> > yes ! because they are <unka> :p </s>
+<s> <user> <unka<> > lol now we're about to get into more wars :p </s>
+<s> <user> <unka<> > <unka> </s>
+<s> <user> <unka<> > i believe in <unka> design ; containers are meant to be ephemeral </s>
+<s> <user> <unka<> > that issue you first posted is precisely why we need that and tons of people replied with +1 <unk#a> ago </s>
+<s> <user> <unka<> > and they do in <unka> </s>
+<s> <user> <unka<> > if one container is destroyed </s>
+<s> <user> <unka<> > no problem </s>
+<s> <user> <unka<> > the state is persisted and if someone ask for that <unka> again , it is activated on another server </s>
+<s> <user> <unka<> > could you possibly netstat and get the port by process ? </s>
+<s> <user> <unka<> > you mean the client netstat the container host ? </s>
+<s> <user> <unka<> > inside the container itself </s>
+<s> <user> <unka<> > to register it to the membership table </s>
+<s> <user> <unka<> > it does it today </s>
+<s> <user> <unka<> > i mean </s>
+<s> <user> <unka<> > when starting a <unka> <unka> , and has a membership provider configured , it will get that port and ip and write to the membership table </s>
+<s> <user> <unka<> > that is regardless of docker or whatever </s>
+<s> <user> <unka<> > the problem is not the <unka> </s>
+<s> <user> <unka<> > the image will do <unka> <unka> all containers internally expose the same port </s>
+<s> <user> <unka<> > that is ok so fa </s>
+<s> <user> <unka<> > far </s>
+<s> <user> <unka<> > you do n't need expose though </s>
+<s> <user> <unka<> > with compose </s>
+<s> <user> <unka<> > humm </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > so ignoring expose </s>
+<s> <user> <unka<> > the app start and write down its port to the membership </s>
+<s> <user> <unka<> > next step is the client read the membership table , get the ip and port of all <unka> alive </s>
+<s> <user> <unka<> > and connect to each one of them on that port </s>
+<s> <user> <unka<> > so is it possible to run all members on the same port if they were different hosts ? </s>
+<s> <user> <unka<> > or is it mandatory to be arbitrary ? </s>
+<s> <user> <unka<> > you mean make all them <unka-> <unka:> all the containers assuming only 1 is running on that same host ? </s>
+<s> <user> <unka<> > here 's an example of my <unka-.> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > inside the container , the app spins up some service .. in the case of mongo , they all start on port <unk#> </s>
+<s> <user> <unka<> > but i do n't define that , mongo does ... i could with an env var , but i do n't </s>
+<s> <user> <unka<> > however , all my other containers can access <unk#a:_> without issue </s>
+<s> <user> <unka<> > and mongo itself can load balance to it 's own <unka/> </s>
+<s> <user> <unka<> > as for the bottom <unka.> , that 's a nginx load balancer with knowledge of all the <unka> services . it 's the only container exposed in this example . </s>
+<s> <user> <unka<> > so external services can contact this cluster </s>
+<s> <user> <unka<> > but i can just access <unka> <unka.> any container </s>
+<s> <user> <unka<> > any container </s>
+<s> <user> <unka<> > or vice <unka,_> </s>
+<s> <user> <unka<> > yeah , pretty clean <unk#a-> web architecture </s>
+<s> <user> <unka<> > that 's just a snippet of the 50+ that are in there </s>
+<s> <user> <unka<> > and only 1 cluster type </s>
+<s> <user> <unka<> > which is very different from what we do </s>
+<s> <user> <unka<> > <unka> , that 's how docker is meant to be used </s>
+<s> <user> <unka<> > yeah that is what i meant in the first place :) </s>
+<s> <user> <unka<> > docker is easy and really good for simple web applications which mostly are <unk#a-> apps </s>
+<s> <user> <unka<> > when you have something complex like <unka> frameworks and dht scenarios you have this problem </s>
+<s> <user> <unka<> > it is not just <unka> </s>
+<s> <user> <unka<> > i mean </s>
+<s> <user> <unka<> > erlang , <unka> , they all would have the same issue </s>
+<s> <user> <unka<> > because they all agree on some membership protocol mostly based on <unka> </s>
+<s> <user> <unka<> > and i would never use those with a container system , personally </s>
+<s> <user> <unka<> > that is the point , they are really good fit for containers </s>
+<s> <user> <unka<> > most modern message systems use swim algorithm to avoid this </s>
+<s> <user> <unka<> > ??? </s>
+<s> <user> <unka<> > modern , you mean web :) </s>
+<s> <user> <unka<> > anything within the last 10 years </s>
+<s> <user> <unka<> > look at how netflix does their stuff ... i can guarantee it 's more complex that yours and mine combined :p </s>
+<s> <user> <unka<> > netflix is a streaming service which is 90% of their work focused on web apps :d </s>
+<s> <user> <unka<> > not even close </s>
+<s> <user> <unka<> > there is nothing about distributed computing for netflix :d </s>
+<s> <user> <unka<> > they just , stream stuff </s>
+<s> <user> <unka<> > lol ok </s>
+<s> <user> <unka<> > i did an interview with them here :) </s>
+<s> <user> <unka<> > that 's not remotely true </s>
+<s> <user> <unka<> > not saying that they are crap </s>
+<s> <user> <unka<> > they are amazing </s>
+<s> <user> <unka<> > but it is something focused on web </s>
+<s> <user> <unka<> > not even close to distributed computing or <unka> </s>
+<s> <user> <unka<> > they dont have concurrency and other problems that distributed computing propose to handle </s>
+<s> <user> <unka<> > anyway </s>
+<s> <user> <unka<> > lets not bloat the chat with it </s>
+<s> <user> <unka<> > lol they most certainly do </s>
+<s> <user> <unka<> > i just need to figure out a way to create a membership provider for docker </s>
+<s> <user> <unka<> > to give an idea </s>
+<s> <user> <unka<> > do you know service fabric ? </s>
+<s> <user> <unka<> > they have a internal " naming service " which is basically a service discovery service ... so <unka> run perfectly in it ... we created a provider that register the <unka> in this service , and the client ask about the service there </s>
+<s> <user> <unka<> > i 'm familiar , but never used it </s>
+<s> <user> <unka<> > so the " membership table " is just a concept , which can be implemented anywhere as long as we follow the protocol </s>
+<s> <user> <unka<> > so sf just works </s>
+<s> <user> <unka<> > and how do you define the internal names </s>
+<s> <user> <unka<> > the same way as <unka> and <unka> which are <unka/> dictionary repo </s>
+<s> <user> <unka<> > internal names ? </s>
+<s> <user> <unka<> > they have a internal " naming service " which is basically a service discovery service </s>
+<s> <user> <unka<> > so when you want to discover , do you have to use some randomly generated names , or do you provide them </s>
+<s> <user> <unka<> > sf is to azure as docker swarm is to docker </s>
+<s> <user> <unka<> > i ask them for all the <unka> in naming service , connect to 1 of them first time , get a list of the <unka> activation and later on , based on which <unka> i want to connect , i specifically connect to that server </s>
+<s> <user> <unka<> > not exactly </s>
+<s> <user> <unka<> > when you use swarm there is a notion of service </s>
+<s> <user> <unka<> > which you client try to connect to it , and it forward to any of the thousands of containers listen on diff internal ports </s>
+<s> <user> <unka<> > this is basically dns with port forwarding </s>
+<s> <user> <unka<> > no , you have each docker daemon join the swarm ( aka dht ) </s>
+<s> <user> <unka<> > there 's no routing , it 's explicit </s>
+<s> <user> <unka<> > yes they join and form a swarm cluster i understand that </s>
+<s> <user> <unka<> > which is what you're trying to accomplish with <unka> from my understanding </s>
+<s> <user> <unka<> > <unka> already do that </s>
+<s> <user> <unka<> > but </s>
+<s> <user> <unka<> > like i said </s>
+<s> <user> <unka<> > it is <unka> </s>
+<s> <user> <unka<> > so if i can query swarm i can create a provider for it :d </s>
+<s> <user> <unka<> > and what would this provider do ? </s>
+<s> <user> <unka<> > i just ca n't understand a reason i'd ever want to access a single container explicitly . sounds entirely cumbersome . </s>
+<s> <user> <unka<> > if you understand <unka> there is multiple reasons for that </s>
+<s> <user> <unka<> > but the location of the <unka> is transparent for the developer </s>
+<s> <user> <unka<> > it " just run " </s>
+<s> <user> <unka<> > the framework internally needs to understand that </s>
+<s> <user> <unka<> > at the <unka/> side the provider , register all servers in swarm ... as far as i understood , docker already register the containers on swarm as part of a service , good , so no change at all at server </s>
+<s> <user> <unka<> > so in the client , when it start , the provider must query something to get a list of <unka> in that cluster that are alive </s>
+<s> <user> <unka<> > and then when it needs to send a message to a specific <unka> in a specific server you will connect to that specific <unka> </s>
+<s> <user> <unka<> > the load balancing of an <unka> in <unka> is extremely efficient and beat by far <unka> algorithms and reverse proxies </s>
+<s> <user> <unka<> > <unka_> <unka@_> you think if there is a chance to find what i want , docker swarm docs is the write guy to look for it , right ? </s>
+<s> <user> <unka<> > yes , in conjunction with docker compose </s>
+<s> <user> <unka<> > imo </s>
+<s> <user> <unka<> > unless anyone else has any other input </s>
+<s> <user> <unka<> > ok thank you , really appreciate the help </s>
+<s> <user> <unka<> > i would n't call myself an expert , but i 've just never needed to do what you're trying </s>
+<s> <user> <unka<> > will have a look on both deeper </s>
+<s> <user> <unka<> > and i have concurrent systems all over the place </s>
+<s> <user> <unka<> > let me rephrase ... i have n't had the need since using docker </s>
+<s> <user> <unka<> > and i 'm using swim technologies to simplify the dht issues you're having </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that is my point , if docker handle somehow service discovery , i would be more than happy to use it and plug it on docker by a provider </s>
+<s> <user> <unka<> > yeah i know swim </s>
+<s> <user> <unka<> > it is another variation of <unka> </s>
+<s> <user> <unka<> > we're currently using pattern matching for identifying the node we need to discover , but that 's all behind the scenes </s>
+<s> <user> <unka<> > so i can send a message in json format if i want <unka:{> <unka> : 'user' , action : <unka'}> every node that supports thath command is told to sync , and they are queued into rabbitmq in batches , then another job that was also listening for the same pattern processes the queue </s>
+<s> <user> <unka<> > ... for example . </s>
+<s> <user> <unka<> > yeah but that is just a <unka/> mechanism </s>
+<s> <user> <unka<> > mmm not exactly , it must exist </s>
+<s> <user> <unka<> > the swim <unka> uses the pattern to do service discovery </s>
+<s> <user> <unka<> > which services support this </s>
+<s> <user> <unka<> > then it messages them </s>
+<s> <user> <unka<> > it 's very similar to <unka> actually </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > only i do n't need elasticsearch </s>
+<s> <user> <unka<> > its hard to wrap around our heads on <unka> ... i had a hard time first some years ago ... then i found <unka> after i leave msft </s>
+<s> <user> <unka<> > <unka> and erlang is so limited </s>
+<s> <user> <unka<> > you as a developer in erlang or <unka> , need to <unka> an <unka> and put it on a specific place in the cluster </s>
+<s> <user> <unka<> > in <unka> you do n't do that </s>
+<s> <user> <unka<> > you get a reference without knowing where the <unka> is running and call a regular method ... that method call is shipped internally to the right <unka> in the cluster and you will receive the response </s>
+<s> <user> <unka<> > exceptions are propagated across all nodes etc </s>
+<s> <user> <unka<> > anyway </s>
+<s> <user> <unka<> > a very modern ( and easy ) way to make distribute cloud apps </s>
+<s> <user> <unka<> > i 've been out of the microsoft world for a bit , other than os . </s>
+<s> <user> <unka<> > not by choice , just how things worked out </s>
+<s> <user> <unka<> > ic </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > this issue proposes an <unka> rest api just as aws does </s>
+<s> <user> <unka<> > that would give me the information i need </s>
+<s> <user> <unk#a<> > in <unka> you do n't do <unka> get a reference without knowing where the <unka> is running and call a regular method ... that method call is shipped internally to the right <unka> in the cluster and you will receive the response </s>
+<s> <user> <unk#a<> > this is what is confusing me , why do you need to <unka/> the <unka> yourself if your framework handles that ? </s>
+<s> <user> <unk#a<> > in your example if client b talks to container b and initiates a session , you just need to ensure that session persists between b and b , not add the ridiculous complexity of pulling out all this information from the containers and discovering the overall topology of the entire cluster , that way lies madness </s>
+<s> <user> <unk#a<> > it sounds like you are defeating the purpose of <unka> if you are doing all this extra work </s>
+<s> <user> <unka<> > <unk#a> : there are two roles here </s>
+<s> <user> <unka<> > i as an application developer which use <unka> dont need to care about it </s>
+<s> <user> <unka<> > but i as an <unka> maintainer which is trying to make <unka> to run on container needs to know and implement it . because behind the scenes the framework uses it </s>
+<s> <user> <unk#a<> > are you running this in house or on a cloud hosting solution ? reading the <unka> <unka> they recommend using <unka> if in house , or azure <unka/> if elsewhere </s>
+<s> <user> <unka<> > <unk#a> : it doesnt matter actually . it is just a general suggestion . <unka> is just one of many membership providers supported </s>
+<s> <user> <unka<> > but i 'm runnin on azure vms with windows containers in it </s>
+<s> <user> <unk#a<> > agreed , but <unka/> will all solve this for your containers , so what is preventing you from using those or azure tables as your <unka> ? </s>
+<s> <user> <unk#a<> > or registry or whatever </s>
+<s> <user> <unka<> > but even if i use <unka> it will not fix my issue </s>
+<s> <user> <unka<> > neither <unka> or whatever registry </s>
+<s> <user> <unk#a<> > i think you are overthinking this </s>
+<s> <user> <unk#a<> > i'd just give it a try using azure tables or whatever , then if it does not work , you have exhausted the possibility , if you have n't tried it and are just assuming it wo n't work , then it is hard to suggest alternatives </s>
+<s> <user> <unka<> > the problem is by the time my <unka> <unka> app is installing , it need to know which port it is using so it write it to membership table </s>
+<s> <user> <unka<> > or <unka> or <unka> or whatever </s>
+<s> <user> <unka<> > i already have <unka> on several production apps </s>
+<s> <user> <unka<> > just jot in containers </s>
+<s> <user> <unka<> > <unka> i meant starting ( sorry on mobile now ) </s>
+<s> <user> <unka<> > looks like <unka> keeps <unka> docker apis to check the containers there and register them ... </s>
+<s> <user> <unka<> > i may have an idea :) </s>
+<s> <user> <unka<> > from inside a container can i access the host ip machine ( on docker virtual network ) so i can make requests to <unka> rest api ? </s>
+<s> <user> <unka<> > <unk#a> : <unka/_> <unka?@_> </s>
+<s> <user> <unk#a<> > yeah </s>
+<s> <user> <unk#a<> > the host may exist on the docker network depending on what options you run a container with </s>
+<s> <user> <unk#a<> > a lot of it is designed for isolation , but you can bypass that </s>
+<s> <user> <unk#a<> > or you could mount the docker socket into a specific container and present the rest api on the docker network , though security wise that is frowned upon </s>
+<s> <user> <unka<> > yeah i see an ip on the host that is on the container network and inside the container this very same ip is its gateway </s>
+<s> <user> <unka<> > i cant use the socket hack because it is linux specific </s>
+<s> <user> <unka<> > windows doesnt have it </s>
+<s> <user> <unk#a<> > ahhh yeah , poor windows :) </s>
+<s> <user> <unka<> > hehehe </s>
+<s> <user> <unka<> > yeah </s>
+<s> <user> <unka<> > anyway </s>
+<s> <user> <unka<> > will try this docker api workaround and see what i can found </s>
+<s> <user> <unka<> > maybe i can create a <unka> membership provider who talks to docker api and query for the containers running <unka> </s>
+<s> <user> <unka<> > will see </s>
+<s> <user> <unka<> > i think , i have something important to <unka.> 's the second time that this happens with me . i install docker on linux mint and after some hours the disk is full . dont know why this happens , but i found out one thing , that also happens these two times . i lost all my system backups ( i use timeshift ). i dont know if it 's some kind of <unka> , but i think i have to report this , because it 's a shame . the last time i had to reinstall my system , because i couldnt even start the system . this time , when i realise i had just 6gb left , i deleted some stuff here to have at least 20gb free , then disconnect from internet , restart , delete all docker images ( yes , i installed yesterday and i downloaded 4 images ) then uninstall docker , and the magic happens . 100gb free right now ... someone tells me . how this is even possibel that docker uses 100gb ? i was watching the free space decreasing . c'mon . fix that . until there , i will be using docker on a virtual machine , because i cant trust this software anymore . </s>
+<s> <user> <unka<> > " fix that ." </s>
+<s> <user> <unka<> > great feedback </s>
+<s> <user> <unka<> > hey , is it normal behaviour that memory footprint of processes running in docker container are not visible on the host ? i.e . when i run 10 containers where each consumes <unk#a> of <unka(> by docker stats ), host machines DIR/proc/ <unka/:> stays mostly the same . </s>
+<s> <user> <unk#a<> > are they the same container ? the kernel is pretty smart about shared vs isolated memory and if it is the same basic <unka> it could be the majority of that is being reused between the containers unless you launched with some special cgroup magic to force isolation </s>
+<s> <user> <unk#a<> > <unka> : it sounds like you performed <unka> pull <unka> of <unka> pull <unka:> ended up filling your disk </s>
+<s> <user> <unk#a<> > <unka> : windows server 2016 vm on hyper-v or something else ? </s>
+<s> <user> <unka<> > <unk#a> : doenst make any sense , because after i restart my computer , the disk free space keeps decreasing </s>
+<s> <user> <unk#a<> > if you look at the disk space being used , what directory is the most full ? you can use the disk usage analyzer tool if that is installed </s>
+<s> <user> <unk#a<> > can <unka-> be scripted ? i'd like to have a script to setup my env </s>
+<s> <user> <unk#a<> > right now i 'm having little luck with it </s>
+<s> <user> <unka<> > you can write a shell script which uses <unka-> </s>
+<s> <user> <unka<> > i also have 2 instructions , one updates my ruby gems , and one updates my node packages . no matter how i go about this , at some point one of those cache layers will be <unka> for no reason because the other changes </s>
+<s> <user> <unka<> > <unka_> : on 2 different machines too </s>
+<s> <user> <unka<> > the <unka> is a <unka> simple tool </s>
+<s> <user> <unka<> > would have been much more powerful if they had given us a ruby dsl to build out <unka> descriptions , that way we could have implemented caching as we pleased </s>
+<s> <user> <unka<> > bbl </s>
+<s> <user> <unka<_> > hmm , wish i could help , but i 'm equally as stuck </s>
+<s> <user> <unka<> > hello <unka> have a problem to <unka/> containers on <unka> says : [ <unka-<> -> ] i 'm on ubuntu <unk#a.> is my kernel version : <unk#a-.> docker <unka:> : version : <unk#.> api version : <unk#.> go version : <unk#a.> git commit : <unk#a> built : fri dec 16 <unk#:> 2016 <unka/> : <unk#a/> : version : <unk#.> api version : <unk#.> go version : <unk#a.> git commit : <unk#a> built : fri dec 16 <unk#:> 2016 <unka/> : <unk#a/> docker <unka:> : 1 running : 1 paused : 0 stopped : 0 images : 11 server version : <unk#.> storage driver : aufs root dir : DIR/var/ DIR/lib/ <unka/> <unka/> backing filesystem : extfs dirs : 16 <unk#a> supported : true logging driver : <unka-> cgroup driver : <unka:> : local network : bridge null overlay host swarm : inactive runtimes : <unka> default runtime : <unka> security options : apparmor <unka> kernel version : <unk#a-.> operating system : ubuntu 16.04.1 lts <unka> : linux architecture : x86_64 cpus : 4 total memory : <unk#.> gib name : <unk#a-> id : <unk#a:> docker root dir : DIR/var/ DIR/lib/ <unka/> debug mode ( client ): false debug mode ( server ): false username : <unka> registry : URL/https:/ <unka./> <unk#a/> warning : no swap limit support insecure <unka> : 127.0.0.0/8 </s>
+<s> <user> <unka<> > any ideas ! </s>
+<s> <user> <unka<> > <unka.:@> you originally start the container from root , and are now trying to stop it as a regular user ? </s>
+<s> <user> <unk#a<> > <unka> : you simply combine your two commands into one " call " and this would create a single layer with all the changes from both , iirc you can also while building a container run a couple commands from the command line and then " commit " afterwards in order to control when the layer actually gets saved </s>
+<s> <user> <unk#a<> > <unka> : i 've managed to resolve the network issues we 've been investigating 2 days ago . the <unk#a> vm now has nw connectivity and is getting an ip v4 address , however the docker service is listening <unk#a:> is thus unreachable from the outside ... what the heck ? </s>
+<s> <user> <unka<> > <unka.:@> 's an ipv6 socket </s>
+<s> <user> <unka<> > <unka.:@> need to get it so that it listens on ipv4 </s>
+<s> <user> <unka<> > <unka.:@> , that may not even be an issue , as it should be implicit </s>
+<s> <user> <unka<> > <unka.:@> installed on the vm , can you connect <unka> localhost <unk#> ? </s>
+<s> <user> <unk#a<> > let me check that </s>
+<s> <user> <unk#a<> > let me check that </s>
+<s> <user> <unk#a<> > connection was successful </s>
+<s> <user> <unka<> > hey anyone using <unka-/> image ? </s>
+<s> <user> <unka<> > <unka.:@> no joy connecting to that socket from outside the vm ? </s>
+<s> <user> <unk#a<> > yep </s>
+<s> <user> <unk#a<> > curiously i can ping it though </s>
+<s> <user> <unk#a<> > ps <unka.:\> > <unka-> <unk#.> <unka-> <unk#a> : tcp connect to <unk#.:> <unka> : <unk#a.> : <unk#a.> : <unk#a> : <unka> ( <unka)> : <unk#a.> : <unka> ( rtt ) : 0 <unka> : false </s>
+<s> <user> <unk#a<> > i can connect from the inside , but not from the outside </s>
+<s> <user> <unk#a<> > <unk#a> does n't have a firewall - does it ? </s>
+<s> <user> <unka<> > <unka.:@> should n't , that would <unka> a lot of folks out of the gate :) </s>
+<s> <user> <unk#a<> > <unk#a> does n't have a firewall - does it ? </s>
+<s> <user> <unka<> > <unka.:@> is there a windows firewall at play , here ? </s>
+<s> <user> <unk#a<> > it should n't have a firewall , but you are essentially going through 2 layers of networking </s>
+<s> <user> <unk#a<> > <unk#a> : typically <unka\> 've seen places maintain two images , one for building and one for running , they could both inherit from the same base image and your build script could build the " build " and then use that to create the " run " </s>
+<s> <user> <unk#a<> > i do n't believe so , but i 'll double check </s>
+<s> <user> <unka<> > <unk#a> : that is the plan , but i 'm not sure if we can do the inheritance thing , sice the devel image will be very much different </s>
+<s> <user> <unk#a<> > no change after disabling the windows firewall </s>
+<s> <user> <unk#a<> > oh yeah , you would have base = > devel and base = > runtime , you would n't want to go base = > devel = > runtime , that would bloat the image too much </s>
+<s> <user> <unk#a<> > so the runtime image uses a package that you are compiling in the devel image or it requires an environment similar to the devel image minus a few devel packages ? </s>
+<s> <user> <unka<> > <unka.:@> what i 'm seeing , the container id is always a uniquely generated hexadecimal number </s>
+<s> <user> <unk#a<> > the container id is a random guid , you can pass <unka-> <unka> <unka> <unka> to give it a name you can reference , but it needs to be unique </s>
+<s> <user> <unka<> > guys , the container id by default is always be set as hostname , right ? </s>
+<s> <user> <unka<> > <unka.:@> what i 'm seeing , the container id is always a uniquely generated hexadecimal number </s>
+<s> <user> <unk#a<> > the container id is a random guid , you can pass <unka-> <unka> <unka> <unka> to give it a name you can reference , but it needs to be unique </s>
+<s> <user> <unk#a<> > <unka> : ^^ </s>
+<s> <user> <unka<> > hey </s>
+<s> <user> <unka<> > hum ... </s>
+<s> <user> <unka<> > the point is not the container name actually </s>
+<s> <user> <unka<> > i 'm trying to get the hostname itself </s>
+<s> <user> <unka<> > <unka.:@> , you said you can <unka> exec <unka-> the container , and you can indeed see the files you want ? </s>
+<s> <user> <unka-<> > hi . i want to know if i can run multiple websites on a server , served by multiple containers . </s>
+<s> <user> <unka<> > <unka> : yes ; use something like <unka> to do the port mappings then run containers on separate ports </s>
+<s> <user> <unka-<> > i understand , i will try . thanks ! </s>
+<s> <user> <unka<> > hey guys , how can my container access the host machine ? i mean , which of the ips the containers should hit to get to the host ? </s>
+<s> <user> <unka<> > <unka> : use the hostname of your machine . that 's the easiest way </s>
+<s> <user> <unk#a<> > <unka> : for what purposes you nedd host machine ? </s>
+<s> <user> <unka<> > the container need to query the docker remote api of the host to check some stuff </s>
+<s> <user> <unk#a<> > <unka> : you can mount host <unka.> into your machine </s>
+<s> <user> <unk#a<> > and write http requests into it </s>
+<s> <user> <unka<> > there is no <unka.> in windows :( </s>
+<s> <user> <unk#a<> > use unix 8 ) </s>
+<s> <user> <unka<> > i cant hehehe </s>
+<s> <user> <unka<> > question , anyone has a strategy to make docker builds faster , i <unka> have to re-install my libraries and dependencies all the time i make tiny changes to my source code </s>
+<s> <user> <unk#a<> > <unka> : mount ? </s>
+<s> <user> <unk#a<> > and then will be no need to use builds at all , build is environment only for dev </s>
+<s> <user> <unka<> > mount ? </s>
+<s> <user> <unka<> > how do you mean , and dev env is <unka> my main concerned </s>
+<s> <user> <unk#a<> > <unka> : $ docker run -d -p <unka-=\> <unka-\> <unka-/:> \\ <- this <unka-> web <unka/> python <unka.> </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hmmm </s>
+<s> <user> <unka<> > thanks </s>
+<s> <user> <unka<> > there must be a way to a container to talk to a docker host :( </s>
+<s> <user> <unka<> > this way , i dont have to build images when i make changes to my source code then </s>
+<s> <user> <unka<> > makes sense thanks </s>
+<s> <user> <unk#a<> > <unka> : [ <unka-<> -> ] and dont use windows ^^ </s>
+<s> <user> <unk#a<> > <unka> : + </s>
+<s> <user> <unka<> > <unk#a> : that is what i 'm using </s>
+<s> <user> <unka<> > do n't use windows is not an option </s>
+<s> <user> <unk#a<> > <unka> : its called lxc containers ( linux containers ), in windows you loose all features they provide :) and u make from docker vagrant :) </s>
+<s> <user> <unka<> > not anymore </s>
+<s> <user> <unka<> > its is not lxc <unka-> anymore </s>
+<s> <user> <unka<> > <unka@> check some <unka> images . like URL/https:/ URL/github.com/ <unk#a-./> are made to preinstall dependencies . </s>
+<s> <user> <unka<> > <unka_> <unka@_> </s>
+<s> <user> <unka<> > anyone know of a good example <unka/> for <unka()+> <unka(> build ) ? </s>
+<s> <user> <unka<> > unfortunately i had not seen a <unka/> sample , and i 'm not capable of <unka-> mine atm , but if you need help feel free to ask ... i will say this , check <unka-> second you understand how to make a <unka> , and deep dive into networking and volumes , and you should get up to speed pretty quick </s>
+<s> <user> <unka<> > at least nothing that suited my needs and/or standards .... i took a <unka> approach for development locally , and integration tests for <unka> development </s>
+<s> <user> <unk#a<> > hi , am trying to debug a container that blows up starting my app and am down to looking at linux startup files that process various config files . why would i be getting a permission denied when trying to copy the entire image from the root as <unka-:> <unka$> docker cp <unk#a/:> DIR/~/ DIR/tmp/ <unka/\> DIR/users/ <unka/> DIR/tmp/ <unka/> <unka-/> <unka./> : permission denied ? </s>
+<s> <user> <unka<> > how do i get the output of that command into a production enviroment .... and if my dev compose uses a container for db .... then what should prod use . ( considering alot of people seem to think <unka+> === bad ) </s>
+<s> <user> <unka<> > <unka> : i pm'd you </s>
+<s> <user> <unka<> > is there anyway to force docker to store credentials in plaintext in the config file ? it is keeps using <unka> and i do n't want to use that ... </s>
+<s> <user> <unka<> > i 've logged out and logged back in to no avail . </s>
+<s> <user> <unka<> > i definitely remember my local machine storing them in the config file , but for some reason it now is only using <unka> . any ideas ? </s>
+<s> <user> <unka<> > creds for a registry ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > how can i force docker to use the config file to store the credentials instead of <unka> on windows ? </s>
+<s> <user> <unk#a<> > hi , am trying to debug a container that blows up starting my app and am down to looking at linux startup files that process various config files . why would i be getting a permission denied when trying to copy the entire image from the root as <unka-:> <unka$> docker cp <unk#a/:> DIR/~/ DIR/tmp/ <unka/\> DIR/users/ <unka/> DIR/tmp/ <unka/> <unka-/> <unka./> : permission denied ? </s>
+<s> <user> <unka<> > it says on that page how to define the <unka> , please read the page i sent . </s>
+<s> <user> <unka<> > <unka> : no it does n't . </s>
+<s> <user> <unka<> > so you <unka'\> see the <unk#a> font text that says " credentials store " ??? </s>
+<s> <user> <unka<> > and the <unka> entitled " usage " ? </s>
+<s> <user> <unka<> > <unka> : i guess you did n't read it cause it does n't explain how to set the config to use plain text . </s>
+<s> <user> <unka<> > <unka> : it only gives a single example of setting it to mac osx 's credential manager . </s>
+<s> <user> <unka<> > <unka> : if you see it there , what exactly is the setting for plain text ? </s>
+<s> <user> <unka<> > dude , if you ca n't read , that 's on you ... there 's literally 3 bullet points in that section indicating your options </s>
+<s> <user> <unka<> > this is the list of currently available credentials helpers and where you can download them from : </s>
+<s> <user> <unka<> > d-bus , macos , windows ... </s>
+<s> <user> <unka<> > read the whole page , i 'm done talking to people that do n't rtfm </s>
+<s> <user> <unka<> > <unka> : again , if it were there , you'd answer the question . it <unka'> , so you ca n't . </s>
+<s> <user> <unka<> > dude , you either choose one of the 3 , or use a config , just like it says on the page </s>
+<s> <user> <unka<> > the end , done .... there 's no more conversation happening between us at this point . </s>
+<s> <user> <unka<> > <unka> : may check <unka> , we build an awesome docker container there </s>
+<s> <user> <unka<> > hey guys </s>
+<s> <user> <unka<> > quick question ... </s>
+<s> <user> <unka<> > is there a way to docker monitor if a service inside the container is alive or not ? </s>
+<s> <user> <unka<> > is there a way to docker monitor if a service inside the container is alive or not ? </s>
+<s> <user> <unka<> > i mean , the main <unka> is alive , so from docker perspective , the container is running however , some internal crap happen on the app and i need docker to check with some sort of heartbeat the application ( idk , a ping on a specific port or whatever ) and if it does'nt reply , just kill the container ... is it possible ? </s>
+<s> <user> <unka<> > i mean , the main <unka> is alive , so from docker perspective , the container is running however , some internal crap happen on the app and i need docker to check with some sort of heartbeat the application ( idk , a ping on a specific port or whatever ) and if it does'nt reply , just kill the container ... is it possible ? </s>
+<s> <user> <unka<> > need some health monitoring internal and external to the container ; something internal to keep checking the status of what you need <unka/> , and something external to poll it once in a while to know to <unka/> it .... there 's unfortunately so many ways to accomplish this , it just depends on what level of effort you want to put into it . </s>
+<s> <user> <unka<> > need some health monitoring internal and external to the container ; something internal to keep checking the status of what you need <unka/> , and something external to poll it once in a while to know to <unka/> it .... there 's unfortunately so many ways to accomplish this , it just depends on what level of effort you want to put into it . </s>
+<s> <user> <unka<> > you could <unka> | grep <unka> see if it 's running external from container on the host </s>
+<s> <user> <unka<> > you could <unka> | grep <unka> see if it 's running external from container on the host </s>
+<s> <user> <unka<> > <unka> : hey ! :) </s>
+<s> <user> <unka<> > that is the <unka> </s>
+<s> <user> <unka<> > point </s>
+<s> <user> <unka<> > in <unka> we have a health monitoring service which all nodes of the cluster ping each other and after a given number of ping fail from some servers , they declare it dead , and remove from the cluster membership ring </s>
+<s> <user> <unka<> > it already works pretty fine on vms and bare metal </s>
+<s> <user> <unka<> > i did implemented an docker membership provider </s>
+<s> <user> <unka<> > the problem now is that for the provider , it only knows if a node is up or down only by checking docker daemon if it is up or down </s>
+<s> <user> <unka<> > and that is our problem </s>
+<s> <user> <unka<> > a container can be app , but some internal thread in the application process for whatever reason is blocked </s>
+<s> <user> <unka<> > so no new requests should go to that node </s>
+<s> <user> <unka<> > so the idea is to ask docker ( or swarm ) to kill that node </s>
+<s> <user> <unka<> > but to be sure of that , i need to detect this <unka> correctly </s>
+<s> <user> <unka<> > how is the provider checking daemon status ? </s>
+<s> <user> <unka<> > remember , i know nothing about <unka> , so my apologies for <unka> questions related to that </s>
+<s> <user> <unka<> > nah no worries :d </s>
+<s> <user> <unka<> > that is another problem :d </s>
+<s> <user> <unka<> > if you are simply doing <unka> ps | grep <unka_> | grep <unka> something of the nature , it 's simple to also do something <unka:> exec <unka_> ps aux | grep <unka> exec <unka_> ping <unka.> </s>
+<s> <user> <unka<> > in linux , you map <unka.> and you make docker api requests to it </s>
+<s> <user> <unka<> > but on windows , there is no <unka.> !!! o.o </s>
+<s> <user> <unka<> > imo it 's best to keep that check external to the container ... i like to couple things downstream instead of upstream ... but that 's preference </s>
+<s> <user> <unka<> > we have this check external </s>
+<s> <user> <unka<> > each node of <unka> cluster ( which is a container ) send health messages to each other </s>
+<s> <user> <unka<> > the <unka> point of those messages , used to be the membership table </s>
+<s> <user> <unka<> > if multiple nodes try to reach a node and fail ( lets say 3 times ), that node is marked as dead </s>
+<s> <user> <unka<> > even if the machine is running </s>
+<s> <user> <unka<> > so noone will send a message to it again </s>
+<s> <user> <unka<> > now , in docker , we do n't have that table </s>
+<s> <user> <unka<> > we were relying on docker labels </s>
+<s> <user> <unka<> > so each <unka> node should query docker ( or swarm ) daemon periodically about all the containers with a given label that are running </s>
+<s> <user> <unka<> > that would make them know who is on the cluster </s>
+<s> <user> <unka<> > if a container is <unka/> , next query on docker api will return all containers - that one </s>
+<s> <user> <unka<> > that is ok for periodic refreshes and consider only the container up or down </s>
+<s> <user> <unka<> > the problem is internal </s>
+<s> <user> <unka<> > i need to mark a container as dead even if it is running </s>
+<s> <user> <unka<> > could you then iterate over all the containers and exec a " health check " script that is consistently implemented ? </s>
+<s> <user> <unka<> > even if it does nothing ? </s>
+<s> <user> <unka<> > the problem is not the <unka> <unka> </s>
+<s> <user> <unka<> > we already have it </s>
+<s> <user> <unka<> > the problem is how to mark it as dead </s>
+<s> <user> <unka<> > errr , other than just killing the container ? </s>
+<s> <user> <unka<> > or can you modify a label ? </s>
+<s> <user> <unka<> > ok way , let me rephrase </s>
+<s> <user> <unka<> > i have n't messed with labels really outside of <unka> </s>
+<s> <user> <unka<> > the problem is how to save the counted votes to kill that node </s>
+<s> <user> <unka<> > so my knowledge there is low as well , other than you can kinda query against them </s>
+<s> <user> <unka<> > remember , before docker , we had that table as a central point </s>
+<s> <user> <unka<> > now i have labels </s>
+<s> <user> <unka<> > so the ideal would be </s>
+<s> <user> <unka<> > there are 2 types of health check . local , where if unhealthy , just <unka(> <unka> is a good candidate for that ) and the distributed consensus , which is made by external sources trying to reach that container and failing , so they agree on ask docker to kill it </s>
+<s> <user> <unka<> > in <unka> case the consensus is what i 'm having problems to implement in docker due to those limitations </s>
+<s> <user> <unka<> > the self check can be made with the <unka> just fine i guess </s>
+<s> <user> <unka<> > docker , docker compose , docker <unka> , docker cloud ..... <unka-.> , <unka-.> , <unk#a(.> ), <unk#a(.> ), <unka(-.> ), <unka(-.> ) does anyone else 's brain hurt .... or just me ? </s>
+<s> <user> <unka<> > i 've pretty well got dev docker workflow working . i 'm starting to loose hope for that to translate into a prod docker stack </s>
+<s> <user> <unka<> > <unka-.> like a great <unka/> file .... why did we feel the need to <unka-.> ? </s>
+<s> <user> <unka<> > <unka> : this is called " docker ecosystem around docker " </s>
+<s> <user> <unka<> > anyway </s>
+<s> <user> <unka<> > i 've pretty well got dev docker workflow working . i 'm starting to loose hope for that to translate into a prod docker stack </s>
+<s> <user> <unka<> > <unka-.> like a great <unka/> file .... why did we feel the need to <unka-.> ? </s>
+<s> <user> <unka<> > <unka> : this is called " docker ecosystem around docker " </s>
+<s> <user> <unka<> > anyway </s>
+<s> <user> <unka<> > <unka> : <unka@> nothing of those health check strategies will work if i 'm unable to reach docker daemon api from inside the container </s>
+<s> <user> <unka<> > kill your main process to kill the container ? </s>
+<s> <user> <unka<> > otherwise , you need an <unka> system like <unka> or <unka> </s>
+<s> <user> <unka<> > <unka> : why should you need to reach the docker api from inside the container ? as mentioned for unreachable nodes you have <unka> solutions like <unk#a> , <unka> or swarm . they take care about that </s>
+<s> <user> <unka<> > <unka> : sorry , just burning out trying to <unka> up to all things <unka/> . still have a ton to learn about related best <unka> etc . not wanting to deal with the ops side of things . docker cloud seems to promise as much .... but requires another <unka-.> , so i 'm curious why . <unka-> seems to contain much of the same . </s>
+<s> <user> <unka<> > the same can be said about many other docker hosts or ci tools . eg . my examples of <unka> and <unk#a> </s>
+<s> <user> <unka<> > <unka> : it\ 's really annoying yes :d but everyone have their own " best way to do it " so mhm have to deal with it </s>
+<s> <user> <unka<> > <unka@> your main process to kill the <unka?> is doable for the local <unka_> <unka@_> app running in the container have to read some labels from docker api to know which containers are part of the cluster and then inspect each one to get their ips to connect <unka.> do n't want to enforce users to use an external <unka> solution because none of them , will get what we need . in fact , we are using swarm ... when i say query docker api , i mean query it thru swarm endpoint </s>
+<s> <user> <unka<> > <unka> : thanks . i 'm starting to see that now . i guess i 'm a <unka> and struggling with needing to guess at the best foot forward . wish someone would feel opinionated enough to just point to a workflow that seems to work well for them . docker cloud looks decent but it is prod ready ? <unk#a> looks like <unka> for docker ( in a good easy way ) but <unka'> struggling with their build process . </s>
+<s> <user> <unka<> > <unka> : i hope you're gonna blog this stuff :p </s>
+<s> <user> <unka<> > blog what ? my failure getting docker to work with <unka> ? :p </s>
+<s> <user> <unka<> > lol and your eventual success , of course ! </s>
+<s> <user> <unka<> > i hope so :d </s>
+<s> <user> <unka<> > i do n't know all those microsoft languages tends to have ultra long names for their methods and objects </s>
+<s> <user> <unka<> > hehehehehe </s>
+<s> <user> <unka<> > same applies to commandline programs <unka(:> </s>
+<s> <user> <unka<> > i have native c++ or nodejs for that :d </s>
+<s> <user> <unka<> > sometimes in combination <unka/\> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > that simple code in <unka> means that each of those <unka> tasks will run in a diff <unka> ( a <unka/> in the cluster ) and you get the result back </s>
+<s> <user> <unka<> > it is wonderful :d </s>
+<s> <user> <unka<> > my next fun project will be write <unka> fully in typescript for node.js :d </s>
+<s> <user> <unka<> > let give node community some real distributed framework :d </s>
+<s> <user> <unka<> > <3 ts . ready for <unk#a> by now .... let 's get to a real language ! :p </s>
+<s> <user> <unka<> > oh yes ! but we have to mention that in general nodejs already includes a cluster framework :d so not sure how useful it is :d but i 'll give it a try </s>
+<s> <user> <unka<> > true , it 's pretty useful , too </s>
+<s> <user> <unka<> > cluster in node is not a real cluster </s>
+<s> <user> <unka<> > it is just a <unka/> process which spawn other process and forward requests to be processed there </s>
+<s> <user> <unka<> > node ( because of v8 and <unka> ) has a single thread </s>
+<s> <user> <unka<> > so each <unka.> process is 1 single thread </s>
+<s> <user> <unka<> > what cluster does is multiplex that thread with diff process at cost of <unka> and <unka> between process </s>
+<s> <user> <unka<> > so you basically have <unk#a+> node processes per machine </s>
+<s> <user> <unka<> > this is their cluster </s>
+<s> <user> <unka<> > and my docker swarm init still running :( </s>
+<s> <user> <unka<> > ok ... its almost 6am here and i 'm fighting this thing </s>
+<s> <user> <unka<> > time to sleep </s>
+<s> <user> <unka<> > night all bb tomorrow and thanks for all help again </s>
+<s> <user> <unka<> > <unka> : yes , that 's how nodes cluster works :d and you can build a abstraction over it to add remote nodes too :d it was very easy and very useful as we simply passed api requests trough it and ended up in nicely scaling setup </s>
+<s> <user> <unka<> > see you </s>
+<s> <user> <unka<> > yeah </s>
+<s> <user> <unka<> > but that is just usefull for <unka> <unka/> kind of app </s>
+<s> <user> <unka<> > like web servers and maybe websocket server </s>
+<s> <user> <unka<> > but you ca n't do much with that </s>
+<s> <user> <unka<> > when i find time will start the project and let you know </s>
+<s> <user> <unka<> > anyway , ttyl night </s>
+<s> <user> <unka<> > i 'm waiting for it ;) </s>
+<s> <user> <unk#a<> > how to define links in <unka-> file if i want to deploy on the warm </s>
+<s> <user> <unk#a<> > swarm </s>
+<s> <user> <unka<> > you should not use links in this case . address the services and may add network aliases </s>
+<s> <user> <unk#a<> > means <unka?> m not getting you .. like i m having 3 service .. one is redis <unka,> one is <unk#a> and third one my nodejs app which has to run on 8081 </s>
+<s> <user> <unk#a<> > ? </s>
+<s> <user> <unka<> > oh wait you talk about compose v3 ? </s>
+<s> <user> <unk#a<> > yes i m talking about that </s>
+<s> <user> <unk#a<> > i dont know how to write compose version <unk#a.> i have to user version 3 so that i cn deploy a stack in docker 1.13 using compose nt bundle </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > should be a nice example </s>
+<s> <user> <unk#a<> > ok i will explore ... thanx </s>
+<s> <user> <unk#a<> > <unka> : but tell me i m having one environment <unka> in nodejs app <unk#a.> url and i have to mention it in that and i have to refer that <unk#a.> without links how i mention that ? </s>
+<s> <user> <unka<> > set the url to the servicename of your <unk#a> service . if you name it " foo " use " [ <unka-<> -> ] " as url . docker swarm networking will do the rest </s>
+<s> <user> <unk#a<> > is it necessary that i have to define the network also ? </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > afternoon ! </s>
+<s> <user> <unka<> > afternoon ! </s>
+<s> <user> <unka<> > <unka> : the swarm init never worked :( </s>
+<s> <user> <unka<> > <unka> : the swarm init never worked :( </s>
+<s> <user> <unka<> > i have no real idea why this happens . are you know part of the docker community ? </s>
+<s> <user> <unka<> > i have no real idea why this happens . are you know part of the docker community ? </s>
+<s> <user> <unka<> > nop ... got one email from victor <unka> saying in other words , wait :( </s>
+<s> <user> <unka<> > nop ... got one email from victor <unka> saying in other words , wait :( </s>
+<s> <user> <unka<> > oh okay :o that 's new </s>
+<s> <user> <unka<> > oh okay :o that 's new </s>
+<s> <user> <unka<> > the chat is probably too bloated </s>
+<s> <user> <unka<> > the chat is probably too bloated </s>
+<s> <user> <unka<> > so they are controlling access now unfortunately :( </s>
+<s> <user> <unka<> > so they are controlling access now unfortunately :( </s>
+<s> <user> <unka<> > frustrating </s>
+<s> <user> <unka<> > frustrating </s>
+<s> <user> <unka<> > i <unka> with that but i currently have no idea . maybe you can file an issue on github </s>
+<s> <user> <unka<> > i <unka> with that but i currently have no idea . maybe you can file an issue on github </s>
+<s> <user> <unka<> > nah , do n't want be an <unk#a> ... let them take their time ... </s>
+<s> <user> <unka<> > nah , do n't want be an <unk#a> ... let them take their time ... </s>
+<s> <user> <unka<> > regardless of swarm , i still have the <unka> < -> docker stuff to deal with </s>
+<s> <user> <unka<> > regardless of swarm , i still have the <unka> < -> docker stuff to deal with </s>
+<s> <user> <unka<> > i read thru whole swarm docs yesterday ( or today ? who knows ! ) before sleep ... it is very simple and has not much for my case actually </s>
+<s> <user> <unka<> > i read thru whole swarm docs yesterday ( or today ? who knows ! ) before sleep ... it is very simple and has not much for my case actually </s>
+<s> <user> <unka<> > the <unka> cluster deployment is not actually related to swarm ... the only feature of swarm that is actually used but totally unrelated , is the placement strategy of containers on hosts and the desired state ... thats it ... load balancing etc , those things we will never use </s>
+<s> <user> <unka<> > the <unka> cluster deployment is not actually related to swarm ... the only feature of swarm that is actually used but totally unrelated , is the placement strategy of containers on hosts and the desired state ... thats it ... load balancing etc , those things we will never use </s>
+<s> <user> <unka<> > so a single standalone docker host or a swarm cluster makes no diff for me ... what we care are the labels and find a way to proper health check the service </s>
+<s> <user> <unka<> > so a single standalone docker host or a swarm cluster makes no diff for me ... what we care are the labels and find a way to proper health check the service </s>
+<s> <user> <unka<> > hey guys ! is it possible to point to <unka-.> <unka-> just like we <unka> build ? </s>
+<s> <user> <unka<> > <unka> : <unka-> as <unka> build </s>
+<s> <user> <unka<> > <unka-> up -f <unka.> </s>
+<s> <user> <unka<> > <unka> : thanks a million sport ! </s>
+<s> <user> <unka<> > <unka> : most of docker commands just <unka> [ command ] <unka-> the majority of parameters are there </s>
+<s> <user> <unka<> > <unka> : yup . but i forgot to run that <unka-> . instead i <unka-> up --help . :/ </s>
+<s> <user> <unka<> > you are right </s>
+<s> <user> <unk#a<> > hello , i want to be able to clone a repo into my docker container at run time . because i 'm using ssh to get read-only access to my repo i need to have the keys within the docker container somewhere . is it safe to keep the public and private keys within the containers files and then link the volume in the <unka-> file ? or should i be doing this another way ? </s>
+<s> <user> <unka<> > <unk#a> : it depends on your " <unka> " . if it\ 's a deployment key and it\ 's not a problem if everyone has it . include it . if it is a problem , you can thing <unka> the key to <unka\> it as environment <unka\> vor 1.13 and add it as secret </s>
+<s> <user> <unk#a<> > <unka> : it 's just a deployment key so should be okay , thanks </s>
+<s> <user> <unka<> > you can think about it like about " would i include that into my github repository " ;) </s>
+<s> <user> <unk#a<> > hello , i want to be able to clone a repo into my docker container at run time . because i 'm using ssh to get read-only access to my repo i need to have the keys within the docker container somewhere . is it safe to keep the public and private keys within the containers files and then link the volume in the <unka-> file ? or should i be doing this another way ? </s>
+<s> <user> <unka<> > <unk#a> : it depends on your " <unka> " . if it\ 's a deployment key and it\ 's not a problem if everyone has it . include it . if it is a problem , you can thing <unka> the key to <unka\> it as environment <unka\> vor 1.13 and add it as secret </s>
+<s> <user> <unk#a<> > <unka> : it 's just a deployment key so should be okay , thanks </s>
+<s> <user> <unka<> > you can think about it like about " would i include that into my github repository " ;) </s>
+<s> <user> <unka<> > <unka> anyone having trouble starting docker on the latest mint ? </s>
+<s> <user> <unka<> > <unka> think it 's a systemd issue </s>
+<s> <user> <unka<> > anyway , i find it funny that education somehow has more support than home :p </s>
+<s> <user> <unka<> > <unka_> <unka'@_> not here to debate toolbox , this is not the right place for this .. just thought i'd shout out to anybody that 's helping maintain the toolbox repo to give the issue and pr a serious and honest look . i am not the only one who thinks there is something wrong <unka-> workflow . so if the outcome of giving it an honest look and discussing how to move forward is a decision that that pr is not the best way to do it and a better way is provided .. then that 's great ! i 'm all for that . we invite you to engage on github . </s>
+<s> <user> <unka<> > <unka-> down && <unka-> build && <unka-> up , i used to be able to pair these and it would only rebuild images when things needed to be . my containers are now being rebuilt from scratch every time . any reason one could think ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] used to be , that if i hadnt changed <unka.> , it would reuse that cache . i have not changed <unka.> and for some reason its bailing and not using the cache </s>
+<s> <user> <unka<> > is your source is changing between builds ? or are you clearing any dangling containers at any point ? </s>
+<s> <user> <unka<> > its rebuilding containers that i have definitely not changed . for example , im changing stuff in a django container , but theres a node container i never touch , and its going through all the npm install bs that usually only happens when the <unka.> is different ( <unka> the build ) </s>
+<s> <user> <unka<> > looks like cache is actually breaking at step 3 ; which is very strange </s>
+<s> <user> <unka<> > is something else changing the contents <unka/> a shared volume ? </s>
+<s> <user> <unka<> > even <unka> build .in the directory repeatedly builds the entire thing . i have nothing else running . not changing any code . any ideas where to look ? </s>
+<s> <user> <unka<> > how can i debug that <unka> DIR/usr/ DIR/src/ keeps making a different checksum ? </s>
+<s> <user> <unka<> > so another dev , same code , not having this problem ... so my computer i guess </s>
+<s> <user> <unka<> > <unka_> : ( lol ), the problem was that i was on <unk#a-.> beta . rolling back to <unk#.> stable fixed everything ! </s>
+<s> <user> <unka<> > i 've got an interesting issue ... i 'm running docker containers and the application is reporting significant time skew </s>
+<s> <user> <unka<> > but when i check on both the host and the container using date and hwclock they are both identical and correct </s>
+<s> <user> <unka<> > hi , is there any documentation or checklist before moving application into production running in docker ? </s>
+<s> <user> <unka<> > <unka> : well there are recommendations for production docker daemon setups <unk> regarding to your application : propably the same you had before . </s>

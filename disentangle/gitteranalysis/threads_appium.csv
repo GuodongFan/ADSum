@@ -1,0 +1,781 @@
+,id,text,clean,sent,username,chatroom,mention,ngrams,involved,back_and_forth,bigrams,discussionId
+0,1,guys,guy,2016-11-22 08:00:11,MadebyBala,test_Appium,0,0,0,0,,[1]
+1,2,i need on help,need help,2016-11-22 08:00:24,MadebyBala,test_Appium,0,0,1,0,,[1]
+2,3,manikandan can u help me,manikandan help,2016-11-22 08:00:36,MadebyBala,test_Appium,0,0,1,0,help manikandan,[1]
+3,4,tell me what you need ?,tell need,2016-11-22 08:00:56,mgmanikandan87,test_Appium,0,0,0,0,,[]
+4,5,package audio;import java.net.MalformedURLException;import java.net.URL;import java.util.concurrent.TimeUnit;import org.openqa.selenium.WebDriver;import org.openqa.selenium.remote.CapabilityType;import org.openqa.selenium.remote.DesiredCapabilities;import org.openqa.selenium.remote.RemoteWebDriver;import org.testng.annotations.BeforeTest;import org.testng.annotations.Test;import io.appium.java_client.ios.IOSDriver;import io.appium.java_client.service.local.AppiumDriverLocalService;public class trackinfo { RemoteWebDriver driver; AppiumDriverLocalService appiumService; //String appiumServiceUrl; [<-CODE->],package audioimport class trackinfo remotewebdriver driver appiumdriverlocalservice appiumservice string appiumserviceurl,2016-11-22 08:01:31,MadebyBala,test_Appium,0,0,1,1,"audio package, class trackinfo","[1, 2]"
+5,6,this the code i am using but i cant connect to appium server,code use connect appium server,2016-11-22 08:01:58,MadebyBala,test_Appium,0,0,1,1,"appium server, code use","[1, 2]"
+6,7,but server is running,server run,2016-11-22 08:02:07,MadebyBala,test_Appium,0,0,1,1,,"[1, 2]"
+7,8,can u help m ein this,help ein,2016-11-22 08:02:15,MadebyBala,test_Appium,0,0,1,1,,"[1, 2]"
+8,9,appium logs ?,appium log,2016-11-22 08:03:31,mgmanikandan87,test_Appium,0,0,0,1,appium log,[2]
+9,10,nothing is coming in my appium server,nothing come appium server,2016-11-22 08:04:00,MadebyBala,test_Appium,0,0,1,0,"a me, appium server",[2]
+10,11,screenshot ?,screenshot,2016-11-22 08:04:07,mgmanikandan87,test_Appium,0,0,1,1,,"[2, 3]"
+11,12,Last login: Tue Nov 22 12:56:56 on ttys000RIMM12:~ user$ appium[Appium] Welcome to Appium v1.6.1-beta[Appium] Appium REST http interface listener started on 0.0.0.0:4723,last login tue nov ttysrimm user appiumappium welcome appium appium rest http interface listener start,2016-11-22 08:04:08,MadebyBala,test_Appium,0,0,1,1,"a me, http interface, interface listener","[2, 3]"
+12,13,its is just in this state only,state,2016-11-22 08:04:26,MadebyBala,test_Appium,0,0,1,1,,"[2, 3]"
+13,14,[<-CODE->] appiumServiceUrl = appiumService.getUrl().toString();,appiumserviceurl,2016-11-22 08:04:28,mgmanikandan87,test_Appium,0,0,1,1,,"[2, 4]"
+14,15,can you remove above code,remove code,2016-11-22 08:04:35,mgmanikandan87,test_Appium,0,0,1,1,,"[3, 4]"
+15,16,,,2016-11-22 08:04:36,mgmanikandan87,test_Appium,0,0,1,1,,"[3, 4]"
+16,17,and run it,run,2016-11-22 08:04:43,mgmanikandan87,test_Appium,0,0,1,1,,"[3, 4]"
+17,18,ok,,2016-11-22 08:04:51,MadebyBala,test_Appium,0,0,0,1,,[3]
+18,19,and,,2016-11-22 08:04:55,mgmanikandan87,test_Appium,0,0,1,0,,[3]
+19,20,i willl try it,willl try,2016-11-22 08:05:03,MadebyBala,test_Appium,0,0,1,1,try willl,[3]
+20,21,change,change,2016-11-22 08:05:05,mgmanikandan87,test_Appium,0,0,1,0,,[3]
+21,22,RemoteWebDriver,remotewebdriver,2016-11-22 08:05:07,mgmanikandan87,test_Appium,0,0,1,0,,[3]
+22,23,to IOSDriver<>,iosdriver,2016-11-22 08:05:20,mgmanikandan87,test_Appium,0,0,1,0,,[3]
+23,24,as ok,,2016-11-22 08:05:29,MadebyBala,test_Appium,0,0,1,0,,[3]
+24,25,ok,,2016-11-22 08:05:33,MadebyBala,test_Appium,0,0,1,0,,[3]
+25,26,i will try it and say u,try say,2016-11-22 08:05:46,MadebyBala,test_Appium,0,0,1,0,,[3]
+26,27,ok,,2016-11-22 08:06:02,mgmanikandan87,test_Appium,0,0,1,0,,[3]
+27,28,I created an issue if anyone could help: [<-ISSUE->],create issue anyone help,2016-11-23 13:16:57,TusharRastogi,test_Appium,0,0,0,0,"an issue, anyone help, help one",[]
+28,29,hi guys.. if i want to test new application do i need to configure webDriver Agent again...,guy want test new application need configure webdriver agent,2016-11-24 04:57:11,MadebyBala,test_Appium,0,0,1,1,"a new, a webdriver, application new, need on, new test","[3, 4]"
+29,30,what is the capability code for real device,capability code real device,2016-11-24 09:24:48,MadebyBala,test_Appium,0,0,1,1,"capability code, device real","[3, 4]"
+30,31,guys can any one help with real device capability code..,guy one help real device capability code,2016-11-28 08:37:03,MadebyBala,test_Appium,0,0,1,1,"capability code, capability device, device real, help one","[3, 4]"
+31,32,hi guys.. if i want to test new application do i need to configure webDriver Agent again...,guy want test new application need configure webdriver agent,2016-11-24 04:57:11,MadebyBala,test_Appium,0,0,1,1,"a new, a webdriver, application new, need on, new test","[3, 4]"
+32,33,what is the capability code for real device,capability code real device,2016-11-24 09:24:48,MadebyBala,test_Appium,0,0,1,0,"capability code, device real",[3]
+33,34,"I am new to android development, i've been learning java for past 2 months and would really like to work on an android app Idea of my own. Can anyone help me in understanding what i need to study to get my concepts clear for developing my app",new android development ive learn java past months really like work android app idea anyone help understand need study get concepts clear develop app,2016-11-24 17:48:45,thePercept,test_Appium,0,0,0,0,"a android, a new, an idea, android app, android development, any idea, anyone help, app i, clear concepts, help one, help u, like really",[4]
+34,35,?,,2016-11-24 17:48:48,thePercept,test_Appium,0,0,1,0,,[4]
+35,36,here's the link to what i want to develop for the sake of learning: [<-LINK->],heres link want develop sake learn,2016-11-24 17:49:23,thePercept,test_Appium,0,0,1,0,,[4]
+36,37,hi,,2016-11-26 15:22:15,28development,test_Appium,0,0,0,0,,[5]
+37,38,Could someone have a look at this question of my [<-LINK->],look question,2016-11-26 15:22:59,28development,test_Appium,0,0,1,0,,[5]
+38,39,guys can any one help with real device capability code..,guy one help real device capability code,2016-11-28 08:37:03,MadebyBala,test_Appium,0,0,0,0,"capability code, capability device, device real, help one",[]
+39,40,"Hi All, Can someone tell me how can I use UI inspector for iOS in appium 1.6?",tell use inspector ios appium,2016-11-28 10:23:45,Achini_C_twitter,test_Appium,0,0,0,0,"appium ios, i use",[6]
+40,41,Achini_C_twitter: [<-LINK->],achinictwitter,2016-11-28 10:24:47,mgmanikandan87,test_Appium,1,0,0,0,,[6]
+41,42,[<-LINK->],,2016-11-28 10:24:54,mgmanikandan87,test_Appium,0,0,1,0,,[6]
+42,43,mgmanikandan87: Thanks a lot. Can you let me know one thing clarification? How can I enable the phone to support development in xcode. Due to this I cannot select iPhone via Accessibility inspector?,mgmanikandan thank lot let know one thing clarification enable phone support development xcode due select iphone via accessibility inspector,2016-11-28 10:33:11,Achini_C_twitter,test_Appium,1,0,0,0,"clarification thing, development support, know one, one thing",[6]
+43,44,once you connect the device you can launch the inspect though that also you can view the screen,connect device launch inspect though view screen,2016-11-28 10:34:51,mgmanikandan87,test_Appium,0,0,1,0,inspect though,[6]
+44,45,ok. Manu Thanks,manu thank,2016-11-28 10:38:18,Achini_C_twitter,test_Appium,0,0,1,0,,[6]
+45,46,I have a doubt.hide_keyboard is working great but do you know how to know if the keyboard is open or not,work great know know keyboard open,2016-12-01 11:32:22,deepakchoudhury,test_Appium,0,0,0,0,,[7]
+46,47,for andorid app,andorid app,2016-12-01 11:32:38,deepakchoudhury,test_Appium,0,0,1,0,andorid app,[7]
+47,48,Hi@deepakchoudhury@deepakchoudhury: I don't think u have an option to check if keyboard is opened or not. But u can try catch the hide keyboard. If it throws exception means keyboard is already closed,dont think option check keyboard open try catch hide keyboard throw exception mean keyboard already close,2016-12-01 12:46:38,pramodnaik,test_Appium,1,0,0,0,"catch try, hide keyboard, me on",[7]
+48,49,Thanks@pramodnaik...its working...,work,2016-12-01 13:53:26,deepakchoudhury,test_Appium,1,0,0,0,,[7]
+49,50,What languages are everyone using for writing tests? MochaJS? Ruby? Python? What do you think is best?,languages everyone use write test mochajs ruby python think best,2016-12-01 15:23:14,mmcintyre123,test_Appium,0,0,0,0,,[8]
+50,51,What languages are everyone using for writing tests? MochaJS? Ruby? Python? What do you think is best?,languages everyone use write test mochajs ruby python think best,2016-12-01 21:10:41,mmcintyre123,test_Appium,0,0,1,0,,[8]
+51,52,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,0,1,"an appium, and appium, android appium, apk installation, appium use",[9]
+52,53,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,1,"an appium, and appium, android appium, apk installation, appium use",[9]
+53,54,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,1,"an appium, and appium, android appium, apk installation, appium use",[9]
+54,55,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,1,"an appium, and appium, android appium, apk installation, appium use",[9]
+55,56,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,0,"an appium, and appium, android appium, apk installation, appium use",[9]
+56,57,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,0,"an appium, and appium, android appium, apk installation, appium use",[9]
+57,58,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,0,"an appium, and appium, android appium, apk installation, appium use",[9]
+58,59,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,0,"an appium, and appium, android appium, apk installation, appium use",[9]
+59,60,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,0,"an appium, and appium, android appium, apk installation, appium use",[9]
+60,61,Hi! I'm using Appium 1.6.0 with Android SDK 24.4.1. During apk installation I get this error which I have never seen beforeDevice API level: 22,use appium android sdk apk installation get error never see beforedevice api level,2016-12-02 15:24:58,sankleta,test_Appium,0,0,1,0,"an appium, and appium, android appium, apk installation, appium use",[9]
+61,62,sankleta: run appium-doctor command post the log here,sankleta run appiumdoctor command post log,2016-12-02 15:55:28,mgmanikandan87,test_Appium,1,0,0,0,"a run, appium run, command or, command post",[9]
+62,63,sankleta: run appium-doctor command post the log here,sankleta run appiumdoctor command post log,2016-12-02 15:55:28,mgmanikandan87,test_Appium,0,0,1,0,"a run, appium run, command or, command post",[9]
+63,64,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,1,"a or, app or, appium doctor","[9, 10]"
+64,65,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,1,"a or, app or, appium doctor","[9, 10]"
+65,66,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,1,"a or, app or, appium doctor","[9, 10]"
+66,67,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,1,"a or, app or, appium doctor","[9, 10]"
+67,68,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+68,69,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+69,70,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+70,71,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+71,72,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+72,73,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+73,74,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+74,75,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+75,76,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+76,77,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+77,78,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+78,79,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+79,80,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+80,81,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+81,82,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+82,83,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+83,84,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+84,85,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+85,86,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+86,87,info AppiumDoctor Appium Doctor v.1.2.5,info appiumdoctor appium doctor,2016-12-02 16:22:28,sankleta,test_Appium,0,0,1,0,"a or, app or, appium doctor",[9]
+87,88,"sankleta: post your desired caps, device android version",sankleta post desire cap device android version,2016-12-02 17:10:16,mgmanikandan87,test_Appium,1,0,0,0,"and device, android device, android version",[9]
+88,89,"sankleta: post your desired caps, device android version",sankleta post desire cap device android version,2016-12-02 17:10:16,mgmanikandan87,test_Appium,0,0,1,0,"and device, android device, android version",[9]
+89,90,"@mgmanikandan87 sure, heredef setUp(): desired_caps = {} desired_caps['platformName'] = 'Android' desired_caps['platformVersion'] = '5.1' desired_caps['deviceName'] = 'MrCucumber' desired_caps['app'] = '/apk/test-armv7-debug.apk' [<-CODE->] so device has 5.1 as well",sure heredef setup desiredcaps desiredcapsplatformname android desiredcapsplatformversion desiredcapsdevicename mrcucumber desiredcapsapp apk device well,2016-12-02 17:46:01,sankleta,test_Appium,1,0,0,0,"a me, an me, caps desired",[9]
+90,91,"@mgmanikandan87 sure, heredef setUp(): desired_caps = {} desired_caps['platformName'] = 'Android' desired_caps['platformVersion'] = '5.1' desired_caps['deviceName'] = 'MrCucumber' desired_caps['app'] = '/apk/test-armv7-debug.apk' [<-CODE->] so device has 5.1 as well",sure heredef setup desiredcaps desiredcapsplatformname android desiredcapsplatformversion desiredcapsdevicename mrcucumber desiredcapsapp apk device well,2016-12-02 17:46:01,sankleta,test_Appium,0,0,1,0,"a me, an me, caps desired",[9]
+91,92,"sankleta: can you try with any other apk, its seems every looks fine or we need to check with android source code",sankleta try apk seem every look fine need check android source code,2016-12-02 19:09:45,mgmanikandan87,test_Appium,1,0,0,0,"a try, android source, code source, fine ok",[9]
+92,93,"sankleta: can you try with any other apk, its seems every looks fine or we need to check with android source code",sankleta try apk seem every look fine need check android source code,2016-12-02 19:09:45,mgmanikandan87,test_Appium,0,0,1,0,"a try, android source, code source, fine ok",[9]
+93,94,hey all ... i'm trying to get scroll working with python and android but it doesn't seem to be implemented with selenium3? i've searched everywhere and my brain is hurting ... in python-client sourcehttps://github.com/appium/python-client/blob/master/appium/webdriver/webdriver.pyi see the following: [<-CODE->],try get scroll work python android doesnt seem implement selenium ive search everywhere brain hurt pythonclient source see follow,2016-12-02 20:41:32,reywinters03,test_Appium,0,0,0,1,"a on, an on, and on, and python, android on, get scroll, i m",[10]
+94,95,i've tried [<-CODE->],ive try,2016-12-02 20:41:53,reywinters03,test_Appium,0,0,1,1,,[10]
+95,96,doesn't seem to work,doesnt seem work,2016-12-02 20:41:56,reywinters03,test_Appium,0,0,1,1,,[10]
+96,97,[<-CODE->] ^this one gave me an error saying str is not a func,one give error say str func,2016-12-02 20:42:50,reywinters03,test_Appium,0,0,1,1,,[10]
+97,98,i'm testing websites not apps .. so no api ... any help is appreciated,test websites apps api help appreciate,2016-12-02 20:43:12,reywinters03,test_Appium,0,0,1,0,,[10]
+98,99,this doesn't work [<-CODE->],doesnt work,2016-12-02 21:46:43,reywinters03,test_Appium,0,0,1,0,doesnt work,"[10, 11]"
+99,100,i get the following: [<-CODE->],get follow,2016-12-02 21:47:04,reywinters03,test_Appium,0,0,1,0,,"[10, 12]"
+100,101,I've had luck scrolling with a swipe event - you might try that!,ive luck scroll swipe event try,2016-12-02 21:47:24,mmcintyre123,test_Appium,0,0,0,1,event swipe,[11]
+101,102,(I'm using Mocha though),use mocha though,2016-12-02 21:47:40,mmcintyre123,test_Appium,0,0,1,1,,[11]
+102,103,could you send me an example?,send example,2016-12-02 21:47:47,reywinters03,test_Appium,0,0,1,0,,"[11, 12]"
+103,104,Sure,sure,2016-12-02 21:47:50,mmcintyre123,test_Appium,0,0,1,1,,"[11, 13]"
+104,105,thank you so much,thank much,2016-12-02 21:47:53,reywinters03,test_Appium,0,0,1,1,,"[11, 13]"
+105,106,i think i'm going to go bald soon,think bald soon,2016-12-02 21:48:11,reywinters03,test_Appium,0,0,1,1,bald soon,"[11, 13]"
+106,107,lol,lol,2016-12-02 21:48:25,mmcintyre123,test_Appium,0,0,1,1,,"[11, 14]"
+107,108,[<-CODE->],,2016-12-02 21:50:07,mmcintyre123,test_Appium,0,0,1,0,,"[13, 14]"
+108,109,thank you .. .let me try this ...,thank let try,2016-12-02 21:50:27,reywinters03,test_Appium,0,0,1,1,,"[13, 14]"
+109,110,np! Beware though this is Mocha not python.,beware though mocha python,2016-12-02 21:50:38,mmcintyre123,test_Appium,0,0,1,0,,"[13, 14]"
+110,111,(you could probably tell :) ),probably tell,2016-12-02 21:50:51,mmcintyre123,test_Appium,0,0,1,0,probably tell,"[13, 14]"
+111,112,haha no worries .. going to try and translate,haha worry try translate,2016-12-02 21:50:59,reywinters03,test_Appium,0,0,1,1,,"[13, 14, 15]"
+112,113,thanks thanks,thank thank,2016-12-02 21:51:51,reywinters03,test_Appium,0,0,1,1,,"[14, 16]"
+113,114,did it work?,work,2016-12-02 21:52:14,mmcintyre123,test_Appium,0,0,1,0,,[14]
+114,115,ugh nope,ugh nope,2016-12-02 21:56:25,reywinters03,test_Appium,0,0,1,1,nope ugh,"[14, 17]"
+115,116,selenium.common.exceptions.WebDriverException: Message: Not yet implemented. Please help us: http://appium.io/get-involved.html,message yet implement please help,2016-12-02 21:56:29,reywinters03,test_Appium,0,0,1,1,help please,"[15, 16, 17]"
+116,117,"simply trieddriver.swipe(100, 100, 100, 400)",simply,2016-12-02 21:56:46,reywinters03,test_Appium,0,0,1,1,,"[15, 16, 17]"
+117,118,python appium client says [<-CODE->],python appium client say,2016-12-02 21:57:08,reywinters03,test_Appium,0,0,1,1,"a on, app on, appium client, appium on, appium python","[15, 16, 17]"
+118,119,mmcintyre123: thanks for trying tho,mmcintyre thank try tho,2016-12-02 21:58:48,reywinters03,test_Appium,0,0,1,0,,"[15, 16, 17]"
+119,120,I can't help too much with Python unfortunately but I can tell you that in Mocha the swipe action is part of the wd library - so I have to [<-CODE->],help much python unfortunately tell mocha swipe action part library,2016-12-02 21:59:03,mmcintyre123,test_Appium,0,0,0,0,"a swipe, action swipe, help m",[18]
+120,121,I am seeing instruments fail after 90000 ms not being able to locate device. I specify iPhone Simulator is it better to be explicit like provide iPhone 6?,see instrument fail able locate device specify iphone simulator better explicit like provide iphone,2016-12-02 21:59:41,mikesalvia,test_Appium,0,0,0,0,"device locate, explicit like, in see, like provide",[]
+121,122,mmcintyre123: ah ... hmm ... let me try with mocha ... might take me a while,mmcintyre hmm let try mocha take,2016-12-02 22:00:19,reywinters03,test_Appium,1,0,0,0,"a take, hmm let","[17, 18]"
+122,123,reywinters03: np - good luck!,reywinters good luck,2016-12-02 22:01:33,mmcintyre123,test_Appium,1,0,0,0,good luck,"[17, 18]"
+123,124,reywinters03: are you facing still scrolling issue ?,reywinters face still scroll issue,2016-12-02 23:47:27,mgmanikandan87,test_Appium,1,0,0,0,"i scroll, is scroll","[17, 18]"
+124,125,mgmanikandan87: yep,mgmanikandan yep,2016-12-03 00:50:59,reywinters03,test_Appium,1,0,0,0,,"[17, 18]"
+125,126,reywinters03: android & iOS ?,reywinters android ios,2016-12-03 01:33:57,mgmanikandan87,test_Appium,1,0,0,0,,"[17, 18]"
+126,127,Xcode 8 and above,xcode,2016-12-03 03:09:48,mgmanikandan87,test_Appium,0,0,1,0,,"[17, 18]"
+127,128,"@reywinters03AndroidElement listView = (AndroidElement) wd.findElementByClassName(""android.widget.ScrollView"");listView.swipe(SwipeElementDirection.UP, 20, 15, 5000);This should work",listview androidelement work,2016-12-04 01:02:36,mgmanikandan87,test_Appium,0,0,1,0,,"[17, 18]"
+128,129,"I am writing multiple test , so while starting second test it gives me thisorg.openqa.selenium.SessionNotCreatedException: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'? (WARNING: The server did not provide any stacktrace information)Do I need to instantiate again",write multiple test start second test give new session create detail problem get session data driver type androiddriver implement get driverdata warn server provide stacktrace informationdo need instantiate,2016-12-06 16:40:17,rohantilekar,test_Appium,0,0,0,0,"data session, do need, driver type, i need, information stacktrace, multiple test, new session, second test",[19]
+129,130,can you try with override session in appium server...,try override session appium server,2016-12-06 16:45:09,tekisrinivas20,test_Appium,0,0,0,0,"a on, app on, appium on, appium server, appium session, override session",[20]
+130,131,"tekisrinivas20: Does not work , still closes the app after first testcase method",tekisrinivas work still close app first testcase method,2016-12-06 16:53:03,rohantilekar,test_Appium,1,0,0,0,"first test, first testcase, method testcase","[19, 20]"
+131,132,Is ther anyone online??,ther anyone online,2016-12-06 19:47:49,rohantilekar,test_Appium,0,0,1,0,"anyone online, anyone ther","[19, 20]"
+132,133,org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.I got this error while trying to automate an hybrid app. Please help,start new session possible cause invalid address remote server browser startup get error try automate hybrid app please help,2016-12-12 05:18:18,Rahul-Chulliparambil,test_Appium,0,0,0,0,"a hybrid, a try, a valid, address invalid, app hybrid, help please, i use, new session, remote server",[21]
+133,134,how long the scripts are running ?,long script run,2016-12-12 05:18:45,mgmanikandan87,test_Appium,0,0,0,0,run script,[22]
+134,135,"Rahul: : Stop ur appium and stop app on device, start appium again",rahul stop appium stop app device start appium,2016-12-12 05:18:50,Divya-tfw,test_Appium,0,0,0,0,"a start, app stop, appium start",[23]
+135,136,we are running daily .But individually its ok .but batch run all r failing only few passing,run daily individually batch run fail pass,2016-12-12 05:19:20,Divya-tfw,test_Appium,0,0,1,0,batch run,[23]
+136,137,Rahul-Chulliparambil: post your caps here?,rahulchulliparambil post cap,2016-12-12 05:19:24,mgmanikandan87,test_Appium,0,0,1,0,,"[21, 22]"
+137,138,caps means?,cap mean,2016-12-12 05:19:39,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[21]
+138,139,desired capabilities,desire capabilities,2016-12-12 05:19:48,mgmanikandan87,test_Appium,0,0,1,0,,[21]
+139,140,Ok,,2016-12-12 05:19:53,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[21]
+140,141,[<-CODE->],,2016-12-12 05:20:25,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[21]
+141,142,new URL(url) ?,new urlurl,2016-12-12 05:20:55,mgmanikandan87,test_Appium,0,0,1,0,,[21]
+142,143,url ?,url,2016-12-12 05:20:58,mgmanikandan87,test_Appium,0,0,1,0,,[21]
+143,144,Divya-tfw: yes individually it will work fine,divyatfw yes individually work fine,2016-12-12 05:21:26,mgmanikandan87,test_Appium,0,0,1,0,"fine work, individually yes",[21]
+144,145,its for web driver. I am working on a hybrid app.,web driver work hybrid app,2016-12-12 05:21:43,Rahul-Chulliparambil,test_Appium,0,0,1,0,"a hybrid, app hybrid, driver web",[21]
+145,146,driver = new AndroidDriver(new URL(url) ?,driver new androiddrivernew urlurl,2016-12-12 05:21:57,mgmanikandan87,test_Appium,0,0,1,0,a new,[21]
+146,147,i am asking where is the url params ?,ask url params,2016-12-12 05:22:08,mgmanikandan87,test_Appium,0,0,1,0,params url,[21]
+147,148,appium url,appium url,2016-12-12 05:22:15,mgmanikandan87,test_Appium,0,0,1,0,"appium ur, appium url",[21]
+148,149,public class FirstAppiumTrial { [<-CODE->],public class firstappiumtrial,2016-12-12 05:22:35,Rahul-Chulliparambil,test_Appium,0,0,1,0,class public,[21]
+149,150,appium logs ?,appium log,2016-12-12 05:23:05,mgmanikandan87,test_Appium,0,0,1,0,appium log,[21]
+150,151,Actually I am new to appium. I dont know much. appium logs means?,actually new appium dont know much appium log mean,2016-12-12 05:24:11,Rahul-Chulliparambil,test_Appium,0,0,1,0,"a new, appium log, dont know, know much",[21]
+151,152,did you start the appium >?,start appium,2016-12-12 05:24:46,mgmanikandan87,test_Appium,0,0,1,0,"a start, appium start",[21]
+152,153,Divya-tfw: : after that do i have to run my code again in eclipse?,divyatfw run code eclipse,2016-12-12 05:25:03,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[21]
+153,154,"mgmanikandan87: : yes, I started",mgmanikandan yes start,2016-12-12 05:25:25,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[21]
+154,155,Divya-tfw: can you try start apium server with override exist session..,divyatfw try start apium server override exist session,2016-12-12 05:25:26,tekisrinivas20,test_Appium,0,0,0,0,"a start, apium server, apium start, exist override, exist session, start try",[24]
+155,156,mgmanikandan87: : So now how can I delete cache data and start run ?or any other alternative for the problem,mgmanikandan delete cache data start run alternative problem,2016-12-12 05:25:36,Divya-tfw,test_Appium,1,0,0,0,"a run, a start, cache data, cache delete, run start",[21]
+156,157,override exist session ? where is that option ? Appium or shud i add in capabilit,override exist session option appium shud add capabilit,2016-12-12 05:26:06,Divya-tfw,test_Appium,0,0,1,0,"a on, app on, appium on, exist override, exist session",[21]
+157,158,In apium server settings u can find override exist session check box..u can check it,apium server settings find override exist session check boxu check,2016-12-12 05:27:24,tekisrinivas20,test_Appium,0,0,1,0,"apium server, box check, check session, exist override, exist session, find override, server settings",[24]
+158,159,Rahul-Chulliparambil: are you using GUI or command line tool,rahulchulliparambil use gui command line tool,2016-12-12 05:27:40,mgmanikandan87,test_Appium,0,0,1,0,"command line, line tool",[21]
+159,160,ok let me check,let check,2016-12-12 05:27:40,Divya-tfw,test_Appium,0,0,1,0,,[21]
+160,161,?,,2016-12-12 05:27:40,mgmanikandan87,test_Appium,0,0,1,0,,[21]
+161,162,Divya-tfw: override exist session means will override exit session for next run it won鈥檛 create new session,divyatfw override exist session mean override exit session next run win create new session,2016-12-12 05:28:18,mgmanikandan87,test_Appium,0,0,1,0,"create new, exist override, exist session, exit override, exit session, me on, new session, next run",[21]
+162,163,"Then scripts will fail I guess, as new session will be created evry time when we run scripts .Now since its over riding that if some thing fails , then it will abort execution",script fail guess new session create evry time run script since rid thing fail abort execution,2016-12-12 05:29:46,Divya-tfw,test_Appium,0,0,1,0,"abort execution, evry time, guess new, me r, new session, run script",[21]
+163,164,Divya-tfw: can you post your appium full logs here ?,divyatfw post appium full log,2016-12-12 05:30:21,mgmanikandan87,test_Appium,1,0,0,0,appium full,[21]
+164,165,Logs will throw error as Element not found and continues with next script,log throw error element find continue next script,2016-12-12 05:30:50,Divya-tfw,test_Appium,0,0,1,0,"element find, element or, error throw, next script",[21]
+165,166,can you post whole appium logs,post whole appium log,2016-12-12 05:32:25,mgmanikandan87,test_Appium,0,0,1,0,"appium log, appium whole, post whole",[21]
+166,167,ok will post .Let me give run and send u,post let give run send,2016-12-12 05:32:42,Divya-tfw,test_Appium,0,0,1,0,give run,"[21, 25]"
+167,168,ok,,2016-12-12 05:32:52,mgmanikandan87,test_Appium,0,0,1,0,,"[21, 26]"
+168,169,In my case also I was able to run first test successfully. for second script it is failing. this solution solved for me..,case able run first test successfully second script fail solution solve,2016-12-12 05:34:36,tekisrinivas20,test_Appium,0,0,0,0,"first run, first test, on so, script second, successfully test",[]
+169,170,ok .let me try,let try,2016-12-12 05:35:03,Divya-tfw,test_Appium,0,0,1,0,,[25]
+170,171,I am using eclipse IDE,use eclipse ide,2016-12-12 05:35:56,Rahul-Chulliparambil,test_Appium,0,0,0,0,,[27]
+171,172,mgmanikandan87: : Do you have any properly running appium code ?,mgmanikandan properly run appium code,2016-12-12 05:41:05,Rahul-Chulliparambil,test_Appium,0,0,1,0,"a run, appium code, appium run, r y","[26, 27]"
+172,173,Rahul-Chulliparambil: yes,rahulchulliparambil yes,2016-12-12 05:50:18,mgmanikandan87,test_Appium,1,0,0,0,,"[26, 27]"
+173,174,@mgmanikandan87 : this is my appium logLaunching Appium server with command:[<-CODE->],appium loglaunching appium server command,2016-12-12 05:51:05,Rahul-Chulliparambil,test_Appium,1,0,0,0,"appium log, appium server","[26, 27]"
+174,175,Can You share any code with me?,share code,2016-12-12 05:52:11,Rahul-Chulliparambil,test_Appium,0,0,1,0,,"[26, 27]"
+175,176,"sure, give sometime",sure give sometime,2016-12-12 06:06:38,mgmanikandan87,test_Appium,0,0,1,0,give sometime,"[26, 27]"
+176,177,ok,,2016-12-12 06:55:27,Rahul-Chulliparambil,test_Appium,0,0,1,0,,"[26, 27]"
+177,178,Thank u guys .I got solution for batch run using Override Existing session.Thank u,thank guy get solution batch run use override exist,2016-12-12 07:29:26,Divya-tfw,test_Appium,0,0,0,1,"batch run, exist override",[27]
+178,179,"Congrats@Divya-tfw.Guys, Please help me to resolve my issue as well.",please help resolve issue well,2016-12-12 07:30:25,Rahul-Chulliparambil,test_Appium,1,0,0,0,help please,"[26, 27]"
+179,180,ok,,2016-12-12 07:30:47,Divya-tfw,test_Appium,0,0,1,1,,[27]
+180,181,Tel me r u getting same issue can not create new session again?,tel get issue create new session,2016-12-12 07:31:10,Divya-tfw,test_Appium,0,0,1,1,"create new, get i, new session",[27]
+181,182,Yes,yes,2016-12-12 07:31:28,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[27]
+182,183,When ever I run the code I am getting same error.,ever run code get error,2016-12-12 07:31:51,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[27]
+183,184,"I will send u few capabilties ,try adding it",send capabilties try add,2016-12-12 07:32:00,Divya-tfw,test_Appium,0,0,1,1,a try,[27]
+184,185,Ok,,2016-12-12 07:32:08,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[27]
+185,186,It shud work.As it worked for me,shud work,2016-12-12 07:32:09,Divya-tfw,test_Appium,0,0,1,0,,[27]
+186,187,Do we have to do any configuration in appium? apart from selecting the folder of apk and device name etc. ?,configuration appium apart select folder apk device name etc,2016-12-12 07:33:02,Rahul-Chulliparambil,test_Appium,0,0,1,0,"a on, app on, appium on, device name, etc name",[27]
+187,188,No I am speaking wrt Capability,speak wrt capability,2016-12-12 07:33:21,Divya-tfw,test_Appium,0,0,1,0,,[27]
+188,189,Ok.. But I will add those capabilities from you as well and try.,add capabilities well try,2016-12-12 07:34:05,Rahul-Chulliparambil,test_Appium,0,0,1,0,,[27]
+189,190,"url="" [<-LINK->] "";File app=new File(""path"");DesiredCapabilities capabilities=new DesiredCapabilities();capabilities.setCapability(""device"", ""Android"");capabilities.setCapability(""deviceName"", ""02157df2c1d35539"");capabilities.setCapability(""appPackage"",""com.celltrust.securesmsgen2"");capabilities.setCapability(""newCommandTimeout"", 120);capabilities.setCapability(""app"",app.getAbsolutePath()); [<-CODE->]",url file appnew filepathdesiredcapabilities capabilitiesnew desiredcapabilities android dfcd,2016-12-12 07:36:05,Divya-tfw,test_Appium,0,0,1,0,a file,[27]
+190,191,try this it will work,try work,2016-12-12 07:36:15,Divya-tfw,test_Appium,0,0,1,0,try work,[27]
+191,192,Divya-tfw: ok,divyatfw,2016-12-12 07:36:16,tekisrinivas20,test_Appium,1,0,0,0,,[27]
+192,193,Thanks. Let me try.@Divya-tfw,thank let,2016-12-12 07:37:37,Rahul-Chulliparambil,test_Appium,1,0,0,0,,[27]
+193,194,cool,cool,2016-12-12 07:37:50,Divya-tfw,test_Appium,0,0,1,0,,[27]
+194,195,Divya-tfw: Are you starting Appium server through programitically or manual...,divyatfw start appium server programitically manual,2016-12-12 07:39:46,tekisrinivas20,test_Appium,1,0,0,0,"a start, appium server, appium start",[27]
+195,196,Manually,manually,2016-12-12 07:39:59,Divya-tfw,test_Appium,0,0,1,0,,[27]
+196,197,ok,,2016-12-12 07:40:07,tekisrinivas20,test_Appium,0,0,1,0,,[27]
+197,198,Programtically was not working for me so I start manually,programtically work start manually,2016-12-12 07:40:13,Divya-tfw,test_Appium,0,0,1,0,manually start,[27]
+198,199,that's what I am trying programitically not working..me also doing manually..,thats try programitically workingme manually,2016-12-12 07:41:09,tekisrinivas20,test_Appium,0,0,1,0,,[27]
+199,200,Programtically is having two ways to launch,programtically two ways launch,2016-12-12 07:41:33,Divya-tfw,test_Appium,0,0,1,0,two ways,[27]
+200,201,I tried but it dint worked,try dint work,2016-12-12 07:41:40,Divya-tfw,test_Appium,0,0,1,0,,[27]
+201,202,Divya-tfw: What is the purpose of this line ?,divyatfw purpose line,2016-12-12 07:46:51,Rahul-Chulliparambil,test_Appium,1,0,0,1,,"[27, 28]"
+202,203,"""com.celltrust.secureline.ui.view.celltrust.gui.activity.CTOnBoardingActivity"");",,2016-12-12 07:47:20,Rahul-Chulliparambil,test_Appium,0,0,1,1,,"[27, 28]"
+203,204,When I am running my appium server finally i am getting this error:,run appium server finally get error,2016-12-12 07:58:06,Rahul-Chulliparambil,test_Appium,0,0,1,1,"a run, appium run, appium server, finally server","[27, 28]"
+204,205,error: Could not pre-launch appium: Error: Permission to start activity denied.Appium server process ended,error prelaunch appium error permission start activity server process end,2016-12-12 07:58:08,Rahul-Chulliparambil,test_Appium,0,0,1,1,"a launch, a start, activity start, app launch, process server","[27, 28]"
+205,206,"Hi guys, We have problem when try to run our test with appium behind our corporate proxy (In our own house runs ok). Do you have any idea how we can pass the proxy and no-proxy info to appium?",guy problem try run test appium behind corporate proxy house run idea pass proxy noproxy info appium,2016-12-12 16:49:42,jjimenezcapi,test_Appium,0,0,0,0,"appium behind, appium test, corporate proxy, i run, r y, run test",[]
+206,207,I'm facing some problems while I'm using Appium with wd-bridge,face problems use appium wdbridge,2016-12-14 07:33:48,ZadaZady_twitter,test_Appium,0,0,0,1,appium use,[28]
+207,208,I have this config file,config file,2016-12-14 07:33:54,ZadaZady_twitter,test_Appium,0,0,1,1,config file,[28]
+208,209,"exports.config = { seleniumAddress: 'http://localhost:4723/wd/hub',specs: ['./tests/protractor/*_spec.js'],// Reference: https://github.com/appium/sample-code/blob/master/sample-code/examples/node/helpers/caps.js capabilities: { platformName: 'android', platformVersion: '6.0.1', deviceName: 'Samsung S6', browserName: """", autoWebview: true, //CHANGE THIS TO YOUR ABSOLUTE PATH app:'/Users/omar/apps/cwama-front-end/platforms/android/build/outputs/apk/android-armv7-debug.apk', newCommandTimeout: 60000}, baseUrl: 'http://10.0.2.2:8000',// configuring wd in onPrepare // wdBridge helps to bridge wd driver with other selenium clients // See https://github.com/sebv/wd-bridge/blob/master/README.md onPrepare: function () { var wd = require('wd'), protractor = require('protractor'), wdBridge = require('wd-bridge')(protractor, wd); wdBridge.initFromProtractor(exports.config); }};",seleniumaddress httplocalhostwdhub specs testsprotractor reference capabilities platformname android platformversion devicename samsung browsername autowebview true change absolute path appusersomarappscwamafrontendplatformsandroidbuildoutputsapk newcommandtimeout baseurl configure onprepare wdbridge help bridge driver selenium clients see onprepare function var requirewd protractor requireprotractor wdbridge requirewdbridgeprotractor,2016-12-14 07:33:58,ZadaZady_twitter,test_Appium,0,0,1,1,"a me, an me, clients selenium, device on, on see",[28]
+209,210,"When I try to run protractor, it returns an errro",try run protractor return errro,2016-12-14 07:34:28,ZadaZady_twitter,test_Appium,0,0,1,1,"protractor run, r y",[28]
+210,211,WebDriverError: No such context found.,webdrivererror context find,2016-12-14 07:34:50,ZadaZady_twitter,test_Appium,0,0,1,0,,[28]
+211,212,From: Task: WebDriver.createSession(),task,2016-12-14 07:35:15,ZadaZady_twitter,test_Appium,0,0,1,0,,[28]
+212,213,What would be the problem here?,problem,2016-12-14 07:35:28,ZadaZady_twitter,test_Appium,0,0,1,0,,[28]
+213,214,"Hi everyone, i am trying to find a way to browse the UI tree/elements using Appium. On WebDriver i can navigate to the ""body"" element, and then use XPath ""*"" to list the immediate children of an element and in that way browse the tree.",everyone try find way browse treeelements use appium webdriver navigate body element use xpath list immediate children element way browse tree,2016-12-15 06:54:55,rasmus-toftdahl-olesen,test_Appium,0,0,0,0,"appium use, browse way, children immediate",[]
+214,215,"Hi guys , Can any one tel me how to check contacts are in sorted order using Appium/Selenium",guy one tel check contact sort order use appiumselenium,2016-12-16 05:34:15,Divya-tfw,test_Appium,0,0,0,0,"appium use, one tel, r u",[29]
+215,216,"Hi guys , Can any one tel me how to check contacts are in sorted order using Appium/Selenium",guy one tel check contact sort order use appiumselenium,2016-12-16 05:34:15,Divya-tfw,test_Appium,0,0,1,0,"appium use, one tel, r u","[29, 30]"
+216,217,has anyone figured out scrolling in ios on appium 1.6.3,anyone figure scroll ios appium,2016-12-16 06:02:23,hardik-d,test_Appium,0,0,0,0,"appium ios, i scroll",[31]
+217,218,i used to use touch_actions long_press method which is not yet implemented,use use touchactions longpress method yet implement,2016-12-16 06:02:39,hardik-d,test_Appium,0,0,1,0,"to use, touch use, touchaction use",[31]
+218,219,"for now Appium::TouchAction.new.press(x: 100, y: 200).move_to(x: 100, y: -200).release.perform seems to be working to scroll up but if someone has a better way let me know",appium movetox seem work scroll better way let know,2016-12-16 06:07:21,hardik-d,test_Appium,0,0,1,0,"better way, let way",[31]
+219,220,Divya-tfw: : First u have to collect all the contacts in an ArrayList. and compare if that array list is sorted.,divyatfw first collect contact arraylist compare array list sort,2016-12-16 07:03:49,pramodnaik,test_Appium,1,0,0,1,"a are, array list","[30, 32]"
+220,221,Divya-tfw: : First u have to collect all the contacts in an ArrayList. and compare if that array list is sorted.,divyatfw first collect contact arraylist compare array list sort,2016-12-16 07:03:49,pramodnaik,test_Appium,0,0,1,1,"a are, array list","[30, 32]"
+221,222,Divya-tfw: : Example for checking sortedboolean checkSorting(ArrayList< String > arraylist){boolean isSorted=true;for(int i=1;i < arraylist.size();i++){if(arraylist.get(i-1).compareTo(arraylist.get(i)) > 0){isSorted= false;break;}}return isSorted;},divyatfw example check sortedboolean checksortingarraylist arraylistboolean issortedtrueforint issorted falsebreakreturn issorted,2016-12-16 07:04:11,pramodnaik,test_Appium,0,0,1,1,"array list, check e","[30, 32]"
+222,223,Divya-tfw: : Example for checking sortedboolean checkSorting(ArrayList< String > arraylist){boolean isSorted=true;for(int i=1;i < arraylist.size();i++){if(arraylist.get(i-1).compareTo(arraylist.get(i)) > 0){isSorted= false;break;}}return isSorted;},divyatfw example check sortedboolean checksortingarraylist arraylistboolean issortedtrueforint issorted falsebreakreturn issorted,2016-12-16 07:04:11,pramodnaik,test_Appium,0,0,1,1,"array list, check e","[30, 32]"
+223,224,pramodnaik: : ok will try,pramodnaik try,2016-12-16 12:34:50,Divya-tfw,test_Appium,1,0,0,0,pramodnaik try,[30]
+224,225,pramodnaik: : ok will try,pramodnaik try,2016-12-16 12:34:50,Divya-tfw,test_Appium,0,0,1,0,pramodnaik try,[30]
+225,226,"To start the Appium server, the command is ""appium"" but what is the command to run a file against the server, ""something filename.js""? I'm a newbie to Appium",start appium server command appium command run file server something newbie appium,2016-12-16 14:00:32,lionel-pushios,test_Appium,0,0,0,0,"a newbie, a start, and app, and appium, and run, appium server, appium start",[32]
+226,227,PeterGolf: hi all!Does any one have problems with finding elements in ios application with ios driver?appium version 1.6.3i can see element on screen of devicebut when i'm making getPageSource - cant find them,petergolf alldoes one problems find elements ios application ios driverappium version see element screen devicebut make getpagesource find,2016-12-16 15:17:51,PeterGolf,test_Appium,0,0,0,0,"appium version, application ios, driver ios, e fin, element find, element see, ios on, on see",[]
+227,228,lionel-pushios: you'll want to make requests to the appium server. The easiest way to do this is with a webdriver client.,lionelpushios youll want make request appium server easiest way webdriver client,2016-12-16 21:57:31,kidmillions,test_Appium,1,0,0,0,"appium server, client webdriver, easiest way",[32]
+228,229,"thanks@kidmillionsno I was having trouble to actually run a JavaScript file to utilize Apple's XCUITest framework, but I realize now I needed the xcuitest-driver and then I can just use the Mocha commands",trouble actually run javascript file utilize apples xcuitest framework realize need xcuitestdriver use mocha command,2016-12-16 22:23:25,lionel-pushios,test_Appium,1,0,0,0,"actually run, r u, r y",[32]
+229,230,Hi any one can tell what are the mandatory capabilities for iOS to run on real device?,one tell mandatory capabilities ios run real device,2016-12-19 11:13:50,shabinmohan,test_Appium,0,0,0,0,"capabilities mandatory, device real, one tel",[33]
+230,231,"you cannot test iOS app using windows, just on mac",test ios app use windows mac,2016-12-19 11:42:25,RatkoD,test_Appium,0,0,0,0,,[34]
+231,232,you cannot do anything on Win for a iOS app,anything win ios app,2016-12-19 11:42:43,RatkoD,test_Appium,0,0,1,0,in ios,[34]
+232,233,Exactly !,exactly,2016-12-19 11:42:58,shabinmohan,test_Appium,0,0,1,0,,"[33, 35]"
+233,234,you cannot develop on other then Mac,develop mac,2016-12-19 11:43:04,RatkoD,test_Appium,0,0,1,0,,[34]
+234,235,Hi I am gettting Test Failed while trying to launch the app,gettting test fail try launch app,2016-12-19 13:30:57,shabinmohan,test_Appium,0,0,1,1,"a launch, app launch","[35, 36]"
+235,236,can any one help to fix,one help fix,2016-12-19 13:31:06,shabinmohan,test_Appium,0,0,1,1,help one,"[35, 36]"
+236,237,below are the appium logs,appium log,2016-12-19 13:31:20,shabinmohan,test_Appium,0,0,1,1,appium log,"[35, 36]"
+237,238,[Appium] Appium REST http interface listener started on 0.0.0.0:4723 [<-CODE->],appium appium rest http interface listener start,2016-12-19 13:31:21,shabinmohan,test_Appium,0,0,1,1,"http interface, interface listener","[35, 36]"
+238,239,Sorry please find below full logs ignore the previous one,sorry please find full log ignore previous one,2016-12-19 13:35:02,shabinmohan,test_Appium,0,0,1,0,"e fin, find please, one previous",[35]
+239,240,[Appium] Appium REST http interface listener started on 0.0.0.0:4723[<-CODE->],appium appium rest http interface listener start,2016-12-19 13:35:03,shabinmohan,test_Appium,0,0,1,0,"http interface, interface listener",[35]
+240,241,Does anyone know how I can run my automation test on more then one device at one time? I am using Appium 1.5.x and Mocha.,anyone know run automation test one device one time use appium mocha,2016-12-20 18:25:29,blueice349,test_Appium,0,0,0,0,"a run, anyone know, appium use, automation test, device on, device one, know one, on test, one time",[36]
+241,242,blueice349: You can try the AppiumTestDistribution framework from@saikrishna321 [<-LINK->],blueice try appiumtestdistribution framework,2016-12-21 09:09:16,RatkoD,test_Appium,1,0,0,0,a try,"[36, 37]"
+242,243,"it works fine with android devices and ios until 9.x version, but I have troubles making it work with iOS 10, Appium 1.6.x and xCode 8.2",work fine android devices ios version trouble make work ios appium xcode,2016-12-21 09:11:02,RatkoD,test_Appium,0,0,1,0,"android device, android devices, appium ios, devices i, fine work, i work","[36, 38]"
+243,244,is anyone else facing this issue: [<-ISSUE->],anyone else face issue,2016-12-22 20:00:45,hardik-d,test_Appium,0,0,0,0,anyone else,[]
+244,245,Hello. Anyone know when Appium will support Xcode 8.2?,hello anyone know appium support xcode,2016-12-22 22:13:33,jfricker,test_Appium,0,0,0,0,"anyone know, appium now, appium support, know one",[]
+245,246,it supports,support,2016-12-22 23:14:17,RatkoD,test_Appium,0,0,1,0,,"[37, 38]"
+246,247,install appium 1.6.3,install appium,2016-12-22 23:14:28,RatkoD,test_Appium,0,0,1,0,appium install,"[37, 38]"
+247,248,"I would like to know if there is something else on the market. I've asked previously in this chat about Hive CI, but there was no response.",like know something else market ive ask previously chat hive response,2016-12-23 12:06:36,RatkoD,test_Appium,0,0,1,0,else something,"[37, 38]"
+248,249,RatkoD: Yes,ratkod yes,2016-12-23 12:09:09,shabinmohan,test_Appium,1,0,0,0,,"[37, 38]"
+249,250,RatkoD: thank you!,ratkod thank,2016-12-23 15:09:31,jfricker,test_Appium,1,0,0,0,,"[37, 38]"
+250,251,"I just downloaded the sample code for nodejs and ran the simple test, and got an error.Filed an issue 12 days ago here: appium/appium#7510I'm wondering if there's anything I'm missing?or should I just wait for someone to attend the issue on GH?",download sample code nodejs run simple test get issue days ago appiumappiumim wonder theres anything missingor wait attend issue,2016-12-24 16:18:56,goldylucks,test_Appium,0,0,0,0,"a it, ago days, at it, code sample, get i, simple test",[39]
+251,252,"goldylucks: i saw your log, could please post your code",goldylucks saw log please post code,2016-12-24 16:36:33,mgmanikandan87,test_Appium,1,0,0,0,please post,[39]
+252,253,thanks@mgmanikandan87the code is posted in the issue,code post issue,2016-12-24 16:53:56,goldylucks,test_Appium,1,0,0,0,,[39]
+253,254,u want me to copy paste all of it here?,want copy paste,2016-12-24 16:54:18,goldylucks,test_Appium,0,0,1,0,copy paste,[39]
+254,255,will b quite long ...,quite long,2016-12-24 16:54:22,goldylucks,test_Appium,0,0,1,0,long quite,[39]
+255,256,is this android ?,android,2016-12-24 16:57:23,mgmanikandan87,test_Appium,0,0,1,0,,[39]
+256,257,right ?,right,2016-12-24 16:57:26,mgmanikandan87,test_Appium,0,0,1,0,,[39]
+257,258,"mgmanikandan87: yes, ATM it's only android",mgmanikandan yes atm android,2016-12-24 17:07:58,goldylucks,test_Appium,1,0,0,0,,[39]
+258,259,"goldylucks: try adding appActivity and appWaitActivity capabilities, appium is clearly giving up after few tries to find element. What is happening during actual test run? is the app launched correctly?",goldylucks try add appactivity appwaitactivity capabilities appium clearly give try find element happen actual test run app launch correctly,2016-12-25 03:37:32,hardik-d,test_Appium,1,0,0,0,"a run, a try, actual test, app launch, element find, run test",[39]
+259,260,I'm evaluating testing solutions and Appium seems great but there are a few things I haven't been able to figure out if it can do:,evaluate test solutions appium seem great things havent able figure,2016-12-26 17:36:16,mbuckbee,test_Appium,0,0,0,0,appium see,[40]
+260,261,"Can any app in an emulator be scripted, or does it have to be one that you're developing yourself?",app emulator script one youre develop,2016-12-26 17:36:49,mbuckbee,test_Appium,0,0,1,0,,[40]
+261,262,"Specifially, I'm trying to build a solution for testing how emails display in different email clients and would love to have an automated way to test against Apple Mail on iOS devices.",specifially try build solution test email display different email clients love automate way test apple mail ios devices,2016-12-26 17:37:52,mbuckbee,test_Appium,0,0,1,0,"clients email, different email, on test",[40]
+262,263,,,2016-12-26 18:09:15,danhdungads,test_Appium,0,0,0,0,,[]
+263,264,"mbuckbee: you can interact only with your app, no other app can be used during the test.",mbuckbee interact app app use test,2016-12-26 19:16:47,RatkoD,test_Appium,1,0,0,0,,[40]
+264,265,RatkoD: I'm thinking that's some app restriction limitation and not specific to appium?,ratkod think thats app restriction limitation specific appium,2016-12-26 19:20:10,mbuckbee,test_Appium,1,0,0,0,"app restriction, limitation restriction, that think",[40]
+265,266,the limitations come from apple,limitations come apple,2016-12-26 19:52:03,RatkoD,test_Appium,0,0,1,0,"a me, come limitations",[40]
+266,267,"Yeah, that's what I figured.",thats figure,2016-12-26 19:52:13,mbuckbee,test_Appium,0,0,1,0,,[40]
+267,268,"So, to do this I'd either need to do click/swipe from an OSX mac or jailbreak (which I was trying to avoid).",either need clickswipe osx mac jailbreak try avoid,2016-12-26 19:56:48,mbuckbee,test_Appium,0,0,1,0,"a try, either need",[40]
+268,269,"I think there is no cure for this, it's simple, apple would not allow you to interact with other apps",think cure simple apple allow interact apps,2016-12-26 20:14:05,RatkoD,test_Appium,0,0,1,1,,"[40, 41]"
+269,270,not iven with clicking on coordinates,iven click coordinate,2016-12-26 20:14:16,RatkoD,test_Appium,0,0,1,1,,"[40, 41]"
+270,271,or anything,anything,2016-12-26 20:14:19,RatkoD,test_Appium,0,0,1,1,,"[40, 41]"
+271,272,I don't know how jailbraking will help here,dont know jailbraking help,2016-12-26 20:14:32,RatkoD,test_Appium,0,0,1,1,dont know,"[40, 41]"
+272,273,RatkoD: I found a couple listed solutions that were:,ratkod find couple list solutions,2016-12-26 20:20:21,mbuckbee,test_Appium,1,0,0,1,,"[40, 41]"
+273,274,Jailbreak the device,jailbreak device,2016-12-26 20:20:29,mbuckbee,test_Appium,0,0,1,1,,"[40, 41]"
+274,275,Install a VNC client on the device,install vnc client device,2016-12-26 20:20:35,mbuckbee,test_Appium,0,0,1,1,,"[40, 41]"
+275,276,User our library to remotely run commands against the device,user library remotely run command device,2016-12-26 20:20:54,mbuckbee,test_Appium,0,0,1,1,"and device, r y, remotely run","[40, 41]"
+276,277,mbuckbee: also does not know how to do numbering in Gitter apparently,mbuckbee know number gitter apparently,2016-12-26 20:21:21,mbuckbee,test_Appium,0,0,1,0,,[40]
+277,278,"Hello All,",hello,2016-12-27 05:19:20,ajit-jadhav,test_Appium,0,0,0,0,,[41]
+278,279,Is there any best tool to inspect native android UI ?,best tool inspect native android,2016-12-27 05:19:40,ajit-jadhav,test_Appium,0,0,1,0,"a native, an native, android native, best tool, inspect native",[41]
+279,280,other than UI Automator viewer and Appium inspector.,automator viewer appium inspector,2016-12-27 05:19:57,ajit-jadhav,test_Appium,0,0,1,0,"appium in, i m",[41]
+280,281,"Hi guys, wanted to know how to download appium 1.6 dmg file . Please help",guy want know download appium dmg file please help,2016-12-27 08:50:04,AbhilashC,test_Appium,0,0,0,0,"a download, appium download, dmg file, help please",[]
+281,282,"I'm using appium and the ms WinAppDriver to ui test my universal windows apps. How can I register my apps on my build server (win10) so on the buildserver, things are getting registered in a way, so that appium can run it?",use appium winappdriver test universal windows apps register apps build server win buildserver things get register way appium run,2016-12-27 11:47:07,mterwoord,test_Appium,0,0,0,0,"a way, appium run, appium use, apps windows, build server, universal windows",[]
+282,283,good morning,good morning,2016-12-28 12:25:44,vfennerac,test_Appium,0,0,0,1,good morning,[42]
+283,284,I am getting this error running appium: [XCUITest] Error: xcodebuild failed with code 65,get error run appium xcuitest error xcodebuild fail code,2016-12-28 12:26:30,vfennerac,test_Appium,0,0,1,1,"a run, appium run",[42]
+284,285,"[Xcode] Signing for ""WebDriverAgentRunner"" requires a development team. Select a development team in the project editor.Code signing is required for product type 'UI Testing Bundle' in SDK 'iOS 10.2'",xcode sign webdriveragentrunner require development team select development team project sign require product type test bundle sdk ios,2016-12-28 12:26:36,vfennerac,test_Appium,0,0,1,1,"development team, product type",[42]
+285,286,already tried this solution: [<-LINK->],already try solution,2016-12-28 12:26:51,vfennerac,test_Appium,0,0,1,1,,[42]
+286,287,Hi @ vfennerac,vfennerac,2016-12-28 12:27:39,Dineshk1,test_Appium,1,0,0,0,,[42]
+287,288,vfennerac: : I believe [<-LINK->] this would help,vfennerac believe help,2016-12-28 12:28:13,Dineshk1,test_Appium,0,0,1,0,,[42]
+288,289,for real devices,real devices,2016-12-28 12:28:18,Dineshk1,test_Appium,0,0,1,0,"device real, devices real",[42]
+289,290,vfennerac: [<-LINK->],vfennerac,2016-12-28 12:30:03,mgmanikandan87,test_Appium,1,0,0,0,,[42]
+290,291,its kinda weird that we need team id and profile just to run browser tests,kinda weird need team profile run browser test,2016-12-28 12:30:49,vfennerac,test_Appium,0,0,1,1,"browser run, kinda weird, need team","[42, 43]"
+291,292,"thanks for the link and vid, will give it a try",thank link vid give try,2016-12-28 12:31:05,vfennerac,test_Appium,0,0,1,1,,"[42, 43]"
+292,293,what if I don't have a team do give to appium?,dont team give appium,2016-12-28 12:38:50,vfennerac,test_Appium,0,0,1,1,,"[42, 43]"
+293,294,all I want to do is automated browser testing on the iphone,want automate browser test iphone,2016-12-28 12:39:05,vfennerac,test_Appium,0,0,1,1,,"[42, 43]"
+294,295,"Well, you should ask Apple for the logic. Their idea is that you need to pay for a dev account, you cannot develop without dev account, since you develop, you need to test the app, so for testing you need dev account.",well ask apple logic idea need pay dev account develop without dev account since develop need test app test need dev account,2016-12-28 12:53:33,RatkoD,test_Appium,0,0,0,0,"a dev, a need, account dev, as well, dev need, dev without, develop without",[]
+295,296,"String arr[]={""x"",""y"",""z""};String arr1[]={""321"",""324"",""123""}; [<-CODE->]",string arrx zstring arr,2016-12-29 08:51:16,prabudakshan,test_Appium,0,0,0,1,,[43]
+296,297,Above is my code when the app is logged in successfully on the when the loop runs on third time im getting An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information),code app log successfully loop run third time get element locate page use give search parameters warn server provide stacktrace information,2016-12-29 08:52:11,prabudakshan,test_Appium,0,0,1,1,"information stacktrace, parameters search, third time",[43]
+297,298,Instead of showing logged in successfully,instead show log successfully,2016-12-29 08:52:22,prabudakshan,test_Appium,0,0,1,1,,[43]
+298,299,Can some one help where did i missed something?,one help miss something,2016-12-29 08:52:41,prabudakshan,test_Appium,0,0,1,1,"help m, help one",[43]
+299,300,"app is successfully logged in but im getting this error message.."" An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)""",app successfully log get error message element locate page use give search parameters warn server provide stacktrace information,2016-12-29 08:54:27,prabudakshan,test_Appium,0,0,1,0,"app successfully, error message, information stacktrace, me r, parameters search",[43]
+300,301,prabudakshan: appium log ?,prabudakshan appium log,2016-12-29 09:05:56,mgmanikandan87,test_Appium,1,0,0,0,"an appium, appium log",[43]
+301,302,"Don't work driver.findElement(By.XPATH,""//AppiumAUT/XCUIElementTypeApplication"") for Appium 1.6.3? [iOS real device]",dont work appium ios real device,2016-12-29 11:30:40,bakiko,test_Appium,0,0,0,0,"appium ios, device real, i m",[44]
+302,303,"not working with driver.findElement(By.xpath(""//XCUIElementTypeApplication""))",work,2016-12-29 13:09:09,bakiko,test_Appium,0,0,1,0,,[44]
+303,304,bakiko: //XCUIElementTypeApplication this is not full xpath,bakiko xcuielementtypeapplication full xpath,2016-12-29 13:11:19,mgmanikandan87,test_Appium,1,0,0,1,full xpath,"[43, 44, 45]"
+304,305,its just applicaiton window,applicaiton window,2016-12-29 13:11:27,mgmanikandan87,test_Appium,0,0,1,1,applicaiton window,"[43, 44, 45]"
+305,306,level,level,2016-12-29 13:11:29,mgmanikandan87,test_Appium,0,0,1,1,,"[43, 44, 45]"
+306,307,you need to give exact element,need give exact element,2016-12-29 13:11:38,mgmanikandan87,test_Appium,0,0,1,1,"element exact, exact give","[43, 44, 45]"
+307,308,mgmanikandan87: @RatkoDany iOS in built to hit enter or back button..similar to Androidkey method in android,mgmanikandan ios build hit enter back buttonsimilar androidkey method android,2016-12-29 13:13:53,sourcebits-siddesh,test_Appium,1,0,0,0,"back button, enter hit","[43, 44]"
+308,309,?,,2016-12-29 13:13:55,sourcebits-siddesh,test_Appium,0,0,1,0,,"[43, 44]"
+309,310,inbuilt methods?,inbuilt methods,2016-12-29 13:14:09,sourcebits-siddesh,test_Appium,0,0,1,0,inbuilt methods,"[43, 44]"
+310,311,"mgmanikandan87: thank you. I have tried this ""driver.findElement(By.xpath(""//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeOther[3]/XCUIElementTypeOther""))"" and it is working. Is it possible to use this format for find the element xpath (driver.findElement(By.xpath(""//[0]/[0]/[0]/[0]/[0]/[0]/[0]/[0]/[0]/[3]/[0])?",mgmanikandan thank try work possible use format find element xpath,2016-12-29 13:35:08,bakiko,test_Appium,1,0,0,0,"element find, element xpath, try work","[43, 44]"
+311,312,//XCUIElementTypeNavigationBar/XCUIElementTypeOther[3]/XCUIElementTypeOther,xcuielementtypenavigationbarxcuielementtypeotherxcuielementtypeother,2016-12-29 13:35:56,mgmanikandan87,test_Appium,0,0,1,0,,"[43, 44]"
+312,313,i think this should work,think work,2016-12-29 13:36:04,mgmanikandan87,test_Appium,0,0,1,0,,"[43, 44]"
+313,314,mgmanikandan87:,mgmanikandan,2016-12-29 13:36:11,sourcebits-siddesh,test_Appium,1,0,0,0,,"[43, 44]"
+314,315,any suggestion for me,suggestion,2016-12-29 13:36:18,sourcebits-siddesh,test_Appium,0,0,1,0,,"[43, 44]"
+315,316,?,,2016-12-29 13:36:20,sourcebits-siddesh,test_Appium,0,0,1,0,,"[43, 44]"
+316,317,driver.nagivate().back();,,2016-12-29 13:36:57,mgmanikandan87,test_Appium,0,0,1,0,,"[43, 44]"
+317,318,this should work,work,2016-12-29 13:37:01,mgmanikandan87,test_Appium,0,0,1,0,,"[43, 44]"
+318,319,for hitting the enter from virtual keypad,hit enter virtual keypad,2016-12-29 13:38:14,sourcebits-siddesh,test_Appium,0,0,1,0,"enter hit, keypad virtual","[43, 44]"
+319,320,?,,2016-12-29 13:38:17,sourcebits-siddesh,test_Appium,0,0,1,0,,"[43, 44]"
+320,321,.submit() ?,submit,2016-12-29 13:38:33,shabinmohan,test_Appium,0,0,0,0,,[45]
+321,322,will work i guss,work guss,2016-12-29 13:38:48,shabinmohan,test_Appium,0,0,1,0,,"[45, 46]"
+322,323,hmm,hmm,2016-12-29 13:39:39,sourcebits-siddesh,test_Appium,0,0,1,1,,"[43, 46]"
+323,324,let me check but not sure about,let check sure,2016-12-29 13:39:48,sourcebits-siddesh,test_Appium,0,0,1,1,,"[43, 46]"
+324,325,it,,2016-12-29 13:39:50,sourcebits-siddesh,test_Appium,0,0,1,1,,"[43, 46]"
+325,326,yes,yes,2016-12-29 13:39:55,shabinmohan,test_Appium,0,0,1,0,,[46]
+326,327,and ScrollTo() is removed from Java-client 4.02,scrollto remove javaclient,2016-12-29 13:40:11,sourcebits-siddesh,test_Appium,0,0,1,1,,"[43, 46]"
+327,328,jar,jar,2016-12-29 13:40:13,sourcebits-siddesh,test_Appium,0,0,1,1,,"[43, 46]"
+328,329,?,,2016-12-29 13:40:16,sourcebits-siddesh,test_Appium,0,0,1,0,,"[43, 46]"
+329,330,oh,,2016-12-29 13:40:33,mgmanikandan87,test_Appium,0,0,1,0,,[43]
+330,331,ok,,2016-12-29 13:40:36,mgmanikandan87,test_Appium,0,0,1,0,,[43]
+331,332,otherway to scroll any idea>,otherway scroll idea,2016-12-29 13:41:29,sourcebits-siddesh,test_Appium,0,0,1,0,i scroll,[43]
+332,333,?,,2016-12-29 13:41:31,sourcebits-siddesh,test_Appium,0,0,1,0,,[43]
+333,334,even,even,2016-12-29 13:41:33,mgmanikandan87,test_Appium,0,0,1,0,,[43]
+334,335,you can do this,,2016-12-29 13:41:38,mgmanikandan87,test_Appium,0,0,1,0,,[43]
+335,336,"鈥淺n""",,2016-12-29 13:42:10,mgmanikandan87,test_Appium,0,0,1,0,,[43]
+336,337,fro scrolling,fro scroll,2016-12-29 13:42:25,sourcebits-siddesh,test_Appium,0,0,1,0,,[43]
+337,338,?,,2016-12-29 13:42:26,sourcebits-siddesh,test_Appium,0,0,1,0,,[43]
+338,339,no,,2016-12-29 13:42:31,mgmanikandan87,test_Appium,0,0,1,0,,"[43, 47]"
+339,340,it is for enter ?,enter,2016-12-29 13:42:34,shabinmohan,test_Appium,0,0,0,0,,[48]
+340,341,swipe down :),swipe,2016-12-29 13:42:36,tfcardoso,test_Appium,0,0,0,0,,[]
+341,342,yes,yes,2016-12-29 13:42:38,mgmanikandan87,test_Appium,0,0,1,0,,[47]
+342,343,ok...,,2016-12-29 13:42:54,shabinmohan,test_Appium,0,0,1,0,,[48]
+343,344,instead of scroll I am usig swipe,instead scroll usig swipe,2016-12-29 13:43:28,shabinmohan,test_Appium,0,0,1,0,"scroll u, swipe usig",[48]
+344,345,swiping is the only option available,swipe option available,2016-12-29 13:43:47,prabudakshan,test_Appium,0,0,0,0,"a on, available on, available option",[]
+345,346,hmmm,hmmm,2016-12-29 13:44:05,sourcebits-siddesh,test_Appium,0,0,0,0,,[49]
+346,347,if any of you know the beter scroll option in latest appium please suggest,know beter scroll option latest appium please suggest,2016-12-29 13:44:05,shabinmohan,test_Appium,0,0,1,0,"appium latest, appium please, appium test, beter scroll, option scroll, please suggest",[48]
+347,348,yeah,,2016-12-29 13:44:13,sourcebits-siddesh,test_Appium,0,0,1,0,,[49]
+348,349,mgmanikandan87: thank you. It is working!!!!,mgmanikandan thank work,2016-12-29 13:44:23,bakiko,test_Appium,0,0,0,0,,[]
+349,350,cool,cool,2016-12-29 13:44:56,mgmanikandan87,test_Appium,0,0,0,1,,[50]
+350,351,//XCUIElementTypeOther[3]/XCUIElementTypeOther,xcuielementtypeotherxcuielementtypeother,2016-12-29 13:45:07,mgmanikandan87,test_Appium,0,0,1,1,,[50]
+351,352,even this should work,even work,2016-12-29 13:45:18,mgmanikandan87,test_Appium,0,0,1,1,,[50]
+352,353,try it,try,2016-12-29 13:45:20,mgmanikandan87,test_Appium,0,0,1,1,,[50]
+353,354,"MobileElement ab=(MobileElement)dr.findElement(By.id("""")); [<-CODE->]",mobileelement abmobileelement,2016-12-29 13:45:50,prabudakshan,test_Appium,0,0,0,0,,[50]
+354,355,shabinmohan: this works a little bit you can try,shabinmohan work little bite try,2016-12-29 13:46:06,prabudakshan,test_Appium,0,0,1,0,bit little,[50]
+355,356,prabudakshan: Sure let me try this one thanks,prabudakshan sure let try one thank,2016-12-29 13:46:24,shabinmohan,test_Appium,1,0,0,0,,[50]
+356,357,WC,,2016-12-29 13:46:32,prabudakshan,test_Appium,0,0,1,0,,[50]
+357,358,Do not use driver.swipe. It was deprecated in Java 5.0,use deprecate java,2016-12-29 13:46:44,tfcardoso,test_Appium,0,0,0,0,,[51]
+358,359,use TouchAction class,use touchaction class,2016-12-29 13:46:53,tfcardoso,test_Appium,0,0,1,0,"class touchaction, to use, touch use, touchaction use",[51]
+359,360,tfcardoso: for swipe,tfcardoso swipe,2016-12-29 14:01:48,sourcebits-siddesh,test_Appium,1,0,0,0,,[51]
+360,361,?\,,2016-12-29 14:01:52,sourcebits-siddesh,test_Appium,0,0,1,0,,[51]
+361,362,yes... you can do press().waitaction().moveTo().release().perform() p.e.,yes presswaitactionmovetoreleaseperform,2016-12-29 14:02:49,tfcardoso,test_Appium,0,0,1,0,,[51]
+362,363,"I still didn't adapt my code to it, but I'll have to change all the swipe, tap, zoom, pinch, etc. that I have",still didnt adapt code change swipe tap zoom pinch etc,2016-12-29 14:03:32,tfcardoso,test_Appium,0,0,1,0,did still,[51]
+363,364,"set WebDriverWait timeout as 5s,why not give an exception?",set webdriverwait timeout give exception,2016-12-30 02:00:22,Pastel001,test_Appium,0,0,0,0,,[52]
+364,365,[<-LINK->],,2016-12-30 02:00:46,Pastel001,test_Appium,0,0,1,0,,[52]
+365,366,does anyone know how to turn wifi off on iOS and Android? using appium 1.5.3 and Mocha ( javascript ),anyone know turn wifi ios android use appium mocha javascript,2016-12-30 02:05:28,blueice349,test_Appium,0,0,0,0,"and ios, anyone know, appium use, know one, turn wifi",[53]
+366,367,"Hi, there, anyone who use python nosetests framework?",anyone use python nosetests framework,2016-12-30 10:25:17,ReaLau,test_Appium,0,0,0,0,"framework nosetests, nosetests python, python use",[]
+367,368,Any of you have taken CMAP Mobile App Test Automation Certification ?,take cmap mobile app test automation certification,2016-12-30 10:36:08,shabinmohan,test_Appium,0,0,0,0,automation test,[54]
+368,369,anyone know why appium 1.5.3 will not work with my android emulator? It worked prior to 1.5.3,anyone know appium work android emulator work prior,2016-12-30 18:24:58,blueice349,test_Appium,0,0,1,0,"android emulator, anyone know, appium now, know one",[53]
+369,370,blueice349: app is nnot launching ?,blueice app nnot launch,2016-12-31 07:52:32,shabinmohan,test_Appium,1,0,0,0,launch not,"[53, 54]"
+370,371,yes its not I have been trying to firgure out what is wrong,yes try firgure wrong,2017-01-02 04:40:27,blueice349,test_Appium,0,0,1,0,,[53]
+371,372,it works on Android Device,work android device,2017-01-02 04:40:32,blueice349,test_Appium,0,0,1,0,android device,[53]
+372,373,Iam facing an issue to locate an //XCUIElementTypeStaticText elementI tried with different atribute values in relative xpath still not able to identify this elementwhen i printed the pagesourceI am not able to see this element in the xml filesame time when inspecting through Appium-iOS-Inspector I am getting xpath for the same (which is not working)any of you faced any similer kind of issue ?,iam face issue locate xcuielementtypestatictext elementi try different atribute value relative xpath still able identify elementwhen print pagesourcei able see element xml filesame time inspect appiumiosinspector get xpath workingany face similer kind issue,2017-01-02 04:58:02,shabinmohan,test_Appium,0,0,1,0,"a different, atribute different, element see, filesame time, filesame xml, in me, kind similer, relative xpath, still xpath",[53]
+373,374,"hey everyone, will Appium 1.6.3 work with XCode 7.3.1? Or do I need to upgrade to XCode8?",everyone appium work xcode need upgrade xcode,2017-01-03 13:29:31,mvanevery,test_Appium,0,0,0,0,,[55]
+374,375,it should,,2017-01-04 00:49:18,hardik-d,test_Appium,0,0,0,0,,[56]
+375,376,awesome. thank you,awesome thank,2017-01-04 00:49:39,mvanevery,test_Appium,0,0,1,0,,"[55, 57]"
+376,377,don't use automationName XCUITest,dont use automationname xcuitest,2017-01-04 00:50:02,hardik-d,test_Appium,0,0,1,0,,"[56, 58]"
+377,378,in your caps,cap,2017-01-04 00:50:09,hardik-d,test_Appium,0,0,1,0,,"[56, 59]"
+378,379,is that only for Xcode 8?,xcode,2017-01-04 00:50:46,mvanevery,test_Appium,0,0,1,0,,"[57, 60]"
+379,380,yes,yes,2017-01-04 00:58:11,hardik-d,test_Appium,0,0,1,0,,"[58, 59]"
+380,381,awesome. I will remember that. thank you,awesome remember thank,2017-01-04 01:03:41,mvanevery,test_Appium,0,0,1,0,me r,[60]
+381,382,Any of you know what are the check list we have to go through before start iOS automation (mainly for inspecting elements) to find out nothing is missed or not followed proper development standards to name each and every element in app,know check list start ios automation mainly inspect elements find nothing miss follow proper development standards name every element app,2017-01-04 11:00:26,shabinmohan,test_Appium,0,0,0,0,"check list, development proper, development standards, element every, i start",[61]
+382,383,from developers side,developers side,2017-01-04 11:01:28,shabinmohan,test_Appium,0,0,1,0,developers side,[61]
+383,384,hi :),,2017-01-04 12:47:13,guysegal,test_Appium,0,0,0,1,,[62]
+384,385,I'm using appium 1.6 on real iOS 9 device,use appium real ios device,2017-01-04 12:47:26,guysegal,test_Appium,0,0,1,1,appium use,[62]
+385,386,and the app launch twice for the appium session,app launch twice appium session,2017-01-04 12:47:46,guysegal,test_Appium,0,0,1,1,"app launch, appium session, launch twice",[62]
+386,387,is this the expected behaviour? I only call 'launch' once in my appium client,expect behaviour call launch appium client,2017-01-04 12:48:06,guysegal,test_Appium,0,0,1,1,"a launch, app launch, appium client",[62]
+387,388,Hi guys,guy,2017-01-04 12:51:18,siddu09,test_Appium,0,0,0,1,,[62]
+388,389,Automation step:A)Upload images from Gallery into Facebook album,automation stepaupload image gallery facebook album,2017-01-04 12:51:20,siddu09,test_Appium,0,0,1,1,,[62]
+389,390,Using Mobile Browser can you guys give me some idea,use mobile browser guy give idea,2017-01-04 12:51:55,siddu09,test_Appium,0,0,1,1,,[62]
+390,391,?,,2017-01-04 12:51:58,siddu09,test_Appium,0,0,1,1,,[62]
+391,392,"Android device, chrome browser",android device chrome browser,2017-01-04 12:52:17,siddu09,test_Appium,0,0,1,0,"android device, browser chrome",[62]
+392,393,ok if noboday knows then another question: can I somehow exit a text input field?,noboday know another question somehow exit text input field,2017-01-05 13:54:51,forki,test_Appium,0,0,0,0,"another question, exit somehow, field input, in text, input text, on so, on some",[63]
+393,394,not clear@forkiwhat do you mean by exit a text input field,mean exit text input field,2017-01-05 17:38:09,hardik-d,test_Appium,1,0,0,0,"field input, in text, input text",[63]
+394,395,click on a different element or some and you will exit,click different element exit,2017-01-05 17:38:44,hardik-d,test_Appium,0,0,1,0,different element,[63]
+395,396,hiI'm using appium 1.6 on real iOS 9 deviceand the app launch twice for the appium sessionis this the expected,hiim use appium real ios deviceand app launch twice appium sessionis expect,2017-01-05 19:44:46,guysegal,test_Appium,0,0,0,0,"and app, app launch, appium session, appium sessionis, appium use, launch twice",[]
+396,397,hardik-d: yes but then I need to guess an element that has no action.,hardikd yes need guess element action,2017-01-05 20:04:51,forki,test_Appium,1,0,0,0,,[63]
+397,398,"no need to guess, click on some logo or picture or something. Not everything is clickable",need guess click logo picture something everything clickable,2017-01-05 20:20:51,RatkoD,test_Appium,0,0,0,0,,[]
+398,399,ok - not exactly what I want but seems the only way,exactly want seem way,2017-01-05 20:21:40,forki,test_Appium,0,0,1,0,,[63]
+399,400,"yes, usually you enter some text and take some other action like submit a button or verify other elements etc.",yes usually enter text take action like submit button verify elements etc,2017-01-05 20:31:41,hardik-d,test_Appium,0,0,1,0,"a take, action like, but it, elements etc, like submit",[63]
+400,401,hope you are not trying to hide the keyboard or some,hope try hide keyboard,2017-01-05 20:32:43,hardik-d,test_Appium,0,0,1,0,hide keyboard,[63]
+401,402,the problem with is that you need to click twice,problem need click twice,2017-01-05 20:41:30,forki,test_Appium,0,0,1,0,click twice,[63]
+402,403,at least when a text box has focus,least text box focus,2017-01-05 20:41:54,forki,test_Appium,0,0,1,0,box text,[63]
+403,404,is someone here using appium with react native? Does you experience difficulties getting elements by accessibility strategy? It seems that testID etc. behaves differently between iOS and Android,use appium react native experience difficulties get elements accessibility strategy seem testid etc behave differently ios android,2017-01-05 20:53:21,guysegal,test_Appium,0,0,0,0,"accessibility strategy, and ios, appium use, difficulties experience, native react",[]
+404,405,Is Appium 1.6.3 supposed to be able to run multiple Android emulators concurrently assuming I use separate Appium server instances?,appium suppose able run multiple android emulators concurrently assume use separate appium server instance,2017-01-05 22:30:47,SteffenL,test_Appium,0,0,0,1,"android emulator, appium server, concurrently emulators, instance server, multiple run, separate use",[64]
+405,406,"Whenever I try to do it, Appium just cannot seem to handle it. For example, one server instance is supposed to handle one emulator but then it telnets into the other emulator or something.",whenever try appium seem handle example one server instance suppose handle one emulator telnets emulator something,2017-01-05 22:32:27,SteffenL,test_Appium,0,0,1,1,"a try, appium see, emulator one, handle one, instance server, one server, or some, or something",[64]
+406,407,"Maybe that's not even it, but it tries to do something with both emulators.",maybe thats even try something emulators,2017-01-05 22:32:50,SteffenL,test_Appium,0,0,1,1,"maybe that, something try",[64]
+407,408,"Despite using different server ports, bootstrap ports, chromedriver ports, even UDID (whether it makes a difference or not)",despite use different server port bootstrap port chromedriver port even udid whether make difference,2017-01-05 22:33:38,SteffenL,test_Appium,0,0,1,1,"bootstrap port, different server",[64]
+408,409,Not just that. I actually cannot even reliably run tests on two different emulators sequentially.,actually even reliably run test two different emulators sequentially,2017-01-05 22:35:04,SteffenL,test_Appium,0,0,1,0,"different emulators, different two, emulators sequentially, even reliably, r y, reliably run, run test",[64]
+409,410,"Sometimes works, sometimes not",sometimes work sometimes,2017-01-05 22:35:25,SteffenL,test_Appium,0,0,1,0,,[64]
+410,411,"All these problems lead me to think that Appium is not meant to support it, even through I have read various places that one can do it anyway.",problems lead think appium mean support even read various place one anyway,2017-01-05 22:36:20,SteffenL,test_Appium,0,0,1,0,"any one, lead problems, read various",[64]
+411,412,i used to do it previously,use previously,2017-01-05 22:42:34,hardik-d,test_Appium,0,0,0,1,,[65]
+412,413,haven't tried on 1.6.3,havent try,2017-01-05 22:42:47,hardik-d,test_Appium,0,0,1,1,,[65]
+413,414,"""Despite using different server ports, bootstrap ports, chromedriver ports, even UDID (whether it makes a difference or not)"" this is must",despite use different server port bootstrap port chromedriver port even udid whether make difference must,2017-01-05 22:43:21,hardik-d,test_Appium,0,0,1,1,"bootstrap port, different server",[65]
+414,415,"$ appium -p 4754 -bp 4756 -U ""192.168.56.101:5555"" --chromedriver-port 9527// -p is appium port, -bp is bootstrap port, -U is UDID for emulators, --chromedriver-port// to get UDID for genymotion emulators, launch desired emulator then type below:$ adb devices// finally launch tests by passing in additional params$ PORT=4754 UDID=192.168.56.101:5555 PLATFORM=android rspec -b appium_test",appium chromedriverport appium port bootstrap port udid emulators chromedriverport get udid genymotion emulators launch desire emulator type adb devices finally launch test pass additional params port udid platformandroid rspec appiumtest,2017-01-05 22:47:53,hardik-d,test_Appium,0,0,1,1,"adb devices, additional params, appium port, bootstrap port, emulators genymotion, finally launch, get u",[65]
+415,416,Thanks for replying,thank reply,2017-01-05 22:47:56,SteffenL,test_Appium,0,0,0,1,,[65]
+416,417,this is what has worked before,work,2017-01-05 22:48:11,hardik-d,test_Appium,0,0,1,0,,[65]
+417,418,check the ports i am using,check port use,2017-01-05 22:48:21,hardik-d,test_Appium,0,0,1,0,,[65]
+418,419,they have to be 10# apart from one instance to another,apart one instance another,2017-01-05 22:48:38,hardik-d,test_Appium,0,0,1,0,instance one,[65]
+419,420,Hmm. Isn't -U the same as --udid ?,hmm isnt udid,2017-01-05 22:49:39,SteffenL,test_Appium,0,0,1,1,i m,[65]
+420,421,ofcourse i use UDID and PORT in my caps,ofcourse use udid port cap,2017-01-05 22:49:57,hardik-d,test_Appium,0,0,1,0,,[65]
+421,422,Sorry,sorry,2017-01-05 22:50:25,SteffenL,test_Appium,0,0,1,1,,[65]
+422,423,yes but you start your server and tell it the UDID and have to tell your test code the same,yes start server tell udid tell test code,2017-01-05 22:50:38,hardik-d,test_Appium,0,0,1,0,code test,[65]
+423,424,"When I run my tests, I have emulators with UDID ""emulator-5554"" and ""emulator-5556"". How do I know what to tell Appium?",run test emulators udid emulator emulator know tell appium,2017-01-05 22:50:57,SteffenL,test_Appium,0,0,1,0,"emulator or, run test",[65]
+424,425,Or does the parameter set the UDID in the emulator as well?,parameter set udid emulator well,2017-01-05 22:51:37,SteffenL,test_Appium,0,0,1,0,"or we, parameter set",[65]
+425,426,in ruby,ruby,2017-01-05 22:52:19,hardik-d,test_Appium,0,0,1,0,,[65]
+426,427,"Hmm. Not sure what that appium_lib is so I will check that out. Maybe I could just put the UDID inside my ""default-capabilities.json"" file?",hmm sure appiumlib check maybe put udid inside file,2017-01-05 22:55:04,SteffenL,test_Appium,0,0,1,0,did i,[65]
+427,428,so basically you have to tell your driver to talk to which port,basically tell driver talk port,2017-01-05 22:55:08,hardik-d,test_Appium,0,0,1,0,,[65]
+428,429,figure ^^ out in whatever appium client lib you are using,figure whatever appium client lib use,2017-01-05 22:55:59,hardik-d,test_Appium,0,0,1,0,"appium client, appium whatever, client lib",[65]
+429,430,you using java/python/js?,use javapythonjs,2017-01-05 22:56:16,hardik-d,test_Appium,0,0,1,0,,[65]
+430,431,Python,python,2017-01-05 22:56:21,SteffenL,test_Appium,0,0,1,0,,[65]
+431,432,I tried to set the UDID to something random so maybe that is the problem.,try set udid something random maybe problem,2017-01-05 22:56:39,SteffenL,test_Appium,0,0,1,0,random something,[65]
+432,433,k,,2017-01-05 22:56:40,hardik-d,test_Appium,0,0,1,0,,[65]
+433,434,I just do not know what/who decides what the UDID of the emulator will be.,know whatwho decide udid emulator,2017-01-05 22:57:15,SteffenL,test_Appium,0,0,1,0,know what,[65]
+434,435,If it's Appium then maybe it will work.,appium maybe work,2017-01-05 22:57:25,SteffenL,test_Appium,0,0,1,0,,[65]
+435,436,server has to know exact UDID to talk to and your driver has to know what UDID and appium port to talk to,server know exact udid talk driver know udid appium port talk,2017-01-05 22:57:36,hardik-d,test_Appium,0,0,1,0,"appium port, exact know",[65]
+436,437,UDID is unique per device/emulator,udid unique per deviceemulator,2017-01-05 22:57:57,hardik-d,test_Appium,0,0,1,0,per unique,[65]
+437,438,has nothing to do with appium,nothing appium,2017-01-05 22:58:03,hardik-d,test_Appium,0,0,1,0,,[65]
+438,439,So maybe it's set when I create the AVD then,maybe set create avd,2017-01-05 22:58:16,SteffenL,test_Appium,0,0,1,0,a create,[65]
+439,440,yes,yes,2017-01-05 22:58:21,hardik-d,test_Appium,0,0,1,0,,[65]
+440,441,Okay I will try :D,okay try,2017-01-05 22:58:22,SteffenL,test_Appium,0,0,1,0,,[65]
+441,442,if your emulator/avd is running,emulatoravd run,2017-01-05 22:58:31,hardik-d,test_Appium,0,0,1,0,,[65]
+442,443,typing adb devices should give you the UDID,type adb devices give udid,2017-01-05 22:58:44,hardik-d,test_Appium,0,0,1,0,adb devices,[65]
+443,444,"Thank you, Hardik! I will be right back. Need to switch from Windows to macOS where I do the development/testing.",thank hardik right back need switch windows macos developmenttesting,2017-01-05 22:59:51,SteffenL,test_Appium,0,0,1,1,back right,"[65, 66]"
+444,445,Hmm. I do not think it worked out the way I expected.,hmm think work way expect,2017-01-05 23:06:07,SteffenL,test_Appium,0,0,1,1,,"[65, 66]"
+445,446,"I launched one emulator (Android 5.1) andadb devicesgave me ""emulator-5554"". Then I quit the emulator and launched another one (Android 7.1). This time,adb devicesalso gave me ""emulator-5554"".",launch one emulator android andadb devicesgave emulator quit emulator launch another one android time adb devicesalso give emulator,2017-01-05 23:07:42,SteffenL,test_Appium,0,0,1,1,"a android, a launch, a me, a or, adb devices, adb devicesalso, an android, an emulator, and android, and emulator, and id, andadb devicesgave, android emulator, another one, emulator one, on other","[65, 66]"
+446,447,"If I then start up the first emulator again (Android 5.1), its UDID appears to be ""emulator-5556"".",start first emulator android udid appear emulator,2017-01-05 23:09:28,SteffenL,test_Appium,0,0,1,1,"a or, an emulator, and emulator, android emulator, emulator first","[65, 66]"
+447,448,I don't know but maybe this is a problem for Appium?,dont know maybe problem appium,2017-01-05 23:10:31,SteffenL,test_Appium,0,0,1,0,"a problem, dont know",[65]
+448,449,"I have an idea. I can try to use the avdArgs capability to pass the ""-port"" parameter to the emulator. ""Set the console port number for this emulator instance to <port>. The console port number must be an even integer between 5554 and 5584, inclusive. <port>+1 must also be free and will be reserved for adb.""",idea try use avdargs capability pass port parameter emulator set console port number emulator instance console port number must even integer inclusive must free reserve adb,2017-01-05 23:14:37,SteffenL,test_Appium,0,0,1,0,"a try, console port, emulator instance, even integer, must number, number port",[65]
+449,450,That may make the UDID consistent at least.,may make udid consistent least,2017-01-05 23:15:08,SteffenL,test_Appium,0,0,1,0,make may,[65]
+450,451,"In the end, I decided to create an issue on GitHub: [<-ISSUE->]",end decide create issue github,2017-01-06 04:41:39,SteffenL,test_Appium,0,0,1,0,,[65]
+451,452,guysegal: so testID has an observable effect for appium for you? I set it for a couple of images in my react native android app and appium pagesource didn't change at all. How is this supposed to work?,guysegal testid observable effect appium set couple image react native android app appium pagesource didnt change suppose work,2017-01-06 10:14:21,forki,test_Appium,0,0,0,0,"a android, a native, an native, android app, android native, appium pagesource, did pagesource, effect observable, image r, native react",[66]
+452,453,forki: I'm adding these properties to the component props:,forki add properties component prop,2017-01-06 11:34:31,guysegal,test_Appium,1,0,0,0,add i,[66]
+453,454,"{ testID: testID, accessible:true, accessibilityLabel:testID }",testid testid accessibletrue accessibilitylabeltestid,2017-01-06 11:34:31,guysegal,test_Appium,0,0,1,0,,[66]
+454,455,in android it works in most of the places you'll put it. I'm having difficulties to understand how it works is iOS,android work place youll put difficulties understand work ios,2017-01-06 11:35:04,guysegal,test_Appium,0,0,1,0,i work,[66]
+455,456,"a component that have these props is reachable by appium android, but not always in appium ios",component prop reachable appium android always appium ios,2017-01-06 11:35:31,guysegal,test_Appium,0,0,1,0,"a android, an appium, and appium, android appium, appium ios, i m",[66]
+456,457,I'm probably doing something wrong,probably something wrong,2017-01-06 11:35:39,guysegal,test_Appium,0,0,1,0,something wrong,[66]
+457,458,Anyone ever executed test with two android devices connected to the same appium server? I'm getting this error message:,anyone ever execute test two android devices connect appium server get error message,2017-01-06 11:35:47,guysegal,test_Appium,0,0,1,0,"android device, android devices, android two, appium server, error message, me r",[66]
+458,459,"""A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?""",new session create detail problem get session data driver type androiddriver implement get driverdata,2017-01-06 11:36:45,guysegal,test_Appium,0,0,1,0,"data session, driver type, new session",[66]
+459,460,the weird thing is that the same test with iOS & Android devices connected runs successfully,weird thing test ios android devices connect run successfully,2017-01-06 11:37:15,guysegal,test_Appium,0,0,1,0,"and ios, android device, android devices, thing weird",[66]
+460,461,guysegal: how do you find that element after that in appium? what is your selector?,guysegal find element appium selector,2017-01-06 11:43:50,forki,test_Appium,1,0,0,0,element find,[66]
+461,462,yes I am. I'm using accessibility selector,yes use accessibility selector,2017-01-06 12:00:41,guysegal,test_Appium,0,0,1,0,"accessibility selector, accessibility use",[66]
+462,463,no xpath?,xpath,2017-01-06 12:22:12,forki,test_Appium,0,0,1,0,,[66]
+463,464,I always thought testID would somehow map to a resource-id,always think testid somehow map resourceid,2017-01-06 12:22:36,forki,test_Appium,0,0,1,0,map somehow,[66]
+464,465,"is anyone using appium with node? i can't seem to getbrowser.execute('mobile:scroll', {'direction':'down'})to work ...",anyone use appium node seem directiondownto work,2017-01-06 21:09:34,reywinters03,test_Appium,0,0,0,0,"appium use, to work",[67]
+465,466,i tried using touchAction but it says it's not yet implemented,try use touchaction say yet implement,2017-01-06 21:10:16,reywinters03,test_Appium,0,0,1,0,"to use, touch use, touchaction use",[67]
+466,467,i tried using touchAction but it says it's not yet implemented,try use touchaction say yet implement,2017-01-06 21:10:16,reywinters03,test_Appium,0,0,1,0,"to use, touch use, touchaction use",[67]
+467,468,none of touch action is implemented?,none touch action implement,2017-01-06 21:44:37,hardik-d,test_Appium,0,0,0,1,action touch,[68]
+468,469,or a particular touchaction method isn't,particular touchaction method isnt,2017-01-06 21:44:49,hardik-d,test_Appium,0,0,1,1,"i method, is method, me on, method touchaction, particular touchaction",[68]
+469,470,i don't use node js with appium but use ruby instead,dont use node appium use ruby instead,2017-01-06 21:45:16,hardik-d,test_Appium,0,0,1,1,"appium use, in ruby, instead ruby, node use, ruby use",[68]
+470,471,and always use touchaction class for scrolling,always use touchaction class scroll,2017-01-06 21:45:44,hardik-d,test_Appium,0,0,1,1,"always use, class touchaction, to use, touch use, touchaction use",[68]
+471,472,i tried [<-CODE->],try,2017-01-06 21:59:54,reywinters03,test_Appium,0,0,0,0,,[69]
+472,473,i get an error saying not yet implemented,get error say yet implement,2017-01-06 22:00:05,reywinters03,test_Appium,0,0,1,0,,[69]
+473,474,and then when i tried using mobile: scroll i'm gettingUnexpected error in -[UIAScrollView_,try use mobile scroll gettingunexpected error uiascrollview,2017-01-06 22:10:34,reywinters03,test_Appium,0,0,1,0,"get scroll, r u",[69]
+474,475,"Appium::TouchAction.new.press(x: 100, y: 200).move_to(x: 100, y: -200).release.perform ruby code works for me",appium movetox ruby code work,2017-01-06 23:04:05,hardik-d,test_Appium,0,0,1,1,"code ruby, code wo","[68, 70]"
+475,476,on ios,ios,2017-01-06 23:04:10,hardik-d,test_Appium,0,0,1,1,,"[68, 70]"
+476,477,follow [<-LINK->],follow,2017-01-06 23:06:14,hardik-d,test_Appium,0,0,1,1,,"[68, 70]"
+477,478,for node js,node,2017-01-06 23:06:21,hardik-d,test_Appium,0,0,1,1,,"[68, 70]"
+478,479,Hi All.. How to get the placeholder text in textbox?,get placeholder text textbox,2017-01-10 05:17:25,prabudakshan,test_Appium,0,0,0,0,placeholder text,[]
+479,480,"hi any of you know what is ""p"" & ""d"" represents in api request ?",know represent api request,2017-01-10 17:10:24,shabinmohan,test_Appium,0,0,0,0,api request,[]
+480,481,hi,,2017-01-10 21:33:09,priyanka-agarwal,test_Appium,0,0,0,0,,[70]
+481,482,I am using appium 1.6 beta version to automate an native app..in between the app redirects to web view..can anybody please help how to automate this ..do we need to do context switch,use appium beta version automate native appin app redirect web viewcan anybody please help automate need context switch,2017-01-10 21:34:32,priyanka-agarwal,test_Appium,0,0,1,0,"a in, a native, a on, any can, anybody can, anybody please, app in, app native, appium use, beta version, context switch, help please, view web",[70]
+482,483,hi all i am new to the group please help me in getting source,new group please help get source,2017-01-11 10:16:34,peeyushpareek,test_Appium,0,0,0,0,"group please, help please",[]
+483,484,"when you start appium in the terminal, is there a way to test if it can be accessed (such as through jenkins running scripts)",start appium terminal way test access jenkins run script,2017-01-11 22:36:04,travstatham,test_Appium,0,0,0,0,"a start, appium start, run script",[]
+484,485,"Hi All, Can you help me on how to int egrate xcode server and appium tests?",help int egrate xcode server appium test,2017-01-12 03:15:23,Achini_C_twitter,test_Appium,0,0,0,0,"appium server, appium test, egrate int, egrate xcode, server xcode",[71]
+485,486,*integrate,integrate,2017-01-12 03:15:55,Achini_C_twitter,test_Appium,0,0,1,0,,[71]
+486,487,are you executing your code on the same machine appium is on?,execute code machine appium,2017-01-14 17:12:55,kcinman11358,test_Appium,0,0,0,0,appium machine,[72]
+487,488,is anyone able to interact with a iOS PickerWheel? Using 1.6.3,anyone able interact ios pickerwheel use,2017-01-14 17:13:16,kcinman11358,test_Appium,0,0,1,0,able anyone,[72]
+488,489,I'm trying to run a safari test on a real iOS device - works in the simulator and on android device but I can't get the apple phone running on appium 1.6.3,try run safari test real ios device work simulator android device get apple phone run appium,2017-01-16 15:37:30,hazmeister,test_Appium,0,0,0,1,"a or, a run, and simulator, android device, appium run, apple phone, r y, safari test",[73]
+489,490,it was working previously on appium 1.6.0 with iOS 9,work previously appium ios,2017-01-16 15:38:14,hazmeister,test_Appium,0,0,1,1,"appium ios, i m",[73]
+490,491,updated phone to 10.2.1 and appium to 1.6.3,update phone appium,2017-01-16 15:38:28,hazmeister,test_Appium,0,0,1,1,,[73]
+491,492,getting this:,get,2017-01-16 15:39:02,hazmeister,test_Appium,0,0,1,1,,[73]
+492,493,[MJSONWP] Encountered internal error running command: [<-CODE->],mjsonwp encounter internal error run command,2017-01-16 15:39:05,hazmeister,test_Appium,0,0,1,0,error internal,[73]
+493,494,not sure where undefined command is creeping in from,sure undefined command creep,2017-01-16 15:43:30,hazmeister,test_Appium,0,0,1,0,command undefined,[73]
+494,495,seems to be failing on the first driver.get(),seem fail first,2017-01-16 15:43:43,hazmeister,test_Appium,0,0,1,0,,[73]
+495,496,"ok, turns out part of the problem was lcokdown was inaccessible",turn part problem lcokdown inaccessible,2017-01-16 16:24:05,hazmeister,test_Appium,0,0,1,0,,[73]
+496,497,sudo chmod 777 /var/db/lockdown,sudo chmod vardblockdown,2017-01-16 16:24:06,hazmeister,test_Appium,0,0,1,0,chmod sudo,[73]
+497,498,anyone had any issues with latest intelij ... java/TestNG/Cucumber ? i keep on getting no tests where found in a clean project setup,anyone issue latest intelij javatestngcucumber keep get test find clean project setup,2017-01-17 13:45:41,argeas,test_Appium,0,0,0,0,"anyone is, clean project, in latest, in test, intelij latest, project setup",[74]
+498,499,create a new local repo.. re-cloned... opeend intelij.. all works now..,create new local repo recloned opeend intelij work,2017-01-17 15:21:16,argeas,test_Appium,0,0,1,0,"create new, intelij opeend, local new, local repo",[74]
+499,500,"Hi guys, i have appium 1.5.3 installed in my Mac, i had created an iOS simulator for iPhone 5 with version 9.3 using Xcode 7.3.1 and i was able to launch the web app i had put in my script. When i updated to Xcode 8.2.1 the simulator would not launch nor run script",guy appium instal mac create ios simulator iphone version use xcode able launch web app put script update xcode simulator launch run script,2017-01-17 19:28:52,propaul,test_Appium,0,0,0,0,"app web, appium in, i m, run script",[75]
+500,501,"I also cannot execute any tests using real iOS device, is there certain steps i have to take using the developer id for real iOS device to work?",execute test use real ios device certain step take use developer real ios device work,2017-01-17 19:30:38,propaul,test_Appium,0,0,1,0,,[75]
+501,502,You cannot use Xcode 8.2.1 with Appium 1.5.3,use xcode appium,2017-01-17 19:31:14,Edge-Man,test_Appium,0,0,0,0,appium code,[76]
+502,503,Xcode 8.0 + replaced the instrumentation with XCtests......,xcode replace instrumentation xctests,2017-01-17 19:31:32,Edge-Man,test_Appium,0,0,1,0,,"[76, 77]"
+503,504,upgrade to appium 1.6.3,upgrade appium,2017-01-17 19:31:37,hardik-d,test_Appium,0,0,0,0,,[]
+504,505,^ +++,,2017-01-17 19:31:47,Edge-Man,test_Appium,0,0,1,0,,"[76, 78]"
+505,506,would i be able to test on my real device using 1.6.3 and Xcode 8.2.1?,able test real device use xcode,2017-01-17 19:32:12,propaul,test_Appium,0,0,0,1,device real,[77]
+506,507,"yeah, but it's going to take a bit of updating to get there",take bite update get,2017-01-17 19:32:32,Edge-Man,test_Appium,0,0,1,0,,"[77, 78]"
+507,508,This video does a good job telling you what to do: [<-LINK->],video good job tell,2017-01-17 19:32:51,Edge-Man,test_Appium,0,0,1,0,good job,"[77, 78]"
+508,509,is 1.6.3 available on appium.io for Mac?,available mac,2017-01-17 19:33:53,propaul,test_Appium,0,0,1,1,,[77]
+509,510,Yes and no..,yes,2017-01-17 19:34:08,Edge-Man,test_Appium,0,0,1,0,,[77]
+510,511,"as of Appium 1.6.0, there is no .dmg you have to run everything via command line.",appium dmg run everything via command line,2017-01-17 19:34:33,Edge-Man,test_Appium,0,0,1,0,"command line, command via, everything run, everything via",[77]
+511,512,what if i used xcdoe 7,use xcdoe,2017-01-17 19:35:14,propaul,test_Appium,0,0,1,1,,[77]
+512,513,Then appium 1.5.3 will work,appium work,2017-01-17 19:35:35,Edge-Man,test_Appium,0,0,1,0,,[77]
+513,514,but you wont be able to target a iOS 10 device,wont able target ios device,2017-01-17 19:35:47,Edge-Man,test_Appium,0,0,1,0,get i,[77]
+514,515,would it support iOS 10.2?,support ios,2017-01-17 19:36:14,propaul,test_Appium,0,0,1,0,,[77]
+515,516,nope.,nope,2017-01-17 19:36:45,Edge-Man,test_Appium,0,0,1,0,,[77]
+516,517,anything iOS 10 + requires Xcode 8.0 +,anything ios require xcode,2017-01-17 19:36:56,Edge-Man,test_Appium,0,0,1,0,,[77]
+517,518,"once the iOS updates to latest version, is it possible to downgrade?",ios update latest version possible downgrade,2017-01-17 19:37:04,propaul,test_Appium,0,0,1,0,latest version,[77]
+518,519,nope.,nope,2017-01-17 19:37:11,Edge-Man,test_Appium,0,0,1,0,,[77]
+519,520,"Well, I sorta lied.",well sorta lie,2017-01-17 19:37:20,Edge-Man,test_Appium,0,0,1,0,,[77]
+520,521,do i have to setup the certificate and provisioning through apple developer site for all this to work?,setup certificate provision apple developer site work,2017-01-17 19:38:17,propaul,test_Appium,0,0,1,0,"a on, app on, apple developer, developer site",[77]
+521,522,"You can downgrade, but you have a very short window to do it. Basically, Apple's activation server removes the older iOS version. I cannot remember if it is immediate or it's a few days.",downgrade short window basically apples activation server remove older ios version remember immediate days,2017-01-17 19:38:30,Edge-Man,test_Appium,0,0,1,0,"activation server, short window",[77]
+522,523,I believe you do need a developer team account to get it all working. I'm not sure. Perhaps someone could answer that for you.,believe need developer team account get work sure perhaps answer,2017-01-17 19:39:27,Edge-Man,test_Appium,0,0,1,0,"a team, account team, dev need, developer team",[77]
+523,524,thats fine ill just leave it at 10.2...i enabled the UI automation,thats fine leave enable automation,2017-01-17 19:39:32,propaul,test_Appium,0,0,1,1,fine thats,"[77, 79]"
+524,525,"yea my company got the dev team id, i just have to figure out a way to make the script run on real device",yea company get dev team figure way make script run real device,2017-01-17 19:40:27,propaul,test_Appium,0,0,1,1,"dev team, device real, run script","[77, 79]"
+525,526,"i have the android real device setup, iOS seems a little more tricky",android real device setup ios seem little tricky,2017-01-17 19:41:11,propaul,test_Appium,0,0,1,1,"android real, device real, device setup","[77, 79]"
+526,527,"cool, thnx, ill check it out",cool thnx check,2017-01-17 19:41:32,propaul,test_Appium,0,0,1,1,,"[77, 79]"
+527,528,can anyone give me a link to download appium 1.6.3 it's not showing as an option in the appium.io site,anyone give link download appium show option site,2017-01-17 20:20:29,propaul,test_Appium,0,0,1,0,"a download, anyone give, appium download",[77]
+528,529,there is none,none,2017-01-17 20:21:37,hardik-d,test_Appium,0,0,0,0,,[79]
+529,530,that is what@Edge-Manmeant when he said there is no dmg,say dmg,2017-01-17 20:22:00,hardik-d,test_Appium,0,0,1,0,,"[77, 79]"
+530,531,so is there way of downloading it?,way download,2017-01-17 20:25:23,propaul,test_Appium,0,0,1,0,,[77]
+531,532,npm,npm,2017-01-17 20:35:06,hardik-d,test_Appium,0,0,1,0,,"[77, 79]"
+532,533,[<-LINK->],,2017-01-17 20:35:54,hardik-d,test_Appium,0,0,1,0,,"[77, 79]"
+533,534,what kind of dependencies i need to install to run Android Web test cases on Appium 1.6.3?,kind dependencies need install run android web test case appium,2017-01-18 09:57:41,puneetbohra,test_Appium,0,0,0,0,"a run, all r, all run, and run, i need",[]
+534,535,"any idea how can I locate an element on different android version which has only ""content-desc"" attribute",idea locate element different android version contentdesc attribute,2017-01-18 09:57:48,jeevanbhushetty,test_Appium,0,0,0,0,"a different, android different, android version, different element",[80]
+535,536,"long time since I worked on appium, does content-desc map to name or to text?",long time since work appium contentdesc map name text,2017-01-18 09:58:20,coding-yogi,test_Appium,0,0,0,0,"long time, since time, since work",[81]
+536,537,I tried googling it says name..,try google say name,2017-01-18 09:59:40,jeevanbhushetty,test_Appium,0,0,1,0,,[80]
+537,538,by which I was unable to locate using name,unable locate use name,2017-01-18 09:59:52,jeevanbhushetty,test_Appium,0,0,1,0,name use,[80]
+538,539,worst case u can always try npm uninstall and then npm install,worst case always try npm uninstall npm install,2017-01-18 10:01:49,coding-yogi,test_Appium,0,0,1,0,"always try, case worst, i m, install npm, npm try, npm uninstall, try ys",[81]
+539,540,it will just reinstall all the dependencies,reinstall dependencies,2017-01-18 10:02:00,coding-yogi,test_Appium,0,0,1,0,,[81]
+540,541,driver.findelement(by.name() not supporting in the latest appium. Heve any alternative to this?,support latest appium heve alternative,2017-01-18 10:03:33,sanojqa,test_Appium,0,0,0,0,"appium latest, appium test",[82]
+541,542,use accessibility id instead of name,use accessibility instead name,2017-01-18 10:11:53,priyankshah217,test_Appium,0,0,0,0,accessibility use,[83]
+542,543,how can we write any sample?,write sample,2017-01-18 10:12:13,sanojqa,test_Appium,0,0,1,0,,[82]
+543,544,"driver.findelement(by.name(""login"")).click();",,2017-01-18 10:12:32,sanojqa,test_Appium,0,0,1,0,,[82]
+544,545,"driver.findElementByAccessibilityId(""Login"").click();",,2017-01-18 10:13:31,priyankshah217,test_Appium,0,0,1,0,,[83]
+545,546,name should ideally work,name ideally work,2017-01-18 10:24:08,coding-yogi,test_Appium,0,0,0,1,ideally work,[84]
+546,547,[<-LINK->],,2017-01-18 10:24:10,coding-yogi,test_Appium,0,0,1,1,,[84]
+547,548,"what I can make out from this code is in case of Name, it searches by Content description and text as well",make code case name search content description text well,2017-01-18 10:24:52,coding-yogi,test_Appium,0,0,1,1,,[84]
+548,549,sanojqa: do you see any error if you use name?,sanojqa see error use name,2017-01-18 10:26:33,coding-yogi,test_Appium,0,0,1,1,"name use, r u",[84]
+549,550,or its just that appium doesn't find the required element?,appium doesnt find require element,2017-01-18 10:26:47,coding-yogi,test_Appium,0,0,1,0,appium does,[84]
+550,551,got it,get,2017-01-18 10:37:35,coding-yogi,test_Appium,0,0,1,0,,[84]
+551,552,appium now uses UiAutomator2,appium use uiautomator,2017-01-18 10:37:46,coding-yogi,test_Appium,0,0,1,0,appium use,[84]
+552,553,[<-LINK->],,2017-01-18 10:37:56,coding-yogi,test_Appium,0,0,1,0,,[84]
+553,554,"this seems to be the current code, the one I posted above is the old one",seem current code one post old one,2017-01-18 10:38:14,coding-yogi,test_Appium,0,0,1,0,"code current, code on, old one",[84]
+554,555,I dnt see any by.Name here,dnt see,2017-01-18 10:38:23,coding-yogi,test_Appium,0,0,1,0,dnt see,[84]
+555,556,and the error matches what you have mentioned,error match mention,2017-01-18 10:38:34,coding-yogi,test_Appium,0,0,1,0,,"[84, 85]"
+556,557,is this work for iOS?,work ios,2017-01-18 10:38:36,sanojqa,test_Appium,0,0,0,1,i work,[85]
+557,558,is this work for iOS?,work ios,2017-01-18 10:38:36,sanojqa,test_Appium,0,0,1,1,i work,[85]
+558,559,"name not working for iOS, actually I got the issue for iOS",name work ios actually get issue ios,2017-01-18 10:42:03,sanojqa,test_Appium,0,0,1,1,"get i, i work",[85]
+559,560,I see it for old ios driver [<-LINK->],see old ios driver,2017-01-18 10:44:08,coding-yogi,test_Appium,0,0,1,0,"driver ios, ios old",[85]
+560,561,but I guess new version uses appium-xcuitest-driver ??,guess new version use appiumxcuitestdriver,2017-01-18 10:44:43,coding-yogi,test_Appium,0,0,1,0,"appium use, guess new, new version",[85]
+561,562,am using appium 1.5.3 and locator 'name',use appium locator name,2017-01-18 10:45:16,sanojqa,test_Appium,0,0,1,1,"appium use, name or",[85]
+562,563,its not working,work,2017-01-18 10:45:26,sanojqa,test_Appium,0,0,1,1,,[85]
+563,564,"I am not sure what appium 1.5.3 uses, I assume it is using appium-xcuitest-driver",sure appium use assume use appiumxcuitestdriver,2017-01-18 10:45:57,coding-yogi,test_Appium,0,0,1,0,appium use,[85]
+564,565,haven't worked on appium for long time,havent work appium long time,2017-01-18 10:46:05,coding-yogi,test_Appium,0,0,1,0,long time,[85]
+565,566,"aniket-21: ok fine, Thanks for the response",aniket fine thank response,2017-01-18 10:46:30,sanojqa,test_Appium,0,0,1,0,,[85]
+566,567,i.6.0 should be using appium-xcuitest-driver as per the changelog [<-LINK->],use appiumxcuitestdriver per changelog,2017-01-18 10:48:06,coding-yogi,test_Appium,0,0,1,0,appium use,[85]
+567,568,1.6.0*,,2017-01-18 10:48:13,coding-yogi,test_Appium,0,0,1,0,,[85]
+568,569,so ideally Name should work,ideally name work,2017-01-18 10:49:11,coding-yogi,test_Appium,0,0,1,0,,"[85, 86]"
+569,570,aniket-21: fin,aniket fin,2017-01-18 10:49:32,sanojqa,test_Appium,0,0,1,0,,[85]
+570,571,e,,2017-01-18 10:49:33,sanojqa,test_Appium,0,0,1,0,,[85]
+571,572,check java-client library,check javaclient library,2017-01-18 10:49:40,priyankshah217,test_Appium,0,0,0,0,client lib,[87]
+572,573,"java-client lob should have it else his code won't compile, right?",javaclient lob else code wont compile right,2017-01-18 10:52:48,coding-yogi,test_Appium,0,0,1,0,code wo,[86]
+573,574,[<-LINK->],,2017-01-18 10:53:29,coding-yogi,test_Appium,0,0,1,0,,[86]
+574,575,(Y),,2017-01-18 10:53:38,priyankshah217,test_Appium,0,0,1,0,,[87]
+575,576,,,2017-01-18 10:53:48,priyankshah217,test_Appium,0,0,1,0,,[87]
+576,577,"sanojqa: , u can try something like findElementByIosUIAutomation(""au.getElementByName('somename')"")",sanojqa try something like findelementbyiosuiautomation,2017-01-18 10:58:15,coding-yogi,test_Appium,0,0,1,0,"a try, e fin, like something, something try",[86]
+577,578,aniket-21: let me try and update you,aniket let try update,2017-01-18 10:58:44,sanojqa,test_Appium,0,0,0,0,,[]
+578,579,also it would be good to see appium log when u get the error for name,good see appium log get error name,2017-01-18 10:59:36,coding-yogi,test_Appium,0,0,1,0,"appium log, appium see, name or","[86, 88]"
+579,580,would be helpful to debug,helpful debug,2017-01-18 10:59:41,coding-yogi,test_Appium,0,0,1,0,,"[86, 89]"
+580,581,Does Appium 1.6.3 support parralel test for IOS APPS.,appium support parralel test ios apps,2017-01-19 06:49:00,puneetbohra,test_Appium,0,0,0,0,"appium support, parralel support, parralel test",[]
+581,582,"The problem I faced with Protractor is, as soon as it invokes app, it immediately tries to inject protractor javascript into webview",problem face protractor soon invoke app immediately try inject protractor javascript webview,2017-01-20 10:49:12,coding-yogi,test_Appium,0,0,1,0,"app i, inject protractor, javascript protractor","[88, 89]"
+582,583,"in cases of splash screen or 1st screen as native screen, injection of protractor script fails due to absence of any webview",case splash screen screen native screen injection protractor script fail due absence webview,2017-01-20 10:49:55,coding-yogi,test_Appium,0,0,1,0,"native screen, protractor script, screen splash","[88, 89]"
+583,584,"if you can dump the appium log here, that would be helpful",dump appium log helpful,2017-01-20 10:50:18,coding-yogi,test_Appium,0,0,1,0,appium log,"[88, 89]"
+584,585,"Same thing I was am facing.. I added caps.setCapability(""appWaitActivity"", ""your Main activity name"");",thing face add main activity name,2017-01-20 10:51:04,jeevanbhushetty,test_Appium,0,0,0,0,"a in, activity name",[90]
+585,586,but this is for java + appium not sure if you can do it in protractor..,java appium sure protractor,2017-01-20 10:51:49,jeevanbhushetty,test_Appium,0,0,1,0,,[90]
+586,587,what do u get in the server log?,get server log,2017-01-20 10:52:08,coding-yogi,test_Appium,0,0,1,0,log server,"[88, 89]"
+587,588,[<-CODE->] It was stopping server at launch.. and it was random...,stop server launch random,2017-01-20 10:55:49,jeevanbhushetty,test_Appium,0,0,1,0,,[90]
+588,589,sometime it used to launch app successfully and sometimes it was showing me above issue..,sometime use launch app successfully sometimes show issue,2017-01-20 10:56:25,jeevanbhushetty,test_Appium,0,0,1,0,"a launch, app launch, app successfully, how is",[90]
+589,590,hi,,2017-01-20 11:07:09,bhargav2410,test_Appium,0,0,0,0,,[91]
+590,591,Appium] Welcome to Appium v1.6.3 [<-CODE->],appium welcome appium,2017-01-20 11:07:21,bhargav2410,test_Appium,0,0,1,0,a me,[91]
+591,592,plz help me solve this error.,plz help solve error,2017-01-20 11:08:43,bhargav2410,test_Appium,0,0,1,0,help plz,[91]
+592,593,is this all on the same machine? ECONNREFUSED suggests something couldn鈥檛 reach something else on the network,machine econnrefused suggest something couldn reach something else network,2017-01-20 11:08:56,hazmeister,test_Appium,0,0,0,0,"else something, reach something",[92]
+593,594,hazmeister: ys,hazmeister,2017-01-20 11:09:10,bhargav2410,test_Appium,1,0,0,0,,"[91, 92]"
+594,595,try to run in single device only,try run single device,2017-01-20 11:09:21,bhargav2410,test_Appium,0,0,1,0,"device single, r y","[91, 92]"
+595,596,RatkoD: did the parallel framework work with ios 10 ?,ratkod parallel framework work ios,2017-01-22 13:13:33,saikrishna321,test_Appium,0,0,0,0,"framework parallel, framework work, i work",[]
+596,597,i could not make it work with two ios 10 devices,make work two ios devices,2017-01-22 22:35:13,RatkoD,test_Appium,0,0,0,0,ios two,[93]
+597,598,probably because of problems with signing of the webdriver,probably problems sign webdriver,2017-01-22 22:35:33,RatkoD,test_Appium,0,0,1,0,,"[93, 94]"
+598,599,"MobileElement makeTextLocartord = (MobileElement) driver.findElementsByIosUIAutomation(""new UiSelector().Value(\""Full Name\"")"");",mobileelement maketextlocartord mobileelement uiselectorvaluefull name,2017-01-24 13:00:20,kipljyotsa,test_Appium,0,0,0,0,full name,[95]
+599,600,when i am trying to type in full name using this i m getting such exception,try type full name use get exception,2017-01-24 13:00:52,kipljyotsa,test_Appium,0,0,1,0,"full name, name use",[95]
+600,601,"Exception in thread ""main"" org.openqa.selenium.InvalidSelectorException: Locator Strategy '-ios uiautomation' is not supported",exception thread main locator strategy ios uiautomation support,2017-01-24 13:00:53,kipljyotsa,test_Appium,0,0,1,0,,[95]
+601,602,RatkoD: did the parallel framework work with ios 10 ?,ratkod parallel framework work ios,2017-01-22 13:13:33,saikrishna321,test_Appium,1,0,0,0,"framework parallel, framework work, i work",[94]
+602,603,i could not make it work with two ios 10 devices,make work two ios devices,2017-01-22 22:35:13,RatkoD,test_Appium,0,0,1,0,ios two,[94]
+603,604,probably because of problems with signing of the webdriver,probably problems sign webdriver,2017-01-22 22:35:33,RatkoD,test_Appium,0,0,1,0,,[94]
+604,605,"not able to run appium test in iOS real device with os 10.1.1, Appium version 1.6, xcode 8. anything to install. Also I able to run appium in iOS simulator by installing 'brew install carthage'",able run appium test ios real device appium version xcode anything install able run appium ios simulator instal brew install carthage,2017-01-23 10:04:21,premji9892_twitter,test_Appium,0,0,0,0,"a run, any code, appium ios, appium run, appium test, appium version, carthage install, device real, i m, version xcode",[96]
+605,606,"not able to run appium test in iOS real device with os 10.1.1, Appium version 1.6, xcode 8. anything to install. Also I able to run appium in iOS simulator by installing 'brew install carthage'",able run appium test ios real device appium version xcode anything install able run appium ios simulator instal brew install carthage,2017-01-25 12:46:38,premji9892_twitter,test_Appium,0,0,1,0,"a run, any code, appium ios, appium run, appium test, appium version, carthage install, device real, i m, version xcode",[96]
+606,607,"hey all , I am working in a react-native app and I am trying to scroll a specified section of the page. I can't get the scroll to happen at all. Anyone have any ideas as to what I can do to make the scroll happen?",work reactnative app try scroll specify section page get scroll happen anyone ideas make scroll happen,2017-01-25 13:18:28,mvanevery,test_Appium,0,0,0,0,"a native, app native, get scroll, happen scroll",[97]
+607,608,Hw r u scrolling,scroll,2017-01-25 13:24:11,coding-yogi,test_Appium,0,0,0,1,,[97]
+608,609,What does appium log say when u scroll,appium log say scroll,2017-01-25 13:24:21,coding-yogi,test_Appium,0,0,1,1,"appium log, log say",[97]
+609,610,I am working through a webdriverio framework and using appium through that. the only thing I see in the appium log is -,work webdriverio framework use appium thing see appium log,2017-01-25 13:31:56,mvanevery,test_Appium,0,0,1,0,"appium log, appium see, appium use, framework webdriverio, web work",[97]
+610,611,[<-CODE->] 501 2 ms - 112,,2017-01-25 13:32:06,mvanevery,test_Appium,0,0,1,0,,[97]
+611,612,What is the response code 501?,response code,2017-01-25 13:36:35,coding-yogi,test_Appium,0,0,1,1,code response,"[97, 98]"
+612,613,"apparently its an HTTP protocal issue meaning ""not implemented""",apparently http protocal issue mean implement,2017-01-25 13:39:03,mvanevery,test_Appium,0,0,1,0,issue protocal,"[97, 99]"
+613,614,I will have to look further into this,look,2017-01-25 13:39:14,mvanevery,test_Appium,0,0,1,0,,"[97, 100]"
+614,615,Ya cos scroll is no more there,cos scroll,2017-01-25 13:40:55,coding-yogi,test_Appium,0,0,1,1,cos scroll,"[97, 101]"
+615,616,U shud use swipe,shud use swipe,2017-01-25 13:41:00,coding-yogi,test_Appium,0,0,1,0,"shud use, swipe use","[98, 101]"
+616,617,ah. I will try that then,try,2017-01-25 13:59:22,mvanevery,test_Appium,0,0,1,0,,"[99, 100]"
+617,618,"Hello, all!I'm having some trouble trying to scale my Appium tests and I'm interested in hearing from people who are running multiple Appium servers for running tests in parallel.My initial idea was to run appium on Docker on cloud machines for Android but that didn't work since I was only able to run arm on cloud and it's too slow for my needs. For iOS I didn't come up with anything other than handling multiple machines/devices myself or paying for a solution like SauceLabs.Has anyone solved this in another way and can share how you are doing it?",hello allim trouble try scale appium test interest hear people run multiple appium servers run test initial idea run appium docker cloud machine android didnt work since able run arm cloud slow need ios didnt come anything handle multiple machinesdevices pay solution like anyone solve another way share,2017-01-25 14:49:02,ckilesse-daitan,test_Appium,0,0,0,0,"a me, a run, an me, and machine, another way, appium multiple, appium run, appium server, appium servers, appium test, arm run, i need, idea initial, in test, like solution, machines multiple, multiple run, other way, run test, since work",[102]
+618,619,try this [<-LINK->],try,2017-01-25 15:14:15,RatkoD,test_Appium,0,0,0,0,,[]
+619,620,"This looks good, but it seems to solve the issue of running the same tests across multiple different devices. My goal is to actually speed up the test execution by parallelizing the execution of a same test suite across multiple appium servers.",look good seem solve issue run test across multiple different devices goal actually speed test execution parallelize execution test suite across multiple appium servers,2017-01-25 16:15:04,ckilesse-daitan,test_Appium,0,0,1,0,"across multiple, across suite, actually speed, appium multiple, appium server, appium servers, devices different, different multiple, execution test, on test, run test, suite test",[102]
+620,621,"We have about 300 jbehave tests using Appium and they are taking near 7 hours to complete and this is just too much. BTW, does this look reasonable to you guys? 300 Appium tests in 7 hours?",jbehave test use appium take near hours complete much btw look reasonable guy appium test hours,2017-01-25 16:16:53,ckilesse-daitan,test_Appium,0,0,1,0,"appium test, appium use, look reasonable",[102]
+621,622,i had file an appium support issue where on ios after upgrading to XCUITestDriver my test runtime has more than doubled,file appium support issue ios upgrade xcuitestdriver test runtime double,2017-01-25 17:37:45,hardik-d,test_Appium,0,0,0,1,"a file, appium support, issue support, run test, runtime test",[103]
+622,623,i have around 100 tests which take almost 3 hours on ios so 300 tests in 7 hoursaligns along those lines,around test take almost hours ios test hoursaligns along line,2017-01-25 17:38:28,hardik-d,test_Appium,0,0,1,1,"a take, almost take, along hoursaligns",[103]
+623,624,android is much faster though,android much faster though,2017-01-25 17:38:51,hardik-d,test_Appium,0,0,1,1,"faster much, faster though",[103]
+624,625,earlier android used to be hella slow,earlier android use hella slow,2017-01-25 17:39:04,hardik-d,test_Appium,0,0,1,1,"android earlier, hella slow",[103]
+625,626,"i don't know of any solution for ios other than what you are doing with multiple machines, OS limitation i guess",dont know solution ios multiple machine limitation guess,2017-01-25 17:40:15,hardik-d,test_Appium,0,0,1,0,"dont know, ios on",[103]
+626,627,hardik-d: @RatkoDthanks for your inputs!,hardikd input,2017-01-25 18:00:20,ckilesse-daitan,test_Appium,1,0,0,0,,[103]
+627,628,[<-LINK->],,2017-01-25 19:38:57,hardik-d,test_Appium,0,0,1,0,,[103]
+628,629,go add your comment@ckilesse-daitan,add,2017-01-25 19:39:09,hardik-d,test_Appium,0,0,1,0,,[103]
+629,630,"Hello, all!I'm having some trouble trying to scale my Appium tests and I'm interested in hearing from people who are running multiple Appium servers for running tests in parallel.My initial idea was to run appium on Docker on cloud machines for Android but that didn't work since I was only able to run arm on cloud and it's too slow for my needs. For iOS I didn't come up with anything other than handling multiple machines/devices myself or paying for a solution like SauceLabs.Has anyone solved this in another way and can share how you are doing it?",hello allim trouble try scale appium test interest hear people run multiple appium servers run test initial idea run appium docker cloud machine android didnt work since able run arm cloud slow need ios didnt come anything handle multiple machinesdevices pay solution like anyone solve another way share,2017-01-25 14:49:02,ckilesse-daitan,test_Appium,0,0,1,0,"a me, a run, an me, and machine, another way, appium multiple, appium run, appium server, appium servers, appium test, arm run, i need, idea initial, in test, like solution, machines multiple, multiple run, other way, run test, since work",[103]
+630,631,try this [<-LINK->],try,2017-01-25 15:14:15,RatkoD,test_Appium,0,0,0,0,,[]
+631,632,"This looks good, but it seems to solve the issue of running the same tests across multiple different devices. My goal is to actually speed up the test execution by parallelizing the execution of a same test suite across multiple appium servers.",look good seem solve issue run test across multiple different devices goal actually speed test execution parallelize execution test suite across multiple appium servers,2017-01-25 16:15:04,ckilesse-daitan,test_Appium,0,0,1,0,"across multiple, across suite, actually speed, appium multiple, appium server, appium servers, devices different, different multiple, execution test, on test, run test, suite test",[103]
+632,633,"We have about 300 jbehave tests using Appium and they are taking near 7 hours to complete and this is just too much. BTW, does this look reasonable to you guys? 300 Appium tests in 7 hours?",jbehave test use appium take near hours complete much btw look reasonable guy appium test hours,2017-01-25 16:16:53,ckilesse-daitan,test_Appium,0,0,1,0,"appium test, appium use, look reasonable",[103]
+633,634,i had file an appium support issue where on ios after upgrading to XCUITestDriver my test runtime has more than doubled,file appium support issue ios upgrade xcuitestdriver test runtime double,2017-01-25 17:37:45,hardik-d,test_Appium,0,0,1,1,"a file, appium support, issue support, run test, runtime test","[103, 104]"
+634,635,i have around 100 tests which take almost 3 hours on ios so 300 tests in 7 hoursaligns along those lines,around test take almost hours ios test hoursaligns along line,2017-01-25 17:38:28,hardik-d,test_Appium,0,0,1,1,"a take, almost take, along hoursaligns","[103, 104]"
+635,636,android is much faster though,android much faster though,2017-01-25 17:38:51,hardik-d,test_Appium,0,0,1,1,"faster much, faster though","[103, 104]"
+636,637,earlier android used to be hella slow,earlier android use hella slow,2017-01-25 17:39:04,hardik-d,test_Appium,0,0,1,1,"android earlier, hella slow","[103, 104]"
+637,638,"i don't know of any solution for ios other than what you are doing with multiple machines, OS limitation i guess",dont know solution ios multiple machine limitation guess,2017-01-25 17:40:15,hardik-d,test_Appium,0,0,1,0,"dont know, ios on",[103]
+638,639,hardik-d: @RatkoDthanks for your inputs!,hardikd input,2017-01-25 18:00:20,ckilesse-daitan,test_Appium,1,0,0,0,,[103]
+639,640,[<-LINK->],,2017-01-25 19:38:57,hardik-d,test_Appium,0,0,1,0,,[103]
+640,641,go add your comment@ckilesse-daitan,add,2017-01-25 19:39:09,hardik-d,test_Appium,0,0,1,0,,[103]
+641,642,"Hello everyone, I am new to Appium and I would like to know are there any limitations or issues for automating iOS app made with Swift 3?",hello everyone new appium like know limitations issue automate ios app make swift,2017-01-25 19:46:26,mkulava,test_Appium,0,0,0,0,"a new, every hello",[]
+642,643,I'm trying to get the appium software and the appium doctor is giving me the following error.nfo AppiumDoctor ### Diagnostic starting ###info AppiumDoctor Xcode is installed at: /Applications/Xcode.app/Contents/Developer[Error: Could not detect Mac OS X Version from sw_vers output: '10.12.2'],try get appium software appium doctor give follow appiumdoctor diagnostic start info appiumdoctor xcode instal applications detect mac version swvers output,2017-01-25 21:32:30,cbiermannIMVU,test_Appium,0,0,0,0,"a are, appium doctor, appium software, code i, i start, in xcode",[104]
+643,644,appium Version 1.5.3 (Ara),appium version ara,2017-01-25 21:33:11,cbiermannIMVU,test_Appium,0,0,1,0,"a on, appium version",[104]
+644,645,which xcode version are you using?,xcode version use,2017-01-25 21:33:22,Edge-Man,test_Appium,0,0,0,0,version xcode,[105]
+645,646,V 8.2.1,,2017-01-25 21:35:47,cbiermannIMVU,test_Appium,0,0,1,0,,"[104, 106]"
+646,647,need to use appium 1.6.3,need use appium,2017-01-25 21:36:11,Edge-Man,test_Appium,0,0,1,1,appium use,"[105, 106]"
+647,648,[<-LINK->],,2017-01-25 21:36:50,Edge-Man,test_Appium,0,0,1,1,,"[105, 106]"
+648,649,I don't see 1.6.3 on the appium bitbucket account,dont see appium bitbucket account,2017-01-25 21:43:15,cbiermannIMVU,test_Appium,0,0,1,0,"account bitbucket, appium bitbucket, appium see",[106]
+649,650,appium is 1.6.3 if I install via the terminal but the desktop app is still 1.5.3,appium install via terminal desktop app still,2017-01-25 21:54:43,cbiermannIMVU,test_Appium,0,0,1,0,"app desktop, appium in, appium install, i m, install via",[106]
+650,651,"yeah, there's no .dmg for Appium 1.6.3, this is something the guys are working on",theres dmg appium something guy work,2017-01-25 21:55:11,Edge-Man,test_Appium,0,0,1,1,,[106]
+651,652,so..,,2017-01-25 21:55:13,Edge-Man,test_Appium,0,0,1,1,,[106]
+652,653,you have to install it via command line,install via command line,2017-01-25 21:55:20,Edge-Man,test_Appium,0,0,1,1,"command line, command via, install via",[106]
+653,654,kk,,2017-01-25 21:55:31,cbiermannIMVU,test_Appium,0,0,1,0,,[106]
+654,655,cbiermannIMVU: appium does not support sierra,cbiermannimvu appium support sierra,2017-01-25 21:55:49,hardik-d,test_Appium,1,0,0,0,"appium support, sierra support",[106]
+655,656,you are on sierra,sierra,2017-01-25 21:55:54,hardik-d,test_Appium,0,0,1,0,,[106]
+656,657,downgrade to mac os 10.11,downgrade mac,2017-01-25 21:56:16,hardik-d,test_Appium,0,0,1,0,,[106]
+657,658,Appium 1.6.3 works for me with Sierra,appium work sierra,2017-01-25 21:57:13,Edge-Man,test_Appium,0,0,1,0,,[106]
+658,659,but I think what hardik is saying that Appium 1.5.3 doesnt work with Sierra?,think hardik say appium doesnt work sierra,2017-01-25 21:57:34,Edge-Man,test_Appium,0,0,1,0,"appium does, doesnt work",[106]
+659,660,"and it wont work with Xcode 8.2.1 because apple remove the old instrumentation that drives it, so it shouldn't work. So if you want to use appium 1.6.3, you have to roll back Mac OS to 10.11 and roll back to an older version of Xcode = Xcode 8.0 pre. and you wont be able to test on iOS 10",wont work xcode apple remove old instrumentation drive shouldnt work want use appium roll back mac roll back older version xcode xcode pre wont able test ios,2017-01-25 21:59:25,Edge-Man,test_Appium,0,0,1,0,"appium use, apple remove, back roll, instrumentation old, older version, u want, version xcode, wont work",[106]
+660,661,Got it,get,2017-01-25 22:03:08,cbiermannIMVU,test_Appium,0,0,1,0,,[106]
+661,662,Edge-Man: i have seen folks complaining about 1.6.3 not working on sierra,edgeman see folks complain work sierra,2017-01-26 00:54:36,hardik-d,test_Appium,1,0,0,0,,[106]
+662,663,hence hesitant to upgrade,hence hesitant upgrade,2017-01-26 00:54:46,hardik-d,test_Appium,0,0,1,0,hence hesitant,[106]
+663,664,did you upgrade from el cap to sierra or was it a brand new machine?,upgrade cap sierra brand new machine,2017-01-26 00:55:23,hardik-d,test_Appium,0,0,1,0,"a brand, brand new, machine new",[106]
+664,665,"Guys, is it possible to automate application written in Swift 3 using Appium? I've been told that Appium can interact only with objective c apps",guy possible automate application write swift use appium ive tell appium interact objective apps,2017-01-26 00:57:17,mkulava,test_Appium,0,0,0,0,"appium in, appium use, application automate, i m",[107]
+665,666,"I hv automated swift apps ,not sure about swift 3 in specific",automate swift apps sure swift specific,2017-01-26 01:11:14,coding-yogi,test_Appium,0,0,0,0,apps swift,[]
+666,667,aniket-21: thanks for your answer,aniket thank answer,2017-01-26 01:15:24,mkulava,test_Appium,0,0,1,0,,"[107, 108]"
+667,668,"I think it doesn't matter which language is used to write the app, either way, appium does not require anythin to be implemented in the app so the automation will work, unlike some other frameworks",think doesnt matter language use write app either way appium require anythin implement app automation work unlike frameworks,2017-01-26 08:55:33,RatkoD,test_Appium,0,0,0,1,"a way, anythin require, either way, on work",[108]
+668,669,"appium uses apple testing framework, now XCUItest",appium use apple test framework xcuitest,2017-01-26 08:56:00,RatkoD,test_Appium,0,0,1,1,appium use,[108]
+669,670,RatkoD: so it is possible to run tests on iOS 10 and it is compatibel with XCode 8 now?,ratkod possible run test ios compatibel xcode,2017-01-26 10:19:10,mkulava,test_Appium,1,0,0,0,run test,[108]
+670,671,"mkulava: it is indeed, with the capability automationName : XCUITest",mkulava indeed capability automationname xcuitest,2017-01-26 10:48:54,hazmeister,test_Appium,1,0,0,0,a in,[108]
+671,672,"hazmeister: great news, thank you",hazmeister great news thank,2017-01-26 10:51:03,mkulava,test_Appium,1,0,0,0,great news,[108]
+672,673,"yes, just to confirm, but it's a very complicated setup",yes confirm complicate setup,2017-01-26 14:28:39,RatkoD,test_Appium,0,0,1,1,,[108]
+673,674,very very complicated,complicate,2017-01-26 14:28:44,RatkoD,test_Appium,0,0,1,1,,"[108, 109]"
+674,675,very,,2017-01-26 14:28:46,RatkoD,test_Appium,0,0,1,1,,"[108, 110]"
+675,676,anyone updated to the new itunes? I have a suspicion its broke appium鈥檚 ability to talk to safari on real devices,anyone update new itunes suspicion break appium ability talk safari real devices,2017-01-26 14:58:13,hazmeister,test_Appium,0,0,0,0,"device real, devices real, itunes new",[]
+676,677,"i haven't, its knocking on the door",havent knock door,2017-01-26 17:28:41,hardik-d,test_Appium,0,0,0,0,,[]
+677,678,"Hey guys, does anyone knows a solution for the Too many instances of this service are already running error",guy anyone know solution many instance service already run error,2017-01-27 10:12:31,RatkoD,test_Appium,0,0,1,1,"anyone know, know one, r y","[109, 110, 111]"
+678,679,"it happens all the time, even after just a few tests, and I need to reboot the tested device",happen time even test need reboot test device,2017-01-27 10:12:54,RatkoD,test_Appium,0,0,1,1,,"[109, 110, 111]"
+679,680,and it's a pain in the ass to do this all the time,pain ass time,2017-01-27 10:13:17,RatkoD,test_Appium,0,0,1,1,"a in, a pain","[109, 110, 111]"
+680,681,or nobody here is using appium 1.6+ because it's actually unusable with all the bugs and things not working,nobody use appium actually unusable bug things work,2017-01-27 10:14:29,RatkoD,test_Appium,0,0,1,1,"actually unusable, appium use","[109, 110, 111]"
+681,682,"Hi All, I'm having trouble with Appium 1.6.3, Xcode 8.2.1, and iOS 10.2. I installed the new iOS driver XCUITest and now I am trying to get my tests to run in an iPad Air 2 simulator - or really any iOS 10+ simulator. The simulator pops up, the new WebDriverAgent appears to start, but my app WILL NOT launch. It tries to, but closes immediately. I've tried almost everything and sort of at a loss. Will post more details momentarily about how I built the app and appium logs. If anyone can help though I would appreciate it!!",trouble appium xcode ios instal new ios driver xcuitest try get test run ipad air simulator really ios simulator simulator pop new webdriveragent appear start app launch try close immediately ive try almost everything sort loss post detail momentarily build app appium log anyone help though appreciate,2017-01-30 18:23:25,mmcintyre123,test_Appium,0,0,0,1,"a build, a start, a try, almost everything, anyone help, app launch, appium log, code i, driver ios, help one, help though, i run, in ios, or really, run test",[111]
+682,683,"Icanlaunch the app in the simulator from within Xcode, which is strange. So I am wondering if there is some conflict or incorrect setup of the new automation drivers...",icanlaunch app simulator within xcode strange wonder conflict incorrect setup new automation drivers,2017-01-30 18:25:07,mmcintyre123,test_Appium,0,0,1,1,"a launch, a new, app launch, automation drivers, automation new, in xcode, incorrect setup",[111]
+683,684,My OS is El Capitan 10.11.6,capitan,2017-01-30 18:35:23,mmcintyre123,test_Appium,0,0,1,1,,[111]
+684,685,My OS is El Capitan 10.11.6,capitan,2017-01-30 18:35:23,mmcintyre123,test_Appium,0,0,1,1,,[111]
+685,686,"mmcintyre123: logs will help, I can try to assist you when you are ready.",mmcintyre log help try assist ready,2017-01-30 19:06:32,Edge-Man,test_Appium,1,0,0,0,a try,[111]
+686,687,ok,,2017-01-30 19:12:34,mmcintyre123,test_Appium,0,0,1,1,,"[111, 112]"
+687,688,thx,thx,2017-01-30 19:12:34,mmcintyre123,test_Appium,0,0,1,1,,"[111, 112]"
+688,689,give me one min,give one min,2017-01-30 19:12:40,mmcintyre123,test_Appium,0,0,1,1,min one,"[111, 112]"
+689,690,Edge-Man:,edgeman,2017-01-30 19:13:00,mmcintyre123,test_Appium,0,0,1,1,,"[111, 112]"
+690,691,sent log in PM to avoid cluttering the channel - will share solution here if we get it working!,send log avoid clutter channel share solution get work,2017-01-30 19:18:36,mmcintyre123,test_Appium,0,0,1,0,share solution,[111]
+691,692,mmcintyre123: [<-LINK->],mmcintyre,2017-01-30 19:30:08,hardik-d,test_Appium,1,0,0,1,,"[111, 112]"
+692,693,see if this helps,see help,2017-01-30 19:30:13,hardik-d,test_Appium,0,0,1,1,,"[111, 112]"
+693,694,mainlyappium-remote-debugger@3.2.1piece,,2017-01-30 19:31:13,hardik-d,test_Appium,0,0,1,1,,"[111, 112]"
+694,695,in my case sleep 5 also helped,case sleep help,2017-01-30 19:32:27,hardik-d,test_Appium,0,0,1,1,case sleep,"[111, 112]"
+695,696,Does anyone know what steps do i have to take to launch a website from safari in iOS devices? do i have to download a safari extension?,anyone know step take launch website safari ios devices download safari extension,2017-01-30 22:16:54,propaul,test_Appium,0,0,0,0,"anyone know, extension safari, know one",[112]
+696,697,package demos;import org.openqa.selenium.By;import org.openqa.selenium.WebDriver;import org.openqa.selenium.WebElement;import org.openqa.selenium.safari.SafariDriver;public class Test4 { [<-CODE->] },package demosimport class test,2017-01-30 22:17:29,propaul,test_Appium,0,0,1,0,demos package,[112]
+697,698,are you testing a native iOS app or Web application on iOS?,test native ios app web application ios,2017-01-30 22:17:54,Edge-Man,test_Appium,0,0,1,1,"app web, application ios, ios on","[111, 112]"
+698,699,this doesn't seem to work,doesnt seem work,2017-01-30 22:17:56,propaul,test_Appium,0,0,1,0,,[112]
+699,700,web app,web app,2017-01-30 22:18:04,propaul,test_Appium,0,0,1,0,app web,[112]
+700,701,here you go: [<-LINK->],,2017-01-30 22:18:41,Edge-Man,test_Appium,0,0,1,1,,"[111, 112]"
+701,702,would this work for appium 1.6.3 and iOS version 10.2?,work appium ios version,2017-01-30 22:20:01,propaul,test_Appium,0,0,1,0,"appium ios, i m",[112]
+702,703,"WebDriver driver = new SafariDriver();driver.get("" [<-LINK->] "");",webdriver driver new safaridriver,2017-01-30 22:21:26,propaul,test_Appium,0,0,1,0,,[112]
+703,704,would i still have to input this into my script?,still input script,2017-01-30 22:21:41,propaul,test_Appium,0,0,1,0,i still,[112]
+704,705,here an example from the link I posted: [<-CODE->],example link post,2017-01-30 22:22:15,Edge-Man,test_Appium,0,0,1,1,,[112]
+705,706,would it be same for real device? i just have to input udid # and change the iOS version?,real device input udid change ios version,2017-01-30 22:24:12,propaul,test_Appium,0,0,1,0,"device i, device real, input udid",[112]
+706,707,"the code yes, but there's a setup process that is different the instructions are listed in the link I provided. If you read through it, it should have everything you need to know.",code yes theres setup process different instructions list link provide read everything need know,2017-01-30 22:26:42,Edge-Man,test_Appium,0,0,1,0,"code yes, different in, process setup",[112]
+707,708,anyone had any issues with latest intelij ... java/TestNG/Cucumber ? i keep on getting no tests where found in a clean project setup,anyone issue latest intelij javatestngcucumber keep get test find clean project setup,2017-01-17 13:45:41,argeas,test_Appium,0,0,0,0,"anyone is, clean project, in latest, in test, intelij latest, project setup",[113]
+708,709,create a new local repo.. re-cloned... opeend intelij.. all works now..,create new local repo recloned opeend intelij work,2017-01-17 15:21:16,argeas,test_Appium,0,0,1,0,"create new, intelij opeend, local new, local repo",[113]
+709,710,What are you trying to do@argeas,try,2017-01-31 14:24:31,coding-yogi,test_Appium,1,0,0,0,,[113]
+710,711,tryin to run appium on each device..,tryin run appium device,2017-01-31 14:31:36,argeas,test_Appium,0,0,1,1,"a run, appium run, in run","[113, 114]"
+711,712,different scenarios..@aniket-21,different,2017-01-31 14:31:51,argeas,test_Appium,0,0,1,1,,"[113, 114]"
+712,713,I think I must ssign specific usb per container,think must ssign specific usb per container,2017-01-31 14:32:09,argeas,test_Appium,0,0,1,1,"container per, must ssign, per usb, specific ssign, specific usb","[113, 114]"
+713,714,so the 1 container doesnt grab all,container doesnt grab,2017-01-31 14:32:19,argeas,test_Appium,0,0,1,1,"container doesnt, doesnt grab","[113, 114]"
+714,715,Which docker image r u using,docker image use,2017-01-31 14:32:52,coding-yogi,test_Appium,0,0,1,1,"docker image, image r","[113, 114]"
+715,716,I didn't find any by name appium-base-project,didnt find name appiumbaseproject,2017-01-31 14:33:15,coding-yogi,test_Appium,0,0,1,1,a me,"[113, 114]"
+716,717,Got it,get,2017-01-31 14:39:51,coding-yogi,test_Appium,0,0,1,1,,"[113, 114]"
+717,718,So y r u starting 2 instances,start instance,2017-01-31 14:40:11,coding-yogi,test_Appium,0,0,1,1,i start,"[113, 114]"
+718,719,[<-LINK->],,2017-02-01 10:27:09,emna24,test_Appium,0,0,0,1,,[114]
+719,720,hello every one ! can some one help me with this issue ?,hello every one one help issue,2017-02-01 10:27:23,emna24,test_Appium,0,0,1,1,"every hello, every one, help is, help one",[114]
+720,721,android Application crash at the moment i run my testNG while using Appium,android application crash moment run testng use appium,2017-02-01 10:27:38,emna24,test_Appium,0,0,1,1,"a android, android app, android application, appium use, run test",[114]
+721,722,"hello, while i send login and password both are written in password field !",hello send login password write password field,2017-02-01 10:52:45,emna24,test_Appium,0,0,1,1,"field password, in password, login send",[114]
+722,723,hi,,2017-02-01 12:18:52,somu9,test_Appium,0,0,0,0,,[]
+723,724,[<-LINK->],,2017-02-01 14:58:59,emna24,test_Appium,0,0,1,0,,[114]
+724,725,Selenium conference 2017 Early bird tickets are on Sale now.!! [<-LINK->],selenium conference early bird ticket sale,2017-02-02 03:40:00,manoj9788,test_Appium,0,0,0,0,,[]
+725,726,"hi All , Does anyone know what is the reason maven build failure if i am initializing",anyone know reason maven build failure initialize,2017-02-02 05:55:50,aloksingh15,test_Appium,0,0,0,0,"anyone know, build failure, build maven, know one, maven reason",[115]
+726,727,/declaring as AppiumDriver< WebElement> driver1;,declare appiumdriver driver,2017-02-02 05:57:59,aloksingh15,test_Appium,0,0,1,0,a are,[115]
+727,728,anyone familiar with selenium grid?,anyone familiar selenium grid,2017-02-02 08:38:52,yozzz06_twitter,test_Appium,0,0,0,0,"anyone familiar, grid selenium",[116]
+728,729,what's your query@yozzz06_twitter,whats,2017-02-02 09:19:45,coding-yogi,test_Appium,1,0,0,0,,[116]
+729,730,"so i have selenium grid plugin installed in Jenkins which is on machine A (Unix), i have nodes on machine B (unix) and machine C (windows) . If i start the node for the Machine B (Unix) it's all ok. But if i start then and the node on Machine C (Windows), something is happening because i can't even acces the URL/grid/console",selenium grid plugin instal jenkins machine unix nod machine unix machine windows start node machine unix start node machine windows something happen even acces urlgridconsole,2017-02-02 09:28:57,yozzz06_twitter,test_Appium,0,0,1,0,"acces even, grid plugin, grid selenium, machine windows, start windows",[116]
+730,731,what log do u see on grid server (machine A) when you start windows node (Machine C),log see grid server machine start windows node machine,2017-02-02 09:30:35,coding-yogi,test_Appium,0,0,1,0,"grid server, node windows, start windows",[116]
+731,732,channel stopped,channel stop,2017-02-02 09:32:54,yozzz06_twitter,test_Appium,0,0,1,0,,[116]
+732,733,here is the node log: [<-LINK->],node log,2017-02-02 09:33:06,yozzz06_twitter,test_Appium,0,0,1,0,log node,[116]
+733,734,i don't understand why the windows machine causing this...all the machine are in the same VPN,dont understand windows machine cause thisall machine vpn,2017-02-02 09:33:39,yozzz06_twitter,test_Appium,0,0,1,0,"machine windows, this use",[116]
+734,735,09:25:08.824 INFO - Starting auto registration thread. Will try to register every 5000 ms.09:25:08.824 INFO - Registering the node to the hub: [<-LINK->] 09:25:08.830 INFO - The node is registered to the hub and ready to use,info start auto registration thread try register every info register node hub info node register hub ready use,2017-02-02 09:34:54,coding-yogi,test_Appium,0,0,1,0,"a start, auto registration, every register, r y, registration thread",[116]
+735,736,This is for Linux Node or Windows node,linux node windows node,2017-02-02 09:35:11,coding-yogi,test_Appium,0,0,1,0,"linux node, node windows",[116]
+736,737,for the windows node,windows node,2017-02-02 09:35:53,yozzz06_twitter,test_Appium,0,0,1,0,node windows,[116]
+737,738,the linux node connects and is registered to the hub...it's everything good..the windows node is giving me a headache,linux node connect register hubits everything goodthe windows node give headache,2017-02-02 09:36:24,yozzz06_twitter,test_Appium,0,0,1,0,"everything good, linux node, node windows, the windows",[116]
+738,739,"09:25:08.830 INFO - The node is registered to the hub and ready to use09:26:01.275 INFO - Stopping Acceptor ServerSocket[addr=0.0.0.0/0.0.0.0,localport=4444]",info node register hub ready use info stop acceptor serversocketaddr,2017-02-02 09:36:42,coding-yogi,test_Appium,0,0,1,0,"i use, or server",[116]
+739,740,"in these 2 statements, there is a gap of 1 min",statements gap min,2017-02-02 09:36:58,coding-yogi,test_Appium,0,0,1,0,,[116]
+740,741,aren't you doing anything after node is connected?,arent anything node connect,2017-02-02 09:37:16,coding-yogi,test_Appium,0,0,1,0,,[116]
+741,742,nope..:|,nope,2017-02-02 09:42:08,yozzz06_twitter,test_Appium,0,0,1,0,,[116]
+742,743,only hit start from jenkins and that's all,hit start jenkins thats,2017-02-02 09:42:17,yozzz06_twitter,test_Appium,0,0,1,0,hit start,[116]
+743,744,what I meant is,mean,2017-02-02 09:42:34,coding-yogi,test_Appium,0,0,1,0,,[116]
+744,745,r u not running any tests on this node,run test node,2017-02-02 09:42:44,coding-yogi,test_Appium,0,0,1,0,run test,[116]
+745,746,nope,nope,2017-02-02 09:43:14,yozzz06_twitter,test_Appium,0,0,1,0,,[116]
+746,747,i only want to establish the connection,want establish connection,2017-02-02 09:43:22,yozzz06_twitter,test_Appium,0,0,1,0,,[116]
+747,748,DefaultRemoteProxy unknown version this is from the grind/console,defaultremoteproxy unknown version grindconsole,2017-02-02 09:43:54,yozzz06_twitter,test_Appium,0,0,1,0,unknown version,[116]
+748,749,how is the log looking on node,log look node,2017-02-02 09:49:20,coding-yogi,test_Appium,0,0,1,0,,[116]
+749,750,can u paste node log?,paste node log,2017-02-02 09:49:26,coding-yogi,test_Appium,0,0,1,0,"log node, node paste",[116]
+750,751,"Hello guys, has anybody worked with zephyr for automation ? I have written appium scripts in java in android studio and I want to trigger them from Jira via zephyr plugin . Any help ?",hello guy anybody work zephyr automation write appium script java android studio want trigger jira via zephyr plugin help,2017-02-06 06:19:55,archana-nagaraj,test_Appium,0,0,0,0,"a android, android studio, plugin zephyr, via zephyr",[]
+751,752,"i'm trying to scroll up the page of a android application, i'm using below method, but its not working, is there any other way ?",try scroll page android application use method work way,2017-02-06 08:06:41,imranreee,test_Appium,0,0,0,0,"a android, android app, android application, page scroll",[117]
+752,753,"public void scrollPageUp() {JavascriptExecutor js = (JavascriptExecutor) driver;HashMap<String, Double> swipeObject = new HashMap<String, Double>();swipeObject.put(""startX"", 0.50);swipeObject.put(""startY"", 0.95);swipeObject.put(""endX"", 0.50);swipeObject.put(""endY"", 0.01);swipeObject.put(""duration"", 3.0);js.executeScript(""mobile: swipe"", swipeObject);}",public void scrollpageup javascriptexecutor javascriptexecutor driverhashmap swipeobject new hashmap swipe swipeobject,2017-02-06 08:06:44,imranreee,test_Appium,0,0,1,0,public void,[117]
+753,754,error log: org.openqa.selenium.WebDriverException: Not yet implemented. Please help us: [<-LINK->] (WARNING: The server did not provide any stacktrace information),error log yet implement please help warn server provide stacktrace information,2017-02-06 08:07:30,imranreee,test_Appium,0,0,1,0,"error log, help please, information stacktrace","[117, 118]"
+754,755,Mobile: swipe is not a valid implementation,mobile swipe valid implementation,2017-02-06 08:11:14,coding-yogi,test_Appium,0,0,0,1,implementation valid,[118]
+755,756,Support for such actions was removed long back,support action remove long back,2017-02-06 08:11:38,coding-yogi,test_Appium,0,0,1,1,back long,[118]
+756,757,Why r u using execute script for swiping,use execute script swipe,2017-02-06 08:11:52,coding-yogi,test_Appium,0,0,1,1,execute script,[118]
+757,758,"aniket-21: so, could you please tell me which method i can use?",aniket please tell method use,2017-02-06 08:40:20,imranreee,test_Appium,0,0,1,0,"me tell, please tell",[118]
+758,759,[<-LINK->],,2017-02-06 09:00:00,coding-yogi,test_Appium,0,0,1,1,,[118]
+759,760,"Thanks, Let me check.@aniket-21",thank let,2017-02-06 09:02:07,imranreee,test_Appium,0,0,1,0,,[118]
+760,761,which method i have to call for page scroll up?,method call page scroll,2017-02-06 09:08:04,imranreee,test_Appium,0,0,1,0,page scroll,[118]
+761,762,SwipeElementDirection this one ???,swipeelementdirection one,2017-02-06 09:08:13,imranreee,test_Appium,0,0,1,0,,[118]
+762,763,swipeElementDirection is class name,swipeelementdirection class name,2017-02-06 09:08:45,coding-yogi,test_Appium,0,0,1,1,class name,[118]
+763,764,swipe ? from 202 line ?,swipe line,2017-02-06 09:10:02,imranreee,test_Appium,0,0,1,0,,[118]
+764,765,yes,yes,2017-02-06 09:10:21,coding-yogi,test_Appium,0,0,1,0,,[118]
+765,766,and for left and right swiping ?,leave right swipe,2017-02-06 09:10:50,imranreee,test_Appium,0,0,1,0,,[118]
+766,767,offset determines the direct,offset determine direct,2017-02-06 09:13:15,coding-yogi,test_Appium,0,0,1,0,,[118]
+767,768,direction,direction,2017-02-06 09:13:18,coding-yogi,test_Appium,0,0,1,0,,[118]
+768,769,"sorry, i didn't get you ?",sorry didnt get,2017-02-06 09:14:09,imranreee,test_Appium,0,0,1,0,,[118]
+769,770,see the code,see code,2017-02-06 09:15:11,coding-yogi,test_Appium,0,0,1,0,,[118]
+770,771,"int startX = getStartX(p, location, size, offset1);int startY = getStartY(p, location, size, offset1);int endX = getEndX(p, location, size, offset2);int endY = getEndY(p, location, size, offset2);",int startx getstartxp location size offsetint starty getstartyp location size offsetint endx getendxp location size offsetint endy getendyp location size offset,2017-02-06 09:15:12,coding-yogi,test_Appium,0,0,1,0,,[118]
+771,772,although I am finding this code little weird,although find code little weird,2017-02-06 09:16:35,coding-yogi,test_Appium,0,0,1,0,"code little, little weird",[118]
+772,773,"that means swipe method for all (scroll up, left swiping and right swiping )",mean swipe method scroll leave swipe right swipe,2017-02-06 09:17:23,imranreee,test_Appium,0,0,1,0,method swipe,[118]
+773,774,my bad,bad,2017-02-06 09:18:46,coding-yogi,test_Appium,0,0,1,1,,"[118, 119]"
+774,775,don't use that code,dont use code,2017-02-06 09:18:51,coding-yogi,test_Appium,0,0,1,1,code use,"[118, 119]"
+775,776,use touch actions,use touch action,2017-02-06 09:18:56,coding-yogi,test_Appium,0,0,1,1,"action touch, to use, touch use","[118, 119]"
+776,777,[<-LINK->],,2017-02-06 09:18:58,coding-yogi,test_Appium,0,0,1,1,,"[118, 119]"
+777,778,"because where ever there is swipe code, I see the comment that its deprecated and will be removed",ever swipe code see comment deprecate remove,2017-02-06 09:20:06,coding-yogi,test_Appium,0,0,1,0,code swipe,[118]
+778,779,better to use touchActions than breaking your code at later point of time,better use touchactions break code later point time,2017-02-06 09:20:25,coding-yogi,test_Appium,0,0,1,0,"later point, r u, to use, touch use, touchaction use",[118]
+779,780,Thanks a lot@aniket-21for you replay,thank replay,2017-02-06 09:23:40,imranreee,test_Appium,0,0,1,0,,[118]

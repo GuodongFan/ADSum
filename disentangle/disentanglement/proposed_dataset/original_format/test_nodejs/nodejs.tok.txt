@@ -1,0 +1,750 @@
+<s> <user> <unka<> > how are npm modules going to work when there are many different yearly versions of javascript ? </s>
+<s> <user> <unk#a<> > <unka> : there is <unka> ( [ <unka-<> -> ] ) to warn about compatibility </s>
+<s> <user> <unka<> > guy 's , anyone could help me out . need to create a nodejs application with html and css . is there anything that i go through and do <unk!.?> </s>
+<s> <user> <unka<> > <unk#a> : engines could work but it does n't seem to be used much . i 'm also thinking about the use of npm for frontend modules . it seems like we are going to need to have better tracking of javascript version or we 'll be in javascript version hell , or be stuck with publishing only <unk#a> modules forever . </s>
+<s> <user> <unk#a<> > <unka> : i 'm fine with <unk#a> . but as an example of a variation - <unka-> are published as is and if you need to use them in other environments you need to use only single <unka-> </s>
+<s> <user> <unka<> > <unk#a> : that works if you know a specific module or set of modules is pure <unk#a> or <unk#a> but seems like we need a more general solution for module consumers to know which version of javascript a module uses . </s>
+<s> <user> <unka<> > rather than making it a concern of newer modules to covert for older consumers the older consumers could just convert newer modules that they wish to use . </s>
+<s> <user> <unka<> > then we could all publish pure <unk#a> modules and a platform that can run <unk#a> is n't stuck with <unk#a> . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <- i took in this project and wanted to understand how to play with node js . i wanted to add to a page the system information . what would be a good suggestion on a guide to help me ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] ? </s>
+<s> <user> <unk#a<> > or os </s>
+<s> <user> <unka<> > os </s>
+<s> <user> <unk#a<> > ( i do hope you saw the link on the side of that that says <unka'> ) </s>
+<s> <user> <unka<> > hello </s>
+<s> <user> <unka<> > i 'm having this issue <unka'> install' </s>
+<s> <user> <unka<> > npm warn <unka> skipping optional dependency : unsupported platform <unka_> <unk#a.:@_> wanted <unk"{> <unka",:> " } ( current : <unk"{> <unk#a",:> " }) </s>
+<s> <user> <unka<> > please house to fix it ? </s>
+<s> <user> <unka<> > hey guys i am using <unka> 2 as my client side , express <unka+> at server and want to use <unka> as my db ,, so hw can i get started ?? </s>
+<s> <user> <unka<> > when i try to retrieve the <unka.> from my server i dont get the value : </s>
+<s> <user> <unka<> > <unka'(,.:[]{> app <unka',> end dev' <unk);]}> </s>
+<s> <user> <unka<> > i need to <unka> <unka.> in my client side ... when i retrieve name i get it but how can i retrieve <unka.> </s>
+<s> <user> <unk#a<> > <unka> : can you explain better " i need to <unka> <unka.> in my client side ... when i retrieve name i get it but how can i retrieve <unka.> " ? </s>
+<s> <user> <unka<> > <unk#a> : i have a <unka> with basic files not exactly working one .. </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka"*=> data of data " ? maybe change the name of local var to not clash with data </s>
+<s> <user> <unka<> > <unk#a@> not a problem on the client side , the problem is in <unka(.> ) </s>
+<s> <user> <unka<> > <unk#a> : m new to node so not getting how to send the information </s>
+<s> <user> <unk#a<> > <unka'(,.:[]{> app <unka',> end dev' <unk);]}> <-- this is ok </s>
+<s> <user> <unk#a<> > try to query the route with postman and check if the returned object 's props </s>
+<s> <user> <unka<> > <unk#a> : then why is <unka.> or say <unka.> is not getting retrieved it gives an error : cannot find a differ supporting object <unka'[> <unka']> of type <unka',> . <unka> only supports binding to <unka> such as arrays . </s>
+<s> <user> <unka<> > cannot find a differ supporting object <unka'[> <unka']> of type <unka',> . <unka> only supports binding to <unka> such as arrays . </s>
+<s> <user> <unka<> > on <unka> to postman i got <unka":{> " : [" <unka",]> " : [" web app <unka",> end dev " <unk]}> </s>
+<s> <user> <unk#a<> > so nodejs part is ok , as you can see </s>
+<s> <user> <unk#a<> > the problem is inside client side code </s>
+<s> <user> <unk#a<> > i am not <unk#a> ninja , but i suppose you have to find a way to convert your data to array . maybe here : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > ok here is the answer : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > this one is your issue , see problem 1 </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] anyone have suggestions for a tool for this ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <unka'(.> , function ( ) { return <unka'(./> ) <unka(.> ) <unka(.> ) <unka'(-.> )) <unka'()./;`}> this will compile everything into a single js file that you can include in your html </s>
+<s> <user> <unk#a<> > ah cool :) </s>
+<s> <user> <unka<> > not sure why to code is n't formatted correctly but you get the idea </s>
+<s> <user> <unka<> > <unka> is for <unka> and stuff . not sure what libs you're using <unka> the main one you're looking for </s>
+<s> <user> <unka<> > <unk#a> : </s>
+<s> <user> <unk#a<> > i see </s>
+<s> <user> <unk#a<> > i did n't use anything yet </s>
+<s> <user> <unk#a<> > i just wrote few classes and setup ci and stuff , and made a tiny mock for window and document by hand just to keep it simple and before i go any further wanted to figure out how to do this step properly :) </s>
+<s> <user> <unk#a<> > so thank u very much , i have couple of things to read about now , thanks again :) </s>
+<s> <user> <unka<> > <unk#a> : yw </s>
+<s> <user> <unk#a<> > <unk#a> : <unka> is pretty easy too </s>
+<s> <user> <unk#a<> > cool :) thanks :) </s>
+<s> <user> <unka<> > guys , does anyone have an example of a rest post form uploading images with express ? ty </s>
+<s> <user> <unka<> > even scientists are unable to understand time and <unka.> hawking is researching about it . we might see the results soon ... o/ </s>
+<s> <user> <unka<> > hi guys , i 'm trying to install nodejs <unk#.> in an <unk#a.:> docker container , but i keep running in to this : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > node is there but i ca n't execute it </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : the last time i ran into that of <unka> i had to overwrite the old node directory </s>
+<s> <user> <unka<> > there 's no old node directory , this is my <unka> [ <unka-<> -> ] </s>
+<s> <user> <unka<> > and that 's it </s>
+<s> <user> <unka<> > <unka> : did you <unka> rm -f <unka$(> ps -a <unka)-> rebuild your containers ? </s>
+<s> <user> <unka<> > no , but that 's irrelevant , i 'm missing some glibc symbols , so i need to install some <unka> library package or something </s>
+<s> <user> <unka<> > but that 's a task for tomorrow , my work day is done here <unka):> a nice evening ya 'll </s>
+<s> <user> <unka<> > hello do you know how to create a https server and how to implement a payment system with credit cards ? </s>
+<s> <user> <unka<> > if you have a link it would be great </s>
+<s> <user> <unka<> > <unka> : for https and node , i personally go with a regular http express setup listening to some port on local host ( make sure you're not listening to 0.0.0.0 ) then i apply certbot ( letsencrypt ) https certificates through a web facing nginx proxy in nginx configuration . </s>
+<s> <user> <unka<> > <unka> : thank you , can you define quickly what are are <unka> , eff , web facing , nginx ? is it possible to use <unka> ec2 ? </s>
+<s> <user> <unka<> > i am really new to node , i have 1 month exp in the web ^^' </s>
+<s> <user> <unka<> > can anyone recommend a package that exports an api for getting from the npm registry a <unka.> by name ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] , obviously , duh .. </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > anybody using <unka> ? im getting an error when importing modules . not on my entry point but inside the module . im using <unk#a> with <unka> for <unka> . im getting this error on console when i <unka._> <unk#a@_> </s>
+<s> <user> <unk#a<> > this is more an error of what you're exporting </s>
+<s> <user> <unk#a<> > <unk#a> : </s>
+<s> <user> <unk#a<> > you're exporting an object , and you're declaring a constant inside the object </s>
+<s> <user> <unk#a<> > you do <unka.> = { <unka> : <unka> ... etc } </s>
+<s> <user> <unk#a<> > or </s>
+<s> <user> <unk#a<> > const config = { values }; <unka.> = config ; </s>
+<s> <user> <unk#a<> > ahhhh okay <unka_> <unk#a@_> </s>
+<s> <user> <unk#a<> > ill try that and see if it works </s>
+<s> <user> <unk#a<> > <unka-> : what do you exactly mean by a key system ? </s>
+<s> <user> <unka<> > <unka-> : for { key : value } system , <unka> URL/http:/ <unka./> <unka/\> URL/https:/ <unka./> </s>
+<s> <user> <unka<> > can i ask something about node.js + <unka.> here ? </s>
+<s> <user> <unka<> > go ahead </s>
+<s> <user> <unka<> > hey :) </s>
+<s> <user> <unka<> > so </s>
+<s> <user> <unka<> > not sure if i 'll be able to answer because class just started , but there are many capable and knowledgeable people here . </s>
+<s> <user> <unka<> > i am sending from the client side a messege to the server ( for a chat ) </s>
+<s> <user> <unka<> > but i am getting nan </s>
+<s> <user> <unka<> > so it is sending numbers </s>
+<s> <user> <unka<> > how do i send a string ? </s>
+<s> <user> <unka<> > can you post your code here ? </s>
+<s> <user> <unka<> > sorry that i posted it like this </s>
+<s> <user> <unk#a<> > you can edit and add <unk`> before and after the code to format it better </s>
+<s> <user> <unka<> > yes is saw it after </s>
+<s> <user> <unk#a<> > you can still go back and click edit ( right side of message by <unka> ) </s>
+<s> <user> <unka<> > oh ok </s>
+<s> <user> <unk#a<> > it 's accent ticks ( under the DIR/~/ ) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > did <unka.> connect on the client side ? </s>
+<s> <user> <unk#a<> > <unka> : </s>
+<s> <user> <unka<> > i am getting message : nan </s>
+<s> <user> <unka<> > i am just not getting the text i type in only numbers </s>
+<s> <user> <unk#a<> > look at this [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > what 's wrong in it ? </s>
+<s> <user> <unk#a<> > that 's the problem you have , right there </s>
+<s> <user> <unka<> > wups embarrasing .... </s>
+<s> <user> <unka<> > thanks for your time </s>
+<s> <user> <unk#a<> > you're welcome :) </s>
+<s> <user> <unk#a<> > i really need <unka> am using <unk#a> am confused about the flow . do ii need to set 2 html <unka> page login page with its own react login <unka> if it <unka> i send another html page , lets say welcome page <unka> own <unka> has to be one html page with unmounting login component and mounting welcome <unka> idea ? </s>
+<s> <user> <unka<> > <unk#a> : hey <unka> , i <unka> know if it will helps you but check my project on github [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka_> <unka@_> </s>
+<s> <user> <unk#a<> > let me take a look </s>
+<s> <user> <unk#a<> > i am using <unk#a_> <unka@_> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] e.g . [ <unka-<> -> ] how do you differentiate a sync from an async <unka?> me your secrets </s>
+<s> <user> <unka<> > yes ,i need to create a config file for production and dev december 8 , 2016 <unk#:> pm [ <unka-<> -> ] </s>
+<s> <user> <unka<> > what is the standard commenting format for javascript .. ? december 8 , 2016 <unk#:> <unka> from what <unka@> has showed december 8 , 2016 <unk#:> <unka> the following format for <unka> to document your code [ <unka-<> -> ] <unka> documentation <unka.\> </s>
+<s> <user> <unka<> > so anyone knows <unka> in <unka> the <unka> december 8 , 2016 <unk#:> <unka_> <unka@_> i 've not used whatsapp but i guess it must be either a simple character or a tiny mini <unka.> be nice if you could show your whatsapp convo ;) </s>
+<s> <user> <unka<> -> hello . does anyone have some knowledge why if i manually put files on mounted folder ( linux ), <unka(.> ) detects new file , if it is put in the same folder by <unka> via webdav , it does not recognize new file . can i do something ? </s>
+<s> <user> <unka<> -> tnx </s>
+<s> <user> <unka<> -> <unka-> : hello <unka_> <unka./@_> does anyone have some knowledge why if i manually put files on mounted folder ( linux ), <unka(.> ) detects new file , if it is put in the same folder by <unka> via webdav , it does not recognize new file . can i do <unka?> </s>
+<s> <user> <unka<> > ADDRESS_hi <unka@_> </s>
+<s> <user> <unka<> > hello everyone ! i was wondering if anyone has any knowledge of the <unka-> package ? </s>
+<s> <user> <unka<> > i have <unka"(-> " ) in one of my controller js files </s>
+<s> <user> <unka<> > but it seems to be passing in null for the root parameter and throwing the following exception : " <unka-> package can be used only in browser " </s>
+<s> <user> <unka<> > i 'm not entirely sure where it gets the root from ! </s>
+<s> <user> <unka<> > <unka> : i like to use <unka-> in my react projects </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hope it is helpful :) </s>
+<s> <user> <unka<> > anybody here have good insight on testing streams in node.js </s>
+<s> <user> <unk#a<> > i have a quick question : when developing for the cloud how do you split your local code from the cloud code in such a way that you do n't write too much local code ? </s>
+<s> <user> <unka<> > try to create a config file and set your environment while starting server </s>
+<s> <user> <unka<> > <unka> : you 'll certainly have to write doubles and spies streams . you can start there to understand the idea of creating a stream : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : how about in <unka.> stream = <unka().> a stream of output , bypassing the default output stream that writes messages <unka(.> ). by default stream will be a text stream of tap output , but you can get an object stream instead by setting <unka.> to <unka.`> </s>
+<s> <user> <unka<> > <unka> : i will check out your markdown file as well </s>
+<s> <user> <unk#a<> > im getting errors in my console when i try to run commands for <unka> </s>
+<s> <user> <unk#a<> > any help please </s>
+<s> <user> <unka<> > [ <unka-<> -> ] [ <unka-<> -> ] [ <unka-<> -> ] [ <unka-<> -> ] [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i wanna need beginner web developers for work <unka,> anyone interest </s>
+<s> <user> <unka<> > hi guys . i am trying to combine <unka> 2 with .net <unka> 5 and i seem to lack some basic understanding here regarding npm . i have so far only used <unk#a> combined with meteor so i did n't have to deal with this things ... do i need to have node.js on the server for deployment ? like locally in development i just install my packages with npm install etc . in <unka_> . but for deployment i do n't want to have node.js there , can i just bundle <unka_> somehow or how does it work ? </s>
+<s> <user> <unk#a<> > <unka> : i would assume where you are deploying would have node installed - for example on heroku you provide build instructions and your <unka.> file and it does the rest . i believe digital ocean works the same way . i have not done it in a while so i am recalling this from memory </s>
+<s> <user> <unka<> > <unka> : you need node at build time , and you should be deploying an archived tarball to production </s>
+<s> <user> <unka<> > i understand i need it at build time , but i would rather build it beforehand and then deploy the build . by now i am thinking about bundling the whole <unka_> using [ <unka-<> -> ] and then just include that file ... do you think that would work ? or how do you mean " deploying an archived tarball " , how would i do <unk#a?@> know how it works for <unka> , unfortunately this project is for a company for a client on a custom server and communicating them to install node.js and npm then do npm install etc . just makes it complicated for them and should be avoided at all costs </s>
+<s> <user> <unka<> > i appreciate your help by the way <unk#a@> </s>
+<s> <user> <unk#a<> > <unka> : are you deploying to a unix env ? </s>
+<s> <user> <unka<> > actually i am not even the one deploying so i do n't even know that , i just know it should be as easy as possible and therefore the frontend stuff should just be bundled and included and good to go . no prior extra work on the server needed , so it should n't even matter which server i deploy to ... </s>
+<s> <user> <unk#a<> > yeah that is tricky </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > i found that - so its possible to run package manager through a proxy - just not sure if its your solution </s>
+<s> <user> <unka<> > i actually got it runnng using <unka> . it gets an entry point and follows up all the import statements and creates a <unka> bundle out of that . this is freaking awesome . all i have to do in production now is include one single javascript file </s>
+<s> <user> <unka<> > <unk#a> : thanks though , i appreciate your effort ! </s>
+<s> <user> <unka<> > <unka> : you're definitely supposed to build , tar up the build , and then deploy that archive later </s>
+<s> <user> <unka<> > <unka> : which means you only need node to make the build . you do n't need it in production at all , unless you're using a node service </s>
+<s> <user> <unk#a<> > is there an easy way to get current function name ? i could <unka-> a new error and parse it from there ... ( yes it might be called <unka'> ) </s>
+<s> <user> <unka<> > <unk#a> : no but why would you want it </s>
+<s> <user> <unka<> > you're inside the function you wrote , so you can just reference it . </s>
+<s> <user> <unk#a<> > ya .... <unka> code snippets ... or just tags that reference where they are ... <unka> macros so ca n't really hide it as easily as c </s>
+<s> <user> <unka<> > what would be the use case ? </s>
+<s> <user> <unka<> > ( also , code snippets should never be blindly copied ) </s>
+<s> <user> <unka-<> > hi ! </s>
+<s> <user> <unka-<> > i need help installing nodejs </s>
+<s> <user> <unka-<> > i copied the extracted files to DIR/opt/ <unka/> , now what ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > thanks ! </s>
+<s> <user> <unka<> > or [ <unka-<> -> ] </s>
+<s> <user> <unka<> > anyone here with the wasd code keyboard ? </s>
+<s> <user> <unka-<> > how to get font proxima nova for free ? </s>
+<s> <user> <unk#a<> > <unka> : [ <unka-<> -> ] ? <unk#$.> list price - must be a great font </s>
+<s> <user> <unka-<> > <unk#a> : sorry , wrong group .... but tnx anyway </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hello , how can i call a function defined in the server side from the <unka?> have a grid that should be dynamically filled with different posts from a database , i am using a module for <unka> and thus would need to make an ajax request to the server so that it <unka> and returns the required information . </s>
+<s> <user> <unka<> > am i <unka> things ? kinda seems like it . </s>
+<s> <user> <unk#a<> > <unka> : if you are using template engines like <unka> or pug with express there are filters in <unka> which you can use in client side as well as <unka.> which are readily available in views for doing manipulation on data and returning formatted data [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i went with something different , since i wanted to do ajax i configured an endpoint , like so : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unk#a> : but my concern is now it not being secure and anyone who knows the path could retrieve said posts . maybe not a big security flaw , but you never know . so is there something to protect it ? </s>
+<s> <user> <unka<> > <unka> : you would have to put some authentication <unka> into your route to handle authentication , however this adds complexity to your application . have a look at <unka> [ <unka-<> -> ] its a very nice authentication library if you need <unka.> the posts are public <unka> leave it open and if <unka> worried about hammering your backend you could look at rate <unka-> [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : thank you ! i use <unka.> in my app and you're right , posts indeed are public . and thank you for the <unka-> module ! </s>
+<s> <user> <unk#a<> > hey guys , i am trying to add a image to my <unka> page , but it appears with a box with a x in it . what should i do next ? </s>
+<s> <user> <unk#a<> > besides <unka'> how can i get to global space ? ( global and root were removed between 5 and 6 ) </s>
+<s> <user> <unka<> > <unk#a> : <unka> the proper way , and is actually going to be standardized in the language soon </s>
+<s> <user> <unka<> > can anyone show me how to handle internal server error with nodejs please ? </s>
+<s> <user> <unka<> > 500 error </s>
+<s> <user> <unka<> > i would like to redirect user to a custom error page instead of displaying the default error page </s>
+<s> <user> <unk#a<> > <unka> : re <unka'> you answer sounds like 'no , there is no other way' ... but just to confirm . i 'm asking to patch obvious things so code does n't jailbreak the vm sandbox . when i started i know there was global but that went away , and seems there 's only really the one reference , or saving 'this' in the primary js file run ? there 's no <unka/> to return global ? </s>
+<s> <user> <unka<_> > hi ! </s>
+<s> <user> <unka<_> > is there a way to intercept with node all http requests that chrome is doing ? </s>
+<s> <user> <unk#a<> > <unka_> : maybe [ <unka-<> -> ] would help </s>
+<s> <user> <unk#a<> > hola mundo o/ </s>
+<s> <user> <unka<_> > thanks ! but i need to intercept that call and redirect it to somewhere else </s>
+<s> <user> <unka<_> > like a proxy </s>
+<s> <user> <unk#a<> > are you hacking the network ? </s>
+<s> <user> <unka<_> > nop </s>
+<s> <user> <unka<_> > its to my local i dont want to go to some places and i'd like to be redirected :) </s>
+<s> <user> <unka<> > <unk#a> : there 's <unka'(> <unka'()> ) </s>
+<s> <user> <unka<> > <unk#a> : but a vm does n't share <unka> the outer one </s>
+<s> <user> <unk#a<> > <unka_> : well , i think that 's more of a network topic there </s>
+<s> <user> <unka<> > <unka_> : yeah , you are looking for something like a mitm " attack " on your local network . :p </s>
+<s> <user> <unka<> > you can write a node mitm proxy client and proxy your browser traffic through that proxy .. so when man in the middle proxy intercept something , it will redirect you . </s>
+<s> <user> <unka<> > <unka_> : </s>
+<s> <user> <unka<> > like [ <unka-<> -> ] or [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > i 'll take a <unka._> <unka!@_> </s>
+<s> <user> <unk#a<> > hi team , i am implementing a tcp socket connections using net module .. here i am facing issue while receiving more data on the <unka'(.> ) event ... issue is : not able to get the data at a time , i am getting as chunks ?? </s>
+<s> <user> <unk#a<> > is there any builtin lib to do this job ?? please help me here </s>
+<s> <user> <unk#a<> > i got some help from stack overflow : [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > npm on windows cant seem to use a <unka_> folder installed inside a vagrant shared folder . why is that ? </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka-> : which version are you running of npm ? </s>
+<s> <user> <unka<> > i 've had same issue and solved this after reading up on similar issue on github . you need to change proxy settings within grunt also </s>
+<s> <user> <unka<> > i 'll look this up and paste the url to the solution </s>
+<s> <user> <unk#a<> > <unka-> : <unk#.> </s>
+<s> <user> <unka<> > <unka-> : take a look here </s>
+<s> <user> <unka<> > building this app with node : [ <unka-<> -> ] its almost complete :) </s>
+<s> <user> <unk#a-<> > <unka> : you fucking cunt .. you tried it </s>
+<s> <user> <unka<> > <unk#a-> : what ? lol </s>
+<s> <user> <unka<> > <unk#a-> : care to explain yourself ? </s>
+<s> <user> <unk#a-<> > nah mate . just stop being a cunt . nobody click on that link . he 's gathering your information if you log into that fake website . </s>
+<s> <user> <unka<> > has anyone here worked with <unka> before ? </s>
+<s> <user> <unka<> > i tinkered with it , yeah . not thorough though , just using it in place of sendmail . </s>
+<s> <user> <unka<> > i am trying to send email using it . it gives status code 250 . and no error but i never receive the email . </s>
+<s> <user> <unka<> > i have no idea what 's going <unka_> <unka@_> guesses ? </s>
+<s> <user> <unka<> > mind sharing your code ? </s>
+<s> <user> <unka<> > var <unka> = <unka(.{> : <unk#a',.> : <unk#a,> : true , use <unka> : <unka':_{> <unka',.:@_> <unka'_> <unk);}> [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > just a quick remark , the " from " line has an <unka> greater than sign . not sure if that does much . </s>
+<s> <user> <unka<> > i will check real quick . </s>
+<s> <user> <unka<> > i would n't expect any miracles from such a thing , but sure . </s>
+<s> <user> <unka<> > yeah . it did n't do anything </s>
+<s> <user> <unka<> > do you want to see my log message . if that makes any sense to you ? </s>
+<s> <user> <unka<> > uhh , any information could help , i guess . to be quite frank , i never used <unka> in a production environment , so my advice to you can be quite limited when it comes to mail servers etc . </s>
+<s> <user> <unka<> > ( if it 's a problem regarding that aspect ) </s>
+<s> <user> <unka<> > <unk#a-> : the site is no more :) heroku killed it </s>
+<s> <user> <unka<> > <unka> : i have nothing to loose ! you never know </s>
+<s> <user> <unka<> > <unk"{> <unk#a",.:@[]> ok <unk#a",-.:=@[]{}> " } </s>
+<s> <user> <unka<> > hmm . just tried to run locally . did n't send ... not using a mail server though , and pointing it to gmail , so i guess there 's some security involved ( if it 's sending at all ) </s>
+<s> <user> <unka<> > yeah i was getting auth issues both on gmail and outlook . </s>
+<s> <user> <unka<> > i have my website email account so i was using that . i can easily send email using the web portal from that website email . </s>
+<s> <user> <unka<> > when i use the credentials and smtp information it does n't work . </s>
+<s> <user> <unka<> > i will probably contact their technical support </s>
+<s> <user> <unka<> > <unka> : thank you so much for trying though </s>
+<s> <user> <unka<> > hopefully you 'll get some better results in doing so . best of luck . i 'll continue to fiddle with this though :p </s>
+<s> <user> <unka<> > have n't touched <unka> in quite some time , pretty useful </s>
+<s> <user> <unka<> > yeah it looks very promising . but i am guessing there is a firewall or something that is preventing it . </s>
+<s> <user> <unka<> > probably . your code looks fine to me . </s>
+<s> <user> <unk#a<~> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<~> > this is my todo app mongoose <unka:> <unka> = new <unka(.{> title : string , <unka> : <unk[{> text : string , completed : { type : boolean , default : false } <unka);]}> can i add multiple " <unka"> this kind of form ? </s>
+<s> <user> <unka<> > <unka> already a collection of items , is this a gui question ? </s>
+<s> <user> <unk#a<~> > how to add more selecting same todo title </s>
+<s> <user> <unk#a<> > use mongo <unka$> operator for pushing to <unka> array </s>
+<s> <user> <unk#a<~> > can you give me a example code for this , i am very new to node , kindly help </s>
+<s> <user> <unk#a<> > <unka> : this will solve your problem [ <unka-<> -> ] </s>
+<s> <user> <unka<> > there 's a model for the schema , right ? </s>
+<s> <user> <unk#a<~> > yes </s>
+<s> <user> <unk#a<~> > var <unka> = new <unka(.{> title : string , <unka> : <unk[{> text : string , completed : { type : boolean , default : false } <unka);]}> todo = <unka'(.> , <unka> ); </s>
+<s> <user> <unk#a<~> > <unk#a> : thank you so much !! </s>
+<s> <user> <unka<> > <unka> : meh , i 'm trying to avoid <unka> on the server side , i like the feature set node has . its just missing <unka/> and <unk#a> import </s>
+<s> <user> <unka<> > why ? </s>
+<s> <user> <unka<> > <unka> produces faster code , because old code is faster than new code . </s>
+<s> <user> <unka<> > thats interesting , i guess . is it like 100% faster ? or am i jumping through hoops and penny <unka> for 12% . </s>
+<s> <user> <unka<> > usually the performance bottlenecks of my services are something external from my service itself . like a data store or an external service that i have to call . </s>
+<s> <user> <unka<> > <unka> : i know this is true , but do you know if there are some benchmarks online ? </s>
+<s> <user> <unka<> > <unka> : i do n't know . but perf is the least important reason to avoid it . they're horrific for code <unka/> . </s>
+<s> <user> <unka<> > oh wait sorry , you're talking about <unka> not <unka/> </s>
+<s> <user> <unka<> > getting my wires cross </s>
+<s> <user> <unka<> > ed </s>
+<s> <user> <unka<> > yeah , sorry . should 've mentioned that . </s>
+<s> <user> <unka<> > i do n't think there 's benchmarks , no </s>
+<s> <user> <unka<> > but in general , it 's because new syntax has n't had time to be optimized like old syntax has . </s>
+<s> <user> <unka<> > ah , i see . normally , you'd think the native way is the fastest way , but certainly not in this case ... so newer versions of node that run old code are just as good as old versions of node , right ? </s>
+<s> <user> <unka<> > typically better . never worse . </s>
+<s> <user> <unka<> > alright , cool . thanks </s>
+<s> <user> <unka<> > hi all . i 'm trying to install the latest version of nodejs on ubuntu , and am having problems . i 've got the tar file ( <unk#a-.> ) copied to my downloads directory ... but i 'm not sure how to install it from there . any suggestions ? </s>
+<s> <user> <unka<> > by the way , i tried to install using npm , but it seems to install an earlier version ( <unk#.> ) </s>
+<s> <user> <unka<> > did you t ry apt-get ? </s>
+<s> <user> <unka<> > sudo apt-get install <unka> </s>
+<s> <user> <unka<> > sudo apt-get install nodejs </s>
+<s> <user> <unka<> > i did , but it installs the same <unk#.> version that i already have </s>
+<s> <user> <unka<> > <unka> : check [ <unka-<> -> ] </s>
+<s> <user> <unka<> > do n't use apt to install node . </s>
+<s> <user> <unka<> > install from source , or use [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : ^ </s>
+<s> <user> <unka<> > ( and you ca n't install node with npm in a meaningful way ) </s>
+<s> <user> <unka<> > hi ... i am learning nodejs from <unka> .... there 's a task in it called <unka> , whose right code is [ <unka-<> -> ] while i am doing something exactly same , but my answer is different , it does n't work in sync - [ <unka-<> -> ] please can someone tell me where the problem is </s>
+<s> <user> <unka<> > hi ... i am learning nodejs from <unka> .... there 's a task in it called <unka> , whose right code is [ <unka-<> -> ] while i am doing something exactly same , but my answer is different , it does n't work in sync - [ <unka-<> -> ] please can someone tell me where the problem is </s>
+<s> <user> <unka<> > <unk#a> : what is the error are getting ??? </s>
+<s> <user> <unka<> > actually i was having trouble to print the response in sequence ( in the order , the urls were <unka).> , found some help in <unka> <unka> community ... [ <unka-<> -> ] anyways thanks for ur reply <unka@> </s>
+<s> <user> <unka<> > <unka_> <unk#a@_> </s>
+<s> <user> <unka<> > yo </s>
+<s> <user> <unka<> > dunno , i went with the web developer bootcamp on <unka> , i was very happy with it and it was only 15 </s>
+<s> <user> <unka<> > now doing advanced react and <unka> </s>
+<s> <user> <unka<> > hmm awesome ... </s>
+<s> <user> <unka<> > is this bootcamp good ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] a great value for that kind of money , it goes through front end and back end . </s>
+<s> <user> <unka<> > and right now it is only 10 </s>
+<s> <user> <unka<> > awesome , thanks for sharing :d </s>
+<s> <user> <unka<> > <unka> : thanks also for the heads-up on that course </s>
+<s> <user> <unka<> > ad . everywhere </s>
+<s> <user> <unka<> > awesome </s>
+<s> <user> <unka<> > is there a way to install the fs module independently from the whole node framework ? </s>
+<s> <user> <unka<> > <unka> install <unka> or something </s>
+<s> <user> <unk#a<> > <unka> being the built in one ? </s>
+<s> <user> <unka<> > i want it to be the built in one </s>
+<s> <user> <unk#a<> > then it is always going to be in there </s>
+<s> <user> <unk#a<> > do not require fs in dependencies . </s>
+<s> <user> <unk#a<> > you do n't get what you expect </s>
+<s> <user> <unka<> > well , <unka> using <unka> for an electron app and <unka(> ) <unka> work , so i was thinking of doing <unka> install <unka:> " </s>
+<s> <user> <unk#a<> > npm fs : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > but please let me know when you solve as i am about to use electron and will need file system access </s>
+<s> <user> <unka<> > yeah i know <unka> not the one <unka> looking for .. basically i wanna know what its real name is </s>
+<s> <user> <unka<> > ( if it exists as its own package ) </s>
+<s> <user> <unka<> > <unka> used fs with an electron app before , you can do <unka> fs = <unka()> just like any node app . <unka> using <unka> framework with this app , and it uses <unka> and <unka> for package management . <unka> <unka> causing problems for me :/ </s>
+<s> <user> <unk#a<> > ah ok , no idea sorry </s>
+<s> <user> <unka<> > sure , thanks anyway :) </s>
+<s> <user> <unka<> > hello im making somekind of social network with nodejs . is any1 interested in <unka> ? </s>
+<s> <user> <unka<> > <unka> : how much you gonna pay me ? :-p </s>
+<s> <user> <unka<> > <unka> : its open code ... </s>
+<s> <user> <unka<> > :d </s>
+<s> <user> <unka<> > are you unaware that facebook exists ? </s>
+<s> <user> <unk#a<> > ^ </s>
+<s> <user> <unka<> > <unka> : as long as i get half when it makes billions :) </s>
+<s> <user> <unka<> > yea ill join </s>
+<s> <user> <unka<> > how rude you guys are </s>
+<s> <user> <unka<> > itll take like 5 seconds of your life </s>
+<s> <user> <unka<> > take a time into look into this problem , code written in node with twitter api . [ <unka-<> -> ] </s>
+<s> <user> <unka<> > anybody here to help me ? </s>
+<s> <user> <unka<> > most likely so . </s>
+<s> <user> <unka<> > i have a noob problem related to twitter api , i 've wrote a twitter bot in node , here is link to my actual question : [ <unka-<> -> ] , and this is link to code : [ <unka-<> -> ] , please read the full description in first link .. </s>
+<s> <user> <unka<> > i personally ca n't really say . only used the twitter module for taking in data from a stream , not posting anything back ... maybe someone else here with some practical experiencing using the twitter api might be able to help out . </s>
+<s> <user> <unka<> > hi , do you have good examples of the library " <unka> " ? [ <unka-<> -> ] </s>
+<s> <user> <unka<> > hi , on my website i want to display 5 items per page . is it possible on <unka> to retrieve only 5 items if i go directly to the page 10 for instance ? </s>
+<s> <user> <unka<> > does this mean i shuld never make the queries in the controllers ? </s>
+<s> <user> <unka<> > idk if its a stupid question </s>
+<s> <user> <unka<> > but i feel its more <unka> to make them in the same layer of the models </s>
+<s> <user> <unka<> > idk tbh . i guess it\ 's a matter of style ... i <unka'\> use mongoose or mongodb anymore so i <unka'\> know any " recommended " style </s>
+<s> <user> <unka<> > why do n't you use mongodb ? </s>
+<s> <user> <unka<> > anyone tried <unka.> before ? </s>
+<s> <user> <unka<> > i moved on to postgres . i experienced database corruption a few times while using mongo , and it was n't pretty . </s>
+<s> <user> <unka<> > <unka.> . now that 's why i am moving to <unka.> built in . </s>
+<s> <user> <unka<> > so i 've been digging around , and i ca n't seem to find a planned features roadmap , so my question is , when is <unka/> supposed to drop ? </s>
+<s> <user> <unka<> > <unka> : <unka/> is supposed to land in v8 lts in march , node.js <unka'\> get it right away , though it\ 's already available behind the " <unka-> " flag in node 7 </s>
+<s> <user> <unka<> > ah , interesting , i did n't know it was available behind harmony , but march then , sweet </s>
+<s> <user> <unka<> > i 'll plan rewrites accordingly haha </s>
+<s> <user> <unka<> > do n't use the harmony flag ever </s>
+<s> <user> <unka<> > the <unka/> implementation behind the harmony flag has a ton of memory leaks and bugs </s>
+<s> <user> <unka<> > the harmony flag is for broken features - if it was reliable in production , it'd be <unka> . </s>
+<s> <user> <unka<> > harmony is for <unka-> features , horribly broken features get their own separate flags . it does have a bunch of memory leaks and bugs though , so do n't use <unka> production . </s>
+<s> <user> <unka<> > " <unka-> " <unka'\> a spectrum </s>
+<s> <user> <unka<> > either way , the harmony flags are for testing v8 . they're not meant for production use , and you're a bad person if you use them . </s>
+<s> <user> <unka<> > dumb node question </s>
+<s> <user> <unka<> > initializing this : var arguments = { command : "" <unka,> : "" } </s>
+<s> <user> <unka<> > but then i <unka> through an array and set the variables . but after the loop , in debug arguments seem to get set back to the <unka> values or are never changed </s>
+<s> <user> <unk#a<> > there 's no dumb node question . node is awesome . </s>
+<s> <user> <unka<> > i think i need to pass in the variable </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > why does n't this work ? </s>
+<s> <user> <unk#a<> > im mobile and i ca n't see the right half of this code </s>
+<s> <user> <unk#a<> > what are the arguments ? </s>
+<s> <user> <unk#a<> > i see val and index </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i just want to set the arguments object that 's defined there </s>
+<s> <user> <unka<> > in this loop </s>
+<s> <user> <unk#a<> > if you defined arguments outside ( which in my opinion is a bad way to name a variable due to the global arguments object from function ), why are you <unka.> ? maybe it 's not working cuz it 's thinking it 's <unka> from the function itself </s>
+<s> <user> <unka<> > <unka> : thisis referring to the function 's context , i think . </s>
+<s> <user> <unk#a<> > try naming it different from arguments ( maybe use args , for example ), and access it the normal way ( <unka.> = val , etc ) </s>
+<s> <user> <unka<> > well <unka> taht in there because it did n't set it </s>
+<s> <user> <unk#a<> > <unka> : </s>
+<s> <user> <unka<> > i will name it <unka> </s>
+<s> <user> <unka<> > yeah , arguments is a reserved keyword . </s>
+<s> <user> <unka-<> > hello anyone knows how i can console log the progress of a <unka> ? </s>
+<s> <user> <unka<> > <unka-> : using <unka> event handler ? </s>
+<s> <user> <unka<> > ( <unk#a):> error : ( <unka> ) <unka> error ( 404 not found ) loading [ <unka-<> -> ] error : <unka> error ( 404 not found ) loading [ <unka-<> -> ] at <unka.> [ as <unka_> ] ( [ <unka-<> -> ] ) at <unka.> ( [ <unka-<> -> ] at <unka.> ( [ <unka-<> -> ] ) at <unka.> ( [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i am getting this error </s>
+<s> <user> <unk#a<> > <unka> : it looks like your server ca n't find your client </s>
+<s> <user> <unk#a<> > what is your filepath ? are you using express </s>
+<s> <user> <unka<> > <unka> </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > this is my <unka.> </s>
+<s> <user> <unk#a<> > typically you would need to write <unka'./> in the <unka.> line </s>
+<s> <user> <unk#a<> > how are your files structured ? do you have a client and server folder ? and the <unka.> is within the server folder ? </s>
+<s> <user> <unka<> > error : failed to lookup view " index.html " in views directory " <unka:\> <unka./\> " </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > okay awesome </s>
+<s> <user> <unk#a<> > so is your <unka.> in a folder ? or just within the root ? </s>
+<s> <user> <unka<> > root </s>
+<s> <user> <unk#a<> > okay cool </s>
+<s> <user> <unk#a<> > what os are you using btw ? </s>
+<s> <user> <unka<> > windows </s>
+<s> <user> <unk#a<> > okay </s>
+<s> <user> <unka<> > i guess ts is not generating js file </s>
+<s> <user> <unk#a<> > i use mac so i do n't know if there is a difference in filepath . but you are supposed to preface a filepath with <unka'./> in <unka.> , it looks like you have everything in an app folder in client </s>
+<s> <user> <unk#a<> > do you need to serve up <unka'/> instead of just client </s>
+<s> <user> <unka<> > <unka(._> , <unka'/> <unk);> </s>
+<s> <user> <unka<> > like this ? </s>
+<s> <user> <unk#a<> > yea , try that </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unka<> > not working </s>
+<s> <user> <unk#a<> > you do n't always have to use <unka.> as well . you can serve up with <unka(.> ) </s>
+<s> <user> <unk#a<> > based off your error codes , it just looks like the files are quite connecting based off the filepath . </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > so one of my apps loads the client successfully by the <unka'(.:`> .. <unka'/> )); </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > the two dots represent climbing out a folder layer . my <unka.> is inside of a server folder . that server folder is <unka> by the root folder . the client is in that same layer , thus the two dots . i understand it 's different for windows so i ca n't help with an exact translation . </s>
+<s> <user> <unka<> > should i create server folder ? </s>
+<s> <user> <unk#a<> > it is a matter of preference . for me i always have a client folder and a server folder . i house my <unka.> along with the controllers , models , and db folders to properly route to the database . it is n't necessary but as your app complicates , it is nice to have </s>
+<s> <user> <unka<> > ok </s>
+<s> <user> <unk#a<> > in order to serve up your client properly , i recommend you check out the express documentation . read up more on <unka.> , <unka.> etc . to get a better understanding of serving your <unka./:> out routing </s>
+<s> <user> <unka<> > <unk#a> : no change same error </s>
+<s> <user> <unk#a<> > <unka> : are you typing <unk#a./:> into your url ? this is not how you access your js files . you need to use your html files . if you route it correctly , you should be able to view your index.html from <unk#a:> . the js files need to be sourced through your index.html with a script tag , typically at the end of the <unka<> > . you ca n't try to view the js file in your browser , rather it is not going to give you the result you are looking for </s>
+<s> <user> <unka<> > <unka> : the server address is different from the file system directories . you need to set up a route matching your request url and execute the code when the route is requested </s>
+<s> <user> <unka<> > hi how can i implementation some primary execution queue to run <unka(> )? </s>
+<s> <user> <unka<> > well [ <unka-<> -> ] seems to be what i 'm looking for </s>
+<s> <user> <unka-<> > hi anybody keen to help me with a twitter bot that tweets <unka> ? i need to know how to access data that the api returns : [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > how do i get the cost or city value for example ? </s>
+<s> <user> <unk#a<> > <unka-> : if its the json you can just parse response and access it using [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > ADDRESS_hi <unk#a@_> believe it 's json , do i need to specify the value of <unk#a[> ] ? </s>
+<s> <user> <unka-<> > currently i 'm getting <unk`> <unka(.> , { depth : 8 <unk);}> <unka^> : cannot read property <unka'> of undefined at <unk#a.:\> at <unka._> ( <unk#a-.:\_> ) at <unka.> ( <unk#a.:\_> ) at <unka> ( <unk#a.:> ) at <unka.> ( <unk#a.:> ) at <unka.<> > ( <unk#a.:\_> ) at <unka> ( <unk#a.:> ) at <unka.> ( <unk#a.:> ) at <unka.<> > ( <unk#a.:\_> ) at <unka.> ( <unk#a).:`> </s>
+<s> <user> <unk#a<> > <unka-> : it must be <unka.> </s>
+<s> <user> <unka-<> > <unka.> ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk`> </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > can i use your code to replace the console log in the else function ? </s>
+<s> <user> <unk#a<> > yes absolutely </s>
+<s> <user> <unk#a<> > go step by step first <unka.> and then nest it again <unka.> </s>
+<s> <user> <unka-<> > sorry i 'm not quite there yet . </s>
+<s> <user> <unka-<> > <unk#a> : could you do me a huge favor and add the code here : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka_> <unka-@_> [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk#a> : you are awesome , thank you ! i will try it now </s>
+<s> <user> <unka-<> > <unk#a> : thanks buddy ! it works perfectly </s>
+<s> <user> <unka-<> > hi anybody keen to help me with a twitter bot that tweets <unka> ? i need to know how to access data that the api returns : [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > how do i get the cost or city value for example ? </s>
+<s> <user> <unk#a<> > <unka-> : if its the json you can just parse response and access it using [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > ADDRESS_hi <unk#a@_> believe it 's json , do i need to specify the value of <unk#a[> ] ? </s>
+<s> <user> <unka-<> > currently i 'm getting <unk`> <unka(.> , { depth : 8 <unk);}> <unka^> : cannot read property <unka'> of undefined at <unk#a.:\> at <unka._> ( <unk#a-.:\_> ) at <unka.> ( <unk#a.:\_> ) at <unka> ( <unk#a.:> ) at <unka.> ( <unk#a.:> ) at <unka.<> > ( <unk#a.:\_> ) at <unka> ( <unk#a.:> ) at <unka.> ( <unk#a.:> ) at <unka.<> > ( <unk#a.:\_> ) at <unka.> ( <unk#a).:`> </s>
+<s> <user> <unk#a<> > <unka-> : it must be <unka.> </s>
+<s> <user> <unka-<> > <unka.> ? </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk`> </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > can i use your code to replace the console log in the else function ? </s>
+<s> <user> <unk#a<> > yes absolutely </s>
+<s> <user> <unk#a<> > go step by step first <unka.> and then nest it again <unka.> </s>
+<s> <user> <unka-<> > sorry i 'm not quite there yet . </s>
+<s> <user> <unka-<> > <unk#a> : could you do me a huge favor and add the code here : [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka_> <unka-@_> [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk#a> : you are awesome , thank you ! i will try it now </s>
+<s> <user> <unka-<> > <unk#a> : thanks buddy ! it works perfectly </s>
+<s> <user> <unka-<> > <unk#a> : thanks buddy ! it works perfectly </s>
+<s> <user> <unk#a<_> > my gcc version is below than required for <unka> . should i upgrade gcc or is there any other way ? </s>
+<s> <user> <unk#a<> > gcc the compiler ? </s>
+<s> <user> <unk#a<_> > yeah </s>
+<s> <user> <unka<> > you should probably upgrade gcc . </s>
+<s> <user> <unka<> > but you do n't need a binary module for <unka> </s>
+<s> <user> <unka<> > find a pure js one </s>
+<s> <user> <unk#a<> > ah that makes sense , i was wondering what you needed a c compiler for nodejs </s>
+<s> <user> <unk#a<_> > what you mean by pure js one jordan ? </s>
+<s> <user> <unk#a<_> > i have <unka> but need to change it to <unka> . installed <unka> without any errors , but after that when running <unka.> , i got this error </s>
+<s> <user> <unk#a<_> > error : compilation of <unka> has failed and there is no pre-compiled binary available for your system . please install a supported c++11 compiler and reinstall the module <unka'> . </s>
+<s> <user> <unk#a<_> > <unk#a> : <unka@> can i do without binary ? </s>
+<s> <user> <unka<> > actually maybe just <unka> </s>
+<s> <user> <unka<> > <unka*> </s>
+<s> <user> <unka<> > altho [ <unka-<> -> ] works too </s>
+<s> <user> <unk#a<> > choosing another library would be a good idea . the purpose of using a package manager like <unka> is so that your dependancies are automatically managed . using a module that requires a binary reduces that ease of use . </s>
+<s> <user> <unk#a<_> > but i need to use <unka> , because its more scalable and faster </s>
+<s> <user> <unk#a<_> > i have this <unka;> socket = <unka'().;> express = <unka(> <unka'> <unka);> http = <unka(> <unka'> <unka);> app = <unka();> <unka> = new <unka({> port : 50000 <unk);}> </s>
+<s> <user> <unka<> > why is it " more scalable and faster " </s>
+<s> <user> <unk#a<_> > explained here [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unk#a_> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > the result that seems to have worked there was to use npm cache clean , and set <unka> to ws </s>
+<s> <user> <unk#a<_> > hmm , but i am nt using " <unka> " , have <unka;> socket = <unka'().\> ; </s>
+<s> <user> <unk#a<_> > on the installation requirements on <unka> , it says gcc version should be min 4.8 , mine is 4.4 i think thats the problem ? </s>
+<s> <user> <unka<> > so , you're just believing the readme of a project blindly telling you it 's faster ? :- ) </s>
+<s> <user> <unka<> > do n't worry about what 's more scalable than what you're using until you need to scale past it . </s>
+<s> <user> <unk#a<_> > no , have more . wait a sec </s>
+<s> <user> <unka<> > <unk#a_> : that sounds like the problem </s>
+<s> <user> <unka<> > try <unka> gcc </s>
+<s> <user> <unk#a<_> > jordan : [ <unka-<> -> ] look at the first answer </s>
+<s> <user> <unk#a<_> > <unka> : -bash : <unka> : command not found </s>
+<s> <user> <unka<> > i wasnt giving you a command to run </s>
+<s> <user> <unk#a<_> > i dont have sudo or yum , is that a problem </s>
+<s> <user> <unk#a<> > what os are you using ? </s>
+<s> <user> <unk#a<_> > whats the command to check ? </s>
+<s> <user> <unk#a<> > <unka> be what ever you installed on your machine </s>
+<s> <user> <unk#a<_> > i have online web server from hosting company </s>
+<s> <user> <unk#a<> > like is it <unka> , ubuntu , mint . ie what version of linux have you installed </s>
+<s> <user> <unk#a<> > ooh </s>
+<s> <user> <unk#a<> > if its debian based , then <unka-> update gcc </s>
+<s> <user> <unk#a<_> > how can i check whether its ubuntu or debian </s>
+<s> <user> <unk#a<> > but you might need sudo access </s>
+<s> <user> <unk#a<_> > -bash : apt-get : command not found </s>
+<s> <user> <unk#a<> > <unka> not really sure about updating on any other platform . </s>
+<s> <user> <unk#a<_> > ok lets forget updating gcc , what you meant by using pure js ? </s>
+<s> <user> <unk#a<_> > not needing binary </s>
+<s> <user> <unk#a<> > i think <unka> just refering to using a different module </s>
+<s> <user> <unk#a<_> > ok </s>
+<s> <user> <unk#a<_> > anyone here using <unka> <unka_> <unk#a@_> </s>
+<s> <user> <unka<> > is it possible to create an instance of <unka> or one should <unka.> that purpose ? i was wondering if there is a way to build such object directly from each url components ( host , protocol ... ) rather than using a plain string for that purpose ? </s>
+<s> <user> <unka<> > can someone help me to send a result to the <unka?> normal way i go is to respond with results [ <unka-<> -> ] but now iam working <unk#a-./:> the functions are not giving a normal response as return but inside itself [ <unka-<> -> ] how can i send the data result to my client inside this svn function ? </s>
+<s> <user> <unk#a<_> > does nodejs requires access modifiers like other languages ? private , protected , public ? or if i create another module the functions and variables outside the range of exports is automatically private ? </s>
+<s> <user> <unka<> > yes to the second statement </s>
+<s> <user> <unk#a<_> > so no need different access modifiers <unk#a> ? </s>
+<s> <user> <unka<> > right </s>
+<s> <user> <unka<> > is anyone here ? </s>
+<s> <user> <unka<> > just ask your question and if anyone is around that can help they will do so :) </s>
+<s> <user> <unka<> > hi </s>
+<s> <user> <unka<> > anybody here ? </s>
+<s> <user> <unk#a<> > many are ; but usually respond to meaningful questions </s>
+<s> <user> <unk#a<_> > any tool to test tls connections to server ? </s>
+<s> <user> <unka<> > <unk#a_> : check this [ <unka-<> -> ] </s>
+<s> <user> <unk#a<_> > was looking for any windows tool </s>
+<s> <user> <unk#a<> > how to add unique id to field declared as array in mongoose i know this can work if we define schema for array field but how can this be done without defining schema for array field [ <unka-<> -> ] </s>
+<s> <user> <unk#a<_> > suppose i got two modules and one app entry point where all modules are loaded . how to check from module 2 that module 1 is loaded on the entry point or not </s>
+<s> <user> <unka<> > module are loaded as soon as you require them and usually you want to do that once at the top of your app entry point </s>
+<s> <user> <unka<> > 1 </s>
+<s> <user> <unka<> > hello <unka,> need your help ! <unka> trying to use dropbox api [ <unka-<> -> ] i have the list of file when i get but how i could have a link of this files for accessing to <unka?> ;) </s>
+<s> <user> <unka<> > hi there </s>
+<s> <user> <unka<> > not <unka> is the right chat , but when should i be using arrow functions and when should i not ? </s>
+<s> <user> <unka<> > arrow functions are made to preserve the parent context . so if you're inside a method of a class and need to access its context without creating a var self = this ; variable , you should probably use arrow <unka_> <unka@_> </s>
+<s> <user> <unka<> > also for quick expressions <unka> <unka> = a = > a * 10000 </s>
+<s> <user> <unka<> > is this the room to talk about contributing ? </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > i follow <unka> lecture but ran into this problem and have n't got a clue why . does someone see something that i 'm missing within my code ? all help would be appreciated . </s>
+<s> <user> <unk#a<> > check function have property <unka'> </s>
+<s> <user> <unk#a<> > i think you do n't exports it </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk#a> : the push is within the <unka> function to the bottom . </s>
+<s> <user> <unka-<> > <unk#a> : as for exports . i thought i did it right . <unka.> is used to export the file ( model ) out into <unka> as it 's called on the top . i also added it to <unka.> incase that was also an issue . </s>
+<s> <user> <unk#a<> > your connection with mongodb is still live ? </s>
+<s> <user> <unka-<> > <unk#a> : yup . would copy and past but it 's seriously long . </s>
+<s> <user> <unk#a<> > can i show it on teamviewer </s>
+<s> <user> <unk#a<> > ? </s>
+<s> <user> <unka-<> > sorry , what is teamviewer ? if it 'll help i wo n't mind showing it anywhere . just trying to figure out how this problem occured . </s>
+<s> <user> <unka-<> > <unka> : gist ? </s>
+<s> <user> <unk#a<> > ok you can upload it on github </s>
+<s> <user> <unk#a<> > and i can help you debug </s>
+<s> <user> <unka-<> > okay . give me a minute while i upload it . </s>
+<s> <user> <unka-<> > <unk#a> : [ <unka-<> -> ] </s>
+<s> <user> <unka-<> > <unk#a> : thank you for spending your time to help me with this . </s>
+<s> <user> <unk#a<> > no problem </s>
+<s> <user> <unk#a<> > :)) </s>
+<s> <user> <unk#a<> > ok </s>
+<s> <user> <unk#a<> > i can <unka> it </s>
+<s> <user> <unka-<> > <unk#a> : wait i 'm confused . so it not suppose to be err first but instead last ? </s>
+<s> <user> <unk#a<> > it 's simple </s>
+<s> <user> <unk#a<> > you can check param into create function </s>
+<s> <user> <unka-<> > <unk#a> : just confused since in everything ( including <unka> video ) it 's always ( err , <unka> ) </s>
+<s> <user> <unk#a<> > you can see it </s>
+<s> <user> <unk#a<> > in <unka> video he use node version ? </s>
+<s> <user> <unka-<> > i believe so . the code i have is exactly what <unka> used . </s>
+<s> <user> <unka-<> > although for some reason i ran into this error . i went back to all his videos multiple times but i do n't see any difference to what i 've written . </s>
+<s> <user> <unk#a<> > becaues i never use like this </s>
+<s> <user> <unk#a<> > do n't believe that =.= </s>
+<s> <user> <unka-<> > interesting . i did n't know there was other alternatives when mentioning ( err , variable ). i thought that was the set to always be that way </s>
+<s> <user> <unka-<> > possibly should join <unk#a> so i can access his documents to compare . going to change it to the format you did and see what happens . </s>
+<s> <user> <unka-<> > <unk#a> : wow it worked . thanks but now this just blew my mind haha </s>
+<s> <user> <unk#a<> > wait </s>
+<s> <user> <unk#a<> > i need a minute to check it </s>
+<s> <user> <unka-<> > no problem . this is a learning curve for me . since this is a first seeing them in reverse order . </s>
+<s> <user> <unka-<> > <unka> : seems like i ca n't find it online as well . but from the results i 'm getting it seems that -r may be an abbreviation of require </s>
+<s> <user> <unka<> > yes it is , <unka!#./:_> </s>
+<s> <user> <unka-<> > <unka> : np :) </s>
+<s> <user> <unka-<> > <unka> : also thanks for the link . saving it </s>
+<s> <user> <unk#a<> > i 'm starting a <unka-> application that will be 90% front-end . i will however need a small bit of back-end to safely <unka/> data . assuming my user is signed in using google on the index page , and that the app sends a <unka/> request to another page ( the back-end ), will i be able to use the google session on that back-end page to authenticate the request ? </s>
+<s> <user> <unka<> > <unk#a> : yes . i recommend <unka> </s>
+<s> <user> <unk#a<> > thank ADDRESS_you <unka,@_> i will look into it . </s>
+<s> <user> <unk#a<~> > interesting question : do you publish packages to npm <unka> from <unk#a> -> <unk#a> , or should the people <unka> it themselves when using them in an <unk#a> environment ( especially interesting for browser based packages )? what do you think ? </s>
+<s> <user> <unka-<> > hello everyone . if someone can please explain to me what 's the difference between <unka._> , <unka.> and <unka_> ? i saw <unka> have used all three kinds so far and it has left people completely lost now on which convention to use in the future . i know in ror i 've always used <unka.> so i thought in nodejs it was conventional to to it as <unka._> until he started adding the other two . </s>
+<s> <user> <unka-<> > for all those who help me understand . thank you in advance . </s>
+<s> <user> <unk#a<> > hey guys , <unka> having trouble figuring out why one of my routes arent firing for an app </s>
+<s> <user> <unk#a<> > <unka> got these two lines </s>
+<s> <user> <unk#a<> > <unk#a'(*-./> , ( req , res ) = > { <unka'()./:;?}> , <unka> ); </s>
+<s> <user> <unk#a<> > <unk#a'(*-./> , ( req , res ) = > { <unka'()./:;?}> , <unka');> </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unk#a<> > <unka> confirmed the firest function fires , but when i comment out , the second one does not fire , even thought it captures the exact smae data </s>
+<s> <user> <unka<_> > why do people go for mean instead of lamp </s>
+<s> <user> <unka<_> > it seems similar to me </s>
+<s> <user> <unk#a<> > i only really have familiarity with lamp . remember that lamp itself is a combination of systems . most people use lamp for php developement because it normally installs apache along side which then takes care of your php parsing . </s>
+<s> <user> <unka<> > lamp stands for linux , apache , php , mysql </s>
+<s> <user> <unka<> > hello guys , i am looking for a <unka> implementation that stores in fs but locks per key and not per db . </s>
+<s> <user> <unka<> > hi </s>
+<s> <user> <unka<> > i have this kind of json , { <unka_> : <unk#a,> : <unka',.> : <unk#a',-.:> { <unka_> : <unka',_> : <unk#a,> : <unk#a,> : <unka<> ec 64 <unk#a> bc e2 e0 c2 44 bc <unk#a> <unk#a> <unk#a> 26 <unk#a> 43 e2 > } } </s>
+<s> <user> <unka<> > how do i access <unka'> part from the result object ? </s>
+<s> <user> <unka<> > <unka.> returns undefined , other things work fine , like <unka.> </s>
+<s> <user> <unka<> > damn ... [ <unk#-> <unk#:> ] <unka<> > how can i do it without <unka> ? </s>
+<s> <user> <unka<> > i just wanna access the damn <unka'> why is that in quotes ??? </s>
+<s> <user> <unka-<> > usually i set encoding to utf-8 for stream containing string . maybe there is something <unka> for <unka> </s>
+<s> <user> <unka<> > you can use the bracket notation </s>
+<s> <user> <unka<> > you mean <unka'[> ] that did n't work </s>
+<s> <user> <unka<> > the quotes have <unka:> , maybe it 's like <unka':[> ] </s>
+<s> <user> <unka<> > idk , even <unk#a[> ] for example doens <unka> </s>
+<s> <user> <unka<> > let me try </s>
+<s> <user> <unka<> > that was it , thank <unka> </s>
+<s> <user> <unk#a<> > hello world ! </s>
+<s> <user> <unk#a<> > i 'm trying to <unka'> install <unka'-> but getting the dreaded <unka-> rebuild error </s>
+<s> <user> <unk#a<> > failed at the <unka_> <unk#a.@_> install script <unka'-> <unka'.\> err ! make sure you have the latest version of node.js and npm <unka.\> err ! if you do , this is most likely a problem with the <unka> <unka,\> err ! not with npm itself . </s>
+<s> <user> <unk#a<> > im using nvm </s>
+<s> <user> <unk#a<> > there 's an <unka-.> ? </s>
+<s> <user> <unk#a<> > just opened her up </s>
+<s> <user> <unk#a<> > where should i paste it ? </s>
+<s> <user> <unk#a<> > i would n't know if there 's anything useful ... uhmm .. <unka> ofr <unka'> code' there 's a whole page of options </s>
+<s> <user> <unk#a<> > ended up <unka> install <unka-> it appeared that this was the problem dependancy </s>
+<s> <user> <unk#a<> > about to give it a whirl </s>
+<s> <user> <unk#a<> > forget you <unka> ! whoever you are </s>
+<s> <user> <unka<> > hi all , i 've just re-written the history of the project i 'm working on to purge all remnants of previously checked in node modules . i 've also chosen to use <unka> with an offline cache . the only snag is <unka-> , which requires a binding . it 's not a problem locally , where i have internet access , but the build server is not online , and is therefore not able to download the binding . does anybody know if it 's possible to cache vendor bindings somehow ? </s>
+<s> <user> <unka<> > hi there </s>
+<s> <user> <unka<> > i 've just finished my first <unka> , if you want check it please [ <unka-<> -> ] thanks ! </s>
+<s> <user> <unka<> > hi folks . im stuck with pretty basic problem . im trying to split my client script into modules , just to practice this <unka> and approach . problem is i cant make it run on browser - im using plain <unk#a> and require method , but browser console says that require is not defined .. how do i make my little modules work in browser too ? </s>
+<s> <user> <unk#a<> > <unka> : uhmm <unka.> ... <unka> ... ? </s>
+<s> <user> <unka<> > <unk#a> : require i thought was basic method to work with modules of js , but i learned now that its <unk#a> feature so i ll go with some <unka> </s>
+<s> <user> <unk#a<> > <unka> : or something like <unka> or <unka> which would resolve the requires into a flat output file </s>
+<s> <user> <unka<> > hello all </s>
+<s> <user> <unka<> > is it necessary to gzip a response while the request header already include <unka':> or the response is already zipped ? </s>
+<s> <user> <unka<> > hello </s>
+<s> <user> <unka<> > can anyone let me know what are the use case for event emit and when do we need to remove the event <unka> ? </s>
+<s> <user> <unka<> > i 'm new to event <unka> </s>
+<s> <user> <unka<> > can i tell nodejs to log errors to a file ? i ca n't see what error is bring thrown on my production environment . </s>
+<s> <user> <unka<> > hey can some body do <unka> install <unka-> <unka> tell me if it works </s>
+<s> <user> <unka<> > ? </s>
+<s> <user> <unk#a<> > <unka> : yep it works </s>
+<s> <user> <unka<> > <unka_> <unk#a@_> it ! </s>
+<s> <user> <unka<> > are you making a twitter bot with twit ? </s>
+<s> <user> <unk#a<> > <unka_> <unka'@_> learning , i 've made a few i just want to be able to make the code modular </s>
+<s> <user> <unka<> > nice , i did that to learn some node with javascript . i am only 12 and i keep learning every day . </s>
+<s> <user> <unka<_> > hey guys , i 'm new in node.js and webservice i wrote this program but it does n't work . do you know where my mistake is ? </s>
+<s> <user> <unka<_> > var guid = <unka'();> soap = <unka'(> ); var url = <unka'-./:?_> ; var args = { <unka> : <unka'> 1' , <unka> : <unk#a'-> , <unka> : <unka.> , <unka> : <unka(.> ), <unka> : <unk#a'-> , <unka> : <unk#a'-:> , <unka> : null , <unka> : 1 , <unka> : false , <unka> : true , <unka> : false , <unka> : '' }; <unka'(-./:?_> , <unka(> , client ) { <unka(.> , <unka(> , result ) { <unka(.> ); <unk);}> <unk);}> hi guys , </s>
+<s> <user> <unka<_> > i wrote this program but i recieved this error ( can not read property <unka> of undefined </s>
+<s> <user> <unk#a<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<_> > thank you </s>
+<s> <user> <unka<> > hello , can anyone confirm getting silent crashes when running on windows 10 . for an mve look here : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka> : , could you provide a <unka.> that is required in the repro ? </s>
+<s> <user> <unka<> > there is an example which <unka> issue towards the end with instructions ... </s>
+<s> <user> <unka<> > tried the <unka.> with <unk#> characters and it works for me on windows 10 . may be try attaching <unka> and share the call stack ? </s>
+<s> <user> <unka<> > hi guys , i have this code </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > but when i try print the result , this do n't show me <unka(> for my bad english ) </s>
+<s> <user> <unka<> > any idea how to do that ? :( </s>
+<s> <user> <unka<> > } </s>
+<s> <user> <unka<> > yo , i have web server on nodejs ( digital ocean droplet ) and i would like to add ssl ( https ) certificate to it ... do i have to install ssl on droplet and separate ssl certificate on <unka.> domain provider for my node app ? </s>
+<s> <user> <unk#a<> > nope , the domain provider does n't care about the ssl , only users actually connecting to your site </s>
+<s> <user> <unk#a<> > you 'll need to setup the ssl via nginx or your web server </s>
+<s> <user> <unk#a<> > letsencrypt has some good documentation around many servers </s>
+<s> <user> <unka<> > you 'll have to do some work vis npm and node </s>
+<s> <user> <unka<> > hello folks could you suggest a practical node.js book for building real web apps step by step </s>
+<s> <user> <unka<> > ADDRESS_hi <unka@_> you got a answer on this question can you share me also the name of the book please ? thanks in advance ;) </s>
+<s> <user> <unka<> > <unka> : node.js essentials , <unka> by example , practical nodejs </s>
+<s> <user> <unka<> > hmm anyone using let 's encrypt with their nodejs server ? </s>
+<s> <user> <unka<> > i 'm not sure which path to declare when obtaining certificate with command : </s>
+<s> <user> <unka<> > <unka-./> <unka> <unka-> <unka-> DIR/var/ DIR/www/ <unka/_> <unka-> <unka-> <unka_> ADDRESS_@example.com <unka-> <unka-> -d <unka.> -d <unka./> </s>
+<s> <user> <unka<> > i have nodejs servers running in <unka./> </s>
+<s> <user> <unka<> > and nginx in completely different folder , </s>
+<s> <user> <unka<> > which forwards port :80 to nodejs port <unk#:> </s>
+<s> <user> <unka<> > tough stuff for newbie like me </s>
+<s> <user> <unka<> > omg , i 'm dying </s>
+<s> <user> <unka<> > - congratulations ! your certificate and chain have been saved </s>
+<s> <user> <unka<> > hello folks ... could you please suggest me to handle memory leak in node application ? </s>
+<s> <user> <unka<> > anyone who is looking to work on something let me know if you're interested in <unka> on this league of legends live stats info site : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > do you have it live somewhere for us to check it out ? if not could you ? </s>
+<s> <user> <unka<> > <unka> : </s>
+<s> <user> <unka<> > sure , ill deploy it on heroku , give me few mins </s>
+<s> <user> <unka<> > but there 's not so much to see , i recently started </s>
+<s> <user> <unka<> > btw it wo n't work properly because there 's no api key inside ( it 's forbidden to share ) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > heroku has env 's where you can set up api etc with no public access </s>
+<s> <user> <unka<> > how could i setup that env on it ? </s>
+<s> <user> <unka<> > with cli or on the site ? </s>
+<s> <user> <unka<> > both </s>
+<s> <user> <unka<> > i rather command line , but you could do either one </s>
+<s> <user> <unka<> > on website , config tab , then config variables </s>
+<s> <user> <unka<> > alright , found it </s>
+<s> <user> <unka<> > i deployed it from github , can i just push commits only to heroku ? </s>
+<s> <user> <unka<> > without touching the code on github </s>
+<s> <user> <unka<> > yes </s>
+<s> <user> <unka<> > how so ? </s>
+<s> <user> <unka<> > git push heroku master ? </s>
+<s> <user> <unka<> > yep </s>
+<s> <user> <unka<> > you have to have it setup on your cmd </s>
+<s> <user> <unka<> > i have it installed </s>
+<s> <user> <unka<> > allright , got it now </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > it just still shows json after ajax call , i did n't do much front end there </s>
+<s> <user> <unka<> > so is <unka/> supported out of the box with 7.6 ? </s>
+<s> <user> <unka<> > <unka-> tags </s>
+<s> <user> <unka<> > gotcha </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i get that :( </s>
+<s> <user> <unka<> > node <unka-> </s>
+<s> <user> <unka<> > oh </s>
+<s> <user> <unka<> > i dumb </s>
+<s> <user> <unka<> > same error </s>
+<s> <user> <unka<> > and node -v reports 7.6 </s>
+<s> <user> <unka<> > yeah , i did n't read it all lol </s>
+<s> <user> <unka<> > is your function an async function ? </s>
+<s> <user> <unka<> > async ( ) = > await <unka(> ) </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > result needs to be in an async function </s>
+<s> <user> <unka<> > oh </s>
+<s> <user> <unka<> > that worked , thanks ! </s>
+<s> <user> <unk#a<> > can anyone tell me from where should i start learning nodejs ? </s>
+<s> <user> <unk#a<> > i mean which website ? </s>
+<s> <user> <unka<> > <unk#a> : there are some modules within nodejs you can try on <unk#a.> , like <unka-> and <unka> </s>
+<s> <user> <unka<> > i have a dependency problem i want to use winston logger but one of my depency uses it as a local pacage ie it in <unka_> folde 2 level down how can i import require it in root level files </s>
+<s> <user> <unka<> > or please give me some link how node modules are loaded </s>
+<s> <user> <unka<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > thank you </s>
+<s> <user> <unk#a<> > hello i have a beginner question - is this the right forum to ask it </s>
+<s> <user> <unk#a<> > well <unka-> the question is - what is the size of the nodejs codebase compared to firefox rhino and chrome v8 </s>
+<s> <user> <unk#a<> > and what makes up the differences in size . i am interested in reading through these <unka> to better understand javascript implementations </s>
+<s> <user> <unka<> > <unk#a> : separate from the fact that " codebase size " <unka'\> correlate to anything meaningful , node uses v8 as a dependency , so node is " node + v8 " </s>
+<s> <user> <unka<> > also , rhino is long since obsolete </s>
+<s> <user> <unk#a<> > i guess i meant to say spidermonkey or something like that </s>
+<s> <user> <unka<> > still want to ask , not figured it out yet . i <unka(.{> ... <unka);}> supposed to send data only and not refresh a page . but my page is refreshing after ending it <unka(.{> ... <unka)}> need help please . </s>
+<s> <user> <unka<> > when using jquery ajax </s>
+<s> <user> <unk#a<> > how are you requesting the data ? </s>
+<s> <user> <unka<> > [ <unka-<> -> ] [ <unka-<> -> ] thanks </s>
+<s> <user> <unk#a<_> > damn nobody here answers . always everybody ask :'( </s>
+<s> <user> <unka<> > :'( </s>
+<s> <user> <unka-<> > :) </s>
+<s> <user> <unka<> > i <unka'> can emit an event . but i guess you could output on the standard out , listen for certain phrases , and then dispatch an event . </s>
+<s> <user> <unka<> > i know you can get the " message " event from a parent to a child .. </s>
+<s> <user> <unka<> > thanks nice worm , this is what i thought i need to do . but it looks like too much effort to put on , as i 'm still learning nodejs . </s>
+<s> <user> <unka<> > <unka> : : you might want to look at using the node module <unk#a> to manage your child processes </s>
+<s> <user> <unka<> > tried even attaching to <unka> with no luck </s>
+<s> <user> <unka<> > [ <unka-<> -> ] </s>
+<s> <user> <unka<> > i 'll check it thanks </s>
+<s> <user> <unka<> > from <unka(.:{> foo : <unka'> <unk);}> </s>
+<s> <user> <unka<> > okay and then i would just listen to it on parent </s>
+<s> <user> <unka<> > [ <unka-<> -> ] <unka'(.> , ( m ) = > { <unka'(.> got <unka':> , <unka);`}> </s>
+<s> <user> <unka<> > i need to test that . looks like it would work </s>
+<s> <user> <unka<> > this is using fork , rather than spawn . i am afraid i do not know the difference .. and also remember to fire the send <unka> . otherwise you may not get the listener added in time </s>
+<s> <user> <unka<> > let us know if it works .. as i am just guessing here .. </s>
+<s> <user> <unka<> > okay just a moment </s>
+<s> <user> <unk#a<> > <unka> : [ <unka-<> -> ] </s>
+<s> <user> <unka<> > <unka_> <unk#a,@_> i just do n't have time to look into it at the moment . </s>
+<s> <user> <unk#a<> > ok :p </s>
+<s> <user> <unka<> > <unka> : thanks !!! its working ! the message was passed from forked child process to the parent . upon recieving the message executed some work on parent process . </s>
+<s> <user> <unka<> > that is great . glad it worked . </s>
+<s> <user> <unk#a<> > anybody wants to build a chrome extention ? </s>
+<s> <user> <unka<> > are there any practical examples of the " <unka-> algorithm " of <unka> causing issues ? its a problem <unka> solves , but i <unka'\> think <unka\> 've ever seen or even heard of it before </s>
+<s> <user> <unka<> > <unka> : no , i 've asked the <unka> team many times and nobody has yet presented one concrete example where <unka> is more deterministic than npm in a way that matters in practice . </s>
+<s> <user> <unk#a<> > hi , can someone explain to me node js . i feel it is just too hacky , everything depends on something else , it seems like a falling building . no base , or an useless base that doesnt satisfy the need of a developer in the area of backend programming . you either have to depende on all these packages or you cant program anything . or maybe all of this is because i have just started to learn it </s>
+<s> <user> <unka<> > <unk#a> : the packages not a must have these are helpers to make your job easier . </s>
+<s> <user> <unka<> > but built-in packages are important like " fs " these are must <unk#a-.[> <unk#:> ] <unk#a<> > <unka> : not really , how do you program a general website without express ? you gonna have to route everything long way </s>
+<s> <user> <unka<> > <unk#a> : what do you want to do and where are u stuck ? </s>
+<s> <user> <unk#a<> > <unka> : its not a specific problem , im just learning node and i dont like that it is so hacky , really dependent on open source modules for everything </s>
+<s> <user> <unka<> > <unk#a> : that is n't hacky , it is actually the entire point lol </s>
+<s> <user> <unk#a<> > <unka> : yeah it is hacky , otherwise it would be stand alone </s>
+<s> <user> <unka<> > <unk#a> : stand alone is an evil word , you obviously have a very different philosophy than the nodejs crowd on average </s>

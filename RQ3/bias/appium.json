@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "former": "how to run appium parallel in ios native app testng in saucelabs",
+    "update": "how to do parallel execution in cucumber using testng in saucelabs?"
+  },
+  {
+    "id": 2,
+    "former": "how to upgrade appium from 1.5.3 to 1.6.3 on ios 10.2.1",
+    "update": "cannot see version 10 when selecting platform version in appium ios settings"
+  },
+    {
+    "id": 3,
+    "former": "how to set apk path in Ubuntu for android testing",
+    "update": "how to set apk path in Ubuntu for android testing?"
+  },
+  {
+    "id": 4,
+    "former": "how to use swipe in java client 6.0 beta android driver?",
+    "update": "wether Appium supports React Native Apps?"
+  },
+  {
+    "id": 5,
+    "former": "how to initiate inspector on mac os?",
+    "update": "how to initiate inspector on mac?"
+
+  },
+  {
+    "id": 6,
+    "former": "chrome driver error when try to run a web test",
+    "update": "why this could cause a ChromeDriver cannot create session error?"
+  },
+   {
+    "id": 7,
+    "former": "is there a way to pass name value dynamically to a locator?",
+    "update": "is there a way to pass name value dynamically to that locator inside every test?"
+  },
+   {
+    "id": 8,
+    "former": "how to use IOSElement and iOSFinds by javascript?",
+    "update": "how to use IOSElement and iOSFindsBy?"
+  },
+   {
+    "id": 9,
+    "former": "how to run selenium webdriver java in ios?",
+    "update": "how to run native app and use for selenium webdriver java?"
+  },
+   {
+    "id": 10,
+    "former": "how to inspect elements without clearing app data on appium desktop?",
+    "update": "how to add argument to Appium Desktop?"
+  },
+   {
+    "id": 11,
+    "former": "how to load an image to the imageView in an android application?",
+    "update": "is it possible to load an image to the imageView in an iOS application"
+  },
+   {
+    "id": 12,
+    "former": "is there any possibility that tests are dependent on nodejs in appium?",
+    "update": "how to crash reports using appium"
+  },
+   {
+    "id": 13,
+    "former": "is there a way to get the webview context when using set_webview in code?",
+    "update": "is there a way to get the webview context?"
+  },
+   {
+    "id": 14,
+    "former": "how to emulate camera previews on blackbox testing?",
+    "update": "how to emulate camera previews: capturing pictures, and scanning QR/PDF codes?"
+  },
+   {
+    "id": 15,
+    "former": "which appium server version will be best for the future",
+    "update": "Which appium server version will be best for the future?"
+  },
+   {
+    "id": 16,
+    "former": "how to scroll to the particualr element in appioum?",
+    "update": "how to scroll to the particular element in appium?"
+  },
+   {
+    "id": 17,
+    "former": "how to setup ideviceisntaller+libimobiledevice on mac",
+    "update": "how to setup Appium?"
+  },
+   {
+    "id": 18,
+    "former": "how to check if an element is visible on ios?",
+    "update": "is there a another way to check if an element is visible for iOS?"
+  },
+   {
+    "id": 19,
+    "former": "how to scroll to element in iOS native app on UIACollectionCell?",
+    "update": "how to scroll to element in iOS native app on UIACollectionCell?"
+  },
+   {
+    "id": 20,
+    "former": "when is select element that contain image and text but unable to select text in appium inspector",
+    "update": "how to multiple checkbox select and unselect in Android appium test cases?"
+  },
+   {
+    "id": 21,
+    "former": "how to set mobilecapabilitytype.appium_version in ruby?",
+    "update": "how to install libimobiledevice?"
+  },
+   {
+    "id": 22,
+    "former": "how to take screenshots on a failed test using node?",
+    "update": "how to take screenshots on a failed test?"
+  },
+   {
+    "id": 23,
+    "former": "how to test websites through different browsers using appium and webdriverio?",
+    "update": "is it possible to test websites through different browsers using appium and webdriverio? "
+  },
+   {
+    "id": 24,
+    "former": "is it possible to do regex like pattern matching with alert api for iOS?",
+    "update": "if its possible to do regex like pattern matching with xpath?"
+  },
+   {
+    "id": 25,
+    "former": "how to run mobile automation scripts in remote machine using appium-server?",
+    "update": "how to run mobile automation script in remote machine using appium-server?"
+  },
+   {
+    "id": 26,
+    "former": "what npm packages or frameworks that track network traffic from native mobile apps?",
+    "update": "are there any npm packages or frameworks that can track network traffic from an native mobile app?"
+  },
+   {
+    "id": 27,
+    "former": "how to handle browser notifications?",
+    "update": "how to handle browser notification?"
+  },
+   {
+    "id": 28,
+    "former": "an unknown server-side error occurred while processing the command ",
+    "update": "What is the configuration to use appium in system?"
+  },
+   {
+    "id": 29,
+    "former": "is there a windows version of the appium app capable of inspecting elements?",
+    "update": "is it capable to do it like the mac os version does?"
+  },
+   {
+    "id": 30,
+    "former": "how to perform a click action on the content-desc after quitting appium",
+    "update": "how to relaunch app after quitting in appium?"
+  },
+   {
+    "id": 31,
+    "former": "is there any dialogue pop up on android device?",
+    "update": "is there any dialogue pop up on android device?"
+  },
+   {
+    "id": 32,
+    "former": "how to connect appium server to an android device with .apk",
+    "update": "how to connect appium server to that android device?"
+  },
+   {
+    "id": 33,
+    "former": "which locator strategy would be best for appium?",
+    "update": "which locator strategy is the best for appium?"
+  },
+   {
+    "id": 34,
+    "former": "why the submodule appium-instruments is old version?",
+    "update": "Why the submodule appium-instruments is old version?"
+  },
+   {
+    "id": 35,
+    "former": "is there a way to reset app state after each test run on physical mobile devices?",
+    "update": "is there a way to provide the iOS bundle ID, and reset the app state after each test run?"
+  },
+   {
+    "id": 36,
+    "former": "appium freezes right after starting chrome on ios and android real simulator device automation",
+    "update": "why is appium freezing up right after booting and starting chrome?"
+  },
+   {
+    "id": 37,
+    "former": "how to start appium on simulator with xcode 6.1 for ios 8",
+    "update": "how to launch appium on simulator using xcode 6.1 for ios 8?"
+  },
+  {
+    "id": 38,
+    "former": "is it possible to run selenium webdriver test cases using appium in ios?",
+    "update": "is it possible to run selenium webdriver test cases using appium?"
+  },
+  {
+    "id": 39,
+    "former": "appium not catching clicks when running through terminal (Ubuntu)",
+    "update": "why my Appium that is running through the terminal(Ubuntu) is not catching my clicks"
+  },
+  {
+    "id": 40,
+    "former": "how to create multiple stepdefs.java for different architecture",
+    "update": "how to change architecture of my project and separate test for different screen?"
+  },
+  {
+    "id": 41,
+    "former": "how to scroll to particular element using selenum webdriver with apium",
+    "update": "How to scroll to particular element?"
+  },
+  {
+    "id": 42,
+    "former": "what is the best method for showing notifications pull down for iOS?",
+    "update": "what is the best method for showing the notifications pull down for iOS?"
+  },
+  {
+    "id": 43,
+    "former": "how to verify the options available on the screen when a video is playing in appium",
+    "update": "how to verify the options available on screen when a video is playing in appium?"
+  },
+  {
+    "id": 44,
+    "former": "how to get placeholder text in textbox in appium 1.6.3?",
+    "update": "how to get the placeholder text in textbox?"
+  },
+  {
+    "id": 45,
+    "former": "is it possible to run selenium webdriver test cases using appium in ios?",
+    "update": "is it possible to run selenium webdriver test cases using appium?"
+  },
+  {
+    "id": 46,
+    "former": "is there a way to test push notifications with ios appium?",
+    "update": "is there a way to test IOS push notifications with Appium?"
+  },
+  {
+    "id": 47,
+    "former": "how to install ipa on the real device?",
+    "update": "Do I need to specify something else apart of path to ipa while driver initialisation when installing ipa on the real device?"
+  },
+  {
+    "id": 48,
+    "former": "can we automate mobile device via appium? ( 1.10 ) scrolling command",
+    "update": "is it possible to automate mobile device via appium?"
+  },
+  {
+    "id": 49,
+    "former": "how to use backspace from sendkeys?",
+    "update": "how to use the backspace button from sendkeys?"
+  },
+  {
+    "id": 50,
+    "former": "how to install appium studio in ubuntu?",
+    "update": "is it possible to install Appium studio in ubuntu machine?"
+  }
+]
