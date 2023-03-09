@@ -1,0 +1,2144 @@
+[
+  {
+    "id": 250,
+    "title": "unable to use.frame() with oauth iframe",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 251,
+    "title": "how to start appium on simulator using xcode 6.1 for ios 8",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 252,
+    "title": "ios webkit debug proxy error with 'Console.enable'",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 253,
+    "title": "appium doesn't auto install carthage on ios 10",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 254,
+    "title": "how to skip an element which is not present on app screen?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 255,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 256,
+    "title": "nullPointerException when trying to invoke virtual method 'java.lang.String",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 257,
+    "title": "how to get list of elements from tableview on ios or android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 258,
+    "title": "appium.log your locator might have some issue SEP> use proper loc",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 259,
+    "title": "sendKeys on android doesn't select the whole word",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 260,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 261,
+    "title": "how to use driver.scrollTo(\"Text\") or driver.sc",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 262,
+    "title": "how can i look for an element that contains something in android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 263,
+    "title": "how to upload excel file in selenium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 264,
+    "title": "a new session could not be created (Original error: com.facebook",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 265,
+    "title": "how to compile appium maven project?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 266,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 267,
+    "title": "is there a way to open the office365 login web page automatically in appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 268,
+    "title": "after turnon or turnoff, are you getting statements kill-servers or something?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 269,
+    "title": "appium 1.6.0 inspector freeze in state waiting for webdriveragent-server to finish loading",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 270,
+    "title": "appium script is running in LANDSCAPE mode but video is captured in PORT",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 271,
+    "title": "is it possible to automate non-owner application with appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 272,
+    "title": "which appium server version will be best for the future?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 273,
+    "title": "is electron.js version 1.6 out?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 274,
+    "title": "what's the --device-name paranmeter for?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 275,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 276,
+    "title": "how can i put SEP> but there are so many cell so I need",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 277,
+    "title": "idevice_info -l is not added to provisioning profile",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 278,
+    "title": "what is wrong with new appium device unlocking?\n",
+    "status": "0",
+    "type": 1
+  },
+  {
+    "id": 279,
+    "title": "appium is giving up after few tries with appActivity & appWait",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 280,
+    "title": "appium 1.6.1 with webdriverio error :  SEP",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 281,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 282,
+    "title": "how to typecast the 'androidriver'after changing the context?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 283,
+    "title": "var options not working on appium 1.6.3 on v10.12 (sierra",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 284,
+    "title": "how to run webdriver from selenium.webdriver.support.ui",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 285,
+    "title": "is it possible to use appium inspector with ui automator viewer?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 286,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 287,
+    "title": "webdriver io is combination of selenium & appium.",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 288,
+    "title": "is there a way to use webelement instead of string?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 289,
+    "title": "how to inspect the Photo gallery UI elements on iOS 11?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 290,
+    "title": "how can i contribute to appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 291,
+    "title": "how to uninstall and re-install app after a test?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 292,
+    "title": "should buddy hash map need explicit check if order ids can repeat?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 293,
+    "title": "how can i run a web test on android default browser using appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 294,
+    "title": "how to use findElorEls in appium-android-driver chromedrive",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 295,
+    "title": "appium tests not working as expected on different devices",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 296,
+    "title": "appium example project on ruby with rspec or cucumber?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 297,
+    "title": "is there any way to test apk in uiautomator?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 298,
+    "title": "appium should not close the session unless an exception occurred or test finished",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 299,
+    "title": "how can i get the same driver for ios automation with Selenium",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 300,
+    "title": "is there any other way to inspect elements on ios?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 301,
+    "title": "how to skip dvertisements on app with appium ?",
+    "status": "0",
+    "type": 1
+  },
+  {
+    "id": 302,
+    "title": "how to switch from appium 1.3.3 beta1 to UIWebview?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 303,
+    "title": "ios webview - unknown server-side error occurred while processing the command",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 304,
+    "title": "unable to select value in UIAickerwheel",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 305,
+    "title": "how to apply wildcard search in appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 306,
+    "title": "is there a way to resign an app downloaded from app store?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 307,
+    "title": "how to handle scroll actions using appium and webdriver on android/ios",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 308,
+    "title": "how to in automation launch the safari browser and run the test\n",
+    "status": "0",
+    "type": 1
+  },
+  {
+    "id": 309,
+    "title": "how can u  delete \"/usr/local/bin/appium\", and reinstall it using npm install -g appium",
+    "status": "0",
+    "type": 1
+  },
+  {
+    "id": 310,
+    "title": "device not configured '' error while installing appium on mac os",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 311,
+    "title": "how to scroll to particualr element in appioum?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 312,
+    "title": "SEP> error when moving pom.xml under Jenkin workspace",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 313,
+    "title": "appium showing element IDs as squares",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 314,
+    "title": "unable to set location in any lacation based app like google map or uber",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 315,
+    "title": "ios uicatalog is missing info.plist file",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 316,
+    "title": "can't access accessibilityLabel element in jest test",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 317,
+    "title": "what is appium's cache size for the logs SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 318,
+    "title": "no such file or directory on android",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 319,
+    "title": "how to use cucumber with webdriverIO v4 and appium v1.13.",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 320,
+    "title": "how to interact with iframe in webview on android using selendroid automation",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 321,
+    "title": "should we have nakal_java API?",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 322,
+    "title": "appium java client getting error SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 323,
+    "title": "is there a way to mock the barcode camera?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 324,
+    "title": "is there any scroll option for appium 1.5 other than scrollto or scrolltoExact",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 325,
+    "title": "can you get current context and print it? SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 326,
+    "title": "what is the stable version of appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 327,
+    "title": "uiautomator2 scroll function is not working using Java_client",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 328,
+    "title": "is there any way to identify element in android appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 329,
+    "title": "how to use tap by coordinates in image gallery?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 330,
+    "title": "is there a list of all 'good'frameworks available?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 331,
+    "title": "error when running spec files on jenkins server with app-automation-i",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 332,
+    "title": "how to find and click on an element that only has class = android.widget.Image",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 333,
+    "title": "code signing required for product type 'UI Testing Bundle'in SDK",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 334,
+    "title": "how to see iOS 9.3.1 in platform version?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 335,
+    "title": "how to select image from gallery using appium 1.6.3",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 336,
+    "title": "webdriver.io test cases randomly failing when trying to run all the scripts together",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 337,
+    "title": "where are the iOS Simulator apps located?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 338,
+    "title": "how to make text field accept numeric characters only?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 339,
+    "title": "how to scroll a dropdown list in mobile applications",
+    "status": "0",
+    "type": 2
+  },
+  {
+    "id": 340,
+    "title": "what is the SEP> framework for CI?",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 341,
+    "title": "best way to find elements in ios?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 342,
+    "title": "inspector not working on ios simulator",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 343,
+    "title": "how url parameter in json node config should work?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 344,
+    "title": "how to do appium script for SIM card provisioning in android or ios device",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 345,
+    "title": "how can i swipe on ios simulator using appium driver?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 346,
+    "title": "is it possible to switch context (Native to web or vice versa) on the same",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 347,
+    "title": "how to execute appium scripts to cloud level device execution?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 348,
+    "title": "how can i get all parent elements in appium?",
+    "status": "0",
+    "type": 2
+  },
+  {
+    "id": 349,
+    "title": "can not start appium in selendroid mode",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 350,
+    "title": "change the automation name to UIAutomator2 for android 7.0 devices",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 351,
+    "title": "appium could not start http interface listener. the requested port may already be in use",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 352,
+    "title": "webdriverio for appium - invalid argument: cannot parse capability:",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 353,
+    "title": "are you want to start two session in desktop?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 354,
+    "title": "1.5 does not support name locator, need to remove all name locator from repository",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 355,
+    "title": "can u ping me scroll to particular text in the menus (tableview)",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 356,
+    "title": "appium inspector crash on windows and osx",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 357,
+    "title": "from the sample codes in the language get new sample",
+    "status": "0",
+    "type": 2
+  },
+  {
+    "id": 358,
+    "title": "org.openqa.selenium.WebDriverException an unknown server",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 359,
+    "title": "webdriver doesn't have a way to drag a slider",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 360,
+    "title": "how to install ios-deploy from appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 361,
+    "title": "how can i locate angular elements under hybrid appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 362,
+    "title": "sometimes the response are quick sometimes no other way we have to be patient till we get solution",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 363,
+    "title": "how to check if a file is deleted from 'Download'folder in android",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 364,
+    "title": "appium uiatomation should work only for selendroid mode",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 365,
+    "title": "how to configure ios app for appium testing in ios?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 366,
+    "title": "appium config.yml file on circleci",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 367,
+    "title": "how to interact with iframe in webview on android using selendroid automation",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 368,
+    "title": "how to start appium in parallel in 1.6.0?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 369,
+    "title": "how to use datepicker using selenium web driver?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 370,
+    "title": "how to install version 1.9.0 or 1.9.1 for macos appium",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 371,
+    "title": "",
+    "status": "0",
+    "type": 1
+  },
+  {
+    "id": 372,
+    "title": "how to find if element is focused or not for ios",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 373,
+    "title": "how to verify the options available on screen when a video is playing in appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 374,
+    "title": "what's the current canonical way to automate a Spinner?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 375,
+    "title": "how to use uiautomator2 with google auto-populate location in android",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 376,
+    "title": "send keys is calling the method tempting to clear using UiObject.clearText()",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 377,
+    "title": "how to assign webkitDebugProxyPort from localhost:9221 to the",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 378,
+    "title": "how to launch a website in Safari browser using Appium 1.6.3?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 379,
+    "title": "how do i verify that a cell was clicked in the search bar?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 380,
+    "title": "what is the page you are taken to when you open the newly installed app after uninstalling",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 381,
+    "title": "network calls for appium + webdriverio + appium + webdriveri",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 382,
+    "title": "is it possible to automate tests using APPIUM in a hybrid app?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 383,
+    "title": "is it possible to run parallel execution using appium for android devices using selenium grid",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 384,
+    "title": "appium 1.7.1 shows *parser error* when inspecting android mobile elements",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 385,
+    "title": "is there a list of all 'good'frameworks out there?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 386,
+    "title": "could not find or load main class com.android.uiautomator.U",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 387,
+    "title": "can i use value parameter to type in full name?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 388,
+    "title": "is there any robust way to identify elements of left menu in native iOS app?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 389,
+    "title": "is there a way to connect to the appium server via a webdriver client",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 390,
+    "title": "is there a way to run tests in parallel on the same UDID?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 391,
+    "title": "'RoutingHTTPServer/RoutingConnection.h'",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 392,
+    "title": "resetApp sometimes does not work like i want it to on android",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 393,
+    "title": "appium-Desktop xcode build failure...please help SEP",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 394,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 395,
+    "title": "apk file comvereted to tmp, so installation got",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 396,
+    "title": "how to run appium tests headless on NATIVE iOS apps?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 397,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 398,
+    "title": "how to generate ipa, iphone simulator support?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 399,
+    "title": "how to identify elements of left menu using appium inspector?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 400,
+    "title": "opening safari launcher app opens google.com instead of test case URL",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 401,
+    "title": "how to use the appium inspector in android and ios?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 402,
+    "title": "driver.findelement(by.name(\"login\")).click() not working",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 403,
+    "title": "how to use inspector in appium 1.6.3",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 404,
+    "title": "driver.findElements(\"//XCUIElementTypeLink\") not working",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 405,
+    "title": "how to run appium test on ios13 real device?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 406,
+    "title": "happy birthday to the amazing people and the service of the book and the service of the book and",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 407,
+    "title": "how to handle toast message in selendroid android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 408,
+    "title": "how to scroll in an android mobile screen using appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 409,
+    "title": "bash profile created under same directory sdcs-iMac-5 siddes",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 410,
+    "title": "how does installAppFromGooglePlaystore.java work?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 411,
+    "title": "upgrade from appium 1.4.13 to appium 1.5 or 1.6 beta",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 412,
+    "title": "do you need to install app beforeSuite or not everytime?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 413,
+    "title": "why not UIATableCell and UIAImage properties for UIAImage",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 414,
+    "title": "is it possible to automate mac desktop application testing?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 415,
+    "title": "is there any way to automate iOS app on windows platform without MAC machine?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 416,
+    "title": "share log from error line SEP> form instruments failed line SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 417,
+    "title": "Flow: Open App - error: A session is either terminated or not started",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 418,
+    "title": "how to use appium using python?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 419,
+    "title": "how to double tap/double click an element?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 420,
+    "title": "is there any way to connect the Appium server and the mobile devices in the same machine",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 421,
+    "title": "how to click on back button using appium using driver.navigate.back()",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 422,
+    "title": "how to find elements in hybrid web page view in android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 423,
+    "title": "how to inspect webview pages with ios-webkit-debug-prox",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 424,
+    "title": "could not read Username for 'https://github.com':",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 425,
+    "title": "how to down the keypad in android device?",
+    "status": "0",
+    "type": 1
+  },
+  {
+    "id": 426,
+    "title": "uiautomator2 takes more time on POST/wd/hub",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 427,
+    "title": "how can i install both the apps while running automation using appium release?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 428,
+    "title": "how to automate sign-in web view in native app?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 429,
+    "title": "is there any way to send additional data to appium server for logging purposes?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 430,
+    "title": "accessibilitylabels vs elementByName vs elementByName",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 431,
+    "title": "swipe appium 1.6.3 deprecated. you need to use TouchActions",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 432,
+    "title": "appium inspector isnt launched, any idea what's going wrong?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 433,
+    "title": "ios simulator is ridiculously slow",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 434,
+    "title": "what do you mean by findByImage with applitools?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 435,
+    "title": "how to lunch an app from recent apps list in android/ios?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 436,
+    "title": "how can i run test through command line for appium android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 437,
+    "title": "need to open the iOS instrumentation and xcode in background before executing the scripts",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 438,
+    "title": "is there a good way to use pages with steps in cucumber appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 439,
+    "title": "when i check the contexts of driver on Python client, it always give me native app",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 440,
+    "title": "how to attach to an existing appium session using Python?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 441,
+    "title": "how can i test appium on android 7 And ios 10 devices?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 442,
+    "title": "appium driver.findElementbyAcc..() not working on android hybrid app",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 443,
+    "title": "how do you know if the appium keyboard is open on android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 444,
+    "title": "is there a way to screenshot websites on iPhone/iPad inside Safari Mobile?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 445,
+    "title": "how to inspect webview elements on ios 10 + appium 1.6?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 446,
+    "title": "https://github.com/appium/webkit-debug-proxy for",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 447,
+    "title": "how to click on an element that only has class = android.widget.ImageView index",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 448,
+    "title": "how to get a list of views using xpath and android uiAutom",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 449,
+    "title": "ios webview - unknown server-side error occurred while processing the command",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 450,
+    "title": "beter scroll is not working in latest appium",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 451,
+    "title": "how can i check that a private post is not visible to any one?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 452,
+    "title": "why appium does not update to latest version when i click on check for update?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 453,
+    "title": "how to scroll using appium on real android device using ubuntu os",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 454,
+    "title": "ios only - udid is only ios capability",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 455,
+    "title": "new session could not be created (Original error: com.facebook.or",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 456,
+    "title": "how to use SEP> and ScrollTo '' in",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 457,
+    "title": "how to remove or dismiss the keyboard from the screen using web driver?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 458,
+    "title": "different than driver.findElements(By.className(\"android.",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 459,
+    "title": "response is not comming from appium on ios real device after 5",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 460,
+    "title": "unable to click SEP> elm?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 461,
+    "title": "why the submodule appium-instruments is old version?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 462,
+    "title": "how to use lazy search and control flow in appium 5.0.4 and selenium 3.7.1",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 463,
+    "title": "is it possible to accept an alert using autoAcceptAlerts capability",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 464,
+    "title": "can we automate iOS applications without debugging/signed iPad file using Appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 465,
+    "title": "org.openqa.sessionNotCreatedException while starting second",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 466,
+    "title": "how to read text contents from a screen in android appium 1.4.13.1",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 467,
+    "title": "how to get absolute coordinates based on user touch in appium 1.4.0?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 468,
+    "title": "how to select multilist box in ios app select class does not work for me",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 469,
+    "title": "findElement(//XCUIElementTypeTextField ) not working",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 470,
+    "title": "why we need to setup webdriveragent on appium like sauce labs?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 471,
+    "title": "java.lang.NullPointerException for android and ios elements",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 472,
+    "title": "what is the difference between peer 2 peer testing and visual testing?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 473,
+    "title": "can you get the current context on context switch?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 474,
+    "title": "i am facing configuration error when i am running my testNG script from terminal",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 475,
+    "title": "how to get selenium.noSuchElementException '",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 476,
+    "title": "when to use return driver and when not to use return driver in appium ios",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 477,
+    "title": "connection refused error when trying to run appium programatically",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 478,
+    "title": "how to verify data from json file on android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 479,
+    "title": "how to run find_element_by_xpath on android?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 480,
+    "title": "tap on coordinates not working as expected on appium 1.2.3 desktop with xcode 9",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 481,
+    "title": "this element does not have the 'bounds'attribute",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 482,
+    "title": "SEP> Failed to start an Appium session, err was:",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 483,
+    "title": "how to write a test that works on both android and ios?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 484,
+    "title": "when will Appium support Xcode 8.2?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 485,
+    "title": "how can i use UI inspector for iOS in appium 1.6?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 486,
+    "title": "how to use appium-android-driver/appium-ios-",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 487,
+    "title": "can u help me with inspector SEP> 404 error throwing",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 488,
+    "title": "appium desktop popup a message when i start session use the appium desktop",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 489,
+    "title": "using appium uiautomator you will get only view part SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 490,
+    "title": "how to edit android plate form here to begin with SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 491,
+    "title": "how to use junit runner in aws device farm appium?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 492,
+    "title": "",
+    "status": "1",
+    "type": 4
+  },
+  {
+    "id": 493,
+    "title": "how to concise promiseChainRemote with mocha?",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 494,
+    "title": "can we run automation scripts with signed apk? SEP>",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 495,
+    "title": "appium maven dependency - error on driver creation - need to click on the suggestion",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 496,
+    "title": "sendKeys not working on iOS after upgrading from appium 1.4.0.with C# to",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 497,
+    "title": "appium inspector throws  An unknown server-side error occurred while processing the command.",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 498,
+    "title": "what is the difference between appium and appium-desktop",
+    "status": "0",
+    "type": 3
+  },
+  {
+    "id": 0,
+    "title": "error while running security import MyPrivateKey.p12",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2029,
+    "titles_index": 0
+  },
+  {
+    "id": 1,
+    "title": "how to set up appium grid in react native?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 3124,
+    "titles_index": 0
+  },
+  {
+    "id": 1200,
+    "title": "appium not working with eclipse",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1971,
+    "titles_index": 0
+  },
+  {
+    "id": 1201,
+    "title": "how to run appium in c:UsersnjammulX",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 47,
+    "titles_index": 0
+  },
+  {
+    "id": 1202,
+    "title": "is it possible to use Appium to automate emails in mobile email clients?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1672,
+    "titles_index": 0
+  },
+  {
+    "id": 1203,
+    "title": "how to start appium driver from command line",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1868,
+    "titles_index": 0
+  },
+  {
+    "id": 1204,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 3026,
+    "titles_index": -1
+  },
+  {
+    "id": 1205,
+    "title": "unable to connect to webdriver agent with uiautomator",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 3126,
+    "titles_index": 0
+  },
+  {
+    "id": 1206,
+    "title": "how to get absolute coordinates based on user touch?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 308,
+    "titles_index": 0
+  },
+  {
+    "id": 1207,
+    "title": "how do i split the name if its coming from the app",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2244,
+    "titles_index": 1
+  },
+  {
+    "id": 1208,
+    "title": "can i automatized a native app android with appium?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2788,
+    "titles_index": 0
+  },
+  {
+    "id": 1209,
+    "title": "initialize with WebDriver and we can use HtmlUnitDriver()",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 825,
+    "titles_index": 0
+  },
+  {
+    "id": 1210,
+    "title": "wkwebview on cordova - can not find any webviews yet",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2127,
+    "titles_index": 0
+  },
+  {
+    "id": 1212,
+    "title": "does any one have any issues in appium install via npm",
+    "status": "0",
+    "type": 1,
+    "dialog_id": 2651,
+    "titles_index": -1
+  },
+  {
+    "id": 1213,
+    "title": "how to use driver.setNetworkConnection(true, false, false)",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 244,
+    "titles_index": 0
+  },
+  {
+    "id": 1214,
+    "title": "how to run appium as a node in selenium grid",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 302,
+    "titles_index": 0
+  },
+  {
+    "id": 1215,
+    "title": "how to use 'Leaks'for ios profiling?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2948,
+    "titles_index": 0
+  },
+  {
+    "id": 1216,
+    "title": "unable to connect to appium studio in office metwork",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2986,
+    "titles_index": 0
+  },
+  {
+    "id": 1217,
+    "title": "does xpath work for XCUIElementTypeCell/XCUIElement",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1653,
+    "titles_index": 0
+  },
+  {
+    "id": 1218,
+    "title": "why we use capabilities in appium?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2555,
+    "titles_index": 0
+  },
+  {
+    "id": 1219,
+    "title": "use with @AndroidFindBy and @IOSFindBy annotations",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1401,
+    "titles_index": 0
+  },
+  {
+    "id": 1220,
+    "title": "how to run tests on multiple ios simulators in parallel in specflow",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2444,
+    "titles_index": 0
+  },
+  {
+    "id": 1221,
+    "title": "is there any way to write relative xpath using node details of elements?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2314,
+    "titles_index": 0
+  },
+  {
+    "id": 1222,
+    "title": "can u manually execute python script from command line?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1017,
+    "titles_index": 0
+  },
+  {
+    "id": 1223,
+    "title": "error chromedriver: DevTools request: http://localhost:12900/",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2509,
+    "titles_index": 0
+  },
+  {
+    "id": 1224,
+    "title": "driver.wait(function()  return driver.findElement(locator.is",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 351,
+    "titles_index": 0
+  },
+  {
+    "id": 1225,
+    "title": "how to delete a specific file from 'Download'folder in android device?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2144,
+    "titles_index": 0
+  },
+  {
+    "id": 1226,
+    "title": "pagesource taking a lot of time in ios 11 with appium 1.7.0",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2268,
+    "titles_index": 0
+  },
+  {
+    "id": 1227,
+    "title": "how to automate web application using appium?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 250,
+    "titles_index": 0
+  },
+  {
+    "id": 1228,
+    "title": "is it possible to automate Ios app which is built with distribution certificate?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 123,
+    "titles_index": 0
+  },
+  {
+    "id": 1229,
+    "title": "how url parameter in json node config should work?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 402,
+    "titles_index": 0
+  },
+  {
+    "id": 1230,
+    "title": "is it possible to install WebDriverAgentRunner once and reuse it",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1952,
+    "titles_index": 0
+  },
+  {
+    "id": 1231,
+    "title": "how to generate ipa, iphone simulator support?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1695,
+    "titles_index": 0
+  },
+  {
+    "id": 1232,
+    "title": "install doesn't work if appium session isn't restarted",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 869,
+    "titles_index": 0
+  },
+  {
+    "id": 1233,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 1783,
+    "titles_index": -1
+  },
+  {
+    "id": 1234,
+    "title": "appium.log closes by itself when it clicks on sign-in button",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2814,
+    "titles_index": 0
+  },
+  {
+    "id": 1235,
+    "title": "parity wallet doesn't recognise a purchased token",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2470,
+    "titles_index": 0
+  },
+  {
+    "id": 1236,
+    "title": "can i do desktop browser testing without selenium?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2151,
+    "titles_index": 0
+  },
+  {
+    "id": 1237,
+    "title": "how to get element of android.webkit.WebView?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 182,
+    "titles_index": 0
+  },
+  {
+    "id": 1238,
+    "title": "how to set 'newCommandTimeout'parameter in 'capability",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 927,
+    "titles_index": 0
+  },
+  {
+    "id": 1239,
+    "title": "could not establish connection to license server appium studio on ios 13.3",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 3025,
+    "titles_index": 7
+  },
+  {
+    "id": 1240,
+    "title": "how to build webdriveragent using xcodebuild command?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2010,
+    "titles_index": 0
+  },
+  {
+    "id": 1241,
+    "title": " that is test failed error, the reason unknown ",
+    "status": "0",
+    "type": 2,
+    "dialog_id": 2237,
+    "titles_index": 1
+  },
+  {
+    "id": 1242,
+    "title": "hydrid app on android sudden slwodown issue",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 3120,
+    "titles_index": 0
+  },
+  {
+    "id": 1243,
+    "title": "what is the code for performing the appium-sikulli integration?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 746,
+    "titles_index": 0
+  },
+  {
+    "id": 1244,
+    "title": "difference between appium node and appium desktop",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2656,
+    "titles_index": 0
+  },
+  {
+    "id": 1245,
+    "title": "using webdriver js with xcode and appium",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1956,
+    "titles_index": 0
+  },
+  {
+    "id": 1246,
+    "title": "scrolling not working with webdriver.io and webdriver.remote",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2543,
+    "titles_index": 0
+  },
+  {
+    "id": 1247,
+    "title": "where can i find a guide on getting started with appium using node.j",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2295,
+    "titles_index": 0
+  },
+  {
+    "id": 1248,
+    "title": "how to use 'findElement(By.xpath(\"android.",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 387,
+    "titles_index": 2
+  },
+  {
+    "id": 1249,
+    "title": "how to install ios-deploy using brew command line?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1662,
+    "titles_index": 0
+  },
+  {
+    "id": 1250,
+    "title": "how can i use uiautomatorviewer for mac os?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2424,
+    "titles_index": 0
+  },
+  {
+    "id": 1251,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 467,
+    "titles_index": -1
+  },
+  {
+    "id": 1252,
+    "title": "is it possible to test backend calls or events while making front end calls?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 77,
+    "titles_index": 0
+  },
+  {
+    "id": 1253,
+    "title": "how to change admob account country?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2795,
+    "titles_index": 0
+  },
+  {
+    "id": 1254,
+    "title": "why are you posting incomplete logs?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1757,
+    "titles_index": 0
+  },
+  {
+    "id": 1255,
+    "title": "appium 1.6 app launch twice on real iOS 9 device",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1465,
+    "titles_index": 0
+  },
+  {
+    "id": 1256,
+    "title": "is there a way to run devararl under bin?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1886,
+    "titles_index": 0
+  },
+  {
+    "id": 1257,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 81,
+    "titles_index": -1
+  },
+  {
+    "id": 1258,
+    "title": "NameError: name 'driver' is not defined ''",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2381,
+    "titles_index": 0
+  },
+  {
+    "id": 1259,
+    "title": "fruitstrap quit unexpectedly pop-up when trying to test appium on ios",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 291,
+    "titles_index": 0
+  },
+  {
+    "id": 1260,
+    "title": "java.lang.NoSuchMethodError coming in iOS Er",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1899,
+    "titles_index": 0
+  },
+  {
+    "id": 1261,
+    "title": "driver.findElement(By.xpath(\"///android.",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1821,
+    "titles_index": 0
+  },
+  {
+    "id": 1262,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 3133,
+    "titles_index": -1
+  },
+  {
+    "id": 1263,
+    "title": "how to use ios predicate and ios class chain locators",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2681,
+    "titles_index": 0
+  },
+  {
+    "id": 1264,
+    "title": "how to run webDriverIO with appium service",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1909,
+    "titles_index": 9
+  },
+  {
+    "id": 1265,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 223,
+    "titles_index": -1
+  },
+  {
+    "id": 1266,
+    "title": "org.openqa.selenium.WebDriverException: Connect to",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2293,
+    "titles_index": 0
+  },
+  {
+    "id": 1267,
+    "title": "can you write low level tests with espresso?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 385,
+    "titles_index": 0
+  },
+  {
+    "id": 1268,
+    "title": "how to reset the app every time a new scenario is run in android mobile automation?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2617,
+    "titles_index": 0
+  },
+  {
+    "id": 1269,
+    "title": "connection timeout issue while execution of test scripts",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2142,
+    "titles_index": 0
+  },
+  {
+    "id": 1270,
+    "title": "ios script opens and closes 4 times than 5th script is running on the",
+    "status": "0",
+    "type": 1,
+    "dialog_id": 1320,
+    "titles_index": -1
+  },
+  {
+    "id": 1271,
+    "title": "appium server side error : connect to 0.0.0.0:4723",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1728,
+    "titles_index": 0
+  },
+  {
+    "id": 1272,
+    "title": "",
+    "status": "1",
+    "type": 4,
+    "dialog_id": 2246,
+    "titles_index": -1
+  },
+  {
+    "id": 1273,
+    "title": "this is during startup.. and with which framework?",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2696,
+    "titles_index": 3
+  },
+  {
+    "id": 1274,
+    "title": "can't run safari test on apple phone ( appium 1.6.3 )",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1483,
+    "titles_index": 0
+  },
+  {
+    "id": 1275,
+    "title": "org.openqa.selenium.remote.Unreach",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2072,
+    "titles_index": 0
+  },
+  {
+    "id": 1276,
+    "title": "appium crashing on mac continuously  mobile app",
+    "status": "0",
+    "type": 2,
+    "dialog_id": 1496,
+    "titles_index": 0
+  },
+  {
+    "id": 1277,
+    "title": "how to use spinner in appium with xamarian",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 2469,
+    "titles_index": 3
+  },
+  {
+    "id": 1278,
+    "title": "sdk '9.3.5'was not in list of simct",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1871,
+    "titles_index": 0
+  },
+  {
+    "id": 1279,
+    "title": "Exception in thread \"main\" java.lang.NoSuchMethod",
+    "status": "0",
+    "type": 3,
+    "dialog_id": 1583,
+    "titles_index": 0
+  }
+]
