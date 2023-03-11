@@ -142,6 +142,10 @@ python gitter_finetune_t5_title.py \
 
 `python eval.py`
 
+## Ⅵ Annotation Tool
+
+`/tools/dialog_GUI/view.py`
+
 ## Ⅵ Requirements
 ```
 pytorch 1.12.0
