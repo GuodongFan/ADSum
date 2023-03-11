@@ -30,7 +30,7 @@ python disentangle.py gitter
 --weight-decay 1e-07
 --opt sgd
 --max-dist 51
-`
+```
 
 ```
 python disentangle.py gitter
@@ -45,8 +45,13 @@ python disentangle.py gitter
 ```
 
 For GitterAnalysis (method 2)
-
-`csv_construct.py data_cleaning.py merge.tab.py thread_identification.py evaluation.py`
+```
+csv_construct.py 
+data_cleaning.py 
+merge.tab.py 
+thread_identification.py 
+evaluation.py`
+```
 
 ## Ⅲ Tuning Github
 
