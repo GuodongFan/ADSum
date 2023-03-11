@@ -42,7 +42,7 @@ python disentangle.py gitter
 --nonlin softsign
 --word-vectors src/disentanglement/data/glove-ubuntu.txt
 --max-dist 51
-`
+```
 
 For GitterAnalysis (method 2)
 
