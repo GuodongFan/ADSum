@@ -151,7 +151,7 @@ python gitter_finetune_t5_title.py \
 
 `/tools/dialog_GUI/view.py`
 
-## Ⅵ Requirements
+## VII Requirements
 ```
 pytorch 1.12.0
 openprompt 1.0.1
