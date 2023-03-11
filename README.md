@@ -1,13 +1,19 @@
-## Preprocess for Github discussion.
+# Code For "Dialog Summarization for Software Collaborative Platform via Tuning Pre-trained Models"
+
+## Ⅰ Preprocess
+
+For Github data.
 
 python ./preprocess/process_github_discussions.py
 
-## Preprocess for Gitter
+For Gitter data.
 
+/disentangle/disentanglement/tools/preprocessing/
 
-# Dialog Disentanglement 
-## Gitter dialogs Disentanglement (method 1)
-`
+## Ⅱ Dialog Disentanglement 
+Gitter dialogs Disentanglement (method 1)
+
+```
 python disentangle.py gitter
 --train src/disentanglement/proposed_dataset/original_format/*/*.annotation.txt
 --hidden 512
@@ -26,7 +32,7 @@ python disentangle.py gitter
 --max-dist 51
 `
 
-`
+```
 python disentangle.py gitter
 --model ./gitter.dy_9.model
 --test ./data/gitter/ethereum/welcome/content.annotation.txt
@@ -38,14 +44,13 @@ python disentangle.py gitter
 --max-dist 51
 `
 
-## For GitterAnalysis (method 2)
+For GitterAnalysis (method 2)
 
 `csv_construct.py data_cleaning.py merge.tab.py thread_identification.py evaluation.py`
 
-## Fine-tuning Github
+## Ⅲ Tuning Github
 
-`
-CUDA_VISIBLE_DEVICES=0
+```
 python github_finetune_t5_title.py \
 --visible_gpu 1 \
 --max_source_length 256 \
@@ -57,13 +62,9 @@ python github_finetune_t5_title.py \
 --train_batch_size 10 \
 --train_batch_size 10 \
 --eval_batch_size 10 \
-`
+```
 
-
-## Prompt-tuning Github
-
-`
-CUDA_VISIBLE_DEVICES=1 
+```
 python github_prompt_t5_title.py \
 --visible_gpu 1 \
 --max_source_length 256 \
@@ -74,11 +75,10 @@ python github_prompt_t5_title.py \
 --do_test \
 --train_batch_size 10 \
 --train_batch_size 10 \
---eval_batch_size  10 \
-`
+--eval_batch_size 10 \
+```
 
-## Fine-tuning GPT2
-`
+```
 python github_finetune_gpt2_title.py \
 --model_name_or_path gpt2 \
 --model_name gpt2 \
@@ -105,12 +105,13 @@ python github_finetune_gpt2_title.py \
 --evaluation_strategy epoch \
 --save_strategy epoch \
 --load_best_model_at_end True \
-`
+```
 
-## Github Prompt tuning GPT2
 
-`
-python github_prompt_t5_title.py
+## Ⅳ Tuning Gitter
+
+```
+python gitter_prompt_t5_title.py \
 --visible_gpu 1 \
 --max_source_length 256 \
 --max_target_length 20 \
@@ -121,8 +122,32 @@ python github_prompt_t5_title.py
 --train_batch_size 10 \
 --train_batch_size 10 \
 --eval_batch_size 10 \
-`
+```
+
+```
+python gitter_finetune_t5_title.py \
+--visible_gpu 1 \
+--max_source_length 256 \
+--max_target_length 20 \
+--log_name log/log \
+--do_train \
+--do_eval \
+--do_test \
+--train_batch_size 10 \
+--train_batch_size 10 \
+--eval_batch_size 10 \
+```
 
 ## Calculate the metrics such as bleu rouge
 
 `python eval.py`
+
+## Requirements
+```
+pytorch 1.12.0
+openprompt 1.0.1
+tokenizers 0.12.1
+nltk 3.7
+numpy 1.22.3
+nlgeval
+```

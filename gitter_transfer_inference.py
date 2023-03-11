@@ -27,7 +27,7 @@ rouge_count = 0
 
 
 def get_title(prefix, input_text, model):
-
+    print(prefix + ": " + input_text)
     input_ids = tokenizer(prefix+": "+input_text ,return_tensors="pt", max_length=512, padding="max_length", truncation=True)
     summary_text_ids = model.generate(
         input_ids=input_ids["input_ids"].to(DEVICE),
@@ -64,16 +64,17 @@ if __name__ == '__main__':
     #model = T5ForConditionalGeneration.from_pretrained("./model_github_ft/checkpoint-best-bleu", config=model_config)
     model.to(DEVICE)
 
-    data_csv = pd.read_csv('./data/gitter/appium.csv')
-    ground_truth = './data/output/gd.out'
-    gen_output = './data/output/gen.out'
+    data_csv = pd.read_csv('./data/gitter/appium.csv', header=None)
+    #data_csv = pd.read_csv('./data/github/test.csv')
+    ground_truth = './output/gd.out'
+    gen_output = './output/gen.out'
 
     with open(ground_truth, 'w', encoding='utf-8') as file1, open(gen_output, 'w', encoding='utf-8') as file2:
         for idx, row in tqdm(data_csv.iterrows(), total=len(data_csv)):
             prefix = row[0]
             body = row[1]
             truth = row[2]
-            title = get_title(prefix, body, model)
+            title = get_title('summarize', body, model)
             print(title)
             file1.write(truth+'\n')
             file2.write(title+'\n')

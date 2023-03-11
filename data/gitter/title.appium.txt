@@ -1,0 +1,1033 @@
+error while running security import myPrivateKey.p12
+how to run appium parallel in ios native app testng in saucelabs
+how to upgrade appium from 1.5.3 to 1.6.3 on ios 10.2.1
+error while loading shared libraries: libstdc++.so.6: cannot open shared object file: No such file or directory
+can't start WDA on android appium webdriver
+how to handle multiple WebDriverWait instances in a single session
+is there any robust way to identify elements of left menu using appium inspector?
+how to set apk path in Ubuntu for android testing
+failed to install my app using Xcode 9.4.1 and Appium Desktop 1.8.1 with ios
+how to enable devleoper option in iphone?
+how to parse json responses using rest assured JsonPath
+can you please tell me the code for swipe down?
+how to use swipe in java client 6.0 beta android driver?
+how to solve this issue about hiding keyboard is fail in IOS
+how to set appium configuration through code line
+how to initiate inspector on mac os in appium
+connection timeout issue while running test scripts
+chrome driver error when try to run a web test
+how to switch the keyboards for example numeric keyboard instead of alphanumberic keyboard
+issue regarding auto select text in the text box
+way to pass name value dynamically to a locator
+how to use IOSElement and iOSFindsBy using java
+the app can not opening where the record code is find_element_by_xpath 
+the PopupWindow is not visible in native android app
+how to run native app for selenium webdriver java in ios
+touching action and pinching out/pinch in are not working in my app using java-client-4.1.2.jar and Appium v1.6.5
+WebAgentRunner issues when trying to automate iOS application using appium
+reset content on the simulator but fails to work
+error run appium server in background from mac terminal
+why context name is showing error? 
+is it possible to run multiple tests on multiple real IOS devices? 
+how to switch switch to message inbox from my app, read an OTP from there and switch back again to my application
+how to inspect elements without clearing app data on appium desktop?
+use gradle in UIAutomator to report of the Testng through email
+appium script not working on letv ( android version 5.0.1 )
+is it possible to write a javascript appium test from the command line?
+how to load an image to the imageView in an android application?
+error when use driver.input_text(locator, text)
+how can i get appium console after installing node js
+is there something wrong about avdLaunchTimeout and avdReadyTimeout?
+how to find driver.setNetworkConnection() in java
+how can i get appium to launch SafariLauncher on my iphone?
+ios script run fail in appium 1.7.1, xcode 9.1
+learn about android automation for android
+error while running TestNg from terminal using linux
+possibility tests are dependent on nodejs in appium?
+discrepancy in xpath for same element in ios 8.4 and 9.1
+does electron.js work with macos 1.6?
+where to join a java group for appium developers?
+scroll up not working using verticalScroll
+weird issue from Xcode with appium version 1.6.5
+how to run my tests on iPhones and why the application settings are greyed out at the appium gui?
+reset the app every time a new scenario in android mobile automation
+is there a way to get the webview context when using set_webview in code?
+code signing is required for product type 'UI Testing Bundle' in SDK 'ios 10.2'
+ios app runs from within xcode but fails to run with appium
+what's the best way to run parellel execution in selenium grid
+emulate camera previews for blackbox testing
+the difference between webview and native with the new appium for desktop inspector
+uiautomation failed to launch multiple sims when running in parallel threads
+unable to download and install appium in ubuntu 16.04
+which appium server version will be best for the future
+launching the app is failing with 404 error
+noReset flat is not working for appium version 1.2.0-beta.1(1.2.0-beta.1) in ios 10
+scroll to the particualr element in appioum
+can not find appium repository root on mac
+unable to execute browser.execute('mobile: scroll', {direction:'down'})
+where does Appium Desktop save the WebDriverAgent project
+ios_webkit_debug_proxy is not so easy like android
+documentation to setup appium on mac
+what are the dependencies you added in pom.xml
+how to get Resource id and xpath for UIAutomatorvIE
+error while installing setting-apk_debug.apk file in appium
+are selenium 3.2, testng 6.8 and java client 4.1.2 compatible?
+appium java client version is 2.2.0 and appium java client version is 1.4.1
+how to setup appium grid with selenium gird
+are you able to click through other active buttons on the pop-up?
+can't start appium via node in CI server with Circle CI
+how to attach to an existing ruby session using appium_lib?
+how to check if an element is visible on ios?
+how to write automatic tests for mobile browsers with webdriverIO and selenium
+how to setup capabilities in appium for iOS app's native popup
+when is select element that contain image and text but unable to select text in appium inspector
+does Appium support Xcode12 latest for Catalina os version 10.15£¿
+how to execute adb command from terminal in eclipse?
+what is the difference between a hybrid app and a webview?
+how to use 'browser.execute('mobile:scroll',{'direction':'down'})' to work
+how to set mobilecapabilitytype.appium_version in ruby?
+upgrading to the latest xcode Version will work with your Device
+take screenshots on a failed test using node?
+test websites through different browsers using appium and webdriverio
+could not install app on iOS 10.3+ devices (works perfect on iOS 10.0 )
+start appium with window machine
+cannot open shared object file: No such file or directory while loading shared
+how to capture ios device model during runtime?
+an unknown server-side error occurred while processing the command  driver.execute
+is it possible to do regex like pattern matching with alert api for iOS?
+run mobile automation scripts in remote machine using appium-server
+swipe appium 1.6.3 deprecated need to use TouchActions
+appium not locating the same element as given as search parameter
+Appium changed the swipes because all moveTo operations in touch actions now take coordinates as absolute
+write a test that works on both android and ios
+what npm packages or frameworks that track network traffic from native mobile apps?
+handle browser notifications using capability
+an unknown server-side error occurred while processing the command  
+is there a windows version of the appium app capable of inspecting elements?
+why context name is showing error? 
+perform a click action on the content-desc after quitting appium
+can't reinstallellar node 8.1.3 with brew link
+is there any dialogue pop up on android device?
+session was recognized only for the LAST test case 
+is it possible to install ur app using ideviceinstaller on real device
+how to connect appium server to an android device with .apk
+ios issues with element state (.isvisible .isenabled .isdisplayed) ect
+problem ios app runs from within xcode but fails to run with appium
+UiAutomator is the locator strategy would be best for appium?
+how to add  "android:exported="true""using facebook messenger app in android
+java.lang.IncompatibleClassChangeError while using driver.sw in eclipse
+why the submodule appium-instruments is old version?
+unable to find webview on ios 10 with appium 1.6 embedded in native
+way to reset app state after each test run on physical mobile devices
+getting an error when trying to start a new session using appium desktop
+still stuck after WebDriverAgent app test completed, Error Code : 65 
+get adb logs when running tests in appium?
+can selenium grid be used with appium?
+java-version exited with code 20 but this command output without appium
+update android sdk n build tools using mac
+can i use Maven for ios  mobile application?
+appium doesn't support the latest OS version
+appium freezes right after starting chrome on ios and android real simulator device automation
+how to start appium on simulator with xcode 6.1 for ios 8
+how to get the element on uiautomatorviewer on android appium 1.5.4
+is it possible to run selenium webdriver test cases using appium in ios ?
+resetapp works on android but not on ios
+is there a way testing native app on ios with wdio?
+how to write automatic tests for mobile browsers with webdriverIO and selenium
+can i launch adb command via appium?
+appium not catching clicks when running through terminal (Ubuntu)
+how to turn off wifi via adb in appium for android?
+device not configured error after appium install on mac os
+does appium support webview? and does appium support android?
+appium.app and appium.exe are outdated and not maintained by core appium team
+UIAutomator Viewer not working on ubuntu 18
+how to create a breakpoint for a field that is hidden when the keyboard is present
+how to create multiple stepdefs.java for different architecture
+appium server is not responding
+how to scroll to particular element using selenum webdriver with apium
+what is the best method for showing notifications pull down for iOS?
+:point_up: is not working with Xcode 10 and old appium version
+how to verify the options available on the screen when a video is playing in appium
+problem about not launching due to appium server being down
+couldn't run any of appium examples and kept getting error
+how to get placeholder text in textbox in appium 1.6.3?
+is it possible to run selenium webdriver test cases using appium in ios?
+how to use appium for ios profiling?
+why is appium slow on real android device but working fine on emulator?
+error occured only with one application : chromedriver 2.30 - 2.35
+getting not emplemented exception 
+appium-android-simulator on android do not stop on reset
+how to automate tooltips/toast messages in android by using appium
+annotation not working for scripts on ios
+failed to start an appium session, error was: Instruments crashed on startup
+how to perform a screenshot in Extent Report-Avenstack 3.1.5
+swipe function is not wrapper function from touchActions
+is there a way to test push notifications with ios appium?
+play wave file in 'after the duration' and 'after the duration '
+appium: mobile:touchAndHold not available for ipa files
+is there a good way to scroll on iOS/Android?
+unable to run safari test on apple phone ( appium 1.6.3 )
+is there a idea about the desired capabilities for Android in Saucelab?
+lot of npm installations do need to be admin
+is swipe still broken in UIAutomation?
+is there a code sample or link which would help me do to image comparision or clicking in IOS for real device?
+it's possible to send shift and left or right arrow keys with ios simulators?
+why the hard condition on set use a different data structure?
+how to setup appium on linux machine?
+unable to scroll in android app with appium in v1.8.1
+can not start 'com.company.firetv.activity.MainActivity'
+how to install ipa on the real device?
+appium crashes on startup when switching from *.app to *.ipa file same application Appium
+how to tell Appium on AWS device farm that there is a waitActivity
+appium gui settings are greyed out, how to set it up?
+how to handle dates in datepicker using selenium web driver?
+send keys is calling the method tempting to clear using UiObject.clearText()
+can we automate mobile device via appium? ( 1.10 ) scrolling command
+java.util.zip.ZipException: Failed to start an Appium session when running from  jenkins
+ios error 65 when using appium gui
+scroll not implemented with selenium3 on python and android
+how to use backspace from sendkeys?
+how to install appium studio in ubuntu?
+is it possible to automate non owner application in appium?
+an unknown server-side error occurred while processing the command with ios setup
+i am facing configuration error when i am running my testNG script from terminal in eclipse
+how to generate HTML test report for python script
+how to hide keyboard using hidekeyboard() method on ios automation?
+default keyboard doesn't work in webview
+how to emulate camera previews on blackbox testing?
+why appium is so slow on my real android device but on emulators its just working fine
+npm ERR! npm v3.10.8
+Unable to Launch Appium Inspector
+how to slide android seeker?
+how to verify that google maps/apple map has been loaded on physical device?
+how to run multiple test cases sequentially in 2 devices using gradle?
+have a "not compatible with your device" message when install the play services
+how do you normally access the deeplinks?
+could not pre-launch appium: Error : Permission to start activity denied
+got response with status 200 
+sceanrio touch action not working with mvn clean test command
+is it possible to create an.app file for simulators?
+unable to access iframe with.frame() and getting error
+how to start appium on simulator using xcode 6.1 for ios 8
+error with ios webkit debug proxy - 'console.enable' and have no handle,doing nothing
+appium doesn't auto-install carthage for ios 10
+how to skip an element which is not present on app screen?
+errorhandler class was updated in selenium 4 months back
+nullpointerException when trying to invoke virtual method 'java.lang.String android.content.Context.getPackageName()'
+how to get list of elements from tableview on ios or android?
+appium.log locator might have some issue to use proper locator
+sendKeys on android doesn't select the whole word
+getting error message "If you look at the response code it says 404" when use driver.scrollToExact(text)
+is there a way to look for an element that contains something?
+how to upload excel file in selenium?
+a new session could not be created
+unable to compile appium maven project
+is there a way to open the app integrated with Office365 login web page automatically in appium?
+Is appium/python-client missing driver.getPageSource() ?
+is there a way to run an inspector to run as a 1.6.0 service?
+appium script is running in LANDSCAPE mode but Video is capturing in PORTRAIT mode
+is it possible to automate non owner application with appium?
+which appium server version will be best for the future?
+does electron.js work with macos 1.6?
+get issue on gui when executing the code
+add signature to idevice_id but device is not added to provisioning profile
+latests selenium\java and appium 5.0.4 unlocking works very bad
+appium is giving up after few tries with appActivity and appWaitActivity
+can't upgrade webdriverio appium to latest version
+problem about using appium 1.6.3 on macOS v10.12 (sierra ) with simulator
+unable to run webdriver from appium
+unable to select UI elements through app overview on the right side of the inspector
+webdriver io is a combination of selenium and appium
+how to inspect the Photo gallery UI elements on iOS 11
+how to check if certain string/text appears on screen/page or not in appium
+how to uninstall and re-install app after a test
+how to run web tests on android on default browser using appium?
+how to use findElOrEls in webview by appium-android-drive
+running appium tests as parallel on different physical devices ( android and ios )
+is there a more complex example project for Appium on Ruby with RSpec or Cucumber?
+how to test apk in uiautomator without source code?
+appium shouldn't close the session unless an exception occurred or test finished
+how can i get the same driver for ios automation using Selenium
+is there any other way to inspect elements on ios devices?
+how to skip dvertisements on appium with android avd
+ how to  switch to the UIWebview
+get unknown server-side error occurred while processing the command in ios
+unable to use send keys() to select the value in UIAickerwheel
+how to apply wildcard search in appium
+is there a way to resign a downloaded app downloaded from app store?
+how to handle scroll actions using appium and webdriver on android/ios
+device not configured '' error after installing appium on mac os
+how to scroll to the particualr element in appioum
+error while moving pom.xml under Jenkin workspace on ios
+has anyone ever stumbled on appium showing IDs as squares?
+unable to set location in any app like google map or uber cab etc.
+unable to access accessibilityLabel element in jest test runner
+how to scroll/swipe on iOS with Python
+error on android ( no such file or directory) when running appium
+what is the difference between full reset and no reset in appium?
+how to interact with iframe in webview on android using selendroid automation
+appium java client getting error
+is there a way to mock the camera to test barcodes?
+is there any scroll option for appium 1.5 available other than scrollto and scrolltoExact
+how to get current context on context switch?
+the adb shell commands (from within appium code) time out while using appium 5.0.0-BETA8 and npm-appium 1.6.4
+uiautomator2 scroll function is not working using java_client in android
+how to identify element in ios appium?
+issues using "Tap by Coordinates" in Image Gallery on ios 11
+is there a list of all 'good' frameworks out there?
+error while running tests on jenkins server with app-automation-ios with Appium 1.10.0 and WebDriver.io
+how to click and find on element that only has class = android.widget.ImageView index = 1
+get error code signing is required for product type 'UI Testing Bundle'in SD while running the command
+how to see iOS 9.3.1 in platform version?
+unable to select image from gallery using appium 1.6.3
+webdriver.io failing some tests when trying to run all the scripts together
+what is the location of the iOS Simulator app?
+how to use alphnumeric keyboard in text field?
+how to scroll a dropdown list in android mobile applications
+what is the framework setup for CI and testing?
+how to best find elements in ios
+appium inspector is not working on ios simulator
+how "url" parameter in json node config should work
+how to do appium script for SIM card provisioning in android or ios device
+can not swipe on ios simulator using appium driver 
+is it possible to switch context (Native to web or vice versa) on same device
+how to execute appium scripts to cloud level device execution on mac?
+is there a way to get parent elements in appium?
+can not start appium when using selendroid mode
+change automation name to UIAutomator2 for android 7.0 devices
+appium could not start http interface listener. the requested port may already be in use
+error for appium - invalid argument : cannot parse capability
+is it possible to start two sessions in desktop?
+appium 1.5 does not support name locator - need to remove all name locator from repository
+appium inspector crash on windows and osx while trying to inspect
+org.openqa.selenium.WebDriverException: an unknown server-side error occurred while processing the command
+webdriver doesn't have a way to drag a slider
+unable to install ios-deploy using appium
+how to locate angular elements under hybrid appium using uiautoamtor
+how to delete a specific file from 'Download' folder in android device?
+appium uiatomation should work only for selendroid mode
+how to configure ios app for appium testing
+is anyone use appium on circleci?
+how to interact with iframe in webview on android using selendroid automation on 4.4
+where did you find 1.6.0 Appium GUI app?
+how to get iOSPredicate for UIAApplication
+how to install version 1.9.0 or 1.9.1 for macos appium
+is it possible li.last funcition is work without scrooling?
+how to find if element is focused on ios
+how to verify the options available on screen when a video is playing in appium?
+what's the current canonical way to automate a Spinner?
+Error: Main method not found in class tests.AppiumTest,please define the main method as: public static void main(String)
+when using send keys it is calling the method tempting to clear using UiObject.clearText
+how to assign webkitDebugProxyPort from localhost:9221 to app
+is it possible to launch a website in Safari browser using Appium 1.6.3?
+how to verify that a cell was clicked in the search bar when using a trending
+what is the best way to get network calls for ios app?
+is it possible to automate tests using APPIUM in a hybrid app?
+is it possible to run parallel execution using appium for android devices using selenium grid
+appium 1.7.1 shows *parser error* when inspecting android mobile elements
+is there a list of all "good" frameworks? 
+error: could not find or load main class com.android.UiAutomatorViewer
+can i use value parameter to type in full name in edit field?
+is there any robust way to identify elements of left menu using appium inspector on ios?
+is there a way to connect to the appium server with a webdriver client?
+issues with appium-Desktop xcode build failure
+issue with appium comvereted *.apk file to tmp and installation got failed when using appium java client and appium
+is there a way to run appium tests headless on NATIVE iOS apps
+how to generate ipa, iphone simulator support?
+is there any robust way to identify elements of left menu using appium inspector in ios app?
+launching safari launcher app always opens google.com instead of test case URL when clicking on "Launch Safari"
+how to use the appium inspector in ios and android?
+name strategy doesn't work on ios ( 1.6.3 )
+appium 1.6.3 don't have inspector
+how to run appium test on ios13 real device?
+how to handle toast message in android
+how to scroll using appium on real android device 
+should upgrade from appium 1.4.13 to 1.5 or 1.6 beta?
+is it possible to use appium for mac desktop application testing?
+is there any way to automate iOS app on windows platform without MAC machine?
+error in the middle of my test run on Android - "Error: A session is either terminated or not started"
+how to use appium with python in ios testing?
+is there a working example of double tapping or double clicking an element?
+is there any way by which the Appium server and the mobile devices can be connected to each
+how to click on back button using appium in Android
+how to find elements in hybrid web page view in android?
+is it possible to inspect webview pages using appium-java-client 4.0.0?
+could not read Username when installing carthage
+how to down keypad in android device
+how can i install both the apps while running automation using appium release?
+how to automate sign-in web view in native app?
+can we run ios testing without instruments?
+how to set accessibilitylabels on 1.5.2?
+appium inspector is not launched on iOS
+how to lunch an app from recent apps list in android with python?
+how to run test through command line for appium android?
+need to open the iOS instrumentation and xcode before executing the scripts
+is there a good way to use pages with steps in cucumber appium?
+is it a bug when i check the contexts of the driver on Python client, it always give me native on ios
+how to attach to an existing appium session using Python
+how to test appium on android 7 And ios 10 devices?
+a click event failing (actually not doing anything and finishing with timeout)
+is there a way to screenshot websites on iPhone/iPad inside Safari Mobile?
+how to inspect webview elements with ios10 + appium 1.6?
+how to click on element that only has class = android.widget.ImageView index = 1 for android
+ios webview - unknown server-side error occurred while processing the command
+how to execute this scenario using Appium 
+why appium does not update to latest version when i click on check for update?
+how to scroll using appium on real android device
+issue: a new session could not be created. (Original error)
+how to remove or dismiss the keyboard from the screen using web driver?
+web response is not comming when doing manual testing on ios real device using appium
+why the submodule appium-instruments is older version?
+how to use lazy search and control flow with appium 5.0.4 and selenium 3.7.1
+iOS alert: Already tried basic things like, switchTo().alert().accept()
+can we automate iOS applications without debugging/signing iPad file using Appium
+get error "org.openqa.selenium.sessionNotCreatedException" while starting multiple test
+how to get text contents from a screen in android appium 1.4.13.1
+how to get absolute coordinates based on user touch in appium 1.4.0?
+how to select multilist box in ios app select class 
+how to setup webdriveragent on cloud like sauce labs
+get "java.lang.NullPointerException" in mac - 10.13.2,appium - 1.7.1,Xcode - 9.1
+what is the difference between peer 2 peer testing and visual testing?
+can you get the current context and print it? 
+get configuration error when i am running my testNG script in eclipse
+when to use return driver and when not to use return driver in appium ios
+connection refused error when trying to run appium programatically
+is it possible to verify data from a json file on android?
+how to run find_element_by_xpath on android simulator
+tap on coordinates not working on appium 1.2.3 desktop with xcode 9
+issue with this element does not have the 'bounds'
+Failed to start an appium session, err was: Instruments crashed on startup
+how to write a test that works on both android and ios?
+when will Appium support Xcode 8.2? 
+how to use UI inspector for iOS in appium 1.6
+how to setup appium-android-driver/appium-ios-driver (nodejs) to work with sauce labs?
+404 error throwing with inspector
+appium desktop popup a message error when start session use appium
+is any editing android plate form here to begin with?
+junit runner class is supported in aws device farm appium
+how to concise promiseChainRemote with mocha?
+is it possible to run automation scripts with signed apk?
+appium maven dependency - error on driver creation after upgrading to 1.11.0
+how to populate textbox with software keyboard after upgrading to appium 1.4.8 on mac
+appium inspector throws error: An unknown server-side error occurred while processing the command
+what is the difference between appium and appium-desktop?
+how to download selenium grid hub with iosRemoteProxy for ios
+how are you interacting with alerts via javascript with your framework£¿ 
+It is better to run appium on Typecript than Javacript.
+explicit wait in java
+how the new feature "support for searching elements by id without passing package name" work exactly use java cilent btw?
+could not proxy remote command error when running appium 1.9.1
+how to selectively choose not to reset an app? 
+error  please enter value in the text field as if the value not inserted but visually the value present in the field
+an unknown server-side error occurred while processing the command  driver.execute
+how to set up appium for windows (Android)?
+how to choose time in appium ios?
+there's no accessibility label  but content-desc and resource-id in Android
+appium 1.5.3 not able to start inspector 
+how to run appium programmatically and call the json file?
+see under `iOS Only`, `udid`  is only ios capability.
+does python bindings for appium has functionality of scrollTo element?
+how to swipe scroll using appium?
+is there a list of all 'good'frameworks available?
+how to use pageobjects in dicusss for testing on ios in Appium: 1.3.5 and Java-Client 2.1.0?
+does appium 1.3.6 support on mac osx 10.7.5?
+How to add a  NavBarBackButton to the app?
+how to generate.app file out of code base?
+how to use inspect element for ios application like appium desktop?
+how can i handle picker wheel in iso calendar?
+how to run multiple tests using appium without start new session in appium server?
+what are the elements on the page? 
+how to make this .ipa file ready for iOS Automation via Appium? 
+why findElementsByAndroidUIAutomator can only get the first RelativeLayout?
+Is WDA installed on device? it is a connection timeout issue.
+how to use  XCUIElementTypeStaticText
+can anyone please share any Appium blogs? 
+how to swipe from bottom to top?
+ Does anyone know about Android card view£¿
+unable to get context and set context for windows app when automat windows hybrid app 
+appium --session-override for uninstalling.
+how to find coordinates using appium inspector if it's a native app
+When pass in locale information for a simulator run with driver1.5 get a issue.
+unable to find ID for any of the objects available in the screen.
+when i run my scripts through testng xml a group  of 3-4 xmls it just works fine.
+does appium support mac app automation as well?
+how to verify google voice is activated using appium?
+how to get alert text using browser.alertText()?
+ we can use explicit wait for the element that you are getting StaleElementRefException.
+is there an element identifier common to Android & iOS?
+how to find if element is focused/not focused for ios?
+does anybody use a docker-based emulator to run appium in android tests?
+set up a brake point and inspect element `page`  when you are writing your tests.
+how to get back first/last element from DOM using XPath on iOS
+when will appium support ( fabric ) crosswalk?
+how to execute android application test scripts on Eclipse?
+how to recognize password textbox which contains NAF=true in android app?
+what commands you use to start/stop/restart appium .
+is there any tool to do iOS app accessibility checking?
+node.js is enough to install appium on any platform.
+when working on apk failed to start an appium session, Error Command failed.
+how to keep session in retrofit library?
+webdriverException when using self.driver.swipe method
+iOS device requires udid and bundleID.
+when try to request Android capabilites get an error saying `You must include a platformName capability`.
+riginal error: unknown error: Failed to get sockets matching with mobile web views and Appium.
+Getting connected devices( AutomatingASimpleActionTest).It is faster than device.
+is it possible de display the appium website in english when using a french OS?
+add screenshot of inspector if it has already split by new line separat
+is there a way to see view inspector without desktop app on ios?
+how to launch inspector from command line?
+how to start appium with ruby on ios?
+update to Appium 1.6.3 gets some failed.
+can you share logs of DesiredCapabilities? 
+when run appium server get the error:Simulator architecture appears to be unsupported by the'Users/sreekanth/Desktop/iOS App/StreetReader.app'.
+how do i get alert messages on mobile devices?
+when testing a hybrid app the same element raises an NoSuchElement error. 
+not sure about xcuit framework implementation on 1.5 appium version.
+after running python script for iOS app testing get a error:"NameError: name 'driver' is not defined".
+an unknown server-side error occurred while processing the command.
+is it possible to access the 'path'attribute in driver.page_source?
+ when upadted my appium from 1.7.0 to 1.7.1 the script is not working in Android.
+how to get device location in android appium using python?
+how to find webelement for webview contents desgined by ionic framework
+how to setup Appium for android on windows?
+How to write tests targeting both iOS and Android.
+how can i specify on the appium desk to certain way for simulators and real device.
+PageFactory.initElements(new AppiumFieldDecorator(getDriver(), 20, TimeUnit.SECONDS), this); doesn't work .
+'RoutingHTTPServer/RoutingConnect.h  file not found.
+how to remove a SIGABART error in windows?
+how to scroll untill elment prasent in appium?
+how to use webdriver with appium 1.9.0.
+how to use browserstack devices if appium plugin requires a local IP to work.
+unable to access iframe using.frame().
+how to select image from gallery in ionic framework?
+appium.sessionNotCreatedException when running without killing node process.
+Error: A new session could not be created.
+selenium.nosuchelementException: An element could not be located on the page.
+how do you open the inspector in appium 1.5.3 desktop?
+Can we add arguments while launching an .apk file from Selenium?
+how to collect api logs during UI test run?
+what and where to replace in the newest appium version.
+how to uninstall appium ( android + selenium + appium ) from source.
+how can i upgrade my appium 1.6.3 to 1.6.4?
+ while configuring get error: Failed to start an Appium session and Installing com.abc.xyz.pqr.ab failed 
+ how can i print something in python console?
+how to automate cross-domain iframes with the iphoneX?
+ould the element be find with the code  bellow: @AndroidFindBy(uiAutomator = "new UiSelector(resourceId(\'com.android.systemui:id/scrim_behind\')") private MobileElement someBtn?
+how to scroll to the top/bottom of the view?
+can anyone share the location for appium desktop Setup 1.5.3 version.
+how to use fastlane with appium?
+what is the app path for automation testing in appium server for ios?
+how to change focus from main screen to popup screen?
+how to scroll upwards in a page using appium?
+is ur app native or webview or hybird?
+how to install appium version and run test on real device and run tests on real device?
+use id instead of xpath and remove casting mobile element
+is there a way to screenshot websites on iPhone/iPad in Safari Mobile using SauceLabs and Webdriver.io?
+chrome 65 issue in Saucelabs while run appium tests on real device.
+is it possible to obtein element id with appium inspector?
+appium 1.3.2-beta2 can not start,it spawning instruments failed.
+how to find x axis and y axis location in ios simulator
+appium inspector doesn't start when autoWebview is set to true
+removed setAccissibilityLabel shows UIAText but not all fields
+appium grepping chromedrivers¡® instances in android tests on Ubuntu 16.04
+can appium communicate between a browser and a native application in the same test?
+how to scroll a dropdown list in android mobile applications. why could not creat a new session in Appium1.3.4.1.
+unable to  connect Appium to webdriver agent
+does callback method can't change activities with intent?
+how to use  NATIVE_APP in webview context
+getting permision error while pushing the changes to create PR
+how to build WebDriverAgentRunner from console or Xcode use Developer Team provisioning profile?
+how can i learn android automation?
+is ancestor work with appium?
+when run the project in my android sdk showing error in android path
+is there any dialogue pop up on your android device?
+how to click an element using touch action or swipe
+Can we add arguments while launching an .apk file from Selenium?
+why unable to find elements inside a  iframe  on iOS£¿
+how to attach to an existing Appium session using Python.
+how to connect real ios device with appium server using xcode?
+is there a way to integrate appium with xamarin?
+what is the next action after splash on android manifest in webdriverIO?
+is there a way to try the xpaths like firebug in browser?
+appium swipe on ios 8 - is it working now?
+How to start testing app using appium via ruby.
+Can i execute scripts parallely on iPhone safari browsers  With AppiumTestDistribution 
+error:"Instance of 'WebDriver' has no 'find_element_by_accessibility_id' member"
+who has the appium 3.3~5.0 update content URL?
+how to retrieve OTP Message Notification from Message App to Native App?
+how to fix the problem the Scripts are running very slow with appium 1.5.2.
+can't create a new session because 'createSession'   takes HttpClient, InputStream and long was not found or it is not accessible
+is there any other tools to inspect elements on ios?
+is there any similar tools for ios like adb for android ?
+problem about debug with simulator (appium 1.6.0 xcode 8)
+how to setup appium for iOS hybrid app
+how to scroll down the page in hybrid app to bottom in apium?
+is there a way to map the automated tests with the zephyr tests?
+how can i get the image through appium driver and compare it with static image?
+what is the command for accesibility id?
+While running tests I see that the while doing sendkeys
+sendkeys is not working on ios device
+UI Testing from XCode 7 in appium
+Only call 'launch' once in my appium client when using appium 1.6 on real iOS 9 device.
+how to launch whatapp and message to one contact?
+Cannot findelements error when i close the terminal
+who can tell about tools for code review of mobile application testing Android and IOS 
+err_connection_refused localhost:8100 when connecting app
+how to run appium tests over WiFi on ios real devices without using the cable
+When running android case on android device it is failed. 
+Session not created Exception when using appium-java-client and selenium
+unable to get TestNG in Eclipse in macos
+how to test push notification in windows appium?
+appium test not stopping the session after the test have finished
+unable to see resource id and text in npm install -g app
+how to parse complex json responses using rest assured JsonPath
+error:-The method tap(int, int) is undefined for the type TouchAction,The constructorTouchAction(WebDriver) is undefined
+problem about Team and Signing Certificate already have values in Xcode
+appium version 1.5.1 taking forever on line "driver.context(contextName)
+ appium 1.5 does not support name locator
+Is there a way to provide the iOS bundle ID and reset the app state after each test run
+how to hide keyboard on ios?
+how to find an element by text using autoAcceptAlerts 
+cant automate without debugging and singed certificate
+how to install webagentrunner in real device using appium?
+what does the Error: Sdk '9.3.5' was not in list of simctl sdks at getDevices$... mean£¿
+how can i attach to created early session in code from python
+what swipe values are displayed now?
+is appium work with latest Xcode and iOS and  the inspector?
+how to start chromedriver via webdrivermanager using java?
+how can i get the element value upto last in listview?
+add all appium dependencies in pom.xml and start with appium directly
+XCUITEST does not create a new driver session in appium 1.6
+WDA error:locating an element and sending keys when successfully setup appium / webdriverio.
+why appium hides/closes my app on android?
+how to generate.app file out of code base?
+error on simulator:Exception in thread "main" org.openqa.selenium.
+how to run appium tests over WiFi on ios real devices without using the cable
+how to scroll/swipe to specific text?
+what is 'jsonwp proxy' in appium 1.4.16.1?
+how to attach screenshots imgs to test report?
+appium script not working well on letv ( android version 5.0.1 )
+can not see the option "Accessibility Inspector when using the real device.
+how to disable download pop in chrome browser?
+how to configure ios app for appium testing?
+how to reset the app every time a new scenario is run in android mobile automation with app
+how to install appium 1.5.2 through terminal in MAC?
+how to findElement like driver.findElement(By.xpath("
+appium server is running and  can access from my code but get error
+how to wait till element is located?
+getting error while using Appium inspector on physical device (iphone)
+how to use month picker on ios?
+When start node server getting below error(Checking if an update is available) with appium 1.4.16.1 in windows 7.
+when do browser.touchAction get an error saying "An unknown server-side error occurred while processing the command". 
+how to click on specific part of image using coordinates?
+appium could not start http interface listener. The requested port may already be in use
+how or why appium would kill itself over sqlite?
+the process "node.exe" not found on ios device safari browser
+is there a way to stop appium from opening up appium.io url
+how can i use the robot framework in a maven project without installing anything additional
+how to click on an element in ios app using appium tool?
+how to switch off/on wifi in iOS mobile device using appium script?
+how to get getAttribute("index") value in android?
+how to add marshmallow in platform version use type right?
+how to use ScrollStart.getHeight() to scroll to the page
+getting NATIVE CONTEXT when building with Schema=debug and distrubute with Enterprise Cert
+how to install appium in windows 7?
+how to inspect textbox in ios appium inspector?
+we can't find webelements for Tooltips/Toast messages
+java.lang.RuntimeException: Unable to start activity when multiple test script files
+how to find elements in a hybrid app with WebView?
+imports are failing after updating from 2.8.7 to 2.9.1 in RF 2.8.7
+when start an appium session get error: Could not initialize ideviceinstaller.
+how to launch a mobile app from the main screen?
+is it possible to automate mac desktop application testing?
+when and who develop appium?
+when start the server but getting error: Could not find ideviceinstaller or initialize it
+whnen start a local Appium session on an iOS emulator get the error:Using Appium 1.15.1
+is there a way to do regex like pattern matching with xpath?
+error on appium desktop error : "The URL '/' did not map to a valid resource"
+error in Appium doctor Bin directory for $JAVA_HOME is not set
+should upgrade from 1.4.13 to 1.5 or 1.6 beta?
+can't run webDriverIO with appium service
+When run code in appium get java.lang.NoSuchMethodError.
+will element.clear() work in appium 1.6.3 useing the Java client4.1.2?
+when run a script with protractor geenrated by appium get the error:No element found using locator : by.xpath
+can 'swipe' work for appium 1.6.0(beta3)?
+how to control bluetooth ( ON/OFF ) using appium in real android device?
+is it possible to manage reset app ( or remove reset ) client-side with java-client?
+when run the simulator it keeps on spinning but will never show the app with appium in eclipse
+Appium supports to work with an APP file and real device testing
+how to insert pass/Fail result on excel sheet with cuucmber framework
+how to take screenshot for test failed in cucumber?
+$JAVA_HOME is not set in Appium doctor Bin directory
+how to identify object using name=Today's Appointments
+how to share my ios software with an enterprise account?
+ideviceinstaller doesn't work on ios 10.x
+error when running appium version 1.5.3 GUI version for testing iOS application
+autoAcceptAlerts does not work very consistently on the iOS Simulator
+what is the command to make a scroll down in android?
+unable to find webelement for webview contents desgined by ionic
+ Mocha is a plugin for javascript?
+how to use appium and browserstack
+how to connect to webview from apk without webview management?
+when have a table view with three cells he last cell becomes disabled as soon as I try to interact with it
+when run Appium with iOS 13.3 get the error:Domain=XCTDaemonErrorDomain Code=11 "No AXElement found at {160 284}:
+how to perform a swipe action in appium ios
+when start a local Appium session on an iOS emulator and get the WebDriverAgentRunner: Using Appium 1.15.1
+what is a good android emulator solution? 
+when run appium server get error£ºSimulator architecture appears to be unsupported by the '/Users/sreekanth/Desktop/iOS App/StreetReader.app' application.
+how to install both the apps while running automation with appium release?
+how to verify google voice has been activated using appium?
+mobile testing talk: What's New With Appium yesturday webinar?
+how can i schedule my job to work with real mobile devices on Jenkins CI?
+can we automate Firefox browser on android using Appium?
+when start appium app the client doesn't display any log
+can we turn on/off wifi in iOS through appium/java?
+how to swipe from bottom to top using mobilecapabilitytype class?
+unable to start inspector in Appium 1.5.3
+Install and debug iPhone apps
+can you run only one ios simulator at a time?
+java.util.zip.ZipException: error in opening java.util
+is it possible to accept this alert using autoAcceptAlerts capability
+how to click android element with its id from xml in android appium
+appium can not run ipa file and can not create app file using visual studio
+how to get capability for appuium from python lang?
+which version of appium is stable for session override?
+how to use getContextHandles() method in kipljyo
+how to Launch an app in Virtual Device using Andriod Studio and Appium Server.
+is there a way to avoid having to Trust Developer every time?
+how to update appium xcuitestdriver project?
+how to integrate appium android automation with jenkins for emulator?
+how to inspect other elements in ios appium inspector?
+unknown server-side error occurred while processing the command in version 9.2/10
+connection to WDA timeout message is displayed while executing appium IOS script
+is parallel execution possible in ios using appium?
+how to chatter page for selenium with appium and uiautomator
+is there any scroll option for appium 1.5 available other than scrollto and scrolltoExact
+when running testcases under multi-thread, always get error: org.
+how to handle dates in datepicker using selenium web driver?
+how to capture capache text in webapps?
+can i run my appium tests on android device without connected it to PC?
+ios sim UDID is not the same as MAC UDID
+ error for swipe() and scrollTo() line after adding the java-client2.1.0 jar 
+dere and .app file  are no options like xcodebuild -arch
+unable to use robotframework-appiumlibrary with maven pom
+failed to find safarilauncher.zip while trying to open webapp
+what is the difference between tap and click in Appium v1.6.4?
+java.lang.NoSuchMethodException while running appium with pom framework
+can't upload/update profile image using parse for backend
+how did your test suite pass on 1.5.4 without noReset capability set to true?
+how can i click and hold then pull down the element in appium ios
+is there something blocked in firewall settings?
+nspredicate does not work with indexes and parent/child relations
+how to check the value of a boolean in pytorch
+how to use cucumber with aws-devicefarm?
+is there a way to run appium tests headless for NATIVE iOS apps?
+unable to click on google account with accessibility IDs on android device
+when install appium 1.3.6 version on Mac OSX 10.7.5 get the error
+is there any sample if using getPerformanceDataTest() from java client.
+how to add content-desc to individual images in a gallery view
+how to switch between windows in appium?
+use maven in order to use Amazon device farm
+how to change switching from fruitstrap to ideviceinstaller for app installation?
+appium service can create n number session
+is it possible to run automation scripts with signed apk?
+is it possible to run tests in parallel for Android and IOS device?
+can we using wdio with appium to test native app on iOS?
+how to execute a javascript script from JavascriptExecutor?
+how to get appium inspector in appium 1.6.4 for ios?
+is there a way to test a hybrid app on ios?
+is there any other emulator which is fast and good?
+what swipe values are displayed now?
+where is SafariLauncher app in Appium 1.6 folder hierarchy?
+how to get xpath for XCUIElementTypeTextField element
+question about running appium java client on jenkins via maven (version 1.3.1 )
+how to switch from native view to embedded web view using node js?
+how to execute same appium script on more than 2 devices parallelly using Selenium Grid
+why does waitForElementByName break when updating form from 1.4.13 to 1.5.2
+ideviceinstaller doesn't work on ios 10
+error: Failed to start an Appium session, err was: Error: com.mobile.android/.StartActivity never started. Current: com.mobile.android/.DispatchActivity 
+is mocha for java compatible with android and ios?
+How to find app crashed in logcat.
+Is it possible to crop captured image?
+uiautomation failed to launch multiple sims when triggering in parallel threads
+how to cast screen on ios other than video recording option?
+could not pre-launch appium: Error: Permission to start activity denied
+button text is blank in the UI - appium 1.8.0-beta4
+error: Could not initialize ideviceinstaller; make sure it is installed and works on your system  info: 
+how to use implicit wait in appium?
+why you want to launch the app from recent app list?
+is there a working example of double tapping or double clicking an element?
+ideviceinstaller doesn't work on ios devices error was "Command failed"
+nspredicate does not work with indexes and parent/child relations
+sendkeys doesn't work in safari on ios
+how to upload apk file in Sauce Labs using trial version of Sauce Labs
+is there any way to downgrade to do iOS app accessibility checking?
+autoAcceptAlerts not working very consistently on the iOS Simulator
+it can do coding in xcode to automate android application
+how to resign the application with the different developer certificate?
+can't open my app in simulators using  Xcode 10, appium desktop 1.10.1 on ios
+why.Net framework is required for appium installation on mobile device?
+how can i start learning appium?
+is there a instrument to run appium on an ios device?
+how to run find_element_by_xpath on android simulator
+appium-doctor shows  Running iOS Checks error message 
+how can i share my ios software with an enterprise account?
+how can i get the image through appium driver from my app and compare with static image
+how to run appium test on real iphone?
+how to start appium with ruby on ios
+how do you take screenshots on a failed test using node to write the tests?
+how to close app immediately after launch using webdriver-io?
+how to scroll to an element in wdioviewscell in appium using iOS and Android Native App
+how to use explicit wait for element that is getting StaleElementRefException?
+is there any performance stats logger for appium both iOS/Appium?
+how to install appium on macos
+how to wait elements in node.js
+java.lang.RuntimeException: Unable to start activity for multiple script files in appium (v1.7.2)
+issues with xcode 10.2 and ios 12.2 with ios simulator
+how to use content-descriptors for identifying locators on appium
+element changes based on the steps youve taken 
+can appium do image recognition compare read and unread messages state from change in colour?
+unable to inspect some page elements in android mobile app
+get error when install appium on macOS
+how to apply wildcard search in appium
+unable to find ID for any of the objects available in recyclerview
+unable to connect to appium studio in office metwork
+how to scroll the screen in android application?
+how to design framework for native mobile App for both android and ios
+is possible to do stability test by performing playpause and resume in appium 1.6?
+how to fetch the screen title in mobile?
+how to handle dates in datepicker using selenium web driver with ios?
+how to use touch actions with appium 1.7.2 for iOS native apps?
+ios webkit debug proxy error for 'Console.enable' and have no handler, doing nothing
+doing wrong while installing appium on android
+is this a room where talking about making iPhone apps?
+found that Team and Signing Certificate already have values when I check my Xcode 8.0
+get stuck while running java testcase appium using xode 6.1 mac 10.10
+webdriver_exception_FailedCommand: Element not found 
+how can i get data from sqlite database using cursor?
+is there a recommendation for non-technical folks to use cucumber appium?
+safari launcher doesn't need to be compiled or downloaded
+is there any performance stats logger for appium both iOS/Appium?
+could not find ideviceinstaller or initialize it
+does appium support webview?
+webdriver exception while running scripts on latest appium 1.6.2 on ios
+how to define different test in appium test?
+is it possible to crop captured image?
+how to run tests in javascript with appium on android?
+error: xcodebuild failed with code 1 and can not launch WebdriverAgent
+launching appium server manually doesn't work..
+how to start appium inspecter on macos version 1.3.2-beta2 in mac
+inspector not opening when "setWebContentsDebuggingEnabled=flase"
+is it possible to test with appium in ionic framework (v2)?
+does appium support cross platform testing for android and ios scripts?
+ios webkit debug proxy error with 'Console.enable' and doing nothing
+unable to find the WebDriverAgentRunner.app while in the runtime on ios
+how to get a numeric keyboard instead of alphanumberic keyboard?
+how to create multiple stepdefs.java for different architecture
+how to setup appium for app automation on ios?
+how to setup webdriveragent in appium like sauce labs?
+appium (java) not working with eclipse 
+is there a way to skip certain parts of an image when using mobile motions?
+unable to open Android UIAutomator from tools folder on mac
+ios-webkit-debug-proxy-launcher connection error
+how to update appium version on ubuntu?
+Is it possible to unlock screen which needs password ?
+is there a good book or documentation on Appium-node.js for moblile testing?
+can not read property 'performTouchAction(actionHome)' of undefined
+An unknown server-side error occurred while processing the command
+is it possible to extract all the values present in pickerView?
+how to add assertions to a test that does not click on the element it found
+no AXElement found at {160 284:} when running Appium with iOS 13.3
+what is the required Selenium Version for appium v1.10.0
+running testng xml as a group takes one hour or more to start the tests
+appium simulator device not starting on ios 13,xcode 11.1
+connection is refused when trying to start appium server programatically
+how to use scroll method in mobile native app?
+how to use the Sheel commands through Appium?
+how to measure page load time in native app
+appium inspector not working on ios simulator
+is it possible to activate flight mode on native android app?
+how to use ios locators on appium webdriverio
+why does waitForElementByName break form 1.4.13 to 1.5.2
+scrolling to element that is not in tableview
+how to apply wildcard search in appium
+how to config appium in mac for testing ios application
+appium doesn't auto-install carthage on ios 10
+how to use appium-adb workable (tests on java)
+how to get battery / disk / cpu / memory usage on android device
+is it possible to run tests over multiple android devices in parallel with appium?
+how to hide ios keyboard on appium
+how to run appium test with circleCI on android and iphone
+error while running tests on jenkins server with app-automation-ios
+is there a way to shorten the xpaths?
+how to use appium to select a date from a native datepicker on iOS
+how to use scrollTo with java bindings for ios and android?
+Is there anyway to increase command timeout time in appium?
+appium native clock - activity name doesn't exist or cannot be launched
+how to setup MacBook for iOS automation? 
+get error when run through desktop version appium 
+how to switch off wifi on ios devices
+how to set android_home path for mobile site?
+is it possible de display the appium website in english when using a french OS?
+An unknown server-side error occurred while processing the command
+can't see the recorder in appium desktop when using tap and sendkey
+can i do mobile and desktop browser testing without selenium?
+how to run protractor tests on a hybrid application using appium?
+what is the best way to find a generic scrollable element in android?
+appium doctor adb connection error and zero emulators connected
+getting error while automation one web application on safari
+unable to set location in lacation based app like google map or uber cab
+xctest mobile touchandhold not working on ios xctest
+how to add new androidUiautomator2Driver session to master session list?
+how to create the xpath?
+are there any senior Appium Automation engineers based in south Asia available?
+which cucumber appium would you recommend for non-technical folks?
+is it possible to extend the API methods of webdriverio with appium?
+how to perform swipe on one contact from contact list on android device?
+how to select item from linearlayout?
+are there any workaround can takes more time to get app source?
+unable to find elements inside a  iframe on iOS
+how to setup appium for ios on NATIVE_APP?
+how to hanlde this type of objects while spying with uiautomator
+swipe left-towards does not work on iOS simulator after upgrading from 1.5 to 1.6
+how to handle permission popups/ popups in android?
+how to start with hybrid app automation
+how to recycle webdriver for UI automation testing?
+how to start appium using command line in appium desktop?
+is it possible to run appium performance tests using webdriver ios?
+running appium tests as parallel on different physical devices ( android and ios )
+appium 1.5.3 can't have pre-launch that was removed in 1.5.3
+how to use appium with webdriverio grunt mocha?
+can appium communicate between a browser and a native application in the same test?
+issue about running appium with eclipse
+is it possible to use Appium to automate emails within mobile email clients?
+is there any other forum where i can ask questions related with appium?
+how to run two different wdio.config.js files 
+unable to connect to webdriver agent using uiautomator
+how to get absolute coordinates based on user touch in appium 1.4.0?
+can i automatized a native app on android with appium?
+can not find any webviews on cordova wkwebview plugiin
+get issue "missing write access to /usr/local" about installing via npm
+how to use driver.toggle_airplane_mode() in java
+how to use appium as a node in selenium grid
+how to use 'Leaks' to test memory leaks in app for ios profiling?
+unable to connect to appium studio in office metwork
+why we use capabilities in appium?
+how to run tests on multiple ios simulators in parallel
+is there any way to write a relative xpath using node details of elements?
+error chromedriver: DevTools request: http://localhost:12900/json/version
+how to delete a file from 'Download' folder in android device?
+Appium takes a lot of time to getPageSource in IOS 11 with Appium 1.7.0
+how to automate web application using appium
+is it possible to automate Ios app which is built with distribution certificate?
+how "url" parameter should work in json node config?
+is it possible to install 'WebDriverAgentRunner' once and reuse it
+how to generate the ipa, iphone simulator support?
+install doesn't work if appium session isn't restarted
+appium.log closes by itself when it clicks on sign-in button with ios
+parity wallet doesn't recognise a token purchased in an ICO
+can i do desktop browser testing without selenium?
+how to get element of android.webkit.WebView
+how to set new command-timeout parameter of newCommandTimeout? 
+get error "no AXElement found at 160 284" when running Appium with iOS 13.3
+hydrid app on android unexpected slwodown issue
+what is the code for performing the appium-sikulli integration?
+what is the difference between appium node and appium desktop?
+how to use webdriver js with xcode and appium
+scrolling is not working with webdriver.io and webdriver.remot
+where can i find a guide on getting started with Appium using node.js?
+how to use 'xpath' to locate native elements?
+how to install ios-deploy using brew command line
+is it possible to simulate the network data connection in appium?
+is it possible to test backend calls or events while making calls from front end ?
+is there any way to change admob account country for android?
+appium 1.6 app launch twice on real iOS 9 device
+get error "name 'driver'is not defined" after running python script for ios app testing
+fruitstrap quit unexpectedly pop-up when trying to test on ios real device
+unable to execute appium 
+how to use ios predicate and class chain locators in appium in webdriverIO
+can't run webDriverIO with appium service
+getting error "org.openqa.selenium.WebDriverException:Connect to 0.0.0.0:4723 "
+how to reset the app every time a new scenario is run in android mobile automation?
+is WDA installed on device? 
+iOS script opens and closes 4 times than 5th script is running on the simulator
+error:org.apache.http.conn.HttpHostConnectException: Connect to 0.0.0.0:4723 
+unable to run safari test on apple phone ( appium 1.6.3 )
+error:org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session
+application crashing continuously when work with appium 1.6.3 on mac
+how to use spinner in appium with xamarian
+error:sdk 9.3.5 not in list of simctl sdks at getDevices$...
+error in thread "main" java.lang.NoSuchMethodError: org.openqa.selenium.remote.ErrorHandler.
+how to use appium driver with c#?
+error while installing appium on node version 7.7.4 and npm version 4.1.2
+appium does not work if installed with sudo
+error:No chromedriver found that can automate Chrome \'69.0.34497\'
+error: listen EADDRINUSE 0.0.0.0:4723
+can we automate android app in flight release signed with development certificate?
+is it possible to use selectors by looking at attributes or html codes?
+is there a way to test for a locale on android?
+how to use appium + applitools scripting with python
+can not launch apk from a real tablet for automated testing
+appium automatically launches but appium server does not recognize 
+how to install appium from source?
+how to read json array data from file to string using appium
+what is the best way to run android simulator in appium?
+can we automate mobile app development in appium?
+how does appium install to real device on ios?
+is there any workaround to get window handle to switch to new window?
+xcuitest is isolating list items in ios simulators
+get error "chromedriver cannot create session" when running web tests
+get error while executing my script
+how to send home key to ios device using python?
+how url parameter in json node configuration should work
+is there any way to automate chats and graphs?
+is there a reason why my tests are slower compared to my web tests?
+how to explicitly shutdown UIAutomator Server when running a suite with tests
+AX error -25205: accessibility id and other attributes are displayed with text 
+can we using wdio and appium to test native app on iOS?
+how to use custom proxies/servlets in appium nodeconfig?
+how to start media playback on an ios device without a gesture
+can we using wdio and appium to test native app on iOS?
+can not create new session, can not override existing session.
+how to name screenshots using the saveScreenshot function with mocha and node
+how do i scroll to in ios using js.executeScript
+how to test my web application on Mobile Safari & Chrome for Android?
+is there a way to map the automated tests with the zephyr tests?
+how to access the same download button in uiautomatorviewer?
+an unknown server-side error occurred while processing the command on ios
+how can i get appium console after installing node js
+how to get all the text on the application which is already open?
+how to learn python and write code automation code using appium?
+does python bindings for appium have scrollTo functionality?
+Appium does support for Xcode7 and simulator does not start
+how to test voice calls from robot script with appium in android/ios
+the best way to identify the element with ascii characters
+app re-installs everytime in iOS 13 with Appium 1.15 and xcode 11
+how to set 2 different activities in capabilities in android app?
+why for every execution appium closing simulator and starting again?
+how to build WebDriverAgentRunner from console or xcode?
+how to run protractor tests on a hybrid application using appium?
+is it possible to tap system buttons on iPhone?
+can't start an session in android appium webdriver
+example to check if its connected to wifi or not
+desired capabilities for FirefoxOS platform run on Android Emulator device
+appium desktop apk is unconvertable in circleci
+how to run specific scenarios from cucumber feature file Using java-appium?
+should there be a UITextField in an element?
+how to check for available log levels in applium 5.1
+how to use web context on android (nexus 7 android 6.0.1) appium
+is there a mac version of the app that is able to detect ui elements
+getting an error while opening my Appium studio
+error: no such file or directory for sdk/build-tools on android
+any documentation available for uploading external files in wswebcreation?
+handle permission popups/ popups in android appium
+upgrade appium to 1.4.13 using xcode 7
+how to import specreporter to android device?
+how to implement scrollTo and hide keyboard in appium for ios
+how to fix the error about appium config file not found
+how to get elements by resource-id with appium and android?
+way to integrate appium with xamarin  
+launching the app but not detecting the elements in appium server
+selectPickerWheelValue is giving me server side error in codeceptJS 
+could not start a new session
+error open my app and turn to cn.mailt ech.app/.activity.setup.AccountSetupBasics,after seconds,appium stop

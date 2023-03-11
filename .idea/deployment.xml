@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="fgd@211.81.55.145:30000 password (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ICSE" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="fgd@211.81.55.145:30000 password">
+      <paths name="ICSE">
         <serverdata>
           <mappings>
-            <mapping deploy="/data1/fgd/workplace/DSum" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/data1/fgd/workplace/ADSum/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="fgd@211.81.55.145:30000 password (2)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="fgd@211.81.55.145:30000 password (3)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/data1/fgd/workplace/DSum" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="root@211.81.55.150:20160 password">
+      <paths name="ICSE_review2code">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="root@211.81.55.150:20160 password (2)">
+      <paths name="MSG">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="MSG_ori">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@211.81.55.150:20160">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

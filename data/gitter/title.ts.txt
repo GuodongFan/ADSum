@@ -1,0 +1,1002 @@
+what is the difference between number & string and never
+how to change the type of a union based on an Array value?
+problem with adding a new item inside an array
+emitted invalid code that was a syntax error
+allow mode to be type number
+TypeScript project doesn't build while yarn tsc --project spec --showConfig
+how to use  tree-shaking with webpack?
+Palns to realese TS 1.5 for VS 2013 as an installer/extension before VS 2015 release?
+how do i return the correct type for a hapi construct?
+confused about receiveJsonBatch the tuple type
+ erro type  alias: string; value: number
+how to re-assign a property in node.js?
+is it possible to create a base enum and extend it statically?
+how to declare a global variable in Typescript?
+why is new Function faster than notNull?
+why doesn't tsc compile to js correctly?
+how to create a map using typescript test harness?
+do you need a column db?
+is there any ready made collection library in typescript?
+createKernel is missing a type param
+can i modify the type of Array.prototype.map?
+can typescript output a single.d.ts file now?
+best practice for un-commenting and compiling 
+how to import mocha from mocha
+vscode's terminal does better node repl
+jacobus-brogly> file array or includes works as well
+extending a generic type with a protected nodeFactories: FactoryBank
+how can i use jQuery to make an example
+ruby time doesn't truncate fractional seconds for no reason
+how do you narrow a string to a specific literal?
+parameter hints problems with tsc 2.3.4 and code 1.13.0
+is there a way to dereference typeof?
+no way to handle export class KeyChain
+make without dist and post install script will compile and place them in root folder
+how do you convert a script with iife in it?
+hack things in typescript
+what will happen if enum expands in newer version and consumer code is using
+what is your favorite VSCode theme?
+flow type definitions for GraphQL.JS
+how do you get @typescript-eslint to raise errors for type issues
+why do we need to mutate data pipelining?
+whats the difference between typescript 1.8 and typescript 2.x?
+how to set  x: undefined  for  x?
+remove the Promise on your activate function
+what is the type system of statically typed languages like TS?
+how can you tell if a function is declared to return A | B
+microservices using coconut as backend/host
+how to extend a third party namespaced type in my codebase?
+is there a typespec to detail keywords and terminology in namespace scopes?
+proposals fro HKT syntax for example the self-dual UnionToIntersection
+re-declare types of methods when extending an abstract class
+why var _this; instead of var _this = this in TS
+typescript + systemjs for vue 2
+is there any way to type  apply parameters correctly and strictly
+does @import url('/styles.css') output all styles to a single file? 
+i forgot who i was talking to at the beggining
+'typescript-type-inference-of-complicated-type' in stackoverflow question
+distributive mapping doesn't apply to all members of a union
+how would typescript know it could widen an array to any for includes
+console.log(...args ) does not work
+how to import a view using type-defs in angular/ionic
+is there a way to make some npm packages like in lodash?
+unfold a nested object structure into a list of sublists not using lodash
+difference between bootstraping and boostrap
+sacrifice homoiconicity get there though 
+difference between import type  and a regular import in a declaration
+put file extensions in module name - needless namespacing
+how to run .pnp.js 
+call the funtion increment without casting
+the docs can't keep up with the speed of change
+is it worth the effort to switch from s-js/surplus to solid?
+is it possible to have types based on dynamic runtime values?
+neither capturing the types.d.ts in the npm package, but that affects both.
+error about Property ChildProcess does not exist on type typeof child_process
+a way to declare a function that has the same signature as another function
+repping CHJstack IDK 
+tool for releasing from git repo to npm
+can't figure out propriate ones by first parameter when working with sub-types
+how to proper emmit events in Angular2?
+how do i expose the IN operator in a library?
+is there a way to rename a.js file to.
+what are the benefits of using property accessors over getter/setter methods?
+is there a reason you don't want to work in lazishna?
+why install @types as dependency, why not as devDependency, and why needed?
+is there a dart community out there?
+npm install -D My/File/Location is the best when  using same code between different projects
+to call constructor() manually
+issues about tsc to recognize path mappings at compile time?
+how to handle throw FlexAuthError() when runing in chrome
+why prefer gitter to discord?
+how to import local package in typescript monorepo?
+how to make a type that makes only one field optional without redeclarting the type
+is there a way to set a conditional type for a function?
+who can't deal with concepts beyond basic mathematics is a bad web developer?
+when resusing across project, one add .d. in a file name
+define an empty ctor in the nodes and delegate to the super ctor
+why drop LIKE... ESCAPE operator, but keeping LIKE operator
+why object.assign() returns typeError?
+is it possible to do pointer joking?
+is there a way to pass foo.value to a global variable
+use IO in typescript?
+how to avoid !bool negations expression
+narrowing types makes it super easy to introduce bugs
+Extract doesn't work with TS 3.7
+how to get webpack to ignore ts-loader errors?
+Observable.prototype.debug = window.rx from rx-devtools github
+error when usubg async await in typescript class
+don't break when fix release referring the tiny DI framework 
+not detecting the method extend the string prototype inside a shared library
+audit changes and merge changes locally
+name mangler like ActiveRecord or mongoose?
+why s in o does narrow o?
+sql.js reference @types/emscripten that TS can't find in my environment
+typedoc-neo-theme for sidebar stuff on npm
+how to get the names and return types of a class without using property decorator?
+before 3.5.1 did they skip .2 for the final release?
+how to use react-css-modules with tsconfig?
+extends CoolMixin() of the the playground bug
+error when compiling tsc into *.js
+a handcrafted declaration file is easier to deal with?
+property toString does not exist on type T
+TypeScript compiler import directly into the resulting binary for example gl-matrix
+why does typescript not output mjs?
+tsserver problems about a type checker for JS
+stange things when implementing tutorial in ts 
+run TS code in a js engine unless you run tsc first
+why is handleSubmit not being called when i click submit button?
+why is dtabuenc> cloning from scratch?
+porting legacy Http class to TS is unconvertable 
+how to make isolate the part that doesn't change
+without subpath imports in v14 is ugly and unintuitive
+the latest release listed as 2.2 but the version in npm is 2.1.5
+not install any node module should check PI_SERVICES directory in VS Code?
+impossible to type tsx class Figure
+online IDEs (editors) with browser-based interfaces for learning
+automation script to communicate with different services
+how to properly type myassign in utility-type
+i love these litte html bugs and a lot of docs that were dissapointing
+is it possible to create a discriminated union type if discriminator is nullable
+no way to know what a function accepts at run-time
+higher kinded types or type families
+'interfaces'need a 'constructor or factory '
+pickCard(x) throws error and why do we have to write
+do not emit declarations for code that has an internal annotation
+how do i cast a filter in the middle of a chain?
+why does object.freeze(Array.prototype)
+What does the syntax | mean?
+nested object with 'address'transformed from 'id
+typescript return error when iterate manually over all keys
+extra test-y stuff doesn't work
+issue with a React component and compiler can't tell
+how to return nothing in the expression  sendKey = (myType) = Devia
+how to convert webpack like resolve aliases
+how to install multiple versions of node type declarations into a single repo?
+colons after the names   error
+why does interface loginstate have an any type?
+typings ERR! message attempted to compile angular-animate
+copying properties between objects doesn't  work
+any way to declare the module and access any property
+2nd param in fetch with ts?
+why do i get  error for 1 as string 
+how to pass 'test'and 'when'arguments to a function
+is there a way to ban inferred any type?
+Intellisense FTW by pressing ctrl+space
+tsconfig.json looks different from spec-folder
+can we declare an Array of one but generic type?
+export type TCallback requires the generic
+what is the meaning of Exclude and typeof Person
+typescript interfaces have no private/public/protected modifier
+are null and undefined are assignable to void?
+define an interface for that object because promisifyAll returns a new object
+error reflect is not defined no-undef
+if intersections were distributive, UnionToIntersection would be bidirectional
+to set up postgresql ahead of time?
+how to call the function
+is there an awesome-typescript repo yet?
+can not narrow the type of radius without runtime checks?
+want the return type to be a tuple like it is for useState using TypeScript is at 4.2.3
+what does declarations: true and types: true mean
+is it possible to have a global variable in a library and initialize it once
+how do you define a number array-like like Arachnid>
+how to remove implements and use it in a function
+how to "bind" environment variables in typescript at compile time?
+how to extend typescript as a language by adding custom keywords?
+vs code isn't jumping into the right source files in some cases
+how to use files array and exclude array in tsconfig.json?
+why does cphoover give zero results if it's a central?
+how to get the type of a generic function after the type variable has been "filled"
+why does TypeScript refer to a constructor as 'constructor' when defining the class?
+is it possible to type the '_ ' that comes out?
+how to get the same namespaces to work on a browser context
+.d.ts files in packge does not work with tsc
+how to type an array of type in 'serverData' and 'articleinter'
+how to properly export a library in typescript?
+find another way to force analytics on users
+use 'normal' for destructuring instead of 'trolleybus'
+it won't get emitted if you put it in a d.ts file
+why is 'type A = string & number' valid?
+how to create a typedef from a js library
+how do i import a js file in a folder that's shared betwen my 'client' and 'server' directories?
+The problem I have with 'and leave it with no braces' is that when I use a property of the module
+export function genex should be renamed 
+is there a way to wait a Array.map to complete?
+import chalk from 'chalk' but it also ends in an error
+what is the best way to check that object is empty in TS?
+how can I have that and not require the user to specify V?
+would it have given an error if i used import before using types/node?
+get an error when trying trying to create a base class for a react component
+is there a way to infer the return type and then check if it's compatible?
+is there a way to update a bundled version of DefTyped?
+are there any source maps enabled in dtabuenc?
+any great standalone typescript http clients out there?
+is there a good way to get a tuple length for type declarations£¿
+is it possible to get a list of property keys from an interface?
+why the first two declarations are superfluous because the last function signature covers the top two
+is there a way to create a lookup for a class name?
+types are not checked by the compiler when using generics
+is there a way to use a type recursively inside an object?
+how to create common nodejs modules with ts?
+is this the best way to store this data in json?
+how to troubleshoot the typescript engine in vscode?
+why does tsc doen't return '-1' when fail in BASH?
+problem about typescript + system js
+what language should i start learning if i am a novice at programming? 
+I've installed libraries with npm,but the compiler doesn't find them
+is there any way to check if a type is 'never' ?
+is there a way to specify the type of a rest function in TypeScipt and ElectronJS?
+how do i import types from System.Collections.Enumerator?
+trouble: requiring in a commonjs export in a typescript file
+ts compilation doesn't start when a ts file is updated
+unable to get 'Debugger attached' to debug tsserver
+how to write a Mock type which removes parameters from a construct
+how to export fields of child classes across files?
+how to use t.foo in a template function?
+is there enough delay from element ? and is it bidirectional delay?
+is there a difference between "export function" and "export declare function" ?
+why would one choose to have "amd" or "commonjs" modules instead of "umd"?
+can a typescript array be restricted to certain values?
+I get a 'NaN' output when I try to add Settings.interval and Settings.last_update (non-static call)?
+is it possible to have a method decorator change the type of the property it is decorating?
+support for iterators and array methods in.d.ts bundling
+is there a timetable for releases/updates to be released?
+is there a way to define a type from multiple files into a single module?
+why does my compile-time test trigger it?
+why does MyClass not evalutate to a constructor function when it's to the right of a ':'
+can't get ts-jest to work with package json
+can not find module'react' after installing 
+how to call my library 'squill'
+how long does it take for a PR to get reviewed?
+does export function connect  work with es6 modules?
+how to integrate chartsjs with polkadot api staking data
+how does a paid theme work with an open source typescript+react project?
+why is this giving me a type error?
+how does require work when importing a cjs module into Typescript?
+auto-restart and debugger not working in Typescript-Node-Starter
+getting  ERROR Failed to compile with 1 errors error in./src/dispatcher.ts  
+immutable variables don't need to be mutable under the hood
+is there a way to test infinitely recursive types with generator trampolines?
+is it possible to parse the returned val of a generic function?
+typescript interface IProps doesn't seem to work
+how to create a diagnosticInformationMap.generated.ts
+Is there any tutorial about Mithril and TypeScript?
+how safe are decoders in io-ts?
+is there a way to call a class or interface instead of a class?
+Where methods are added onto subclassed promise objects?
+is it possible to use decorators in typescript?
+why not specify a module type in tsconfig.json?
+is it possible to have multiple interfaces for a single object?
+is there a way to get all values of a union with compile-time guarantees
+how to specify a newable type in typescript?
+how to compile it with the npm run compile command?
+how come when i use 'import * as json from "./config.json"'
+guard function does not work for field.forEach(console.log)
+is there a way to quickly extend a foreign object?
+Seems like Google doesn't understand DST  
+are there any data validation libraries that are decent?
+connect is expecting a function instead of a class 
+how to type a react component that i'm sending at a function argument
+ if it's possible to put into words at all?
+can not find any github issues that or they're poorly named
+how about a browser-based client like Riot/Element?
+is there a way to capture the relationship between input and output in a function's signature
+what is the point of adopting a language that is not designed for us?
+what if this testcafe library used export interface TestController£¿
+how is TS supposed to determine what belongs in that array if you don't tell it by typing the whole literal?
+the initial set of users who have "seen" the message are all from IRC
+is it possible to name a schema with 11 letters?
+'interface transformMatrix2d' extends Float64Array
+TS 1.5 release for VS 2013 before VS 2015 release 
+what is the tsc compiler option value for module
+why doesn't db.model.action work on the server?
+electron.d.ts does not have DOM apis
+how to store subclasses of abstract classes in a holding variable?
+can't figure out how to use as const on line
+how to 'organize' code?
+streaming only happens in the first half of the month 
+is there a way to define an interface that is a function?
+is there a way to do the {} syntaxt?
+what is the meaning of 'intersect and 'union' in typescript
+is it possible to set tsconfig to allow aliases for file paths?
+typescript version is not showing up in the screenshot
+how to limit argv input to a type?
+why does the default configuration of typescript still output.d.ts files
+why array entries for loop does not work in ts?
+what would the mixin code look like if the static method doesn't exist?
+can not find module 'fs' when using ts-node
+import maps can cause multiple copies of a module to be loaded
+is there a way to override the this argument type when defining a function?
+angular 4 comma operator left side is unused and has no side effects
+can't assign to a generic type sometimes
+is there a way to annotate enums in typescript?
+is there a way to install test-only modules in the spec directory?
+shortening into a template is not a justification
+how to make a local typescript package and use it in another project?
+'B' needs to move to the inner function for it to work right
+node resolution does not work with 'parent/node_modules/badpackage'
+can not resolve 'configobjects/customEvents' in 'D:'
+new signatures doesn't pick components at random from different overloads
+suplied parameters do not match any signature of call target 
+is it possible to remove the console.log with quantum build?
+a convenience config type erases the keys from the objects I used it for
+triple-slash directives messing up chrome devtools
+does param.constructor.fromJSON(...) work at runtime
+how do i tell typescript that type parameter T should be an object with keys?
+is there a way to have a type guard on a class instance?
+Set is unique keys, Map is unique keys
+'type predicate' makes more sense than 'type guard'
+how to generate d-ts and d-ts-map-files
+how to create a class decorator function "injectShouldComponentUpdate"
+is there any way to separate nullability of a type from the compiler api?
+error TS7015: Element implicitly has an 'any' type because index expression is not of type 'number'
+tsc ignores sourceRoot and compiles every single file in the top of the project
+can you take the multiset of all the types?
+is there a way to get the type of an imported json file?
+if it was possible to import ES6 modules into TS files with the 'noImplicitAny' flag set?
+enforcing a particular base class: 'T extends Base'
+most students transitioned to online-only. Some get the semester to end
+thing with reopening and "problem solved" is really weird
+pointer syntax is weird, especially when you add const to the mix
+is there a recommended tsconfig for node 12?
+is there a standard to propagate tables used in subquery expressions?
+how to create a generic getter function to retrieve data with an 'any' return type?
+what tsconfig key is needed for tsc to look for .ts files?
+typescript autocompletion doesn't work for unnessesery fields
+'_this._posInfo' is undefined at runtime 
+TS7009: 'new' expression, whose target lacks a construct signature, implicitly has an 'any' type
+is it possible to mimic class merging in typescript?
+property 'format' does not exist on type 'Duration'
+header and navigation are on top of each other when resizing the windows
+what's the difference between null and undefined?
+the tests for 'TypeScript' project are not well documented
+is there a way to index properties of a JSON column in MySQL?
+rollup doesn't see all the inputs in watch mode on subsequent builds
+is there a way to test whether a string or array is not empty?
+is there a way to extend a subclass of a static variable?
+is it possible to have an enum as a return type for the function?
+why is this.subscriptions an iterable and not an array?
+what is the difference between 'circle' and 'string' in es
+types don't exist in the runtime
+how can i have access from inside handler to outer varibale?
+how to prevent  invalid types in node_modules in 2.9?
+what is the ruby-spaceship-operator and how does it work?
+what does "dom" do when adding it to the lib property?
+why does tsc emit code even when there are type errors?
+how to map/reduce objects in TS without disabling the type checker
+how to declare decorator on protected abstract accessor in base class
+how to mock es6 modules with jest (ts-jest)
+is there a way to set initializers on class members after object construction?
+how to provide typings for desctructuring parameters?
+how to add lodash to the TS play box?
+typescript always compiles straight to js
+is there a way to define a type with nested types?
+gitter supports all the important markdown features
+is it possible for tsc to find subdirectories in package.json?
+is there a way to declare a protected property in a method?
+how to attach metadata to a method in 'reflect.defineMetadata'
+what do you need to check if a model has a member called name
+how to set '--max-old-space-size' to more than 8GB?
+why typescript doesn't downcast literal to see if it satisfies type-checking?
+How does Hasura compare to Apollo Server in the long run?
+can't use 'c' as a class if 'C' extends typeof BaseClass
+what is the type system of statically typed languages like TS?
+how to configure proxying to a backend in create-react-app
+should types be the same for different module formats?
+how to install a newer version of a typing in an existing project?
+is there a way to extend overloads out 1 more recursive loop?
+MySQL 5.7 doesn't have CTEs
+how to get a native module compiled through node-gyp accessible in typescript
+what is the return type of 'intellisense' in mobile playground?
+is there a generalized pattern matcher in TypeProps?
+is it possible to use the files property in tsconfig.j?
+tsc does not compile in js
+Could not find a declaration file for module 'myLibrary'
+is there a way to handle transient dependencies?
+why is there no hover information in atom and when hovering over where cursor is?
+how to annotate set interval when cancelling it?
+why bash creators failed to introduce the most basic things into their shitty scripting language?
+can not import types from places.js
+is there more information on Introspection support in Typescript?
+how to convert react.d.ts into react.d.ts without module references
+how to write a typing for the map function in typescript?
+is there any way to extend the module without editing
+how to use TypeScript purely for a command line application?
+is there a quick way to count all the typescript errors in a project?
+how to prevent two types from being structurally compatible?
+can't index S with number in interface
+is it gonna be the same if i want to increase a score?
+what's UPDOG?
+why does it look like tsx and its designed to generate javascript?
+how to properly extend 'eventemitter2' 
+can not find name 'IPC' when importing from node-ipc
+is there a convention to declare private members different than _ prefix?
+what to do if the library has no Declaration.d.ts?
+why should i use snake_case instead of uppercase?
+TIL VSCode git understands merge-conflict markers 
+build an object key from a concatenated string without declaring the object first
+is it possible to have a const as a class member?
+is it a good idea to use modules instead of classes?
+typeassertions like 'foo as Whatever' are fragile and can easily hide bugs 
+is there a way to get the type of a yield expression in typescript?
+is there a way to know what output files will be produced without compiling?
+why was makeActionCreator2 not written as makeActionCreator2?
+how to test an extension which uses vscode.window.showinputbox
+TS complains that it expects the method implementation to follow straight after fatcer
+how to tell typescript it's an array of classes?
+typescript isn't able to represent function expressions with overloads
+how to make a key conditionally optional?
+is there a reason for the lack of classes in src/compiler?
+is there a way to get the return type of a generic function?
+what are people using for typing ES6 environment?
+how to add a property to a class below another one?
+is there a way to constrain dtabuenc at runtime?
+why is webstrand  always inferred from initState
+how to generate a variable using the createVariableDeclaration()
+is it possible to write a constructor signature which accepts rest parameters as an array or
+how to use  DeusProx '' path mapping feature in vs
+how do i cast a json string to a typescript object?
+is there a way to use a proxy in a fetch-like library?
+cant intercept imports afaik - they are resolved statically
+is there a way to achieve it with npm ?
+how to make a type that excludes all nullable properties of other type?
+can i import react from another node_modules directory than the one in
+is there a way to make typescript understand macros and what they evaluate to?
+how do you know a function is overriding a function in parent class?
+how do you learn how to ingest typings from @types£¿
+ts function brand '' and keithlayne not perfect
+how to create a class decorator  function injectShouldComponentUpdate
+unable to migrate a SPA based upon requirejs to Typescript
+namespace is global when there are no imports/export
+is there a way to say "any string should be a valid key into this class
+TS can't tell it's a constructor function
+is there a way to infer T from the signature?
+is there a way to omit the this in a signature declaration
+what's the quckest way to write binary data out to a file?
+what's typescript's current saying about unused function parameters?
+ambient module delcaration - where to put declaration?
+vscode still flags tsconfig.json lib as an error
+is there a way to change the type of a parameter on the called function?
+what is the equivalent of | null in python?
+how to assign the type of mongoose to a variable?
+why does the webpack profile plugin take so long to compile?
+'Export'links in 'workbench Repro'are wrong
+is that possible without passing in another arg?
+porting node.js code to typescript
+what is the use case for Horizahn_gitlab?
+.d.ts files have no effect on package size
+exclude magnusbakken does nothing to make the field null
+is there some magic TS construct that can do typescript function  x
+strictIndexSignatures should be the default behavior for index signatures
+where are you definiing the interface in the file?
+why does WebStorm not approve of control flow analysis like the compiler does?
+service worker does not exist on type navigator for existing angular app written in typescript
+how do i return a rejected promise in an async function?
+how to test if a value is inside the DOM with Jest?
+is idris 2 a good balance between rust and inference?
+how to create a fully typed interceptor chain?
+unused properties flagged as nounusedlocals in tsconfig.json
+map-function-for-objects-instead-of-arrays with promises
+how to access process.env in webpack.config.js?
+why does the webpack profile plugin take so long to compile TestSubject
+is it possible to have 'null'but not 'undefined£¿
+how to transform a function when parameter names are not present in the type system
+ How do I create a type `Bar` that picks only the `Foo`'s with `a: 1 | 2` 
+can not assign req.headers.authorization to a string
+is there a good typescript tutorial that uses fake webapi?
+how does'modules_require_cache'reload
+unconvertable vs unconvertable in typescript playground
+error:invalid module name in augmentation which cannot be augmented
+'as' syntax is much cleaner than angle-brackets and have tired to drop that cast style everywhere 
+typescript place constraint on specific lookup type of generic object type
+typescript doesn't  yet support higher-kinded types.
+is SELF a magic reference to itself?
+any way to specify a type as an object with whatever properties you want?
+there is not a difference in performance between numbers vs string literals.
+It's useful for things like creating an iterator for some structure that may mutate during iteration
+is there any workaround for using 'keyof' for private properties?
+how to start with TS with just notepad and begin :joy:?
+how to implement a function that return a corresponding default value?
+error:TS2345: Argument of type 'void' is not assignable to parameter of type 'TimerHandler'.
+is there a free tier for people who havent used AWS before?
+how to make a version of Required in TS 3.1?
+shouldn't the ternary prevent undefined from getting through with a non-null assertion such as 'counts'?
+when I have to constructur that need to call the super class constructor I have typing problem.
+is the 'keyof this' thing considered to be an F-Bound type?
+index signature is not a rest signature, thats a common mistake.
+why train them to approach the outputs of the desired function for a given input?
+how to remove unused code using treeshaking?
+Does seem ts type "NothingBut '' doesn't associative?
+is there a way to change the subclass name without re-assigning?
+If you can run `tsc -p .` and still see the issue, I suspect your `tsconfig.json` is using `files`?
+what does "contextual typing" mean from the perspective of the type checker?
+why do we have tests written for recursive conditional types?
+how to extend node global variable type?
+what the easiest way to override existing typings from npm?
+`INSERT IGNORE` meant "insert the row, unless it collides with another row with the same key". 
+error TS2339: Property 'replaceChildren' does not exist on type 'HTMLElement' 
+how do you model multiple monads for one data structure?
+when got typescript upgraded to 2.7.0, but it's still not able to resolve the jasmine calls from within the describe block.
+can you make a utility method with typedobjectkeys?
+is it possible to use importmaps without a shim in browsers?
+Anybody hear about the `is-promise` fiasco yesterday?
+I am trying to convert a React codebase to typescript ut I haven't found any place where they're actually documented.
+there is a design document about direct vs. indirect eval?
+why am i not seeing any variables in the 'scope' section?
+is there a way to detect a bi-variant assignment via public compiler API?
+is there a javascript library equivalent to?
+is there a PR open to implement actual subtractive types in TypeScript?
+how to call action functions from a view that implements a custom attribute?
+how about a dumb-phone and a 10 tablet with data connection?
+the typesystem should treat number as if it could
+is it possible to have multiple types for a single property?
+can i make TypeScript prevent me from returning 'any'?
+Build a static version of the JSON model you expect back.
+any exemple of a project using node with typescript, besides Angular2 of big* projects?
+how to convert `{ a?: string, b: number }` to`{ a: string | undefined, b: number }`?
+f you need `Capabilities`, remember to surround the function type with parentheses.
+if you cannot send `$key` to the server no way to automate that unfortunately 
+is there a way to use tuple type for function args?
+when migrate to Typescript 2 and this bit of code 'typeof resp === "String"' is throwing an error TS2365: Operator '===' cannot be applied to types.
+how to add types definition for 3rd party npm in TS 3?
+how to have intellisense for objects?
+can't figure out why npm module import isn't working
+recursive-select must be a simple select not a compound
+implementing a 'permissions-agnostic' semantics framework
+TS integration in VS is a total mess simonvizzini
+object is possibly 'undefined' when converting from react-native
+f the sqlite database is corrupt or malformed, it auto-downloads the last good backup.
+is there a way to narrow a type by asserting a property?e.g. TypeScript const
+can not find Nullable  type Nullable
+is there a way to know if a constructor created it or not?
+why i got this error £ºlog (property) cc: boolean Type '{ cc: boolean; }' is not assignable to type 'ccinterface'.   'ccinterface' could be instantiated with an arbitrary type
+ what target es2017 will make out of the imports though£¿
+is there a way to configure (somewhere in `package.json` or `tsconfig.json`) that I want to use 'own typings (`.d.ts` files)' without having it inside the `node_modules/@types` folder
+what's the best way to get a purely type-level unique symbol type?
+are higher order types supported as type arguments of TS generics?
+error TS2315: Type 'EventListener' is not generic
+why is 'export = ClassName at the end of the TS file?
+what's the current version of typescript playground?
+Consider the following generic type definition:  ``` type Unshift 
+what are people using for typing ES6 environment?
+is there a way to access the DOM from wasm?
+`App.tsx` just use `export` instead of `export default`
+how to create a generic getter function with an any return type?
+reinterpret_cast makes binary serialization and deserialization blazing
+how to override tsconfig when using tsloader with webpack
+error when using ReturnType and Parameters
+riginal signature:  (DR is for DeepReadonly) ```ts const Pagination: DRFC   In a Create-React-App typescript project
+RTCPeerConnection is missing 'addDataChannel '
+error:unable to find the types dir in lib when building with tsc
+is there a way to add a tuple to a map?
+why is he treating the project like a startup MVP?
+eslint warning will show up with an `@eslint` prefix or something similar on VS code
+Go for OOM on error message emit
+streaming on satilite only happens in the first half of the month
+can anyone explain this to me? https://www.typescriptlang.org/play
+how can i tell tsc where to look for a specific module?
+can i create d.ts files from.ts files automatically?
+the only way to tell Compoler to \"complain about everything\" is to manually go through and set every flag individually.
+is Array more consistent with references
+how to enable typescript 3.0 features in vscode?
+typescript interface getKeys_object  source: object keys: string ''
+typescript doesn't automatically find .d.ts files like using transpileModule does when updating rollup-plugin-typescript
+is there a way to index into namespaces?
+how to reproduce ts const x: readonly '' error
+how to consume ChanceStatic via d.ts?
+how to use Promise.allSettled( fatcerberus> )
+is there a way to exclude fields of type boolean from traversal?
+can not read property directoryExists' of undefined webstrand
+can any of you recommend a syntax highlighter in js that can do online parsing correctly?
+how to use import keyword in typescript 2.9.2?
+what is the difference between ts and type F 
+how to get index signature when importing a promise from core-js?
+how could they feasibly do dogfooding for deno?
+why would you code without relying on the framework you're using?
+why this is not valid?export function hashPassword(input: string): Promise
+how to write a 'type'such that a 'type property
+moduleResolution: classic gives same ts compiler errors
+what is the value of a boolean value in an append-only table
+how to compile typescript modules to nodejs?
+how to automate npm package generation & publishing from typescript based code
+can not find namespace 'fhir' in ng serve
+why is any not assignable but not reassignable?
+Would someone experienced with vues' comment as to your preferred solution?
+how do i make typescript-bot and dt-bot revisit my pull request
+typings for npm packages can be found in package.json
+how to run server-side typescript with ts-node?
+how easy is it to update the cache itself?
+what's the correct --lib setting for node projects?
+ts compilation doesn't start when a ts file is updated
+is there a way to have a property cache for "regular" objects
+how could I use onseeked event in my class and play the movie when the event is firing  with TS ?
+is there a way to import all object definitions from a file?
+how to define getter of private optional member of a class?
+what is the standard approach for generating multiple schemas from a single source?
+Wouldn't S just be the name of your array index here? 
+is there a way to solve  implicit any error '' without index signature
+Where is the difference between running gulp or tsc?
+error TS2345: Argument of type '2' is not assignable to parameter
+how to expose a subset of types into a single d.ts file
+how do i make vscode IDE not mark 'import  jpg from './leaves.jpg'' as error
+Property readonly does not exist on type 'DetailedHTMLProps'
+If you put something in 'exclude', tsc won't process it 
+tsc doesn't edit the import specifiers so the path you use still has to be valid at runtime
+Array is a monad 
+how to use 'SystemJs' modules for TS?
+Where can I take a look at 'from()' Bruce?
+not serialize/deserialize for classes
+Can not find module in tsconfig.json
+is it possible to create a DeepPartial?
+What's the best way to use Promises in TypeScript when targeting ES5?
+it only gets harder when you want to start using stricter types everywhere 
+'import three from three' is required in your 'typings.d.ts'
+how to use typescript with d3.js?
+how to make 'action' a method in CreateDirectory
+how to link to a comment in a Gitter comment?
+importing a type definition from a.d.ts file does not override
+what happens to the donation if there's no one to claim the ticket?
+is there a way to type a result without checking the type?
+can't get typescript 1.6 to work with node.js 4.0
+how to create an 'index.ts' that combines files from multiple directories
+waht should i choose an interface or a class?
+how to define a variable to have the type sidebar?
+using ramda and webpack to tell TypeScript to expect a different type of HTML element
+how to get type of activeShape without undefined
+What would be the right way to structure a typing file?
+is there a way to generate a reflection module that tests if an object implements?
+TestFunction only take one argument, the value 
+is there a preferred way to unit test typescript based apps?
+how to use ConstructorParameters?
+how Id plug a fuzzer into what Ive got and whats good in JS fuzzers
+is there a shorthand for subtracting the properties in type B from A?
+what is the difference between 'let' and 'const'?
+how to type prototype based patterns
+is there any way to validate type of index?  
+'reflect-metadata' design keys for typescript is not documented
+is there a way to expose the types in npm packages?
+typescript inference of ContentList doesn't seem to work
+can't load vue module ( typescript + vue + requirejs )
+how to use Validator.ts?
+how can i see the unused css in my page?
+can we see '_matchAllQueryTerms' and 'TaggableInterface' as well?
+is there a proposal for array comprehensions in ECMAScript?
+super efficient use of array methods
+when does 'new Date(...)' ever return a string?
+'schema-decorator' can handle nested arrays and objects
+webstorm debugger doesn't work with ts-node
+is there a convenient way to reverse lookup a string enum's value?
+is it possible to specify a different type definition root directory for.d.ts files?
+can a method inherit a type?
+is it possible to use map with a custom hash and equal function?
+is there a way to patch typings for a module?
+lint error when using an interface with a type property
+css is the only way to style things in the web
+is there any webWorker example written in typeScript?
+is typeRoots option still supported?
+how do i get my compiler to use the types from a redeclarated module
+is there a way to trigger duplicate identifier when using keys as Enum?
+static methods on interfaces dont make sense fatcerberus
+how do you create a new type based on an array of objects?
+focusing on fundamentals, then picking a framework and learning how it works
+how about primitive types like unknown and fatcerberus
+why doesn't node work with circular dependencies?
+how to make arg a tuple in arg checker?
+why doesn't it require an infinite number of monkeys to write the code
+why is the object literal faster than the object literal with the keys?
+is there a best practice set of checks to effectively get from unknown to any?
+how does the this type works under the hood?
+Does anyone have any idea why TS would fail with TS2349 on the following example:  function test 
+multi inheritence and 'applyMixin'support for tsconfig
+how do you setup vs code so that you can reuse a module?
+is there a reason why you never needed monads?
+what changed in TS 3.7 that broke Promise.all inference?
+how to import as shopifyAPI from'shopify-node-api
+how to use postcss in react-toolbox with webpack 3.x config
+how to fix  error TS2307: Cannot find module 'falcor'
+how to include @types folder when node_modules folder is on exclude list
+how do you define a variable that takes a class that implements an interface?
+iterable, indexable, and extensible if each variation is unique
+how to add a simple definition file to a standard tsconfig.json
+is there a way to import all exported types from one file into scope without explicitly importing
+should i use EditIcon if i want to show an icon
+is it possible to set a dynamic color for chalk dynamically?
+typescript decorator missing member when traversing object of type route 
+is private member immutable in es5?
+what are the major roadblocks for porting from 3.5 to 4.0?
+index.ts should be in src instead of index.
+intersection and union are sometimes confusing very confusing
+ts3.1 typing for a library that I broke a few days ago
+'subtype reduction'doesn't seem to apply in all cases
+why does  class SomeClass  private somePrivateVar = 10;
+what is the testing framework used to test typescript?
+why does type inference work in ts class  {bar: string = ' '}
+documentation on using 'new'as a constructor function in typescript?
+cant index S with number when deconstructing a string
+type error when calling 'init()'as 'InstanceType '
+how to re-export a function definition in a.d.
+how can i access a static function in a typescript project?
+'alert' action only increments once after it's passed 0
+error in the lodash.d.ts lodashstatic
+what's the "professional" solution if a transitive dependency is solution£¿
+what does a type check look like when a field could be any subtype?
+extending an interface and using the original interface as a generic throws a compilation error
+can you programmatically export values in type script ?
+is there any expression that can satisfy Partial ebroder>?
+typescript error de-duping AnyhowStep> makes the trace look weird
+how do you do higher kinded types using typescriptlang.org?
+how to make initializers a tuple of the parameters£¿
+declare * is an ambient definition (to the actual JavaScript)
+require that any class so decorated must implement or take as a constructor argument and httpclient
+if typescript class constructor has too many lines are unit tests going to stub
+is there a quick solution for filling object only allowing definitions in interface?
+intellij refactor has nothing to do with not using the bundled typescript
+how to use const target: State =... in typescript?
+is it possible to get the class name as a string for a function argument?
+ does anyone think Flow is its own language?
+is there a way to define an enum across multiple modules?
+typescript 3.6 - unique symbol not being a valid indexer
+2.0.0 should be the official release 
+how do you force a tuple to be exhaustive?
+typescript unit tests in combination with SystemJS and Karma
+how do the prototype extensions get set if they are outside the delcare global?
+what's the type of property is stringValidator?
+why do we have tests written for recursive conditional types?
+eclipse palantir ts generating 'javascript' from relative paths that aren't the current directory are suddenly failing
+is it possible to use a type definition that is identical to another type definition exported by a library?
+is it possible to create a mapped union type that iterates over an array type?
+how to get typescript to automatically install typings for an npm package?
+what's the recommended path for gradually migrating to typescript?
+how to learn ts with angular.js?
+does the compiler API support tsconfig.json files directly?
+how to process es6 from typescript and transpile it to es6
+'null' isn't assignable, but 'undefined' is
+how to get type of activeShape without undefined in ts
+why did our bundle just double in size?
+is there a way to kill a process that is recursive?
+how to limit a type to 'string | Infinity'?
+are 'componentHandler' and 'observable.of();' no longer in angular 2 2.0.0-rc.1?
+why isnt NaN parsed as a constant?
+is type validation retained at runtime when a union type is compiled?
+what is the difference between 'react' and 'angular'£¿
+is there a way to define a type inside a class based on other classes£¿
+'any¡® is assignable to and from everything ¡¯never¡® is assignable to everything ¡¯unknown¡® is assignable from everything
+is it possible to make class instances generics be persistent£¿
+what is the difference between void 'never' and 'undefined'?
+how to make meaningful type error messages with CompilerError type
+what is the compiler option to enable optional chaining and nullish coelish
+is there a planned release date for removing the 'compile error' restriction?
+how can a static method know what 'this' refers to?
+is there a way to limit the number of signatures in a union?
+how to add a subscriber function to the observable constructor?
+can we convert a type to a typescript interface?
+Is there to be a separate method to execute?
+why i getting Type 'U'  that cannot be used to index type?
+is there a way to augment a class in a module?
+can not find name 'render' with typescript
+keep getting that 'property 'target' does not exist on type 'HTMLInputElement' using typescript3.7.5
+'T extends string | number | null' should work fatcerber
+is there a preferred way to document decorators with docblocks?
+is there a way to infer 'this' from a function signature?
+overloads in an interface when the function being overloaded may also be undefined
+is there any way to prefer a certain extension over another with typescript?
+the typed command is needed to group multiple commands with the same behavior (execute)
+why is the non-enumerable symbol properties inaccessible without the original symbol?
+are there multiple instances of these classes at runtime?
+is there a way to make my functions as resilient as possible?
+what are the square bracket doing ?
+how to import a type from a library into a declaration file?
+how do index types work on interfaces versus type aliases?
+is there a way to exclude files in tsconfig.json?
+lodash library does not have no type definitions when importing lodash within a typescript file
+how to import 'React' types from 'global.d.ts' file?
+what is the best issue to test if a var is falsy in TS ?
+is there a way to make 'action?' optional in reducers?
+how to access controls within a nested ControlGroup in angular?
+how do i prevent 'tsc' from going up to the parent dir 
+what is type-erasure and how does it work?
+Object and array literals dont need to be checked
+what is the best strategy to script compilefrom ts to es5
+can't find type param for one of my generic functions
+how to add a class to a div and add a border to it?
+what would be the best way to write a generic Vector class?
+TS isn't great for checking nested types
+how to import expression in a node enviroment
+how to use vscode task to run local copy of 'tsc'?
+'tsc' is not recognized as an internal or external command
+is there a way to specify a method as never returning undefined?
+error TS2346: Supplied parameters do not match any signature of call target
+Random GitHub issues are another very good way to waste time 
+why is classic the default of es2015?
+can't return the type 'Promise '
+setPrototypeOf takes twice as long than constructing a new
+rangleio example in ts file not working with vscode
+where does set theory break down for TS? 
+can we use the extends trick on type underscore?
+is there a standard way to turn rimraf into promise?
+why does ts let tuple show up as a union of result objects
+error TS2307: Cannot find module 'js-csp'
+what is the difference between modular and master?
+add "div class='header'" in angular but not getting image
+Is there any discussion about NPM on the TS team?
+what's the return type for a function that can fail in ts?
+TS 3.4.1 not showing up in "TypeScript version" dropdown in VS 2019 Pro
+how to get/track the user current location?
+is there a way to change the type of a definiton?
+how to give typing information for property decorators?
+how to add a new type to react-navigation using tsconfig
+is there an overview of what browsers are supported for es2015 and typescript?
+when trying to parse some existing languages failed because of some language design gotcha's 
+forbid any object or any class that's a subclass of something
+converting an io-ts error object into a string dictionary
+is the constructor function required in classes?
+how to declare a module without having it installed?
+Is there any potential improvement coming to the DOM type definitions that come with TypeScript?
+foo is a module under node_modules without a type definition
+how do i expose the IN operator in my library?
+type inference doesn't work with Promise.all and destructuring
+Why does 'if (!(a String in obj)) throw not narrow 'aString' to 'keyof obj''?
+is there a standard way to write unit tests in js ?
+how to get 'tsc -w' to not compile on first
+TS2307: Cannot find module 'mapbox-gl/dist/mapbox-gl'
+is there a way to initialize instances based on a static prop?
+are generators and abstract classes supposed to work in TypeScript 1.6.2?
+how to migrate from Partial to pick ts type DataKeys
+why miniSphere has functions like this in its core API?
+how do i know which es5 target i am supposed to use?
+is there a way to make 'klass.name' a mapped type?
+nodetools for vs doesn't support js language service
+how to write a.d.ts file for EventSource with TypeScript 2.0
+typechecking in javascript doesn't seem to work
+typings doesn't seem to be working with.d.ts files
+webpack will produce one js file
+is there a way to update/extend a type alias via module declaration?
+'document.selection' got removed in TS 1.5 
+how to convert a functions params to DeepReadonly yields type errors
+pipe and compose should have reduceRight
+how to change the arg signature of 'fn'? and the third argument is 'never'
+is it considered best practice to extract ambient types to.ts files?
+how to make the typying aware of properties being sent to a constructor?
+is there a way to have two files see the same class definition?
+is there a generic type for inferring types from an object literal?
+how to force a type error at runtime?
+how did 'traceResolution' find elasticlunr package.json?
+is it possible to specify a type for a single property?
+typescript has let me program less defensively 
+what is the promise.all signature and how can it be made more compact?
+typings-for-css-modules-loader not working 
+are there some example of angular2-barrels?
+TS doesn't infer type from the literal if you define it explicitly
+if you enable strictNullChecks, null and undefined are assigned to everything
+should destructuring work in typescript?
+package.json imports/exports fields are not used by TS yet  which can cause further pain
+vscode pause doesn't seem to work on my mb
+unable to install es6-shim globally
+why is the import in a d.ts different from the d.ts 
+is there a way to 'proxy' a request through google?
+typescript narrowings are discarded when a function is invoked
+obtaining return type of a function doesn't seem to work for complex types
+what are 'JSX' namespaces for intrinsice elements?
+typescript generic accepting a function with callback last argument
+Are there any other highlights for 1.8 implemented at present?
+how to get properties past the compile time check with a non-literal object type
+function lacks ending return statement and return type does not include 'undefined'
+what backend files are there? dist or src?
+how would a Concat version of your Append type would fare?
+how do i verify the array does not contain luts keys?
+how to make a function whose return type is conditional to the given arguments?
+is there a way to clean up unused imports?
+how to access 'Session'interface' interface
+what is Typescript and how does it work?
+custom config to ts-node
+how to extend an existing javascript library?
+is there an equivalent for commoninterface?
+can't get vs code to recognize json
+webpack isn't typically necessary for server-side
+is there a way to pass a type parameter through to a static method?
+is there any way to annotate a method that modifies a class instance property?
+don't worry about GenericException
+is there a BDFL a la Python or a committee with working groups?
+why is SFINAE unchangable if there was a better option?
+is there any way to avoid singleUser property from the response?
+is it possible to include typings with a package?
+why doesn't the DR definition look like a complete declaration?
+Is there a doc or something describing the different SyntaxKinds from the tsc compiler?
+why doesn't C++ support contravariance of methods?
+typescript doesn't have nested type
+is it possible to get the type of a yield expression in typescript?
+how can i get a type argument from a generic type?
+is there a mailing list for questions about the internals of TypeScript?
+how template string mapped types distribute over unions
+how to debug a function that causes process death?
+how to import node.js modules on TS?
+how to initialize date type in typescript?
+how to dynamically change ts file based on environment configuration?
+what the KeyMap type does is set the type of the same property in the new type?
+materialize css should be listed as a peerDependency
+how to copy a binary in the output dist folder?
+Is there any way to debug this issue and see why the vscode can't able to resolve the paths?
+if there's a way to add '.js' extensions to imported modules when compiled?
+is there a way to prefer a certain extension over another with typescript?
+how to bind a value to robertleeplummer that I can do this: 'Client.default.Item.get(1);'
+how to handle diffrent message object with useReducer?
+Why does TypeScript doesn't know of the 'getAttribute' method? 
+is there a way to define a type for xeor?
+is there a way to classify objects as sub-classes rather than instances?
+why is mysql not supporting multiple timezones?
+how to create an interface with the same name as a class?
+My test suite doesn't have 'dom',the library does (which is why 'window.crypto' exists)
+can assign anything to 'unknown', but can't assign 'unknown' to anything
+A compilers ability to reason about dynamic code is limited
+Prepend type with initial 'T' extends any conditional
+which UI framework works best with react?
+is there a way to use interfaces instead of 'types' in typescript?
+TypeScript resolve the decorator options before applying the decorator implementation
+is it normal that every single.ts file gets compiled on save?
+how to provide your own, tailored api as the API provider?
+the declaration emit is so huge and convoluted that no human can understand it
+is there typescript code coverage example with gulp and karma?
+want to create aSweetJS Macro    " _ " then when evaluated becomes(x) = but don not undestand the custom
+why in this Playground-Link it can't properly infer the type of the constructor argument?
+how to populate ts.createLiteral(prop) with string literal?
+why the following is as it is: ``` enum E {     A, B, C }  function toNumber(n: E): number {     return n; //works, E 
+'gulp' no longer works after reinstalling plugin and restarting sublime text
+if i switch over to type guards are my reducers going to land up with a bunch of if else statement£¿
+could just interactive and  's/pick/edit/' in case 
+type checking doesn't work for Array subtypes 
+if there are any ORMs out there that allow me to define my models with plain ts classes?
+gitter doesn't like that screenshot.
+a piece of code that works in ES6 but fails in Typescript with `Argument of type '(e: {}) = 
+how can i use *typed* keys in an interface?``` enum Keys { A, B, C} interface Props {   
+typing things as bottom where a legitimate value is expected is kind of weird 
+when using commonjs to find moudles in js it can not find module, but file is bundled into one with "outFile"
+how does the function type look like?
+how can i get a built instance of the syntax tree of a program?
+how does know if mapped types are homomorphic or not?
+how to distinguish between bodyOrFilters?
+how to best use TypeScript with the popular mocking library, Sinon? 
+is there a vscode issue proposal for supporting clicking through types in vscode's intellisense popups?
+How to restart the TS server?
+how did your git history rewriting go?
+TS not following semver makes sense but it's possible to follow semver for just regular typedefs
+problem was external types define global bindings but global are only registered if you `require()` it,TS think the globals always exist
+is there a lower bound type arg before?
+when do some uint testing only types that behave like that are `{}`, `object` and `never`. 
+I'd see EBNFs represented purely in TypeScript. TS 4.1 is sick
+any generic function can be trivially decomposed into two functions?
+Anyone find Redux really awkward with TypeScript?
+there's no default clause when force a different value into sortMethod.
+why would need to write each method twice?
+are transformers applied after parsing/typechecking?
+what is wrong with:```js import * as ripcord from '../src/index' import * as sinon from 'sinon' // 
+ramda is not a good fit for TS
+how to have similar semantics like C# events?and how can I put a loop on a background thread?
+generate classes/interfaces at run-time w/ typescript
+Webstorm (latest 2016.1) only recognizes x as typeof T for the ``` doIt2```
+readonly env is mandatory and it is of type "NamedEnv" and there are no errors
+is there any relationship between keys in arg1 and arg2?
+how to create a union type from multiple files in a folder?
+how to create a union type from multiple files in a folder?
+if you wrap your code in on new lines, it'll be formatted and easier to read 
+How on earth did programmers survive in typescript before conditionals
+where I can get lodash typings that have the neweset findIndex?
+typescript tries to include dom lib when i explicitly ask not to
+Why does fork-ts-checker stuck on ENOENT after file reappear?
+is there a way to normalize strings in js?
+how to use 'moment-timezone' with 'moment-range'£¿
+A browser which supports serviceWorker?
+how do i import node modules?
+is there a workaround for using 'keyof' for private properties?
+Where K is some generic type `K extends string`?
+alternative to prettier? - puts operators to end of line instead of start of line
+how much I want "types" field to handle .ts files?
+how to get a typescriptlang function to check the argument matches one of the tuple types?
+how do you join literals in webstrand so I can have this on multiple lines?
+why 'promise.reject()' does not work?
+Using TS and asking questions in Gitter is definitely a good start.
+is there a reason not to mention ruby in a TS chat?
+how to import a method from a directory without defining an index.ts file
+How do I import a node module from npm if it doesn't have a `d.ts`  file.
+object.keys(IFortranTypes.find gives error
+is there a way to type something liake function pluck£¿
+Must be quite simple just I have never worked with typed language. const addSessionData = (f: Function) =
+is there a way to hide properties in mixins?
